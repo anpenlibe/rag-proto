@@ -1,0 +1,762 @@
+{
+  "trace_id": "0dabf1bfbc65",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "If a programme needs Latin, when do I have to pass it and how is it proven?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "If a programme needs Latin, when do I have to pass it and how is it proven?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7807,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.734,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7099,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "1c320dc7aeb6-004",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6982,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "word_count": 216,
+          "text": "clarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must also take the supplementary German examination there. Other certificates or proofs will then no longer be accepted. #### I a citizen of a German-speaking country, or German is my first language. Do I need to provide a proof of my German language proficiency? Your citizenship is no proof of your German language proficiency. **Is German your first language?** Do you consider your German language proficiency to be of at least at level C1 in terms of written and spoken language as well as listening and reading comprehension? If so, please upload a sworn statement (= a statement of facts with your signature) under the items “Proof of German language proficiency A2” and “Proof of German language proficiency C1”. In this statement, confirm that German is your first language. Please note: Once you have been admitted to the degree programme, you will no longer be able to attend a German course at the University Preparation Programme of the Vienna Universities. The Admission Office has the right to request proof of German language proficiency in case of doubt."
+        },
+        {
+          "id": "b37d157fc3c4-000",
+          "page_id": "b37d157fc3c4",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "In general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.6915,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "2b99bbd8b3f0-003",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6912,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Is proof of German language proficiency required?"
+          ],
+          "word_count": 103,
+          "text": "All bachelor/diploma programmes as well as master programmes instructed in German require proof of [German language proficiency at level A2](/en/admission/german-language-proficiency/german-language-proficiency-a2/) at the time of application. Without such certification you cannot apply for admission.\n\nTo be admitted to the degree programme you need a proof of [German language proficiency at level C1](/en/admission/german-language-proficiency/german-language-proficiency-c1/). If you do not possess such a proof, the supplementary examination in German will be prescribed in your admission letter.\n\nWith this admission letter, you can be admitted as a non-degree student and attend a German course at the [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en/vienna) for up to four semesters."
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.6886,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "1c320dc7aeb6-000",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6869,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 142,
+          "text": "[Entrance exam procedure](/en/)\n\n# German language proficiency for bachelor's and diploma programmes with entrance exam procedure\n\nYou need German language proficiency for all bachelor's and diploma programmes. The only exception is Mathematical Foundations of Data Science (because it is instructed in English).\n\n- When you apply, you must provide a proof of German language proficiency at level A2.\n- You decide for yourself whether your level of German is sufficient for the written test. Dictionaries are not allowed during the test.\n- To be admitted to the degree programme, you need level C1. To reach this level, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU).\n\nFind out everything you need to know about the recognised German language certificates and the VWU on this page.\n\n©\n[Translate to English:] derknopfdruecker.com\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "7916c3fc6510-040",
+          "page_id": "7916c3fc6510",
+          "score": 0.6848,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "/ - General university entrance qualification You can only be admitted to a degree programme if you provide proof of the general university entrance qualification. Eligible proofs: Secondary-school leaving certificate, completion of a degree programme with a duration of at least three years at a recognised post-secondary educational institution (e.g. a university). Related Links: - [Admission procedure](/en/admission-procedure/) - [Studienberechtigungsprüfung (university entrance qualification examination)](/en/admission/studying-without-secondary-school-leaving-certificate/) Related entries: - [First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Studienberechtigungsprüfung](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31976&cHash=b71951a4fb2bb2fc18957130a051ca32) - German language proficiency/courses When applying for admission to all bachelor/diploma and German-language master degree programmes, you need recognised proof of your German language skills at level A2. In order to achieve the C1 level required for admission to a degree programme, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU). The Language Center of the University of Vienna is one of the cooperation partners of the VWU. Registration for the courses at the VWU and its co-operation partners is only possible with a letter of admission. In this letter, you will be required to take the supplementary German examination if you have not yet provided proof of C1 level at the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6838,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        },
+        {
+          "id": "06c6633ca8f7-001",
+          "page_id": "06c6633ca8f7",
+          "score": 0.6834,
+          "url": "https://studieren.univie.ac.at/en/admission/german-language-proficiency/",
+          "title": "Proof of German language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "General information about the German language proficiency"
+          ],
+          "word_count": 230,
+          "text": "- You need a proof of German language proficiency at level A2 when applying for admission. - In order to acquire level C1, which is required for the admission to all bachelor/diploma programmes instructed in German and most master programmes, you may participate in a German course of the [University Preparation Programme of the Vienna Universities](https://vorstudienlehrgang.at/en/vienna) (VWU). - While attending the VWU, you have to [consider some things](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) regarding your admission to the University of Vienna. - In case you apply for a bachelor/diploma programme with entrance exam procedure, you will be able to participate in the procedure even though you do not yet have an adequate proof of German language proficiency. However, you must have this proof at the time of enrolment. - For the following master programmes, a proof of German language proficiency at level C1 or C2 is required for the application: - [Master programme in German as a Foreign and Second Language (C1)](/en/admission/master-programmes/german-as-a-foreign-and-second-language/) - [Master programme in Translation (C2)](https://transvienna.univie.ac.at/studium/masterstudium-translation/voraussetzungen/)It is not possible to attend a German course in the University Preparation Programme in order to be admitted to these master programmes. - In case you apply for a [master programme instructed in English](/en/degree-programmes/degree-programmes-in-foreign-languages/#c157833) or the [bachelor programme Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/), you will not be able to attend a German course in the University Preparation Programme, as no proof of German language proficiency is required."
+        },
+        {
+          "id": "518a957ec376-005",
+          "page_id": "518a957ec376",
+          "score": 0.6831,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Greek"
+          ],
+          "word_count": 218,
+          "text": "For some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/)."
+        },
+        {
+          "id": "7916c3fc6510-027",
+          "page_id": "7916c3fc6510",
+          "score": 0.6821,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your qualifications (= a description of your achievements). The curricula of the master programmes or the Master Access Guide (MAG) indicate which extension curricula (EC) will provide you with the subject-specific prior knowledge. You have the following options: 1. If you have been admitted to a Bachelor's programme at the University of Vienna, you will already complete the required EC during the course of this programme. You do not need a qualification description, your transcript of records is sufficient proof. 2. You did not study at the University of Vienna? Compare the curriculum of your degree programme with the admission requirements listed in the EC curriculum and enter the relevant achievements from your previous degree programme in the \"Description of Qualifications\" form. Upload the form as proof with your application for admission. Related links: - [Master Access Guide (MAG)](/en/degree-programmes/master-programmes/master-access-guide/#c167271) - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049) - [List of all curricula](https://senat.univie.ac.at/curricularkommission/curricula/) (German only) - Diploma programme In 1999, the Bologna Process was initiated by the European Higher Education Area (EHEA). This fundamentally changed the university structure in Austria. Diploma programmes have been replaced by bachelor and master programmes. At the University of Vienna,"
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.6797,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "7916c3fc6510-047",
+          "page_id": "7916c3fc6510",
+          "score": 0.6781,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 230,
+          "text": "/ - Language Center (\"Sprachenzentrum\") The Sprachenzentrum (Language Center) is a subsidiary of the University of Vienna. It offers a wide range of language courses on different levels for students and non-students. Related Links: - [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/en/) Related entries: - [German language proficiency/courses](/en/abc-of-terminology/related-entries/?cHash=9d72e6340e75474fb1b6a96b446b194c&tx_irfaq_pi1%5BshowUid%5D=30848) - Latin - additional exam The additional Latin examination must be taken either upon admission or during the course of the degree programme. This depends on the degree programme. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - Leave of absence A leave of absence \"pauses\" your enrollment at the University of Vienna. You can apply for a leave of absence if one of the reasons for a leave of absence applies to you. The leave of absence applies to all the degree programmes on which you are enrolled at the University of Vienna, not for an individual degree programme. Please note the negative consequences that a leave of absence can have. Related Links: - [Information on the leave of absence](/en/admission/leave-of-absence/) Related entries: - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - Lecture Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the"
+        },
+        {
+          "id": "313b8c02de9e-000",
+          "page_id": "313b8c02de9e",
+          "score": 0.6774,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 110,
+          "text": "You must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)"
+        },
+        {
+          "id": "1c320dc7aeb6-003",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6747,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### I have a German language certificate at a higher level than A2. Do I need to have an A2 certificate as well? No, but: If you already have a German language certificate at level B1 or higher, please upload it with your application as a document type “Proof of German language proficiency at level A2”. This is a mandatory field. You cannot submit your application without uploading this document. #### I'll only receive my A2 certificate in a few weeks. Can I already submit my application? No, please only submit your application once you have all required documents. Applications without a proof of German language proficiency at level A2 will be rejected without exception. #### Do I have to take the German course at the VWU? Of course, you can first take a private German course, achieve the required German language proficiency and then complete the admission procedure at the University of Vienna. You can find the [recognised proofs of German at level C1](#c6332) further up on this page. You would like to take a German course in Austria, but not at the VWU? Please clarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must"
+        },
+        {
+          "id": "1c320dc7aeb6-002",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6743,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "German language proficiency at level C1"
+          ],
+          "word_count": 215,
+          "text": "- #### Proofs\n\n  We only accept these proofs. There are no exceptions!\n\n  - Secondary-school leaving certificate from a German-speaking school (with German as the language of instruction and examination\\*) or an Austrian or German school abroad\n  - Completion of a degree programme of at least three years with German as the language of instruction at a recognised post-secondary educational institution\n  - Passing of the supplementary exam in German (Ergänzungsprüfung Deutsch) at a University Preparation Programme of an Austrian university\n\n  \\*Secondary-school leaving certificates from Austria, Germany, South Tyrol, Luxembourg and Liechtenstein are C1 certificates. You do not need to upload a proof of German with your application.\n\n  The proofs listed here are valid indefinitely.\n- #### Certificates\n\n  We only accept these certificates. There are no exceptions!\n\n  - Österreichisches Sprachdiplom – ÖSD Zertifikat C1 (formerly called: C1 Oberstufe Deutsch)\n  - Goethe Institut – Goethe Zertifikat C1\n  - telc Deutsch “C1 Hochschule”\n  - Deutsche Sprachprüfung für den Hochschulzugang DSH2\n  - Deutsches Sprachdiplom der Kultusministerkonferenz DSD II\n  - Test Deutsch als Fremdsprache (Test DaF), at least level 4 in all parts\n  - Language Center of the University of Vienna – course and successfully passed exam of level C1/2 or higher\n  - Österreichischer Integrationsfonds (ÖIF) – ÖIF Test (C1) or higher\n\n  The certificates may not be older than 3 years."
+        },
+        {
+          "id": "7916c3fc6510-083",
+          "page_id": "7916c3fc6510",
+          "score": 0.6709,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for admission. These programmes have their own application deadlines (always in spring, for the following academic year). Related links: - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069) Related entries: - [Application period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30198&cHash=83dcf3f2a3a1fe41d6eef2f91f47ba7c) - Semester abroad As a degree student you can pass one or more semesters abroad at a different university (Outgoing Mobility). The University of Vienna cooperates with numerous partner universities abroad. There are also several mobility programmes offered for incoming students. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Free Mover](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29995&cHash=5488b37118f3efe558bb850a9466ab5d) - [Recognition of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30187&cHash=7ad03787bb35116164cf00dbe2cdd76a) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - [Visiting Master](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31337&cHash=70e303dffac1661c3aafc82b37c76b70) - Seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Senate The Senate consists of 18 members. Together with the Rectorate and the University Board, it forms the governing body of the University of Vienna. Every three years, the Senate is elected by the academic and non-academic university staff. Related Links: - [Senate of the University of Vienna (in German)](https://senat.univie.ac.at/infos-zum-senat/) Related entries: - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31252&cHash=9dc01c87dda397fab5d23352329e6a42) - Special libraries The special libraries belong to the University Library, however, they are located in the different institutes. There you can find literature related"
+        }
+      ],
+      "latency_ms": 9.7
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7807,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.734,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7099,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "1c320dc7aeb6-004",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6982,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "word_count": 216,
+          "text": "clarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must also take the supplementary German examination there. Other certificates or proofs will then no longer be accepted. #### I a citizen of a German-speaking country, or German is my first language. Do I need to provide a proof of my German language proficiency? Your citizenship is no proof of your German language proficiency. **Is German your first language?** Do you consider your German language proficiency to be of at least at level C1 in terms of written and spoken language as well as listening and reading comprehension? If so, please upload a sworn statement (= a statement of facts with your signature) under the items “Proof of German language proficiency A2” and “Proof of German language proficiency C1”. In this statement, confirm that German is your first language. Please note: Once you have been admitted to the degree programme, you will no longer be able to attend a German course at the University Preparation Programme of the Vienna Universities. The Admission Office has the right to request proof of German language proficiency in case of doubt."
+        },
+        {
+          "id": "b37d157fc3c4-000",
+          "page_id": "b37d157fc3c4",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "In general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.6915,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "2b99bbd8b3f0-003",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6912,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Is proof of German language proficiency required?"
+          ],
+          "word_count": 103,
+          "text": "All bachelor/diploma programmes as well as master programmes instructed in German require proof of [German language proficiency at level A2](/en/admission/german-language-proficiency/german-language-proficiency-a2/) at the time of application. Without such certification you cannot apply for admission.\n\nTo be admitted to the degree programme you need a proof of [German language proficiency at level C1](/en/admission/german-language-proficiency/german-language-proficiency-c1/). If you do not possess such a proof, the supplementary examination in German will be prescribed in your admission letter.\n\nWith this admission letter, you can be admitted as a non-degree student and attend a German course at the [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en/vienna) for up to four semesters."
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.6886,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "1c320dc7aeb6-000",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6869,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 142,
+          "text": "[Entrance exam procedure](/en/)\n\n# German language proficiency for bachelor's and diploma programmes with entrance exam procedure\n\nYou need German language proficiency for all bachelor's and diploma programmes. The only exception is Mathematical Foundations of Data Science (because it is instructed in English).\n\n- When you apply, you must provide a proof of German language proficiency at level A2.\n- You decide for yourself whether your level of German is sufficient for the written test. Dictionaries are not allowed during the test.\n- To be admitted to the degree programme, you need level C1. To reach this level, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU).\n\nFind out everything you need to know about the recognised German language certificates and the VWU on this page.\n\n©\n[Translate to English:] derknopfdruecker.com\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "7916c3fc6510-040",
+          "page_id": "7916c3fc6510",
+          "score": 0.6848,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "/ - General university entrance qualification You can only be admitted to a degree programme if you provide proof of the general university entrance qualification. Eligible proofs: Secondary-school leaving certificate, completion of a degree programme with a duration of at least three years at a recognised post-secondary educational institution (e.g. a university). Related Links: - [Admission procedure](/en/admission-procedure/) - [Studienberechtigungsprüfung (university entrance qualification examination)](/en/admission/studying-without-secondary-school-leaving-certificate/) Related entries: - [First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Studienberechtigungsprüfung](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31976&cHash=b71951a4fb2bb2fc18957130a051ca32) - German language proficiency/courses When applying for admission to all bachelor/diploma and German-language master degree programmes, you need recognised proof of your German language skills at level A2. In order to achieve the C1 level required for admission to a degree programme, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU). The Language Center of the University of Vienna is one of the cooperation partners of the VWU. Registration for the courses at the VWU and its co-operation partners is only possible with a letter of admission. In this letter, you will be required to take the supplementary German examination if you have not yet provided proof of C1 level at the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6838,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        },
+        {
+          "id": "06c6633ca8f7-001",
+          "page_id": "06c6633ca8f7",
+          "score": 0.6834,
+          "url": "https://studieren.univie.ac.at/en/admission/german-language-proficiency/",
+          "title": "Proof of German language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "General information about the German language proficiency"
+          ],
+          "word_count": 230,
+          "text": "- You need a proof of German language proficiency at level A2 when applying for admission. - In order to acquire level C1, which is required for the admission to all bachelor/diploma programmes instructed in German and most master programmes, you may participate in a German course of the [University Preparation Programme of the Vienna Universities](https://vorstudienlehrgang.at/en/vienna) (VWU). - While attending the VWU, you have to [consider some things](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) regarding your admission to the University of Vienna. - In case you apply for a bachelor/diploma programme with entrance exam procedure, you will be able to participate in the procedure even though you do not yet have an adequate proof of German language proficiency. However, you must have this proof at the time of enrolment. - For the following master programmes, a proof of German language proficiency at level C1 or C2 is required for the application: - [Master programme in German as a Foreign and Second Language (C1)](/en/admission/master-programmes/german-as-a-foreign-and-second-language/) - [Master programme in Translation (C2)](https://transvienna.univie.ac.at/studium/masterstudium-translation/voraussetzungen/)It is not possible to attend a German course in the University Preparation Programme in order to be admitted to these master programmes. - In case you apply for a [master programme instructed in English](/en/degree-programmes/degree-programmes-in-foreign-languages/#c157833) or the [bachelor programme Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/), you will not be able to attend a German course in the University Preparation Programme, as no proof of German language proficiency is required."
+        },
+        {
+          "id": "518a957ec376-005",
+          "page_id": "518a957ec376",
+          "score": 0.6831,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Greek"
+          ],
+          "word_count": 218,
+          "text": "For some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/)."
+        },
+        {
+          "id": "7916c3fc6510-027",
+          "page_id": "7916c3fc6510",
+          "score": 0.6821,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your qualifications (= a description of your achievements). The curricula of the master programmes or the Master Access Guide (MAG) indicate which extension curricula (EC) will provide you with the subject-specific prior knowledge. You have the following options: 1. If you have been admitted to a Bachelor's programme at the University of Vienna, you will already complete the required EC during the course of this programme. You do not need a qualification description, your transcript of records is sufficient proof. 2. You did not study at the University of Vienna? Compare the curriculum of your degree programme with the admission requirements listed in the EC curriculum and enter the relevant achievements from your previous degree programme in the \"Description of Qualifications\" form. Upload the form as proof with your application for admission. Related links: - [Master Access Guide (MAG)](/en/degree-programmes/master-programmes/master-access-guide/#c167271) - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049) - [List of all curricula](https://senat.univie.ac.at/curricularkommission/curricula/) (German only) - Diploma programme In 1999, the Bologna Process was initiated by the European Higher Education Area (EHEA). This fundamentally changed the university structure in Austria. Diploma programmes have been replaced by bachelor and master programmes. At the University of Vienna,"
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.6797,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "7916c3fc6510-047",
+          "page_id": "7916c3fc6510",
+          "score": 0.6781,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 230,
+          "text": "/ - Language Center (\"Sprachenzentrum\") The Sprachenzentrum (Language Center) is a subsidiary of the University of Vienna. It offers a wide range of language courses on different levels for students and non-students. Related Links: - [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/en/) Related entries: - [German language proficiency/courses](/en/abc-of-terminology/related-entries/?cHash=9d72e6340e75474fb1b6a96b446b194c&tx_irfaq_pi1%5BshowUid%5D=30848) - Latin - additional exam The additional Latin examination must be taken either upon admission or during the course of the degree programme. This depends on the degree programme. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - Leave of absence A leave of absence \"pauses\" your enrollment at the University of Vienna. You can apply for a leave of absence if one of the reasons for a leave of absence applies to you. The leave of absence applies to all the degree programmes on which you are enrolled at the University of Vienna, not for an individual degree programme. Please note the negative consequences that a leave of absence can have. Related Links: - [Information on the leave of absence](/en/admission/leave-of-absence/) Related entries: - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - Lecture Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the"
+        },
+        {
+          "id": "313b8c02de9e-000",
+          "page_id": "313b8c02de9e",
+          "score": 0.6774,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 110,
+          "text": "You must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)"
+        },
+        {
+          "id": "1c320dc7aeb6-003",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6747,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### I have a German language certificate at a higher level than A2. Do I need to have an A2 certificate as well? No, but: If you already have a German language certificate at level B1 or higher, please upload it with your application as a document type “Proof of German language proficiency at level A2”. This is a mandatory field. You cannot submit your application without uploading this document. #### I'll only receive my A2 certificate in a few weeks. Can I already submit my application? No, please only submit your application once you have all required documents. Applications without a proof of German language proficiency at level A2 will be rejected without exception. #### Do I have to take the German course at the VWU? Of course, you can first take a private German course, achieve the required German language proficiency and then complete the admission procedure at the University of Vienna. You can find the [recognised proofs of German at level C1](#c6332) further up on this page. You would like to take a German course in Austria, but not at the VWU? Please clarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must"
+        },
+        {
+          "id": "1c320dc7aeb6-002",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6743,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "German language proficiency at level C1"
+          ],
+          "word_count": 215,
+          "text": "- #### Proofs\n\n  We only accept these proofs. There are no exceptions!\n\n  - Secondary-school leaving certificate from a German-speaking school (with German as the language of instruction and examination\\*) or an Austrian or German school abroad\n  - Completion of a degree programme of at least three years with German as the language of instruction at a recognised post-secondary educational institution\n  - Passing of the supplementary exam in German (Ergänzungsprüfung Deutsch) at a University Preparation Programme of an Austrian university\n\n  \\*Secondary-school leaving certificates from Austria, Germany, South Tyrol, Luxembourg and Liechtenstein are C1 certificates. You do not need to upload a proof of German with your application.\n\n  The proofs listed here are valid indefinitely.\n- #### Certificates\n\n  We only accept these certificates. There are no exceptions!\n\n  - Österreichisches Sprachdiplom – ÖSD Zertifikat C1 (formerly called: C1 Oberstufe Deutsch)\n  - Goethe Institut – Goethe Zertifikat C1\n  - telc Deutsch “C1 Hochschule”\n  - Deutsche Sprachprüfung für den Hochschulzugang DSH2\n  - Deutsches Sprachdiplom der Kultusministerkonferenz DSD II\n  - Test Deutsch als Fremdsprache (Test DaF), at least level 4 in all parts\n  - Language Center of the University of Vienna – course and successfully passed exam of level C1/2 or higher\n  - Österreichischer Integrationsfonds (ÖIF) – ÖIF Test (C1) or higher\n\n  The certificates may not be older than 3 years."
+        },
+        {
+          "id": "7916c3fc6510-083",
+          "page_id": "7916c3fc6510",
+          "score": 0.6709,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for admission. These programmes have their own application deadlines (always in spring, for the following academic year). Related links: - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069) Related entries: - [Application period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30198&cHash=83dcf3f2a3a1fe41d6eef2f91f47ba7c) - Semester abroad As a degree student you can pass one or more semesters abroad at a different university (Outgoing Mobility). The University of Vienna cooperates with numerous partner universities abroad. There are also several mobility programmes offered for incoming students. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Free Mover](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29995&cHash=5488b37118f3efe558bb850a9466ab5d) - [Recognition of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30187&cHash=7ad03787bb35116164cf00dbe2cdd76a) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - [Visiting Master](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31337&cHash=70e303dffac1661c3aafc82b37c76b70) - Seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Senate The Senate consists of 18 members. Together with the Rectorate and the University Board, it forms the governing body of the University of Vienna. Every three years, the Senate is elected by the academic and non-academic university staff. Related Links: - [Senate of the University of Vienna (in German)](https://senat.univie.ac.at/infos-zum-senat/) Related entries: - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31252&cHash=9dc01c87dda397fab5d23352329e6a42) - Special libraries The special libraries belong to the University Library, however, they are located in the different institutes. There you can find literature related"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7807,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.734,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7099,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "1c320dc7aeb6-004",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6982,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "word_count": 216,
+          "text": "clarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must also take the supplementary German examination there. Other certificates or proofs will then no longer be accepted. #### I a citizen of a German-speaking country, or German is my first language. Do I need to provide a proof of my German language proficiency? Your citizenship is no proof of your German language proficiency. **Is German your first language?** Do you consider your German language proficiency to be of at least at level C1 in terms of written and spoken language as well as listening and reading comprehension? If so, please upload a sworn statement (= a statement of facts with your signature) under the items “Proof of German language proficiency A2” and “Proof of German language proficiency C1”. In this statement, confirm that German is your first language. Please note: Once you have been admitted to the degree programme, you will no longer be able to attend a German course at the University Preparation Programme of the Vienna Universities. The Admission Office has the right to request proof of German language proficiency in case of doubt."
+        },
+        {
+          "id": "b37d157fc3c4-000",
+          "page_id": "b37d157fc3c4",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "In general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.6915,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Additional exams — Latin\nFor some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the\n\n[2] Additional exams — Latin\ncan be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German).\n\n[3] Additional exams — FAQ\n/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of\n\n[4] German language proficiency for bachelor's and diploma programmes with entrance exam procedure — We accept the following proofs of German > FAQ Knowledge of German\nclarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must also take the supplementary German examination there. Other certificates or proofs will then no longer be accepted. #### I a citizen of a German-speaking country, or German is my first language. Do I need to provide a proof of my German language proficiency? Your citizenship is no proof of your German language proficiency. **Is German your first language?** Do you consider your German language proficiency to be of at least at level C1 in terms of written and spoken language as well as listening and reading comprehension? If so, please upload a sworn statement (= a statement of facts with your signature) under the items “Proof of German language proficiency A2” and “Proof of German language proficiency C1”. In this statement, confirm that German is your first language. Please note: Once you have been admitted to the degree programme, you will no longer be able to attend a German course at the University Preparation Programme of the Vienna Universities. The Admission Office has the right to request proof of German language proficiency in case of doubt.\n\n[5] Knowledge of Foreign Languages\nIn general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n\n[6] ABC of terminology — S\nAustrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "Latin"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-003",
+          "score": 0.7807
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "Latin"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-004",
+          "score": 0.734
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-007",
+          "score": 0.7099
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "heading_path": [
+            "We accept the following proofs of German",
+            "FAQ Knowledge of German"
+          ],
+          "section": "Entrance exam",
+          "chunk_id": "1c320dc7aeb6-004",
+          "score": 0.6982
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "heading_path": [],
+          "section": "Degree programmes",
+          "chunk_id": "b37d157fc3c4-000",
+          "score": 0.6917
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "S"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-093",
+          "score": 0.6915
+        }
+      },
+      "context_chars": 9098,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Additional exams — Latin\nFor some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the\n\n[2] Additional exams — Latin\ncan be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German).\n\n[3] Additional exams — FAQ\n/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of\n\n[4] German language proficiency for bachelor's and diploma programmes with entrance exam procedure — We accept the following proofs of German > FAQ Knowledge of German\nclarify with the Austrian Embassy, the Austrian Consulate or Magistratsabteilung 35 (Municipal Department 35) in advance what impact this will have on your residence permit. Once you have been admitted to the non-degree programme “University Programme Preparation Programme”, you must also take the supplementary German examination there. Other certificates or proofs will then no longer be accepted. #### I a citizen of a German-speaking country, or German is my first language. Do I need to provide a proof of my German language proficiency? Your citizenship is no proof of your German language proficiency. **Is German your first language?** Do you consider your German language proficiency to be of at least at level C1 in terms of written and spoken language as well as listening and reading comprehension? If so, please upload a sworn statement (= a statement of facts with your signature) under the items “Proof of German language proficiency A2” and “Proof of German language proficiency C1”. In this statement, confirm that German is your first language. Please note: Once you have been admitted to the degree programme, you will no longer be able to attend a German course at the University Preparation Programme of the Vienna Universities. The Admission Office has the right to request proof of German language proficiency in case of doubt.\n\n[5] Knowledge of Foreign Languages\nIn general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n\n[6] ABC of terminology — S\nAustrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for\n\nQuestion: If a programme needs Latin, when do I have to pass it and how is it proven?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 2180,
+        "completion_tokens": 96,
+        "total_tokens": 2276
+      },
+      "rate_limit_events": [
+        {
+          "cycle": 0,
+          "key_id": 0,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        }
+      ],
+      "raw_response": "For some degree programmes, you have to prove your Latin knowledge prior to admission [1], while for others, it is sufficient to pass the additional exam in Latin during the degree programme [1]. You can prove your Latin knowledge by attending Latin at a secondary school for at least ten hours per week, and providing your school transcripts [1], or by passing the additional exam using the offered courses of the Department for Classical Philology, Medieval and Modern Latin [1][2].",
+      "finish_reason": "stop",
+      "latency_ms": 1675.6
+    }
+  },
+  "query_id": "g23:paraphrase:3",
+  "status": "ok",
+  "answer": "For some degree programmes, you have to prove your Latin knowledge prior to admission [1], while for others, it is sufficient to pass the additional exam in Latin during the degree programme [1]. You can prove your Latin knowledge by attending Latin at a secondary school for at least ten hours per week, and providing your school transcripts [1], or by passing the additional exam using the offered courses of the Department for Classical Philology, Medieval and Modern Latin [1][2].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+      "title": "Additional exams",
+      "heading_path": [
+        "Latin"
+      ],
+      "section": "Admission",
+      "chunk_id": "518a957ec376-003",
+      "score": 0.7807
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+      "title": "Additional exams",
+      "heading_path": [
+        "Latin"
+      ],
+      "section": "Admission",
+      "chunk_id": "518a957ec376-004",
+      "score": 0.734
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 2180,
+    "completion_tokens": 96,
+    "total_tokens": 2276
+  },
+  "total_latency_ms": 1685.4
+}

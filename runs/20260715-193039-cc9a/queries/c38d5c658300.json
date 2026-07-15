@@ -1,0 +1,717 @@
+{
+  "trace_id": "c38d5c658300",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "does uni vienna text you if like a building's on fire or something? how do i turn that on",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "does uni vienna text you if like a building's on fire or something? how do i turn that on"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "f2377f671797-000",
+          "page_id": "f2377f671797",
+          "score": 0.739,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 216,
+          "text": "The University is a large community. Students, academics and admin-istrative staff meet on site and digitally. The following website provides tips and information and the most important contact points for working and studying successfully together.\n\nThe emergency text message service notifies you directly via text message in case of a sudden emergency (such as a major fire) at a location of the University of Vienna. It thus helps ensure safe university operations.\n\nStudents can register for the emergency text message service on a voluntary basis with their private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms). You can deregister from the service at any time.\n\nFurther information such as about data protection is available on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) and in the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V04_26062020_EN.pdf).\n\n[### Register now!](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\nThe buildings of the University of Vienna are subject to rules, such as the House Rules or the Laboratory and Workshop Regulations in laboratories. For your own and other people’s safety, information about the procedure in case of fire or accidents is available.\n\n© University of Vienna / Gebhart Sengmüller\n\n- [Security management](https://rrm.univie.ac.at/en/services/security/)\n- [Threat management – non-violent university](https://www.univie.ac.at/en/about-us/violence-free-university-prevention-and-support)\n- [House Rules](https://satzung.univie.ac.at/en/house-rules/)\n- [Laboratory and Workshop Regulations](https://intra.univie.ac.at/fileadmin/upload/rrm/ANS/Downloads/Laborordnung/LABOR-und_WERKSTA%CC%88TTENORDNUNG_EN.pdf)\n\n- [General Fire Safety Regulations](https://rrm.univie.ac.at/fileadmin/user_upload/d_rrm/Downloads/2015_2016_Brandschutzordnung.pdf) (in German)\n- [Procedure in case of student accidents](#c1215109)\n- [Student’s Union (ÖH) insurance](https://www.oeh.ac.at/en/services/insurance-policy-austrian-students-union-oh)\n- [Emergency text message](https://uspace.univie.ac.at/web/studium/notfall-sms)"
+        },
+        {
+          "id": "d08ccef68126-003",
+          "page_id": "d08ccef68126",
+          "score": 0.6903,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 117,
+          "text": "Does the main building seem like a maze? Don’t worry: after a guided tour, you’ll find your way through the corridors and stairwells with ease.\n\n**Dates and booking:**\n\nGuided tours will take place from September onwards. The booking link and exact dates will be published here as soon as they are available. The meeting point is at the porter’s desk in the auditorium in the main building of the University of Vienna.\n\nCouldn’t get a spot? The [“Uni Wien Guides”](https://event.univie.ac.at/fuehrungen/bereit-fuer-eine-entdeckungsreise/self-guided-tours/app-guides-uni-wien/) app offers a virtual tour with plenty of background information in German and English.\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\n- [### Contact points during your studies](https://ssc.univie.ac.at)\n- [### Opening hours and locations](https://www.univie.ac.at/ueber-uns/oeffnungszeiten-und-standorte)\n- [### Admission info](https://studieren.univie.ac.at/zulassung/online-erstzulassung/)"
+        },
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6873,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.6753,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "d08ccef68126-001",
+          "page_id": "d08ccef68126",
+          "score": 0.6731,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 83,
+          "text": "university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)"
+        },
+        {
+          "id": "a8cc2bd99f51-004",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.6669,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "word_count": 209,
+          "text": "Collapse all\n\nOpen all\n\n#### Test literature\n\n[Gallenbacher, Jens, \"Abenteuer Informatik – IT zum Anfassen für alle von 9 bis 99 – vom Navi bis Social Media\" (4. Auflage), Auszug der Kapitel 1, 2, 3, 8, 9, 11, 12, 14, 15](https://phaidra.univie.ac.at/detail/o:1165620) (only availale in German)\n\nOnly the following chapters are relevant for the written test:\n\n- Chapter 2 – Ordnung muss sein!\n- Chapter 3 – Ich packe meinen Koffer und …\n- Chapter 9 – Paketpost\n- Chapter 11 – Ordnung im Chaos\n- Chapter 12 – Mit Sicherheit\n- Chapter 14 – InformaGik\n- Chapter 15 – Allmächtiger Computer!?\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in Computer Science and Business Informatics](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_inf)\n\n#### Note on applying\n\nThink about whether you would like to study at the University of Vienna or TU Wien before you apply. The written test takes place at the same time. You cannot change universities.\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Bachelor's Programme in International Legal Studies. Preparatory Materials for Admissions Procedure - \"Starting an E-Commerce Business in Austria\" by Christiane C. Wendehorst, Professor of Law](https://phaidra.univie.ac.at/detail/o:2115830)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in International Legal Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_intrewi)"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.6631,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "f2377f671797-003",
+          "page_id": "f2377f671797",
+          "score": 0.6611,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "Do not leave your personal belongings unattended in public areas of the University of Vienna.\n\nThis also applies to Student Spaces and course rooms.\nIn the event of theft, you can report it to any police station.\n\nStudents spend a lot of time in the digital realm, for example, to participate in courses, to research literature at the library or to interact with fellow students. The following information aims to contribute to your safety online.\n\n© University of Vienna / derknopfdruecker.com\n\n- [IT security: Tips for users](https://zid.univie.ac.at/en/services/it-security/)\n- [12 IT security commandments for users](https://zid.univie.ac.at/en/it-news/article/news/12-it-security-gebote-fuer-nutzerinnen/?no_cache=1)\n- [Password management](https://zid.univie.ac.at/en/password/)\n- [Tips regarding the password](https://zid.univie.ac.at/en/password-tips/)\n\n- [Social media and blog netiquette](https://blog.univie.ac.at/en/netiquette/)\n- [How to prevent Zoombombing](https://zid.univie.ac.at/it-news/artikel/news/keine-angst-vor-zoombombing/) (in German)\n\nParticipating, asking questions, considering issues from different perspectives and interacting with others are central aspects of studying, but can also lead to conflict. You can contact the following organisational units to seek help for yourself or for all conflict parties, or to establish a network that can help you in case of problems.\n\n© University of Vienna / derknopfdruecker.com\n\n- [ÖH Helpline](https://www.oeh.ac.at/en/helpline/)\n- [Psychological Counselling Service](https://www.studierendenberatung.at/en/)\n- [Accessible Studying Team of the University of Vienna](https://studieren.univie.ac.at/en/accessible-studies/counselling/)\n- [Sexual Harassment and Bullying Counselling Office](https://personalwesen.univie.ac.at/en/gender-equality-diversity/sexual-harassment-bullying-office/)\n- [AKGleich - Equal Opportunities Working Party](https://gleichbehandlung.univie.ac.at/en/)\n- [Arbiration Commission of the University of Vienna](https://schiedskommission.univie.ac.at/en/)"
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.6593,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "d08ccef68126-000",
+          "page_id": "d08ccef68126",
+          "score": 0.6563,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 230,
+          "text": "Our programme for a successful start to your studies [ ](/fileadmin/user_upload/welcome/Welcome_Grafiken/WelcomeWeeks_16x9-V2_2_2.mp4#t=0.1) Play video Pause video About to start the bachelor's programme in Psychology? ## Then visit the orientation course (OV) on 1 October 2026! [To the OV Pychology](https://ufind.univie.ac.at/en/course.html?lv=200222&semester=2026W) [Overview of all OV](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100) Is your first semester starting soon? To help you get off to a good start with your studies, the University of Vienna offers orientation courses, workshops and other activities for new students. We’ve put together all the information about the Welcome Weeks for you. There you’ll find important information about your studies as well as helpful tips for everyday student life. Make the most of the wide range of activities on offer and get to know the university! When clicking the play button personal data may be transferred to YouTube. The video has been loaded and can be found below on the page. For an English translation you can turn on the English subtitles. Previous © Next - [## Orientation courses At the orientation courses (OV), you’ll find out everything you need to know about your degree programme.](#c8132) - [## Workshops and guided tours Get to know the university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find"
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-044",
+          "page_id": "7916c3fc6510",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 230,
+          "text": "/ - Inskription obsolete - see [Admission](/en/admission-procedure/) - Instructions on the right to appeal Official notifications issued by the University of Vienna are provided with instructions on the right to appeal. The instructions on the right to appeal at the end of an official notification include information on the possibilty, form and deadline for lodging an appeal against an official notification. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Insurance A part of the Students’ Union fee you pay covers your casualty and personal liability protection within the buildings/university grounds of the University of Vienna. The insurance enters into force as soon as the Students’ Union fee is registered as paid. This insurance is no health insurance. Students must apply for health insurance at the health insurance fund of their choice. Related Links: - [Austrian National Union of Students - insurance](https://www.oeh.ac.at/en/service/insurance) Related entries: - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - International Office The International Office informs students and employees of the University of Vienna about mobility programmes and enables them to participate in them. Together with faculties, the International Office works on the development of internationalization programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students"
+        },
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.6534,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "7916c3fc6510-114",
+          "page_id": "7916c3fc6510",
+          "score": 0.6519,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 61,
+          "text": "No FAQ's found for entered search term.\n\n/\n\n- YouTube channel of the University of Vienna\n\n  The YouTube channel of the University of Vienna is a source of information and videos about studies, events or recent research (especially also by early stage researchers).\n\n  Related Links:\n\n  - [Official YouTube channel of the University of Vienna](https://www.youtube.com/user/univienna/featured)\n\nNo FAQ's found for entered search term."
+        },
+        {
+          "id": "624f43a2e4ff-000",
+          "page_id": "624f43a2e4ff",
+          "score": 0.6511,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/day-of-the-written-test/",
+          "title": "The day of the written test",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 159,
+          "text": "[Entrance exam procedure](/en/)\n\n# The day of the written test\n\nThe big day for your degree programme with entrance exam procedure/aptitude test is just around the corner. But what actually happens on a test day? On this page, you will find information about the procedure, permitted and prohibited items, and all the important rules for the day.\n\nThe University of Vienna holds the written admission and aptitude tests at the [VIECON – Vienna Congress & Convention Center](https://vieconcenter.at/en/). Please visit the [Wiener Linien website](https://www.wienerlinien.at/web/wl-en) for information on how to get there and tickets for public transport.\n\nYou can find the admission time and the expected end of the test on your permission to attend (“Einlassbestätigung”). However, we recommend that you keep the entire day free. Please be punctual and, if necessary, arrive the day before. If you arrive too late, you will be excluded from the entrance exam/aptitude test! There are no alternative dates.\n\n©\nUniversität Wien\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.6502,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-104",
+          "page_id": "7916c3fc6510",
+          "score": 0.6487,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year. At this event, those interested in studying can get information about the range of degree programmes offered at the University of Vienna. By participating in info presentation and trial lectures they get a close idea about the degree programmes which helps them in their choice of career. Apart from this, they can get to know getter their future university or institute. Related Links: - [uniorientiert](https://studieren.univie.ac.at/en/degree-programmes/education-fairs/uniorientiert/) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniport Uniport, the career service of the University of Vienna, offers councelling and coaching to university students and graduates. It also organises numerous workshops and events, e.g. House of Jobs, as well as a career magazine. Related Links: - [Uniport](https://www.uniport.at/uniport-fuer-studierende/) (available in German) - Universities Act 2002 As the central body of legislation, the Universities Act 2002 regulates the Austrian law on higher education. Related Links: - [RIS – Universities Act 2002](https://www.ris.bka.gv.at/Dokumente/Erv/ERV_2002_1_120/ERV_2002_1_120.html) Related entries: - [University Gazette](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31186&cHash=3cb5e9a92c9b1f0f8a9276431bbf5f64) - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31253&cHash=b714e0e2eec6eceec5b3fcfc992941d7) - University Board The University Board consists of nine members, eight of whom are appointed in equal parts by the University and the Federal Government. These members elect the ninth member. Together with the Rectorate and the Senate, the"
+        },
+        {
+          "id": "2c3333c4b616-002",
+          "page_id": "2c3333c4b616",
+          "score": 0.6476,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Stories"
+          ],
+          "word_count": 72,
+          "text": "some learning facilities of the University of Vienna\") [### Psychology student, physical impairments](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/article-student-life-stories/test/news/psychology-student-physical-impairments/ \"Psychology student, physical impairments\") There are nice people who help me whenever I need help. [More](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/article-student-life-stories/test/news/psychology-student-physical-impairments/ \"Psychology student, physical impairments\") Page 1 [Page 2](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [Next Page](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [Last Page](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "57c2558ddf86-003",
+          "page_id": "57c2558ddf86",
+          "score": 0.646,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 117,
+          "text": "registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The International Office of the University of Vienna is available to answer any questions about international studies and working abroad. Please click the following link for the most frequently asked questions: [International Office of the University of Vienna](https://international.univie.ac.at/en/) - psychological counselling for students? The psychological/psychotherapeutic counselling service for students is available via telephone, e-mail and by prior arrangement also via video call or video chat. For relevant information and contact details, please go to the following website: [studierendenberatung.at](https://www.studierendenberatung.at/en/)"
+        }
+      ],
+      "latency_ms": 10.8
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "f2377f671797-000",
+          "page_id": "f2377f671797",
+          "score": 0.739,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 216,
+          "text": "The University is a large community. Students, academics and admin-istrative staff meet on site and digitally. The following website provides tips and information and the most important contact points for working and studying successfully together.\n\nThe emergency text message service notifies you directly via text message in case of a sudden emergency (such as a major fire) at a location of the University of Vienna. It thus helps ensure safe university operations.\n\nStudents can register for the emergency text message service on a voluntary basis with their private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms). You can deregister from the service at any time.\n\nFurther information such as about data protection is available on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) and in the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V04_26062020_EN.pdf).\n\n[### Register now!](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\nThe buildings of the University of Vienna are subject to rules, such as the House Rules or the Laboratory and Workshop Regulations in laboratories. For your own and other people’s safety, information about the procedure in case of fire or accidents is available.\n\n© University of Vienna / Gebhart Sengmüller\n\n- [Security management](https://rrm.univie.ac.at/en/services/security/)\n- [Threat management – non-violent university](https://www.univie.ac.at/en/about-us/violence-free-university-prevention-and-support)\n- [House Rules](https://satzung.univie.ac.at/en/house-rules/)\n- [Laboratory and Workshop Regulations](https://intra.univie.ac.at/fileadmin/upload/rrm/ANS/Downloads/Laborordnung/LABOR-und_WERKSTA%CC%88TTENORDNUNG_EN.pdf)\n\n- [General Fire Safety Regulations](https://rrm.univie.ac.at/fileadmin/user_upload/d_rrm/Downloads/2015_2016_Brandschutzordnung.pdf) (in German)\n- [Procedure in case of student accidents](#c1215109)\n- [Student’s Union (ÖH) insurance](https://www.oeh.ac.at/en/services/insurance-policy-austrian-students-union-oh)\n- [Emergency text message](https://uspace.univie.ac.at/web/studium/notfall-sms)"
+        },
+        {
+          "id": "d08ccef68126-003",
+          "page_id": "d08ccef68126",
+          "score": 0.6903,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 117,
+          "text": "Does the main building seem like a maze? Don’t worry: after a guided tour, you’ll find your way through the corridors and stairwells with ease.\n\n**Dates and booking:**\n\nGuided tours will take place from September onwards. The booking link and exact dates will be published here as soon as they are available. The meeting point is at the porter’s desk in the auditorium in the main building of the University of Vienna.\n\nCouldn’t get a spot? The [“Uni Wien Guides”](https://event.univie.ac.at/fuehrungen/bereit-fuer-eine-entdeckungsreise/self-guided-tours/app-guides-uni-wien/) app offers a virtual tour with plenty of background information in German and English.\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\n- [### Contact points during your studies](https://ssc.univie.ac.at)\n- [### Opening hours and locations](https://www.univie.ac.at/ueber-uns/oeffnungszeiten-und-standorte)\n- [### Admission info](https://studieren.univie.ac.at/zulassung/online-erstzulassung/)"
+        },
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6873,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.6753,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "d08ccef68126-001",
+          "page_id": "d08ccef68126",
+          "score": 0.6731,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 83,
+          "text": "university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)"
+        },
+        {
+          "id": "a8cc2bd99f51-004",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.6669,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "word_count": 209,
+          "text": "Collapse all\n\nOpen all\n\n#### Test literature\n\n[Gallenbacher, Jens, \"Abenteuer Informatik – IT zum Anfassen für alle von 9 bis 99 – vom Navi bis Social Media\" (4. Auflage), Auszug der Kapitel 1, 2, 3, 8, 9, 11, 12, 14, 15](https://phaidra.univie.ac.at/detail/o:1165620) (only availale in German)\n\nOnly the following chapters are relevant for the written test:\n\n- Chapter 2 – Ordnung muss sein!\n- Chapter 3 – Ich packe meinen Koffer und …\n- Chapter 9 – Paketpost\n- Chapter 11 – Ordnung im Chaos\n- Chapter 12 – Mit Sicherheit\n- Chapter 14 – InformaGik\n- Chapter 15 – Allmächtiger Computer!?\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in Computer Science and Business Informatics](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_inf)\n\n#### Note on applying\n\nThink about whether you would like to study at the University of Vienna or TU Wien before you apply. The written test takes place at the same time. You cannot change universities.\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Bachelor's Programme in International Legal Studies. Preparatory Materials for Admissions Procedure - \"Starting an E-Commerce Business in Austria\" by Christiane C. Wendehorst, Professor of Law](https://phaidra.univie.ac.at/detail/o:2115830)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in International Legal Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_intrewi)"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.6631,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "f2377f671797-003",
+          "page_id": "f2377f671797",
+          "score": 0.6611,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "Do not leave your personal belongings unattended in public areas of the University of Vienna.\n\nThis also applies to Student Spaces and course rooms.\nIn the event of theft, you can report it to any police station.\n\nStudents spend a lot of time in the digital realm, for example, to participate in courses, to research literature at the library or to interact with fellow students. The following information aims to contribute to your safety online.\n\n© University of Vienna / derknopfdruecker.com\n\n- [IT security: Tips for users](https://zid.univie.ac.at/en/services/it-security/)\n- [12 IT security commandments for users](https://zid.univie.ac.at/en/it-news/article/news/12-it-security-gebote-fuer-nutzerinnen/?no_cache=1)\n- [Password management](https://zid.univie.ac.at/en/password/)\n- [Tips regarding the password](https://zid.univie.ac.at/en/password-tips/)\n\n- [Social media and blog netiquette](https://blog.univie.ac.at/en/netiquette/)\n- [How to prevent Zoombombing](https://zid.univie.ac.at/it-news/artikel/news/keine-angst-vor-zoombombing/) (in German)\n\nParticipating, asking questions, considering issues from different perspectives and interacting with others are central aspects of studying, but can also lead to conflict. You can contact the following organisational units to seek help for yourself or for all conflict parties, or to establish a network that can help you in case of problems.\n\n© University of Vienna / derknopfdruecker.com\n\n- [ÖH Helpline](https://www.oeh.ac.at/en/helpline/)\n- [Psychological Counselling Service](https://www.studierendenberatung.at/en/)\n- [Accessible Studying Team of the University of Vienna](https://studieren.univie.ac.at/en/accessible-studies/counselling/)\n- [Sexual Harassment and Bullying Counselling Office](https://personalwesen.univie.ac.at/en/gender-equality-diversity/sexual-harassment-bullying-office/)\n- [AKGleich - Equal Opportunities Working Party](https://gleichbehandlung.univie.ac.at/en/)\n- [Arbiration Commission of the University of Vienna](https://schiedskommission.univie.ac.at/en/)"
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.6593,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "d08ccef68126-000",
+          "page_id": "d08ccef68126",
+          "score": 0.6563,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 230,
+          "text": "Our programme for a successful start to your studies [ ](/fileadmin/user_upload/welcome/Welcome_Grafiken/WelcomeWeeks_16x9-V2_2_2.mp4#t=0.1) Play video Pause video About to start the bachelor's programme in Psychology? ## Then visit the orientation course (OV) on 1 October 2026! [To the OV Pychology](https://ufind.univie.ac.at/en/course.html?lv=200222&semester=2026W) [Overview of all OV](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100) Is your first semester starting soon? To help you get off to a good start with your studies, the University of Vienna offers orientation courses, workshops and other activities for new students. We’ve put together all the information about the Welcome Weeks for you. There you’ll find important information about your studies as well as helpful tips for everyday student life. Make the most of the wide range of activities on offer and get to know the university! When clicking the play button personal data may be transferred to YouTube. The video has been loaded and can be found below on the page. For an English translation you can turn on the English subtitles. Previous © Next - [## Orientation courses At the orientation courses (OV), you’ll find out everything you need to know about your degree programme.](#c8132) - [## Workshops and guided tours Get to know the university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find"
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-044",
+          "page_id": "7916c3fc6510",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 230,
+          "text": "/ - Inskription obsolete - see [Admission](/en/admission-procedure/) - Instructions on the right to appeal Official notifications issued by the University of Vienna are provided with instructions on the right to appeal. The instructions on the right to appeal at the end of an official notification include information on the possibilty, form and deadline for lodging an appeal against an official notification. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Insurance A part of the Students’ Union fee you pay covers your casualty and personal liability protection within the buildings/university grounds of the University of Vienna. The insurance enters into force as soon as the Students’ Union fee is registered as paid. This insurance is no health insurance. Students must apply for health insurance at the health insurance fund of their choice. Related Links: - [Austrian National Union of Students - insurance](https://www.oeh.ac.at/en/service/insurance) Related entries: - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - International Office The International Office informs students and employees of the University of Vienna about mobility programmes and enables them to participate in them. Together with faculties, the International Office works on the development of internationalization programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students"
+        },
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.6534,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "7916c3fc6510-114",
+          "page_id": "7916c3fc6510",
+          "score": 0.6519,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 61,
+          "text": "No FAQ's found for entered search term.\n\n/\n\n- YouTube channel of the University of Vienna\n\n  The YouTube channel of the University of Vienna is a source of information and videos about studies, events or recent research (especially also by early stage researchers).\n\n  Related Links:\n\n  - [Official YouTube channel of the University of Vienna](https://www.youtube.com/user/univienna/featured)\n\nNo FAQ's found for entered search term."
+        },
+        {
+          "id": "624f43a2e4ff-000",
+          "page_id": "624f43a2e4ff",
+          "score": 0.6511,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/day-of-the-written-test/",
+          "title": "The day of the written test",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 159,
+          "text": "[Entrance exam procedure](/en/)\n\n# The day of the written test\n\nThe big day for your degree programme with entrance exam procedure/aptitude test is just around the corner. But what actually happens on a test day? On this page, you will find information about the procedure, permitted and prohibited items, and all the important rules for the day.\n\nThe University of Vienna holds the written admission and aptitude tests at the [VIECON – Vienna Congress & Convention Center](https://vieconcenter.at/en/). Please visit the [Wiener Linien website](https://www.wienerlinien.at/web/wl-en) for information on how to get there and tickets for public transport.\n\nYou can find the admission time and the expected end of the test on your permission to attend (“Einlassbestätigung”). However, we recommend that you keep the entire day free. Please be punctual and, if necessary, arrive the day before. If you arrive too late, you will be excluded from the entrance exam/aptitude test! There are no alternative dates.\n\n©\nUniversität Wien\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.6502,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-104",
+          "page_id": "7916c3fc6510",
+          "score": 0.6487,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year. At this event, those interested in studying can get information about the range of degree programmes offered at the University of Vienna. By participating in info presentation and trial lectures they get a close idea about the degree programmes which helps them in their choice of career. Apart from this, they can get to know getter their future university or institute. Related Links: - [uniorientiert](https://studieren.univie.ac.at/en/degree-programmes/education-fairs/uniorientiert/) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniport Uniport, the career service of the University of Vienna, offers councelling and coaching to university students and graduates. It also organises numerous workshops and events, e.g. House of Jobs, as well as a career magazine. Related Links: - [Uniport](https://www.uniport.at/uniport-fuer-studierende/) (available in German) - Universities Act 2002 As the central body of legislation, the Universities Act 2002 regulates the Austrian law on higher education. Related Links: - [RIS – Universities Act 2002](https://www.ris.bka.gv.at/Dokumente/Erv/ERV_2002_1_120/ERV_2002_1_120.html) Related entries: - [University Gazette](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31186&cHash=3cb5e9a92c9b1f0f8a9276431bbf5f64) - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31253&cHash=b714e0e2eec6eceec5b3fcfc992941d7) - University Board The University Board consists of nine members, eight of whom are appointed in equal parts by the University and the Federal Government. These members elect the ninth member. Together with the Rectorate and the Senate, the"
+        },
+        {
+          "id": "2c3333c4b616-002",
+          "page_id": "2c3333c4b616",
+          "score": 0.6476,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Stories"
+          ],
+          "word_count": 72,
+          "text": "some learning facilities of the University of Vienna\") [### Psychology student, physical impairments](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/article-student-life-stories/test/news/psychology-student-physical-impairments/ \"Psychology student, physical impairments\") There are nice people who help me whenever I need help. [More](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/article-student-life-stories/test/news/psychology-student-physical-impairments/ \"Psychology student, physical impairments\") Page 1 [Page 2](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [Next Page](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [Last Page](/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/page/2/) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "57c2558ddf86-003",
+          "page_id": "57c2558ddf86",
+          "score": 0.646,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 117,
+          "text": "registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The International Office of the University of Vienna is available to answer any questions about international studies and working abroad. Please click the following link for the most frequently asked questions: [International Office of the University of Vienna](https://international.univie.ac.at/en/) - psychological counselling for students? The psychological/psychotherapeutic counselling service for students is available via telephone, e-mail and by prior arrangement also via video call or video chat. For relevant information and contact details, please go to the following website: [studierendenberatung.at](https://www.studierendenberatung.at/en/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "f2377f671797-000",
+          "page_id": "f2377f671797",
+          "score": 0.739,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 216,
+          "text": "The University is a large community. Students, academics and admin-istrative staff meet on site and digitally. The following website provides tips and information and the most important contact points for working and studying successfully together.\n\nThe emergency text message service notifies you directly via text message in case of a sudden emergency (such as a major fire) at a location of the University of Vienna. It thus helps ensure safe university operations.\n\nStudents can register for the emergency text message service on a voluntary basis with their private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms). You can deregister from the service at any time.\n\nFurther information such as about data protection is available on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) and in the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V04_26062020_EN.pdf).\n\n[### Register now!](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\nThe buildings of the University of Vienna are subject to rules, such as the House Rules or the Laboratory and Workshop Regulations in laboratories. For your own and other people’s safety, information about the procedure in case of fire or accidents is available.\n\n© University of Vienna / Gebhart Sengmüller\n\n- [Security management](https://rrm.univie.ac.at/en/services/security/)\n- [Threat management – non-violent university](https://www.univie.ac.at/en/about-us/violence-free-university-prevention-and-support)\n- [House Rules](https://satzung.univie.ac.at/en/house-rules/)\n- [Laboratory and Workshop Regulations](https://intra.univie.ac.at/fileadmin/upload/rrm/ANS/Downloads/Laborordnung/LABOR-und_WERKSTA%CC%88TTENORDNUNG_EN.pdf)\n\n- [General Fire Safety Regulations](https://rrm.univie.ac.at/fileadmin/user_upload/d_rrm/Downloads/2015_2016_Brandschutzordnung.pdf) (in German)\n- [Procedure in case of student accidents](#c1215109)\n- [Student’s Union (ÖH) insurance](https://www.oeh.ac.at/en/services/insurance-policy-austrian-students-union-oh)\n- [Emergency text message](https://uspace.univie.ac.at/web/studium/notfall-sms)"
+        },
+        {
+          "id": "d08ccef68126-003",
+          "page_id": "d08ccef68126",
+          "score": 0.6903,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 117,
+          "text": "Does the main building seem like a maze? Don’t worry: after a guided tour, you’ll find your way through the corridors and stairwells with ease.\n\n**Dates and booking:**\n\nGuided tours will take place from September onwards. The booking link and exact dates will be published here as soon as they are available. The meeting point is at the porter’s desk in the auditorium in the main building of the University of Vienna.\n\nCouldn’t get a spot? The [“Uni Wien Guides”](https://event.univie.ac.at/fuehrungen/bereit-fuer-eine-entdeckungsreise/self-guided-tours/app-guides-uni-wien/) app offers a virtual tour with plenty of background information in German and English.\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\n- [### Contact points during your studies](https://ssc.univie.ac.at)\n- [### Opening hours and locations](https://www.univie.ac.at/ueber-uns/oeffnungszeiten-und-standorte)\n- [### Admission info](https://studieren.univie.ac.at/zulassung/online-erstzulassung/)"
+        },
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6873,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.6753,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "d08ccef68126-001",
+          "page_id": "d08ccef68126",
+          "score": 0.6731,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 83,
+          "text": "university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)"
+        },
+        {
+          "id": "a8cc2bd99f51-004",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.6669,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "word_count": 209,
+          "text": "Collapse all\n\nOpen all\n\n#### Test literature\n\n[Gallenbacher, Jens, \"Abenteuer Informatik – IT zum Anfassen für alle von 9 bis 99 – vom Navi bis Social Media\" (4. Auflage), Auszug der Kapitel 1, 2, 3, 8, 9, 11, 12, 14, 15](https://phaidra.univie.ac.at/detail/o:1165620) (only availale in German)\n\nOnly the following chapters are relevant for the written test:\n\n- Chapter 2 – Ordnung muss sein!\n- Chapter 3 – Ich packe meinen Koffer und …\n- Chapter 9 – Paketpost\n- Chapter 11 – Ordnung im Chaos\n- Chapter 12 – Mit Sicherheit\n- Chapter 14 – InformaGik\n- Chapter 15 – Allmächtiger Computer!?\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in Computer Science and Business Informatics](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_inf)\n\n#### Note on applying\n\nThink about whether you would like to study at the University of Vienna or TU Wien before you apply. The written test takes place at the same time. You cannot change universities.\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Bachelor's Programme in International Legal Studies. Preparatory Materials for Admissions Procedure - \"Starting an E-Commerce Business in Austria\" by Christiane C. Wendehorst, Professor of Law](https://phaidra.univie.ac.at/detail/o:2115830)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in International Legal Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_intrewi)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Studying safely\nThe University is a large community. Students, academics and admin-istrative staff meet on site and digitally. The following website provides tips and information and the most important contact points for working and studying successfully together.\n\nThe emergency text message service notifies you directly via text message in case of a sudden emergency (such as a major fire) at a location of the University of Vienna. It thus helps ensure safe university operations.\n\nStudents can register for the emergency text message service on a voluntary basis with their private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms). You can deregister from the service at any time.\n\nFurther information such as about data protection is available on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) and in the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V04_26062020_EN.pdf).\n\n[### Register now!](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\nThe buildings of the University of Vienna are subject to rules, such as the House Rules or the Laboratory and Workshop Regulations in laboratories. For your own and other people’s safety, information about the procedure in case of fire or accidents is available.\n\n© University of Vienna / Gebhart Sengmüller\n\n- [Security management](https://rrm.univie.ac.at/en/services/security/)\n- [Threat management – non-violent university](https://www.univie.ac.at/en/about-us/violence-free-university-prevention-and-support)\n- [House Rules](https://satzung.univie.ac.at/en/house-rules/)\n- [Laboratory and Workshop Regulations](https://intra.univie.ac.at/fileadmin/upload/rrm/ANS/Downloads/Laborordnung/LABOR-und_WERKSTA%CC%88TTENORDNUNG_EN.pdf)\n\n- [General Fire Safety Regulations](https://rrm.univie.ac.at/fileadmin/user_upload/d_rrm/Downloads/2015_2016_Brandschutzordnung.pdf) (in German)\n- [Procedure in case of student accidents](#c1215109)\n- [Student’s Union (ÖH) insurance](https://www.oeh.ac.at/en/services/insurance-policy-austrian-students-union-oh)\n- [Emergency text message](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\n[2] Welcome at the University of Vienna\nDoes the main building seem like a maze? Don’t worry: after a guided tour, you’ll find your way through the corridors and stairwells with ease.\n\n**Dates and booking:**\n\nGuided tours will take place from September onwards. The booking link and exact dates will be published here as soon as they are available. The meeting point is at the porter’s desk in the auditorium in the main building of the University of Vienna.\n\nCouldn’t get a spot? The [“Uni Wien Guides”](https://event.univie.ac.at/fuehrungen/bereit-fuer-eine-entdeckungsreise/self-guided-tours/app-guides-uni-wien/) app offers a virtual tour with plenty of background information in German and English.\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\n- [### Contact points during your studies](https://ssc.univie.ac.at)\n- [### Opening hours and locations](https://www.univie.ac.at/ueber-uns/oeffnungszeiten-und-standorte)\n- [### Admission info](https://studieren.univie.ac.at/zulassung/online-erstzulassung/)\n\n[3] Why study at the University of Vienna? — Uni Insights\nImage 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city.\n\n[4] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[5] Welcome at the University of Vienna — Welcome to the University of Vienna!\nuniversity and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)\n\n[6] Test details: Test literature and sample exercises — Choose your degree programme!\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Gallenbacher, Jens, \"Abenteuer Informatik – IT zum Anfassen für alle von 9 bis 99 – vom Navi bis Social Media\" (4. Auflage), Auszug der Kapitel 1, 2, 3, 8, 9, 11, 12, 14, 15](https://phaidra.univie.ac.at/detail/o:1165620) (only availale in German)\n\nOnly the following chapters are relevant for the written test:\n\n- Chapter 2 – Ordnung muss sein!\n- Chapter 3 – Ich packe meinen Koffer und …\n- Chapter 9 – Paketpost\n- Chapter 11 – Ordnung im Chaos\n- Chapter 12 – Mit Sicherheit\n- Chapter 14 – InformaGik\n- Chapter 15 – Allmächtiger Computer!?\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in Computer Science and Business Informatics](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_inf)\n\n#### Note on applying\n\nThink about whether you would like to study at the University of Vienna or TU Wien before you apply. The written test takes place at the same time. You cannot change universities.\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Bachelor's Programme in International Legal Studies. Preparatory Materials for Admissions Procedure - \"Starting an E-Commerce Business in Austria\" by Christiane C. Wendehorst, Professor of Law](https://phaidra.univie.ac.at/detail/o:2115830)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in International Legal Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_intrewi)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "f2377f671797-000",
+          "score": 0.739
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "d08ccef68126-003",
+          "score": 0.6903
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-003",
+          "score": 0.6873
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-005",
+          "score": 0.6753
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "d08ccef68126-001",
+          "score": 0.6731
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "section": "Entrance exam",
+          "chunk_id": "a8cc2bd99f51-004",
+          "score": 0.6669
+        }
+      },
+      "context_chars": 8364,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Studying safely\nThe University is a large community. Students, academics and admin-istrative staff meet on site and digitally. The following website provides tips and information and the most important contact points for working and studying successfully together.\n\nThe emergency text message service notifies you directly via text message in case of a sudden emergency (such as a major fire) at a location of the University of Vienna. It thus helps ensure safe university operations.\n\nStudents can register for the emergency text message service on a voluntary basis with their private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms). You can deregister from the service at any time.\n\nFurther information such as about data protection is available on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) and in the [Data Protection Declaration of the University of Vienna](https://dsba.univie.ac.at/fileadmin/user_upload/p_dsba/datenschutzerklaerung_websites_V04_26062020_EN.pdf).\n\n[### Register now!](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\nThe buildings of the University of Vienna are subject to rules, such as the House Rules or the Laboratory and Workshop Regulations in laboratories. For your own and other people’s safety, information about the procedure in case of fire or accidents is available.\n\n© University of Vienna / Gebhart Sengmüller\n\n- [Security management](https://rrm.univie.ac.at/en/services/security/)\n- [Threat management – non-violent university](https://www.univie.ac.at/en/about-us/violence-free-university-prevention-and-support)\n- [House Rules](https://satzung.univie.ac.at/en/house-rules/)\n- [Laboratory and Workshop Regulations](https://intra.univie.ac.at/fileadmin/upload/rrm/ANS/Downloads/Laborordnung/LABOR-und_WERKSTA%CC%88TTENORDNUNG_EN.pdf)\n\n- [General Fire Safety Regulations](https://rrm.univie.ac.at/fileadmin/user_upload/d_rrm/Downloads/2015_2016_Brandschutzordnung.pdf) (in German)\n- [Procedure in case of student accidents](#c1215109)\n- [Student’s Union (ÖH) insurance](https://www.oeh.ac.at/en/services/insurance-policy-austrian-students-union-oh)\n- [Emergency text message](https://uspace.univie.ac.at/web/studium/notfall-sms)\n\n[2] Welcome at the University of Vienna\nDoes the main building seem like a maze? Don’t worry: after a guided tour, you’ll find your way through the corridors and stairwells with ease.\n\n**Dates and booking:**\n\nGuided tours will take place from September onwards. The booking link and exact dates will be published here as soon as they are available. The meeting point is at the porter’s desk in the auditorium in the main building of the University of Vienna.\n\nCouldn’t get a spot? The [“Uni Wien Guides”](https://event.univie.ac.at/fuehrungen/bereit-fuer-eine-entdeckungsreise/self-guided-tours/app-guides-uni-wien/) app offers a virtual tour with plenty of background information in German and English.\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\n- [### Contact points during your studies](https://ssc.univie.ac.at)\n- [### Opening hours and locations](https://www.univie.ac.at/ueber-uns/oeffnungszeiten-und-standorte)\n- [### Admission info](https://studieren.univie.ac.at/zulassung/online-erstzulassung/)\n\n[3] Why study at the University of Vienna? — Uni Insights\nImage 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city.\n\n[4] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[5] Welcome at the University of Vienna — Welcome to the University of Vienna!\nuniversity and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)\n\n[6] Test details: Test literature and sample exercises — Choose your degree programme!\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Gallenbacher, Jens, \"Abenteuer Informatik – IT zum Anfassen für alle von 9 bis 99 – vom Navi bis Social Media\" (4. Auflage), Auszug der Kapitel 1, 2, 3, 8, 9, 11, 12, 14, 15](https://phaidra.univie.ac.at/detail/o:1165620) (only availale in German)\n\nOnly the following chapters are relevant for the written test:\n\n- Chapter 2 – Ordnung muss sein!\n- Chapter 3 – Ich packe meinen Koffer und …\n- Chapter 9 – Paketpost\n- Chapter 11 – Ordnung im Chaos\n- Chapter 12 – Mit Sicherheit\n- Chapter 14 – InformaGik\n- Chapter 15 – Allmächtiger Computer!?\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in Computer Science and Business Informatics](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_inf)\n\n#### Note on applying\n\nThink about whether you would like to study at the University of Vienna or TU Wien before you apply. The written test takes place at the same time. You cannot change universities.\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Bachelor's Programme in International Legal Studies. Preparatory Materials for Admissions Procedure - \"Starting an E-Commerce Business in Austria\" by Christiane C. Wendehorst, Professor of Law](https://phaidra.univie.ac.at/detail/o:2115830)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in International Legal Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_intrewi)\n\nQuestion: does uni vienna text you if like a building's on fire or something? how do i turn that on"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 2185,
+        "completion_tokens": 78,
+        "total_tokens": 2263
+      },
+      "rate_limit_events": [],
+      "raw_response": "Yes, the University of Vienna has an emergency text message service that notifies you in case of a sudden emergency, such as a major fire, at a university location [1]. You can register for this service on a voluntary basis with your private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) [1].",
+      "finish_reason": "stop",
+      "latency_ms": 1344.6
+    }
+  },
+  "query_id": "g14:weird:0",
+  "status": "ok",
+  "answer": "Yes, the University of Vienna has an emergency text message service that notifies you in case of a sudden emergency, such as a major fire, at a university location [1]. You can register for this service on a voluntary basis with your private phone number on [u:space](https://uspace.univie.ac.at/web/studium/notfall-sms) [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/studying-safely/",
+      "title": "Studying safely",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "f2377f671797-000",
+      "score": 0.739
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 2185,
+    "completion_tokens": 78,
+    "total_tokens": 2263
+  },
+  "total_latency_ms": 1355.6
+}

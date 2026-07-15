@@ -1,0 +1,762 @@
+{
+  "trace_id": "267a45147c55",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "I'm from a non-EU country — what documents do I need to apply for a bachelor programme?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "I'm from a non-EU country — what documents do I need to apply for a bachelor programme?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7853,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "8d4ed91613a3-004",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7813,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application"
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7771,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7708,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.77,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.7679,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "8d4ed91613a3-003",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7656,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "your university entrance exam. The further procedure depends which country you completed your previous studies in. - India Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Indonesia If you have completed your secondary-school leaving certificate in Indonesia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam UTBK-SNBT with a result of at least 500 (grade point average) and [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Iran If you have completed your secondary-school leaving certificate in Iran and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Konkûr with [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Colombia If you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have"
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7654,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.7624,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-001",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7597,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "word_count": 230,
+          "text": "How do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7555,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "27f958b3969a-009",
+          "page_id": "27f958b3969a",
+          "score": 0.7546,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 230,
+          "text": "We only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how"
+        },
+        {
+          "id": "5a4e79a6c5d5-000",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7538,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 55,
+          "text": "You would like to be admitted to an additional bachelor/diploma programme?\n\nYour steps in the admission procedure depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?"
+        },
+        {
+          "id": "da1beee15900-000",
+          "page_id": "da1beee15900",
+          "score": 0.7517,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 169,
+          "text": "Qualitative admission requirements (QZB) are binding and determine which knowledge and competencies are required for admission to a specific master programme. You have received a rejection letter, because you do not fulfil the qualitative admission requirements? You can make up for the qualitative admission requirements in a non-degree programme. Therefore, you will not be admitted to a specific degree programme, but to \"attending individual courses\".\n\nYou can complete courses for example from extension curricula (EC) and thereby you are able to fulfil the qualitative admission requirements. Inform yourself which courses the EC consists of and register for these courses. A registration for the EC as a non-degree student is neither required nor possible technically.\n\n- valid passport or personal ID card in original form\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "27f958b3969a-000",
+          "page_id": "27f958b3969a",
+          "score": 0.7512,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 70,
+          "text": "You wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)"
+        },
+        {
+          "id": "785f0a10a7d6-003",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7504,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 230,
+          "text": "You want to be admitted to a different bachelor/diploma programme without entrance exam procedure? Apply for admission in u:space within the application period, as described in the [information regarding the admission procedure](/en/admission-procedure/bachelordiploma-programmes/). You do not have to book an online appointment to complete the admission procedure. Your further steps depend on the country of issuance of your secondary-school leaving certificate and your citizenship. - Your secondary-school leaving certificate and citizenship are from an EU/EEA country or Switzerland: Message us via the [contact form](/en/contact-form/) within the admission period and attach a scan of your passport or personal ID card. We will implement the admission and inform you about further steps via e-mail. The processing may take several days. - Your secondary-school leaving certificate is from a non-EU/EEA country: Wait for your admission letter. The processing may take several weeks. You will receive your admission letter and information on further steps via e-mail. / - Bachelor/diploma programmes without entrance exam procedure - African Studies - Ancient History and Studies in Classical Antiquity - Astronomy - Byzantine Studies and Modern Greek Studies - Catholic Theology - Classical Archaeology - Classical Philology - Comparative Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia"
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7481,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "da1beee15900-003",
+          "page_id": "da1beee15900",
+          "score": 0.7479,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 78,
+          "text": "As soon as you have completed all qualitative admission requirements, you have to submit an application for admission to the degree programme within the [application period](/en/admission/application-and-admission-periods/) of a semester. Your application will be processed according to the prevailing legal status at that time.\n\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n- [Admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-010",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7473,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 170,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days you will see the new degree programme in u:space > Study overview. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure](/en/entrance-exam/exemptions-from-entrance-exam-procedure/) - [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/)"
+        }
+      ],
+      "latency_ms": 7.3
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7853,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "8d4ed91613a3-004",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7813,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application"
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7771,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7708,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.77,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.7679,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "8d4ed91613a3-003",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7656,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "your university entrance exam. The further procedure depends which country you completed your previous studies in. - India Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Indonesia If you have completed your secondary-school leaving certificate in Indonesia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam UTBK-SNBT with a result of at least 500 (grade point average) and [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Iran If you have completed your secondary-school leaving certificate in Iran and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Konkûr with [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Colombia If you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have"
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7654,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.7624,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-001",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7597,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "word_count": 230,
+          "text": "How do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7555,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "27f958b3969a-009",
+          "page_id": "27f958b3969a",
+          "score": 0.7546,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 230,
+          "text": "We only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how"
+        },
+        {
+          "id": "5a4e79a6c5d5-000",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7538,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 55,
+          "text": "You would like to be admitted to an additional bachelor/diploma programme?\n\nYour steps in the admission procedure depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?"
+        },
+        {
+          "id": "da1beee15900-000",
+          "page_id": "da1beee15900",
+          "score": 0.7517,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 169,
+          "text": "Qualitative admission requirements (QZB) are binding and determine which knowledge and competencies are required for admission to a specific master programme. You have received a rejection letter, because you do not fulfil the qualitative admission requirements? You can make up for the qualitative admission requirements in a non-degree programme. Therefore, you will not be admitted to a specific degree programme, but to \"attending individual courses\".\n\nYou can complete courses for example from extension curricula (EC) and thereby you are able to fulfil the qualitative admission requirements. Inform yourself which courses the EC consists of and register for these courses. A registration for the EC as a non-degree student is neither required nor possible technically.\n\n- valid passport or personal ID card in original form\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "27f958b3969a-000",
+          "page_id": "27f958b3969a",
+          "score": 0.7512,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 70,
+          "text": "You wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)"
+        },
+        {
+          "id": "785f0a10a7d6-003",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7504,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 230,
+          "text": "You want to be admitted to a different bachelor/diploma programme without entrance exam procedure? Apply for admission in u:space within the application period, as described in the [information regarding the admission procedure](/en/admission-procedure/bachelordiploma-programmes/). You do not have to book an online appointment to complete the admission procedure. Your further steps depend on the country of issuance of your secondary-school leaving certificate and your citizenship. - Your secondary-school leaving certificate and citizenship are from an EU/EEA country or Switzerland: Message us via the [contact form](/en/contact-form/) within the admission period and attach a scan of your passport or personal ID card. We will implement the admission and inform you about further steps via e-mail. The processing may take several days. - Your secondary-school leaving certificate is from a non-EU/EEA country: Wait for your admission letter. The processing may take several weeks. You will receive your admission letter and information on further steps via e-mail. / - Bachelor/diploma programmes without entrance exam procedure - African Studies - Ancient History and Studies in Classical Antiquity - Astronomy - Byzantine Studies and Modern Greek Studies - Catholic Theology - Classical Archaeology - Classical Philology - Comparative Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia"
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7481,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "da1beee15900-003",
+          "page_id": "da1beee15900",
+          "score": 0.7479,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 78,
+          "text": "As soon as you have completed all qualitative admission requirements, you have to submit an application for admission to the degree programme within the [application period](/en/admission/application-and-admission-periods/) of a semester. Your application will be processed according to the prevailing legal status at that time.\n\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n- [Admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-010",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7473,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 170,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days you will see the new degree programme in u:space > Study overview. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure](/en/entrance-exam/exemptions-from-entrance-exam-procedure/) - [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7853,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "8d4ed91613a3-004",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7813,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application"
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7771,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7708,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.77,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.7679,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] I am from ... and want to study at the University of Vienna. What do I have to keep in mind? — I want to study a bachelor/diploma programme > General requirements for the application for admission to bachelor/diploma programmes\n- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period.\n\n[2] I am from ... and want to study at the University of Vienna. What do I have to keep in mind? — I want to study a bachelor/diploma programme > Country-specific info\nyou have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application\n\n[3] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[4] Additional bachelor/diploma programme — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme.\n\n[5] ABC of terminology — L\nLegalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)\n\n[6] Competence check at VFS Global — Step 1: Inform yourself about the admission requirements\nYour documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "section": "Admission",
+          "chunk_id": "8d4ed91613a3-001",
+          "score": 0.7853
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "section": "Admission",
+          "chunk_id": "8d4ed91613a3-004",
+          "score": 0.7813
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-019",
+          "score": 0.7771
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "5a4e79a6c5d5-014",
+          "score": 0.7708
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "L"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-048",
+          "score": 0.77
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "section": "Admission",
+          "chunk_id": "1944531c4838-005",
+          "score": 0.7679
+        }
+      },
+      "context_chars": 9462,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] I am from ... and want to study at the University of Vienna. What do I have to keep in mind? — I want to study a bachelor/diploma programme > General requirements for the application for admission to bachelor/diploma programmes\n- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period.\n\n[2] I am from ... and want to study at the University of Vienna. What do I have to keep in mind? — I want to study a bachelor/diploma programme > Country-specific info\nyou have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application\n\n[3] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[4] Additional bachelor/diploma programme — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme.\n\n[5] ABC of terminology — L\nLegalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)\n\n[6] Competence check at VFS Global — Step 1: Inform yourself about the admission requirements\nYour documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)\n\nQuestion: I'm from a non-EU country — what documents do I need to apply for a bachelor programme?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 2293,
+        "completion_tokens": 154,
+        "total_tokens": 2447
+      },
+      "rate_limit_events": [],
+      "raw_response": "To apply for a bachelor programme at the University of Vienna as a non-EU citizen, you need to submit: \n- a scan of your valid passport or personal ID card [1]\n- your original secondary-school leaving certificate with legalisation and sworn translation if necessary [1]\n- a list of subjects with legalisation and sworn translation if necessary [1]\n- transcripts/diplomas if you have already studied, with legalisation and sworn translation if necessary [1]\n- proof of German language proficiency at level A2 or higher for German and multilingual programmes [1]\n- proof of English language proficiency at level B2 or higher for certain bachelor programmes [1]\n- proof of university entrance exam with Apostille, depending on your country of origin [2].",
+      "finish_reason": "stop",
+      "latency_ms": 2387.4
+    }
+  },
+  "query_id": "g22:canonical:0",
+  "status": "ok",
+  "answer": "To apply for a bachelor programme at the University of Vienna as a non-EU citizen, you need to submit: \n- a scan of your valid passport or personal ID card [1]\n- your original secondary-school leaving certificate with legalisation and sworn translation if necessary [1]\n- a list of subjects with legalisation and sworn translation if necessary [1]\n- transcripts/diplomas if you have already studied, with legalisation and sworn translation if necessary [1]\n- proof of German language proficiency at level A2 or higher for German and multilingual programmes [1]\n- proof of English language proficiency at level B2 or higher for certain bachelor programmes [1]\n- proof of university entrance exam with Apostille, depending on your country of origin [2].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+      "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+      "heading_path": [
+        "I want to study a bachelor/diploma programme",
+        "General requirements for the application for admission to bachelor/diploma programmes"
+      ],
+      "section": "Admission",
+      "chunk_id": "8d4ed91613a3-001",
+      "score": 0.7853
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+      "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+      "heading_path": [
+        "I want to study a bachelor/diploma programme",
+        "Country-specific info"
+      ],
+      "section": "Admission",
+      "chunk_id": "8d4ed91613a3-004",
+      "score": 0.7813
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 2293,
+    "completion_tokens": 154,
+    "total_tokens": 2447
+  },
+  "total_latency_ms": 2394.9
+}

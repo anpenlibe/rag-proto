@@ -1,0 +1,709 @@
+{
+  "trace_id": "b5a48accb01c",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Can students from other universities also study a single semester in a master programme here?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Can students from other universities also study a single semester in a master programme here?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "9aad396882f4-000",
+          "page_id": "9aad396882f4",
+          "score": 0.7402,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 59,
+          "text": "The admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c807419)\n\n[### Master programmes without entrance exam procedure](#c807424)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.7396,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.729,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "7916c3fc6510-111",
+          "page_id": "7916c3fc6510",
+          "score": 0.7282,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 81,
+          "text": "reading rooms for studying. External persons can also borrow books. Related Links: - [Vienna University Library](https://bibliothek.univie.ac.at/en/) - [u:card for external library users](https://bibliothek.univie.ac.at/en/bibliotheksausweis.html) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29980&cHash=1c9c65775b66f5cff220ddbf18110d0e) - Visiting Master The Visiting Master allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna. Applicants have to meet certain admission requirements, e.g. they must present a letter of recommendation from their home university. Related Links: - [Visiting Master](/en/admission/master-programmes/visiting-master/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06)"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7227,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "09f30ecd3e16-000",
+          "page_id": "09f30ecd3e16",
+          "score": 0.7219,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/",
+          "title": "Additional degree programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 219,
+          "text": "You are currently admitted to a degree programme at the University of Vienna and would like to study an additional degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/additional-degree-programmes/additional-master-programme/)\n\n- Number of degree programmes: According to the regulations of the University of Vienna, you can be admitted to an unlimited number of degree programmes. Please note that studying multiple degree programmes successfully and actively entails a higher effort regarding [study organisation](/en/study-organisation/). All degree programmes offered at the University of Vienna are full-time programmes. There is no distinction between main and secondary degree programme. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions regarding family allowance and/or study grants.\n- Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies.\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n\n- [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/#c277199)"
+        },
+        {
+          "id": "fcaf26658999-000",
+          "page_id": "fcaf26658999",
+          "score": 0.7188,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 59,
+          "text": "The admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c806701)\n\n[### Master programmes without entrance exam procedure](#c806706)"
+        },
+        {
+          "id": "7916c3fc6510-083",
+          "page_id": "7916c3fc6510",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for admission. These programmes have their own application deadlines (always in spring, for the following academic year). Related links: - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069) Related entries: - [Application period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30198&cHash=83dcf3f2a3a1fe41d6eef2f91f47ba7c) - Semester abroad As a degree student you can pass one or more semesters abroad at a different university (Outgoing Mobility). The University of Vienna cooperates with numerous partner universities abroad. There are also several mobility programmes offered for incoming students. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Free Mover](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29995&cHash=5488b37118f3efe558bb850a9466ab5d) - [Recognition of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30187&cHash=7ad03787bb35116164cf00dbe2cdd76a) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - [Visiting Master](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31337&cHash=70e303dffac1661c3aafc82b37c76b70) - Seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Senate The Senate consists of 18 members. Together with the Rectorate and the University Board, it forms the governing body of the University of Vienna. Every three years, the Senate is elected by the academic and non-academic university staff. Related Links: - [Senate of the University of Vienna (in German)](https://senat.univie.ac.at/infos-zum-senat/) Related entries: - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31252&cHash=9dc01c87dda397fab5d23352329e6a42) - Special libraries The special libraries belong to the University Library, however, they are located in the different institutes. There you can find literature related"
+        },
+        {
+          "id": "55c68f63e02e-001",
+          "page_id": "55c68f63e02e",
+          "score": 0.7155,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "7916c3fc6510-051",
+          "page_id": "7916c3fc6510",
+          "score": 0.7134,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "M"
+          ],
+          "word_count": 230,
+          "text": "to the degree programme expires. A resumption of the same degree programme is only possible after two academic years (= four semesters). Students with psychological/physical impairments are exempt and don't have to obtain the minimum number of credits. Related Links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [About the admission](/en/admission-procedure/#c510447) Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30855&cHash=fbeb490cf5731d782a7600223421c9d7) - [Prüfungsaktiv - examination activity](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=40196&cHash=c8b5a0cf3da52a9cb8416c0fca47513a) - Mobility programmes The University of Vienna offers a range of mobility programmes. This means that students have the possibility to spend one or more semesters at a different university within Europe or beyond, gather experience living in another country and improve their foreign language skills. Students from abroad can also study at the University of Vienna by means of a mobility programme. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Exchange programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30818&cHash=44ce8bc355947818e4e6cf53f6d144f8) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - Module The curricula of bachelor’s and master’s programmes are divided into modules. Each module specifies the learning outcomes that students have to achieve. You can view the structure of your degree programme and the corresponding modules in your record of examinations in u:space. Related Links: - [Record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Module/subject exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31193&cHash=3e6c779e9e6978b2d98ec222925158b0) - [Record of examinations](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31245&cHash=84f002403c7d9577c0489d8f460cdcaa) - [Stage of the degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31266&cHash=a31be547fd42def4414091d3fe87e1d1) - [Curriculum item](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31282&cHash=0e25d76f4b25fac6b1f9a38f29f70bf0) - Module/subject exam A module exam (or subject exam) is an exam covering the contents of"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7127,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7093,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7066,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "68d75954a82a-000",
+          "page_id": "68d75954a82a",
+          "score": 0.7059,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/",
+          "title": "Master Programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 106,
+          "text": "Here you find a list of all master programmes offered at the University of Vienna.\n\nThe instruction language of most master degree programmes is [German](/en/admission/german-language-proficiency/). Information about [programmes in another language can be found here](/en/degree-programmes/degree-programmes-in-foreign-languages/).\n\nInformation about the application process can be found here.\n\nFor some degree programmes you need to pass an entrance examination\n\n- [Teacher Education Programme (bachelor and master)](/en/degree-programmes/teacher-education-programme/)\n\n© Universität Wien / derknopfdruecker.com\n\n[### alphabetical order](#c177175)\n\n[### by topic](/en/degree-programmes/master-programmes/master-programmes-by-topic/)\n\n[#### Degree Programmes in Foreign Languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[#### Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n[#### Joint Curricula](/en/degree-programmes/master-programmes/joint-curricula/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "785f0a10a7d6-009",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7044,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You want to be admitted to a different master programme without selection procedure? Apply for admission in u:space within the application period and wait for your admission letter. The processing may take several weeks. You will receive your admission letter via e-mail and can also find it in u:space > Personal matters > My documents. Please note that the application and admission periods depend on your citizenship. - [Detailed information on admission to master programmes](/en/admission-procedure/master-programmes/) / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) - Conservation Biology and Biodiversity Management - Contemporary History and Media (with QZB) - Cultural Differences and"
+        },
+        {
+          "id": "c27030ea25ee-000",
+          "page_id": "c27030ea25ee",
+          "score": 0.7035,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/joint-curricula/",
+          "title": "Joint Curricula",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 220,
+          "text": "Joint Programmes are offered in cooperation with one or several other universities. The completion of courses at several universities are an inherent part of the degree programme.\n\nThe admission procedure in some cases is not conducted by the University of Vienna and there are special application periods.\n\n| Info about the degree programme | Info about the admission procedure |\n| --- | --- |\n| [Business Law](/en/degree-programmes/master-programmes/business-law-master/) | [University of Klagenfurt](https://www.aau.at/studium/studienorganisation/zulassung/zulassung-zu-masterstudien/) |\n| [Chemistry & Materials Technology (Chemie & Technologie der Materialien)](/en/degree-programmes/master-programmes/chemistry-and-materials-technology-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Cultural Differences and Transnational Processes (CREOLE)](/en/degree-programmes/master-programmes/cultural-differences-and-transnational-processes-creole-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Evolutionary Systems Biology](/en/degree-programmes/master-programmes/evolutionary-genomics-and-systems-biology-master/) | [Info about admission](https://studieren.univie.ac.at/en/admission/master-programmes/evolutionary-systems-biology/) |\n| [Global History & Global Studies](/en/degree-programmes/master-programmes/global-history-and-global-studies-master/) | [Info about admission](https://global-studies.univie.ac.at/) |\n| [European Master in Health & Physical Activity](/en/degree-programmes/master-programmes/european-master-in-health-and-physical-activity-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Green Chemistry](/en/degree-programmes/master-programmes/green-chemistry-master/) | [Info about the selection procedure at the TU Wien](https://www.tuwien.at/en/studies/studies/master-programmes/chemistry/selection-procedure) |\n| [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/degree-programmes/master-programmes/meicogsciunivie-master/) | [www.meicogsci.eu](http://www.meicogsci.eu) |\n| [Molecular Precision Medicine](/en/degree-programmes/master-programmes/molecular-precision-medicine-master/) | [Special Admission Procedure at the Medical University of Vienna](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/#c47559) |\n| [Multilingual Technologies](/en/degree-programmes/master-programmes/multilingual-technologies-master/) | [in cooperation with Hochschule Campus Wien](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html) |\n| Physics of the Earth | [imgw.univie.ac.at/forschung/geophysik/mpeg](http://imgw.univie.ac.at/forschung/geophysik/mpeg) |\n| Urban Studies | [www.4cities.eu](http://www.4cities.eu/) |\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "7916c3fc6510-026",
+          "page_id": "7916c3fc6510",
+          "score": 0.7033,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "/ - Dean/Dean's Office Together with the vice dean, the dean presides over a faculty or department. The dean’s office is the central contact point for all administrative and organisational issues of the respective faculty. Related entries: - [Faculty](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29992&cHash=9834ee1cb244b7812bac8dd0cb0201a5) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - Degree programme If you have been admitted to a bachelor, diploma, master, Magister, doctoral or PhD degree programme, you are studying a so-called \"degree programme\". There is a curriculum for these programmes. After completing your degree programme, you will receive a title (= academic degree). If you do not (yet) fulfil the admission requirements for the degree programme or are interested in attending individual courses, you can be admitted to the non-degree programme. Related Links: - [Admission procedure](/en/admission-procedure/#c510435) - [Curriculum (in German)](https://senat.univie.ac.at/curricularkommission/curricula/) - [Non-degree programme](/en/admission/non-degree-programme/#c946981) Related entries: - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - Degree programme code Every degree programme in Austria has its own degree programme code, which makes it clearly identifiable. Your degree programme code is specified in u:space in the section \"Studies\" > \"Study Overview\", as well as on your student record sheet in the section \"Personal Matters\" > \"My Documents\". - Description of qualifications For some master programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your"
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7033,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "1c3b37b0f0b8-009",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.7031,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same master programme",
+            "Master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You were already admitted to the master programme without selection procedure that you want to resume now but discontinued your studies? Message us within the application period via the [contact form](/en/contact-form/) and attach a scan of your passport or personal ID card. We will review your request and inform you about your further steps via e-mail. If the curriculum of your degree programme has not changed, you can resume your studies. You do not have to submit an application for admission in u:space and you do not need an online appointment. / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) -"
+        },
+        {
+          "id": "1c3b37b0f0b8-000",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.7026,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 33,
+          "text": "You were admitted to a regular bachelor/diploma or master programme at the University of Vienna and want to resume studying the same degree programme? Here you can find detailed information about this topic."
+        }
+      ],
+      "latency_ms": 18.6
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "9aad396882f4-000",
+          "page_id": "9aad396882f4",
+          "score": 0.7402,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 59,
+          "text": "The admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c807419)\n\n[### Master programmes without entrance exam procedure](#c807424)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.7396,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.729,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "7916c3fc6510-111",
+          "page_id": "7916c3fc6510",
+          "score": 0.7282,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 81,
+          "text": "reading rooms for studying. External persons can also borrow books. Related Links: - [Vienna University Library](https://bibliothek.univie.ac.at/en/) - [u:card for external library users](https://bibliothek.univie.ac.at/en/bibliotheksausweis.html) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29980&cHash=1c9c65775b66f5cff220ddbf18110d0e) - Visiting Master The Visiting Master allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna. Applicants have to meet certain admission requirements, e.g. they must present a letter of recommendation from their home university. Related Links: - [Visiting Master](/en/admission/master-programmes/visiting-master/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06)"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7227,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "09f30ecd3e16-000",
+          "page_id": "09f30ecd3e16",
+          "score": 0.7219,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/",
+          "title": "Additional degree programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 219,
+          "text": "You are currently admitted to a degree programme at the University of Vienna and would like to study an additional degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/additional-degree-programmes/additional-master-programme/)\n\n- Number of degree programmes: According to the regulations of the University of Vienna, you can be admitted to an unlimited number of degree programmes. Please note that studying multiple degree programmes successfully and actively entails a higher effort regarding [study organisation](/en/study-organisation/). All degree programmes offered at the University of Vienna are full-time programmes. There is no distinction between main and secondary degree programme. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions regarding family allowance and/or study grants.\n- Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies.\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n\n- [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/#c277199)"
+        },
+        {
+          "id": "fcaf26658999-000",
+          "page_id": "fcaf26658999",
+          "score": 0.7188,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 59,
+          "text": "The admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c806701)\n\n[### Master programmes without entrance exam procedure](#c806706)"
+        },
+        {
+          "id": "7916c3fc6510-083",
+          "page_id": "7916c3fc6510",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for admission. These programmes have their own application deadlines (always in spring, for the following academic year). Related links: - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069) Related entries: - [Application period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30198&cHash=83dcf3f2a3a1fe41d6eef2f91f47ba7c) - Semester abroad As a degree student you can pass one or more semesters abroad at a different university (Outgoing Mobility). The University of Vienna cooperates with numerous partner universities abroad. There are also several mobility programmes offered for incoming students. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Free Mover](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29995&cHash=5488b37118f3efe558bb850a9466ab5d) - [Recognition of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30187&cHash=7ad03787bb35116164cf00dbe2cdd76a) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - [Visiting Master](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31337&cHash=70e303dffac1661c3aafc82b37c76b70) - Seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Senate The Senate consists of 18 members. Together with the Rectorate and the University Board, it forms the governing body of the University of Vienna. Every three years, the Senate is elected by the academic and non-academic university staff. Related Links: - [Senate of the University of Vienna (in German)](https://senat.univie.ac.at/infos-zum-senat/) Related entries: - [Statutes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31252&cHash=9dc01c87dda397fab5d23352329e6a42) - Special libraries The special libraries belong to the University Library, however, they are located in the different institutes. There you can find literature related"
+        },
+        {
+          "id": "55c68f63e02e-001",
+          "page_id": "55c68f63e02e",
+          "score": 0.7155,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "7916c3fc6510-051",
+          "page_id": "7916c3fc6510",
+          "score": 0.7134,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "M"
+          ],
+          "word_count": 230,
+          "text": "to the degree programme expires. A resumption of the same degree programme is only possible after two academic years (= four semesters). Students with psychological/physical impairments are exempt and don't have to obtain the minimum number of credits. Related Links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [About the admission](/en/admission-procedure/#c510447) Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30855&cHash=fbeb490cf5731d782a7600223421c9d7) - [Prüfungsaktiv - examination activity](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=40196&cHash=c8b5a0cf3da52a9cb8416c0fca47513a) - Mobility programmes The University of Vienna offers a range of mobility programmes. This means that students have the possibility to spend one or more semesters at a different university within Europe or beyond, gather experience living in another country and improve their foreign language skills. Students from abroad can also study at the University of Vienna by means of a mobility programme. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Exchange programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30818&cHash=44ce8bc355947818e4e6cf53f6d144f8) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - Module The curricula of bachelor’s and master’s programmes are divided into modules. Each module specifies the learning outcomes that students have to achieve. You can view the structure of your degree programme and the corresponding modules in your record of examinations in u:space. Related Links: - [Record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Module/subject exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31193&cHash=3e6c779e9e6978b2d98ec222925158b0) - [Record of examinations](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31245&cHash=84f002403c7d9577c0489d8f460cdcaa) - [Stage of the degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31266&cHash=a31be547fd42def4414091d3fe87e1d1) - [Curriculum item](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31282&cHash=0e25d76f4b25fac6b1f9a38f29f70bf0) - Module/subject exam A module exam (or subject exam) is an exam covering the contents of"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7127,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7093,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7066,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "68d75954a82a-000",
+          "page_id": "68d75954a82a",
+          "score": 0.7059,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/",
+          "title": "Master Programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 106,
+          "text": "Here you find a list of all master programmes offered at the University of Vienna.\n\nThe instruction language of most master degree programmes is [German](/en/admission/german-language-proficiency/). Information about [programmes in another language can be found here](/en/degree-programmes/degree-programmes-in-foreign-languages/).\n\nInformation about the application process can be found here.\n\nFor some degree programmes you need to pass an entrance examination\n\n- [Teacher Education Programme (bachelor and master)](/en/degree-programmes/teacher-education-programme/)\n\n© Universität Wien / derknopfdruecker.com\n\n[### alphabetical order](#c177175)\n\n[### by topic](/en/degree-programmes/master-programmes/master-programmes-by-topic/)\n\n[#### Degree Programmes in Foreign Languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[#### Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n[#### Joint Curricula](/en/degree-programmes/master-programmes/joint-curricula/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "785f0a10a7d6-009",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7044,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You want to be admitted to a different master programme without selection procedure? Apply for admission in u:space within the application period and wait for your admission letter. The processing may take several weeks. You will receive your admission letter via e-mail and can also find it in u:space > Personal matters > My documents. Please note that the application and admission periods depend on your citizenship. - [Detailed information on admission to master programmes](/en/admission-procedure/master-programmes/) / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) - Conservation Biology and Biodiversity Management - Contemporary History and Media (with QZB) - Cultural Differences and"
+        },
+        {
+          "id": "c27030ea25ee-000",
+          "page_id": "c27030ea25ee",
+          "score": 0.7035,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/joint-curricula/",
+          "title": "Joint Curricula",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 220,
+          "text": "Joint Programmes are offered in cooperation with one or several other universities. The completion of courses at several universities are an inherent part of the degree programme.\n\nThe admission procedure in some cases is not conducted by the University of Vienna and there are special application periods.\n\n| Info about the degree programme | Info about the admission procedure |\n| --- | --- |\n| [Business Law](/en/degree-programmes/master-programmes/business-law-master/) | [University of Klagenfurt](https://www.aau.at/studium/studienorganisation/zulassung/zulassung-zu-masterstudien/) |\n| [Chemistry & Materials Technology (Chemie & Technologie der Materialien)](/en/degree-programmes/master-programmes/chemistry-and-materials-technology-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Cultural Differences and Transnational Processes (CREOLE)](/en/degree-programmes/master-programmes/cultural-differences-and-transnational-processes-creole-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Evolutionary Systems Biology](/en/degree-programmes/master-programmes/evolutionary-genomics-and-systems-biology-master/) | [Info about admission](https://studieren.univie.ac.at/en/admission/master-programmes/evolutionary-systems-biology/) |\n| [Global History & Global Studies](/en/degree-programmes/master-programmes/global-history-and-global-studies-master/) | [Info about admission](https://global-studies.univie.ac.at/) |\n| [European Master in Health & Physical Activity](/en/degree-programmes/master-programmes/european-master-in-health-and-physical-activity-master/) | [Info about admission](/en/admission-procedure/master-programmes/) |\n| [Green Chemistry](/en/degree-programmes/master-programmes/green-chemistry-master/) | [Info about the selection procedure at the TU Wien](https://www.tuwien.at/en/studies/studies/master-programmes/chemistry/selection-procedure) |\n| [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/degree-programmes/master-programmes/meicogsciunivie-master/) | [www.meicogsci.eu](http://www.meicogsci.eu) |\n| [Molecular Precision Medicine](/en/degree-programmes/master-programmes/molecular-precision-medicine-master/) | [Special Admission Procedure at the Medical University of Vienna](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/#c47559) |\n| [Multilingual Technologies](/en/degree-programmes/master-programmes/multilingual-technologies-master/) | [in cooperation with Hochschule Campus Wien](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html) |\n| Physics of the Earth | [imgw.univie.ac.at/forschung/geophysik/mpeg](http://imgw.univie.ac.at/forschung/geophysik/mpeg) |\n| Urban Studies | [www.4cities.eu](http://www.4cities.eu/) |\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "7916c3fc6510-026",
+          "page_id": "7916c3fc6510",
+          "score": 0.7033,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "/ - Dean/Dean's Office Together with the vice dean, the dean presides over a faculty or department. The dean’s office is the central contact point for all administrative and organisational issues of the respective faculty. Related entries: - [Faculty](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29992&cHash=9834ee1cb244b7812bac8dd0cb0201a5) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - Degree programme If you have been admitted to a bachelor, diploma, master, Magister, doctoral or PhD degree programme, you are studying a so-called \"degree programme\". There is a curriculum for these programmes. After completing your degree programme, you will receive a title (= academic degree). If you do not (yet) fulfil the admission requirements for the degree programme or are interested in attending individual courses, you can be admitted to the non-degree programme. Related Links: - [Admission procedure](/en/admission-procedure/#c510435) - [Curriculum (in German)](https://senat.univie.ac.at/curricularkommission/curricula/) - [Non-degree programme](/en/admission/non-degree-programme/#c946981) Related entries: - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - Degree programme code Every degree programme in Austria has its own degree programme code, which makes it clearly identifiable. Your degree programme code is specified in u:space in the section \"Studies\" > \"Study Overview\", as well as on your student record sheet in the section \"Personal Matters\" > \"My Documents\". - Description of qualifications For some master programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your"
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7033,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "1c3b37b0f0b8-009",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.7031,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same master programme",
+            "Master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You were already admitted to the master programme without selection procedure that you want to resume now but discontinued your studies? Message us within the application period via the [contact form](/en/contact-form/) and attach a scan of your passport or personal ID card. We will review your request and inform you about your further steps via e-mail. If the curriculum of your degree programme has not changed, you can resume your studies. You do not have to submit an application for admission in u:space and you do not need an online appointment. / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) -"
+        },
+        {
+          "id": "1c3b37b0f0b8-000",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.7026,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 33,
+          "text": "You were admitted to a regular bachelor/diploma or master programme at the University of Vienna and want to resume studying the same degree programme? Here you can find detailed information about this topic."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "9aad396882f4-000",
+          "page_id": "9aad396882f4",
+          "score": 0.7402,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 59,
+          "text": "The admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c807419)\n\n[### Master programmes without entrance exam procedure](#c807424)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.7396,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.729,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "7916c3fc6510-111",
+          "page_id": "7916c3fc6510",
+          "score": 0.7282,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 81,
+          "text": "reading rooms for studying. External persons can also borrow books. Related Links: - [Vienna University Library](https://bibliothek.univie.ac.at/en/) - [u:card for external library users](https://bibliothek.univie.ac.at/en/bibliotheksausweis.html) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29980&cHash=1c9c65775b66f5cff220ddbf18110d0e) - Visiting Master The Visiting Master allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna. Applicants have to meet certain admission requirements, e.g. they must present a letter of recommendation from their home university. Related Links: - [Visiting Master](/en/admission/master-programmes/visiting-master/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06)"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7227,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "09f30ecd3e16-000",
+          "page_id": "09f30ecd3e16",
+          "score": 0.7219,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/",
+          "title": "Additional degree programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 219,
+          "text": "You are currently admitted to a degree programme at the University of Vienna and would like to study an additional degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/additional-degree-programmes/additional-master-programme/)\n\n- Number of degree programmes: According to the regulations of the University of Vienna, you can be admitted to an unlimited number of degree programmes. Please note that studying multiple degree programmes successfully and actively entails a higher effort regarding [study organisation](/en/study-organisation/). All degree programmes offered at the University of Vienna are full-time programmes. There is no distinction between main and secondary degree programme. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions regarding family allowance and/or study grants.\n- Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies.\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n\n- [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/#c277199)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Additional master programme\nThe admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c807419)\n\n[### Master programmes without entrance exam procedure](#c807424)\n\n[2] Admission to master programmes — All master programmes > Cooperation with the Central European University (CEU)\nStudents enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/).\n\n[3] Attending courses out of interest — Degree programme or non-degree programme?\ndegree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |\n\n[4] ABC of terminology — V\nreading rooms for studying. External persons can also borrow books. Related Links: - [Vienna University Library](https://bibliothek.univie.ac.at/en/) - [u:card for external library users](https://bibliothek.univie.ac.at/en/bibliotheksausweis.html) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29980&cHash=1c9c65775b66f5cff220ddbf18110d0e) - Visiting Master The Visiting Master allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna. Applicants have to meet certain admission requirements, e.g. they must present a letter of recommendation from their home university. Related Links: - [Visiting Master](/en/admission/master-programmes/visiting-master/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06)\n\n[5] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[6] Additional degree programmes\nYou are currently admitted to a degree programme at the University of Vienna and would like to study an additional degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/additional-degree-programmes/additional-master-programme/)\n\n- Number of degree programmes: According to the regulations of the University of Vienna, you can be admitted to an unlimited number of degree programmes. Please note that studying multiple degree programmes successfully and actively entails a higher effort regarding [study organisation](/en/study-organisation/). All degree programmes offered at the University of Vienna are full-time programmes. There is no distinction between main and secondary degree programme. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions regarding family allowance and/or study grants.\n- Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies.\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n\n- [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/#c277199)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "9aad396882f4-000",
+          "score": 0.7402
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "section": "Admission",
+          "chunk_id": "45310905df19-009",
+          "score": 0.7396
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-003",
+          "score": 0.729
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "V"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-111",
+          "score": 0.7282
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-003",
+          "score": 0.7227
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/",
+          "title": "Additional degree programmes",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "09f30ecd3e16-000",
+          "score": 0.7219
+        }
+      },
+      "context_chars": 5637,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Additional master programme\nThe admission to a master programme is only possible after completing a subject-relevant bachelor or diploma programme in the same or a related discipline. In the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/) you can find out which bachelor/diploma degree programmes qualify for admission to a specific master programme.\n\n[### Master programmes with entrance exam procedure](#c807419)\n\n[### Master programmes without entrance exam procedure](#c807424)\n\n[2] Admission to master programmes — All master programmes > Cooperation with the Central European University (CEU)\nStudents enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/).\n\n[3] Attending courses out of interest — Degree programme or non-degree programme?\ndegree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |\n\n[4] ABC of terminology — V\nreading rooms for studying. External persons can also borrow books. Related Links: - [Vienna University Library](https://bibliothek.univie.ac.at/en/) - [u:card for external library users](https://bibliothek.univie.ac.at/en/bibliotheksausweis.html) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29980&cHash=1c9c65775b66f5cff220ddbf18110d0e) - Visiting Master The Visiting Master allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna. Applicants have to meet certain admission requirements, e.g. they must present a letter of recommendation from their home university. Related Links: - [Visiting Master](/en/admission/master-programmes/visiting-master/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06)\n\n[5] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[6] Additional degree programmes\nYou are currently admitted to a degree programme at the University of Vienna and would like to study an additional degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/additional-degree-programmes/additional-master-programme/)\n\n- Number of degree programmes: According to the regulations of the University of Vienna, you can be admitted to an unlimited number of degree programmes. Please note that studying multiple degree programmes successfully and actively entails a higher effort regarding [study organisation](/en/study-organisation/). All degree programmes offered at the University of Vienna are full-time programmes. There is no distinction between main and secondary degree programme. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions regarding family allowance and/or study grants.\n- Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies.\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n\n- [Information regarding admission to a third teaching subject as complementary degree programme \"Erweiterungsstudium drittes Unterrichtsfach\" (only available in German)](https://studieren.univie.ac.at/zulassung/lehramtsstudien/erweiterungsstudium/#c277199)\n\nQuestion: Can students from other universities also study a single semester in a master programme here?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 1421,
+        "completion_tokens": 34,
+        "total_tokens": 1455
+      },
+      "rate_limit_events": [],
+      "raw_response": "Yes, [4] mentions the \"Visiting Master\" which allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna.",
+      "finish_reason": "stop",
+      "latency_ms": 2216.0
+    }
+  },
+  "query_id": "g16:paraphrase:2",
+  "status": "ok",
+  "answer": "Yes, [4] mentions the \"Visiting Master\" which allows students of a master programme without entrance exam procedure to complete one semester at the University of Vienna.",
+  "citations": [
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "V"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-111",
+      "score": 0.7282
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 1421,
+    "completion_tokens": 34,
+    "total_tokens": 1455
+  },
+  "total_latency_ms": 2234.8
+}

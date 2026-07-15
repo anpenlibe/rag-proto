@@ -1,0 +1,15 @@
+# --- rag-proto baseline ---
+# Vector DB client + local embedding (fastembed ships bge-small-en-v1.5, ONNX/CPU)
+qdrant-client[fastembed]>=1.12
+
+# LLM generation
+groq>=0.13
+
+# Config / API keys
+python-dotenv>=1.0
+
+# Utilities
+tqdm>=4.66
+
+# Tests (`.venv/bin/python -m pytest` — no network, no Qdrant, no keys needed)
+pytest>=8.0

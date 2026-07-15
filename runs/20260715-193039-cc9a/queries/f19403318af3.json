@@ -1,0 +1,758 @@
+{
+  "trace_id": "f19403318af3",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "my advisor mentioned pruefungsaktiv or whatever... do i get in trouble if i'm not that, or is it just a uni money thing?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "my advisor mentioned pruefungsaktiv or whatever... do i get in trouble if i'm not that, or is it just a uni money thing?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "98c081b92ab3-010",
+          "page_id": "98c081b92ab3",
+          "score": 0.7122,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the latest unique payment reference in the correct field. 4. You have completed the payment form correctly. Nevertheless an error occurred. Possible reasons for errors are: the self-service machine in the bank or the bank assistent did not or did not correctly forward the unique payment reference. If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again (best way is directly in u:space via eps-payment or credit card). Otherwise make sure to enter the correct data. 5. You have paid in cash. If you pay in cash at a bank the payment reference is frequently not forwarded. If this is the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7018,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "98c081b92ab3-009",
+          "page_id": "98c081b92ab3",
+          "score": 0.6965,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6866,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.6864,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "55c68f63e02e-001",
+          "page_id": "55c68f63e02e",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6804,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "778653dd2a7c-006",
+          "page_id": "778653dd2a7c",
+          "score": 0.6775,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/equal-status/",
+          "title": "Equal status with EU/EEA citizens",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I have equal status. Why am I suddenly being charged with the tuition fee? - Option 1: Your residence permit had a limited period of validity and has expired. You must submit a new application for equal status as soon as you have received the extension of your residence permit. - Option 2: You have exceeded the planned duration of study and the two tolerance semesters. You must therefore now pay the same tuition fee as students who are nationals of an EU/EEA country. If you fulfill a waiver reason, you can apply for a waiver of the tuition fee. - I have the \"Aufenthaltsbewilligung - Student\". Can I be granted equal status? The \"Aufenthaltsbewilligung - Student\" on its own is not accepted proof of eligibility for the application for equal status. With the \"Aufenthaltsbewilligung - Student\" you can only be granted equal status if you: - additionally have one of the other accepted residence permits or - are eligible for equal status according to international law (§ 91 para. 1 UG 2002) - My application for equal status has been approved. When do I have to start paying? If your application for equal status has been approved, the same rules apply to you as for students who are nationals of an EU/EEA country. This means that the duration of your studies affects the amount of tuition fee."
+        },
+        {
+          "id": "778653dd2a7c-007",
+          "page_id": "778653dd2a7c",
+          "score": 0.6773,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/equal-status/",
+          "title": "Equal status with EU/EEA citizens",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 226,
+          "text": "paying? If your application for equal status has been approved, the same rules apply to you as for students who are nationals of an EU/EEA country. This means that the duration of your studies affects the amount of tuition fee. Your first semester is the semester in which you were first admitted to a degree program. It doesn't matter when you were granted equal status. The semester count does not restart. - I have already paid the tuition fee and have now been granted equal status. Will I get my money back? Yes, a reimbursement of the difference in fees is possible. To claim it, you must submit an [application for reimbursement of the tuition fee](/en/tuition-fee/remission-and-reimbursement/#c1105696). - If you are within the planned duration of studies and tolerance semesters, everything except the Students' Union fee can be refunded. - If you have exceeded the planned duration of studies and tolerance semester, you will only be refunded the difference. When applying for a reimbursement at the Service Desk, select the reimbursement reason \"I have paid too much, so I am applying for a reimbursement of the difference\". - Why do I have to submit the application again and again? If your residence permit has a limited period of validity, so does your equal status. You must therefore submit a new application when you extend your residence permit."
+        },
+        {
+          "id": "da1beee15900-001",
+          "page_id": "da1beee15900",
+          "score": 0.6744,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "0f5bfccf9812-008",
+          "page_id": "0f5bfccf9812",
+          "score": 0.6698,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the"
+        },
+        {
+          "id": "a270af95f995-003",
+          "page_id": "a270af95f995",
+          "score": 0.669,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My rights and obligations"
+          ],
+          "word_count": 226,
+          "text": "#### Study law\n\nYou have rights and obligations that govern your studies from admission until graduation. If you have any questions regarding study law, you can contact the following offices:\n\n- The [directorate of studies](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) responsible for your degree programme should be your first point of contact if you have any questions regarding legal issues and organisational tasks during your studies.\n- Lecturers and examiners are the primary contact persons for the implementation of deviating examination methods for students with disabilities. The SPL makes any fundamental decisions in this regard. The [Accessible Studying Team ('Team Barrierefrei](/en/accessible-studies/)') offers (also anonymous) advice on this.\n- The [Office of the Studienpräses](http://studienpraeses.univie.ac.at) provides support if you encounter problems during your studies that neither your lecturer nor the directorate of studies can solve.\n- If you have questions about [admission](/en/admission-procedure/) and [tuition fee](/en/tuition-fee/), please get in touch with the [Admission Office](https://slw.univie.ac.at/en/about-us/admission-office/).\n- In individual cases, the [Ombuds office for students ('Ombudsstelle für Studierende](https://hochschulombudsstelle.at/)) of the Federal Ministry can help find a solution together with the bodies and members of the educational institution concerned.\n\nA degree programme is based on regulations and laws. In the following section you find the most important regulations:\n\n- [Curriculum - the legal basis for degree programmes](https://senat.univie.ac.at/curricularkommission/curricula/)\n- [Statutes of the University of Vienna - study law](https://satzung.univie.ac.at/en/study-law/)\n- [University law (2002 Universities Act, Part II: Study Law)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "98c081b92ab3-011",
+          "page_id": "98c081b92ab3",
+          "score": 0.6687,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the fee was deducted twice by the bank. Please contact your bank. It has to directly get in touch with the Raiffeisenbank (bank connection of the University of Vienna). A return remittance is only possible via the Raiffeisenbank. → Solution: Directly contact your bank. - An error occurred during the payment of my tuition fee/Students' Union fee. What can I do? In case of an incorrect payment the fee will be returned to your account in most cases. You have to pay again correctly and within the payment period. Then you can re-enrol in your degree programme. You can find possible reasons for an incorrect payment and solutions for the problem when you look at the question \"My fee does not register as received...\" - I have already paid my tuition fee/Students' Union fee. Why can't I download my student documents? If you have paid the tuition fee/Students' Union fee via payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6685,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6678,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-107",
+          "page_id": "7916c3fc6510",
+          "score": 0.6662,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "is admitted to a degree programme. Related Links: - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU) – website](https://vorstudienlehrgang.at/en/vienna/) Related entries: - [Supplementary examination (in the admission letter of bachelor/diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31928&cHash=cf8842ba1574a00f9737609278349b82) - University Sport Institute (USI) The University Sport Institute offers students and academics a wide range of sports courses (USI courses), a variety of (further) training courses as well as preparatory courses for the supplementary exam for assessing sporting aptitude. Related Links: - [University Sport Institute](https://www.usi.at/en/) - [Proof of sporting aptitude (in German)](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/ergaenzungspruefung/) - univie blog The univie blog comprises various articles on studies and everyday university life at the University of Vienna. Additionally, you can also find articles by academics who write about their latest findings. Everybody can contribute to the univie blog and share their experiences and stories about life at the University of Vienna or describe projects in everyday student life. Related Links: - [univie blog](https://blog.univie.ac.at/en/) - Use of unauthorised aids (\"cheating\"/plagiarism) If you use unauthorised aids during an exam (“cheating”), you will not be graded. Your examination attempt/the entire course with continuous assessment will be marked separately (with an “X”) in your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the"
+        },
+        {
+          "id": "1facb80561ec-002",
+          "page_id": "1facb80561ec",
+          "score": 0.6662,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.666,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "98c081b92ab3-008",
+          "page_id": "98c081b92ab3",
+          "score": 0.6657,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme you do not need to pay for the winter semester. This also applies, if you have already completed the last examination but the result is only entered after 31 October. The important thing is that the date of the last examination is on 31 October at the latest. The same applies if you complete your degree programme until 31 March in summer semester. If you have already paid the tuition fee, you can submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). - My fee does not register as \"received\" seven days after paying. What can I do? If your fee is not registered as received seven days after you have paid, it is likely that an error in the payment process has occurred. Check your payment data (payment reference according to u:space, amount of the paid fee, ...). In case of an incorrect payment the bank cannot allocate the paid fee to your student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this"
+        },
+        {
+          "id": "7916c3fc6510-059",
+          "page_id": "7916c3fc6510",
+          "score": 0.6642,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "- [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Plagiarism Plagiarism is the theft of intellectual property, which occurs for example when a text written by somebody else is disguised as one’s own. In many cases, quotes are not correctly cited and thus plagiarised. Special software exists and is also used at the University of Vienna for the purpose of identifying plagiarised texts. If there is proof of plagiarism, the academic degree of the respective student may be revoked. Related Links: - [Office of the Studienpräses - plagiarism](https://studienpraeses.univie.ac.at/en/information-on-study-law/safeguarding-good-scientific-practice/plagiarism/) - Point allocation system Every directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. With the point allocation system, you receive a certain number of points (= points account) every semester which you can use for the registration. You will have a points account for the registration for courses and another one for the registration for exams. If you register for courses offered by different directorates of studies, you will have several points accounts. The points can be used for courses with a limited number of participants. The more points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for"
+        }
+      ],
+      "latency_ms": 9.1
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "98c081b92ab3-010",
+          "page_id": "98c081b92ab3",
+          "score": 0.7122,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the latest unique payment reference in the correct field. 4. You have completed the payment form correctly. Nevertheless an error occurred. Possible reasons for errors are: the self-service machine in the bank or the bank assistent did not or did not correctly forward the unique payment reference. If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again (best way is directly in u:space via eps-payment or credit card). Otherwise make sure to enter the correct data. 5. You have paid in cash. If you pay in cash at a bank the payment reference is frequently not forwarded. If this is the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7018,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "98c081b92ab3-009",
+          "page_id": "98c081b92ab3",
+          "score": 0.6965,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6866,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.6864,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "55c68f63e02e-001",
+          "page_id": "55c68f63e02e",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6804,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "778653dd2a7c-006",
+          "page_id": "778653dd2a7c",
+          "score": 0.6775,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/equal-status/",
+          "title": "Equal status with EU/EEA citizens",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I have equal status. Why am I suddenly being charged with the tuition fee? - Option 1: Your residence permit had a limited period of validity and has expired. You must submit a new application for equal status as soon as you have received the extension of your residence permit. - Option 2: You have exceeded the planned duration of study and the two tolerance semesters. You must therefore now pay the same tuition fee as students who are nationals of an EU/EEA country. If you fulfill a waiver reason, you can apply for a waiver of the tuition fee. - I have the \"Aufenthaltsbewilligung - Student\". Can I be granted equal status? The \"Aufenthaltsbewilligung - Student\" on its own is not accepted proof of eligibility for the application for equal status. With the \"Aufenthaltsbewilligung - Student\" you can only be granted equal status if you: - additionally have one of the other accepted residence permits or - are eligible for equal status according to international law (§ 91 para. 1 UG 2002) - My application for equal status has been approved. When do I have to start paying? If your application for equal status has been approved, the same rules apply to you as for students who are nationals of an EU/EEA country. This means that the duration of your studies affects the amount of tuition fee."
+        },
+        {
+          "id": "778653dd2a7c-007",
+          "page_id": "778653dd2a7c",
+          "score": 0.6773,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/equal-status/",
+          "title": "Equal status with EU/EEA citizens",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 226,
+          "text": "paying? If your application for equal status has been approved, the same rules apply to you as for students who are nationals of an EU/EEA country. This means that the duration of your studies affects the amount of tuition fee. Your first semester is the semester in which you were first admitted to a degree program. It doesn't matter when you were granted equal status. The semester count does not restart. - I have already paid the tuition fee and have now been granted equal status. Will I get my money back? Yes, a reimbursement of the difference in fees is possible. To claim it, you must submit an [application for reimbursement of the tuition fee](/en/tuition-fee/remission-and-reimbursement/#c1105696). - If you are within the planned duration of studies and tolerance semesters, everything except the Students' Union fee can be refunded. - If you have exceeded the planned duration of studies and tolerance semester, you will only be refunded the difference. When applying for a reimbursement at the Service Desk, select the reimbursement reason \"I have paid too much, so I am applying for a reimbursement of the difference\". - Why do I have to submit the application again and again? If your residence permit has a limited period of validity, so does your equal status. You must therefore submit a new application when you extend your residence permit."
+        },
+        {
+          "id": "da1beee15900-001",
+          "page_id": "da1beee15900",
+          "score": 0.6744,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "0f5bfccf9812-008",
+          "page_id": "0f5bfccf9812",
+          "score": 0.6698,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the"
+        },
+        {
+          "id": "a270af95f995-003",
+          "page_id": "a270af95f995",
+          "score": 0.669,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My rights and obligations"
+          ],
+          "word_count": 226,
+          "text": "#### Study law\n\nYou have rights and obligations that govern your studies from admission until graduation. If you have any questions regarding study law, you can contact the following offices:\n\n- The [directorate of studies](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) responsible for your degree programme should be your first point of contact if you have any questions regarding legal issues and organisational tasks during your studies.\n- Lecturers and examiners are the primary contact persons for the implementation of deviating examination methods for students with disabilities. The SPL makes any fundamental decisions in this regard. The [Accessible Studying Team ('Team Barrierefrei](/en/accessible-studies/)') offers (also anonymous) advice on this.\n- The [Office of the Studienpräses](http://studienpraeses.univie.ac.at) provides support if you encounter problems during your studies that neither your lecturer nor the directorate of studies can solve.\n- If you have questions about [admission](/en/admission-procedure/) and [tuition fee](/en/tuition-fee/), please get in touch with the [Admission Office](https://slw.univie.ac.at/en/about-us/admission-office/).\n- In individual cases, the [Ombuds office for students ('Ombudsstelle für Studierende](https://hochschulombudsstelle.at/)) of the Federal Ministry can help find a solution together with the bodies and members of the educational institution concerned.\n\nA degree programme is based on regulations and laws. In the following section you find the most important regulations:\n\n- [Curriculum - the legal basis for degree programmes](https://senat.univie.ac.at/curricularkommission/curricula/)\n- [Statutes of the University of Vienna - study law](https://satzung.univie.ac.at/en/study-law/)\n- [University law (2002 Universities Act, Part II: Study Law)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "98c081b92ab3-011",
+          "page_id": "98c081b92ab3",
+          "score": 0.6687,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the fee was deducted twice by the bank. Please contact your bank. It has to directly get in touch with the Raiffeisenbank (bank connection of the University of Vienna). A return remittance is only possible via the Raiffeisenbank. → Solution: Directly contact your bank. - An error occurred during the payment of my tuition fee/Students' Union fee. What can I do? In case of an incorrect payment the fee will be returned to your account in most cases. You have to pay again correctly and within the payment period. Then you can re-enrol in your degree programme. You can find possible reasons for an incorrect payment and solutions for the problem when you look at the question \"My fee does not register as received...\" - I have already paid my tuition fee/Students' Union fee. Why can't I download my student documents? If you have paid the tuition fee/Students' Union fee via payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the"
+        },
+        {
+          "id": "66b1e5ed443c-002",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6685,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 230,
+          "text": "Please take note of the differences as well as the pros and cons of both options. | Degree programme | Non-degree programme | | --- | --- | | You are admitted to a specific degree programme. | You are admitted to \"attending individual courses\" (\"Besuch einzelner Lehrveranstaltungen\"). | | You are bound to the [admission procedure](/en/admission-procedure/) of the respective degree programme. | You only need your valid passport or personal ID card for admission. | | If applicable, you have to participate in the [entrance exam/selection procedure](/en/entrance-exam/). | You do not have to participate in the entrance exam/selection procedure. | | The amount of the [tuition fee/Students' Union fee](/en/tuition-fee/) depends on your citizenship and duration of studies. | You pay the tuition fee and Students' Union fee, irrespective of your citizenship. | | With regard to courses, you are bound to the order determined in the curriculum (e.g. completing the [STEOP](/en/semester-planning/introductory-and-orientation-period-steop/)). | You are able to choose courses more freely. | | Students admitted to a degree programme are favoured in the allocation of course places. Therefore, you have better chances of obtaining a spot. | Students admitted to degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6678,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-107",
+          "page_id": "7916c3fc6510",
+          "score": 0.6662,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "is admitted to a degree programme. Related Links: - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU) – website](https://vorstudienlehrgang.at/en/vienna/) Related entries: - [Supplementary examination (in the admission letter of bachelor/diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31928&cHash=cf8842ba1574a00f9737609278349b82) - University Sport Institute (USI) The University Sport Institute offers students and academics a wide range of sports courses (USI courses), a variety of (further) training courses as well as preparatory courses for the supplementary exam for assessing sporting aptitude. Related Links: - [University Sport Institute](https://www.usi.at/en/) - [Proof of sporting aptitude (in German)](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/ergaenzungspruefung/) - univie blog The univie blog comprises various articles on studies and everyday university life at the University of Vienna. Additionally, you can also find articles by academics who write about their latest findings. Everybody can contribute to the univie blog and share their experiences and stories about life at the University of Vienna or describe projects in everyday student life. Related Links: - [univie blog](https://blog.univie.ac.at/en/) - Use of unauthorised aids (\"cheating\"/plagiarism) If you use unauthorised aids during an exam (“cheating”), you will not be graded. Your examination attempt/the entire course with continuous assessment will be marked separately (with an “X”) in your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the"
+        },
+        {
+          "id": "1facb80561ec-002",
+          "page_id": "1facb80561ec",
+          "score": 0.6662,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.666,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "98c081b92ab3-008",
+          "page_id": "98c081b92ab3",
+          "score": 0.6657,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme you do not need to pay for the winter semester. This also applies, if you have already completed the last examination but the result is only entered after 31 October. The important thing is that the date of the last examination is on 31 October at the latest. The same applies if you complete your degree programme until 31 March in summer semester. If you have already paid the tuition fee, you can submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). - My fee does not register as \"received\" seven days after paying. What can I do? If your fee is not registered as received seven days after you have paid, it is likely that an error in the payment process has occurred. Check your payment data (payment reference according to u:space, amount of the paid fee, ...). In case of an incorrect payment the bank cannot allocate the paid fee to your student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this"
+        },
+        {
+          "id": "7916c3fc6510-059",
+          "page_id": "7916c3fc6510",
+          "score": 0.6642,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "- [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Plagiarism Plagiarism is the theft of intellectual property, which occurs for example when a text written by somebody else is disguised as one’s own. In many cases, quotes are not correctly cited and thus plagiarised. Special software exists and is also used at the University of Vienna for the purpose of identifying plagiarised texts. If there is proof of plagiarism, the academic degree of the respective student may be revoked. Related Links: - [Office of the Studienpräses - plagiarism](https://studienpraeses.univie.ac.at/en/information-on-study-law/safeguarding-good-scientific-practice/plagiarism/) - Point allocation system Every directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. With the point allocation system, you receive a certain number of points (= points account) every semester which you can use for the registration. You will have a points account for the registration for courses and another one for the registration for exams. If you register for courses offered by different directorates of studies, you will have several points accounts. The points can be used for courses with a limited number of participants. The more points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "98c081b92ab3-010",
+          "page_id": "98c081b92ab3",
+          "score": 0.7122,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the latest unique payment reference in the correct field. 4. You have completed the payment form correctly. Nevertheless an error occurred. Possible reasons for errors are: the self-service machine in the bank or the bank assistent did not or did not correctly forward the unique payment reference. If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again (best way is directly in u:space via eps-payment or credit card). Otherwise make sure to enter the correct data. 5. You have paid in cash. If you pay in cash at a bank the payment reference is frequently not forwarded. If this is the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7018,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "98c081b92ab3-009",
+          "page_id": "98c081b92ab3",
+          "score": 0.6965,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6866,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.6864,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "55c68f63e02e-001",
+          "page_id": "55c68f63e02e",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\nunique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the latest unique payment reference in the correct field. 4. You have completed the payment form correctly. Nevertheless an error occurred. Possible reasons for errors are: the self-service machine in the bank or the bank assistent did not or did not correctly forward the unique payment reference. If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again (best way is directly in u:space via eps-payment or credit card). Otherwise make sure to enter the correct data. 5. You have paid in cash. If you pay in cash at a bank the payment reference is frequently not forwarded. If this is the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the\n\n[2] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nHave you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of\n\n[3] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\nstudent account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges\n\n[4] Attending courses out of interest — Consequences of a non-degree programme\n- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front.\n\n[5] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Consequences of a non-degree programme\n- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-010",
+          "score": 0.7122
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-000",
+          "score": 0.7018
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-009",
+          "score": 0.6965
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-001",
+          "score": 0.6866
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-001",
+          "score": 0.6864
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "section": "Admission",
+          "chunk_id": "55c68f63e02e-001",
+          "score": 0.6835
+        }
+      },
+      "context_chars": 9468,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\nunique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the latest unique payment reference in the correct field. 4. You have completed the payment form correctly. Nevertheless an error occurred. Possible reasons for errors are: the self-service machine in the bank or the bank assistent did not or did not correctly forward the unique payment reference. If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again (best way is directly in u:space via eps-payment or credit card). Otherwise make sure to enter the correct data. 5. You have paid in cash. If you pay in cash at a bank the payment reference is frequently not forwarded. If this is the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the\n\n[2] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nHave you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of\n\n[3] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\nstudent account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges\n\n[4] Attending courses out of interest — Consequences of a non-degree programme\n- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front.\n\n[5] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Consequences of a non-degree programme\n- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front.\n\nQuestion: my advisor mentioned pruefungsaktiv or whatever... do i get in trouble if i'm not that, or is it just a uni money thing?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 2147,
+        "completion_tokens": 101,
+        "total_tokens": 2248
+      },
+      "rate_limit_events": [],
+      "raw_response": "According to [2] and [5], being 'prüfungsaktiv' means taking a certain number of exams, and it affects the university's funding. If you're not 'prüfungsaktiv', it doesn't directly get you in trouble, but it means you're not contributing to the university's funding for research and teaching [2][5]. However, if you're not taking enough exams, you might not be making progress in your studies, which could lead to issues [5].",
+      "finish_reason": "stop",
+      "latency_ms": 2091.8
+    }
+  },
+  "query_id": "g04:weird:0",
+  "status": "ok",
+  "answer": "According to [2] and [5], being 'prüfungsaktiv' means taking a certain number of exams, and it affects the university's funding. If you're not 'prüfungsaktiv', it doesn't directly get you in trouble, but it means you're not contributing to the university's funding for research and teaching [2][5]. However, if you're not taking enough exams, you might not be making progress in your studies, which could lead to issues [5].",
+  "citations": [
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-000",
+      "score": 0.7018
+    },
+    {
+      "n": 5,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-001",
+      "score": 0.6864
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 2147,
+    "completion_tokens": 101,
+    "total_tokens": 2248
+  },
+  "total_latency_ms": 2101.0
+}

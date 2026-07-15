@@ -1,0 +1,715 @@
+{
+  "trace_id": "4dfebadf9749",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "I'm vegan — where can I eat at the University of Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "I'm vegan — where can I eat at the University of Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6938,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.6922,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "673374adc501-002",
+          "page_id": "673374adc501",
+          "score": 0.6688,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "word_count": 66,
+          "text": "With its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair"
+        },
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6671,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.664,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.6621,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "d08ccef68126-001",
+          "page_id": "d08ccef68126",
+          "score": 0.6563,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 83,
+          "text": "university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)"
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6523,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.6496,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.6479,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.6459,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.6402,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.6401,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        },
+        {
+          "id": "413088fcda2f-003",
+          "page_id": "413088fcda2f",
+          "score": 0.6393,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/incoming-students-with-disabilities/",
+          "title": "Incoming students with disabilities",
+          "section": "Accessible studies",
+          "heading_path": [
+            "FAQ for incoming students with disabilities"
+          ],
+          "word_count": 230,
+          "text": "schwerhörige oder gehörlose Studierende? [GESTU](https://www.uniability.org/studium/studienbezogene-serviceeinrichtungen/gestu-gehoerlos-studieren/)bietet Unterstützung durch Gebärdensprachdolmetscher\\*innen, Schriftdolmetscher\\*innen oder Unterstützung Studierender für Mitschriften. - Is personal assistance available? The University of Vienna does not offer personal assistance. For cases where state-funded personal assistance is not available or insufficient, the Accessible Studying team coordinates a project called “ISU”. As part of this project, students enrolled in a teacher education programme provide support to students with disabilities or chronic illnesses. You have to apply in advance. Please check the deadline or [contact the Accessible Studying team](javascript:linkTo_UnCryptMailto('ocknvq,dcttkgtghtgkBwpkxkg0ce0cv');). - Is there accessible transportation around the University? The University of Vienna is not located on a university campus. Courses take place at many different university locations throughout Vienna. You might have to access different buildings and use public transport to reach them. Vienna has a well-developed public transport network. Almost all busses, trains and stations are wheelchair-accessible, but some of the trams are not. You will find tactile guidance orientation in and around many of the stations and stops. Most sidewalks are barrier-free. If you prefer cycling, Vienna is a bike-friendly city. Please note that tickets for public transport are not included in tuition fees. [Information about public transport](https://www.wienerlinien.at/web/wl-en) - What is the Austrian National Union of Students? You can also contact the accessibility department of the Austrian National Union of Students (“Österreichische HochschülerInnenschaft – ÖH”), which is elected by students studying in Austria."
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6387,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "34ad51983701-001",
+          "page_id": "34ad51983701",
+          "score": 0.6379,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 123,
+          "text": "- Nostrification: Detailed info on the requirements for and procedure of the nostrification is available on the website of the [Büro Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/). You will be admitted to a non-degree programme for the purpose of establishing equivalency.\n- Continuing education: On the website of the [Postgraduate Center](https://postgraduatecenter.univie.ac.at/en/) you will find information on the requirements for admission to continuing education courses, certification courses and a lot more.\n- Exchange and mobility programmes: Detailed info on mobility programmes of the University of Vienna is available on the website of the [International Office](https://international.univie.ac.at/en/).\n\n- [Amount and payment of tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed information about the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living – Who can help me with...?](/en/student-life-who-can-help-me-with/)"
+        },
+        {
+          "id": "e9cb4e799824-003",
+          "page_id": "e9cb4e799824",
+          "score": 0.6362,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "word_count": 151,
+          "text": "Who knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "09e120ef2c23-000",
+          "page_id": "09e120ef2c23",
+          "score": 0.6341,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "The University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-006",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6335,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Contact points"
+          ],
+          "word_count": 77,
+          "text": "If you have questions regarding admission at the University of Vienna: [Admission Office](/en/admission-procedure/#c510461)\n\nIf you have questions regarding your study programme: [StudiesServiceCenters (SSC) or StudiesServiceUnit (SSS) of your degree programme](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\nIf you have questions regarding having a previous degree recognised: [Office of the Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/)\n\nThe Austrian Students’ Union (ÖH) offers extensive counselling: [Office for Antiracism Work (and International/Foreign Students)](https://oeh.univie.ac.at/en/offices/office-for-antiracism-work)\n\nDue to the data protection regulation, we cannot provide any information related to personal data to third parties."
+        }
+      ],
+      "latency_ms": 9.3
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6938,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.6922,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "673374adc501-002",
+          "page_id": "673374adc501",
+          "score": 0.6688,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "word_count": 66,
+          "text": "With its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair"
+        },
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6671,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.664,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.6621,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "d08ccef68126-001",
+          "page_id": "d08ccef68126",
+          "score": 0.6563,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 83,
+          "text": "university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find interesting exhibitors, tips for your studies and community corners: it’s well worth a visit!](/en/unileben) - [## \"Ersti-Hilfe-Stelle\" At the Freshers’ Help Desk we’re here to help you get started with your studies – with advice, guidance and a ready ear for your questions.](/en/unileben#c26786)"
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6523,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.6496,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.6479,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.6459,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.6402,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.6401,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        },
+        {
+          "id": "413088fcda2f-003",
+          "page_id": "413088fcda2f",
+          "score": 0.6393,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/incoming-students-with-disabilities/",
+          "title": "Incoming students with disabilities",
+          "section": "Accessible studies",
+          "heading_path": [
+            "FAQ for incoming students with disabilities"
+          ],
+          "word_count": 230,
+          "text": "schwerhörige oder gehörlose Studierende? [GESTU](https://www.uniability.org/studium/studienbezogene-serviceeinrichtungen/gestu-gehoerlos-studieren/)bietet Unterstützung durch Gebärdensprachdolmetscher\\*innen, Schriftdolmetscher\\*innen oder Unterstützung Studierender für Mitschriften. - Is personal assistance available? The University of Vienna does not offer personal assistance. For cases where state-funded personal assistance is not available or insufficient, the Accessible Studying team coordinates a project called “ISU”. As part of this project, students enrolled in a teacher education programme provide support to students with disabilities or chronic illnesses. You have to apply in advance. Please check the deadline or [contact the Accessible Studying team](javascript:linkTo_UnCryptMailto('ocknvq,dcttkgtghtgkBwpkxkg0ce0cv');). - Is there accessible transportation around the University? The University of Vienna is not located on a university campus. Courses take place at many different university locations throughout Vienna. You might have to access different buildings and use public transport to reach them. Vienna has a well-developed public transport network. Almost all busses, trains and stations are wheelchair-accessible, but some of the trams are not. You will find tactile guidance orientation in and around many of the stations and stops. Most sidewalks are barrier-free. If you prefer cycling, Vienna is a bike-friendly city. Please note that tickets for public transport are not included in tuition fees. [Information about public transport](https://www.wienerlinien.at/web/wl-en) - What is the Austrian National Union of Students? You can also contact the accessibility department of the Austrian National Union of Students (“Österreichische HochschülerInnenschaft – ÖH”), which is elected by students studying in Austria."
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6387,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "34ad51983701-001",
+          "page_id": "34ad51983701",
+          "score": 0.6379,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 123,
+          "text": "- Nostrification: Detailed info on the requirements for and procedure of the nostrification is available on the website of the [Büro Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/). You will be admitted to a non-degree programme for the purpose of establishing equivalency.\n- Continuing education: On the website of the [Postgraduate Center](https://postgraduatecenter.univie.ac.at/en/) you will find information on the requirements for admission to continuing education courses, certification courses and a lot more.\n- Exchange and mobility programmes: Detailed info on mobility programmes of the University of Vienna is available on the website of the [International Office](https://international.univie.ac.at/en/).\n\n- [Amount and payment of tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed information about the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living – Who can help me with...?](/en/student-life-who-can-help-me-with/)"
+        },
+        {
+          "id": "e9cb4e799824-003",
+          "page_id": "e9cb4e799824",
+          "score": 0.6362,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "word_count": 151,
+          "text": "Who knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "09e120ef2c23-000",
+          "page_id": "09e120ef2c23",
+          "score": 0.6341,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "The University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-006",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6335,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Contact points"
+          ],
+          "word_count": 77,
+          "text": "If you have questions regarding admission at the University of Vienna: [Admission Office](/en/admission-procedure/#c510461)\n\nIf you have questions regarding your study programme: [StudiesServiceCenters (SSC) or StudiesServiceUnit (SSS) of your degree programme](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\nIf you have questions regarding having a previous degree recognised: [Office of the Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/)\n\nThe Austrian Students’ Union (ÖH) offers extensive counselling: [Office for Antiracism Work (and International/Foreign Students)](https://oeh.univie.ac.at/en/offices/office-for-antiracism-work)\n\nDue to the data protection regulation, we cannot provide any information related to personal data to third parties."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.6938,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.6922,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "673374adc501-002",
+          "page_id": "673374adc501",
+          "score": 0.6688,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "word_count": 66,
+          "text": "With its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair"
+        },
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6671,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.664,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Why study at the University of Vienna? — Uni Insights\nImage 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city.\n\n[2] Studying and Living - Who can help me with ...?\n\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms.\n\n[3] Why study at the University of Vienna? — We are right at the heart of the city of Vienna\nWith its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair\n\n[4] Health during your studies\nJust five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)\n\n[5] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[6] Why study at the University of Vienna? — Uni Insights\nUniversity of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-003",
+          "score": 0.6938
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "d285ba202518-004",
+          "score": 0.6922
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-002",
+          "score": 0.6688
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c36a62909719-001",
+          "score": 0.6671
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-005",
+          "score": 0.664
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-004",
+          "score": 0.6622
+        }
+      },
+      "context_chars": 8025,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Why study at the University of Vienna? — Uni Insights\nImage 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city.\n\n[2] Studying and Living - Who can help me with ...?\n\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms.\n\n[3] Why study at the University of Vienna? — We are right at the heart of the city of Vienna\nWith its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair\n\n[4] Health during your studies\nJust five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)\n\n[5] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[6] Why study at the University of Vienna? — Uni Insights\nUniversity of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in\n\nQuestion: I'm vegan — where can I eat at the University of Vienna?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 2003,
+        "completion_tokens": 48,
+        "total_tokens": 2051
+      },
+      "rate_limit_events": [],
+      "raw_response": "You can eat at two locations at the University of Vienna that offer vegetarian and vegan dishes daily: the Lia Cafeteria on Oskar-Morgenstern-Platz and the Lia Bistro in the University Biology Building [4].",
+      "finish_reason": "stop",
+      "latency_ms": 855.5
+    }
+  },
+  "query_id": "g15:paraphrase:2",
+  "status": "ok",
+  "answer": "You can eat at two locations at the University of Vienna that offer vegetarian and vegan dishes daily: the Lia Cafeteria on Oskar-Morgenstern-Platz and the Lia Bistro in the University Biology Building [4].",
+  "citations": [
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+      "title": "Health during your studies",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "c36a62909719-001",
+      "score": 0.6671
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 2003,
+    "completion_tokens": 48,
+    "total_tokens": 2051
+  },
+  "total_latency_ms": 864.9
+}

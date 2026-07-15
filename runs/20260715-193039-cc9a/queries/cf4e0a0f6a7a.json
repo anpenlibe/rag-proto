@@ -1,0 +1,741 @@
+{
+  "trace_id": "cf4e0a0f6a7a",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "What are the rules on using AI for assignments — is it allowed by default?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What are the rules on using AI for assignments — is it allowed by default?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "de9e9b242685-000",
+          "page_id": "de9e9b242685",
+          "score": 0.8004,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/",
+          "title": "Basic framework for AI use",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 132,
+          "text": "The use of AI in degree programmes is not generally prohibited, but nor is it permitted without any restrictions. Whether and how you may use AI always depends on the specific context, such as:\n\n- the course type\n- the examination or assessment format\n- the specific requirements set by the lecturer\n- the respective learning objectives\n- the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035)\n\nAs a general rule, you are responsible for all work that you submit, including any that has been created using AI tools. This implies that:\n\n- You are responsible for the accuracy, quality and traceability of your work.\n- Any incorrect statements, distortions or fabricated sources are your responsibility.\n- While AI may support you in your work, the substantive contribution and independent thinking must be your own."
+        },
+        {
+          "id": "6a5e795a43db-002",
+          "page_id": "6a5e795a43db",
+          "score": 0.7908,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 187,
+          "text": "permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters."
+        },
+        {
+          "id": "103c041b30cc-000",
+          "page_id": "103c041b30cc",
+          "score": 0.7805,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 194,
+          "text": "Whether and how you may use AI in a course or in an examination is determined by the learning outcomes, the fundamental [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) and the requirements set by the respective lecturer. Therefore, always check out\n\n- the information in u:find\n- notices on Moodle\n- information on specific assignments and examinations\n\nIn the event of ambiguity surrounding the use of AI, it is advisable to consult with the lecturer in advance to establish clear regulations. In instances where there is uncertainty, it is prudent to assume that AI is not permitted unless explicit permission has been obtained.\n\nAI may be used, provided that responsibility for the content is retained and the independent nature of the work is preserved. For example, AI may be used to:\n\n- generate ideas or structure topics\n- gain an overview of a new topic or prepare for reading\n- revise the language of one's own texts\n- support reflection or check comprehensibility\n- find examples or alternatives which are reviewed and contextualised independently\n\nThe use of AI must always be compatible with the requirements set by the lecturer and must not replace your independent contribution."
+        },
+        {
+          "id": "103c041b30cc-001",
+          "page_id": "103c041b30cc",
+          "score": 0.7775,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is usually prohibited:"
+          ],
+          "word_count": 110,
+          "text": "The use of AI is prohibited in cases where it undermines the required competencies or where its use has not been disclosed. It is therefore prohibited to\n\n- submit AI-generated texts or solutions as your own work\n- allow AI to complete assignments, analyses or arguments in full or to a substantial extent\n- use AI in examinations or other forms of assessment where this has not expressly been permitted\n- adopt content generated by AI without indicating this where transparency is required\n- use fabricated sources, quotations or bibliographies without verification\n\nSuch use may be regarded as a breach of the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) or as cheating."
+        },
+        {
+          "id": "fd28cc704381-013",
+          "page_id": "fd28cc704381",
+          "score": 0.7572,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Always follow the teacher's instructions!"
+          ],
+          "word_count": 68,
+          "text": "In the context of academic writing, it is the responsibility of the lecturer to determine the permitted use of aids. Any tools that are not explicitly permitted are prohibited. Prior to commencing work on your text, it is essential to familiarise yourself with the documentation requirements for the use of text-generating AI and other aids. It is imperative to take [data protection considerations](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046) into account at all times."
+        },
+        {
+          "id": "3352c8126bba-001",
+          "page_id": "3352c8126bba",
+          "score": 0.7504,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 164,
+          "text": "In tasks where precision is paramount, it is recommended to employ software that operates in a deterministic manner, as opposed to AI models that are probabilistic in nature. Traditional software often proves to be the better choice in certain domains, for example for precise data calculations. For this purpose, you may want to use software such as Excel or SPSS, in addition to other data analysis tools available to you under a [campus licence](http://For).\n\nThere are areas in which AI performs surprisingly poorly, such as counting or carrying out highly complex tasks. It is therefore important to recognise the limitations of AI and not to use it for purposes for which it is not designed.\n\n**Example: Bibliography**\n\nDo not use AI to generate a bibliography or to arrange an existing one alphabetically. AI may add content or fabricate sources that do not exist. Instead, use a reference management software tool such as Citavi or EndNote, which are available to you with a [campus licence](http://Do)."
+        },
+        {
+          "id": "a9605abef142-002",
+          "page_id": "a9605abef142",
+          "score": 0.7486,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 219,
+          "text": "- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it."
+        },
+        {
+          "id": "51ffcb0bcf14-000",
+          "page_id": "51ffcb0bcf14",
+          "score": 0.7439,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/",
+          "title": "Using AI in Your Studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Imagine you are tasked with writing an academic paper. You are aware of the importance of a clear research question, thorough research and a coherent line of argument. Yet instead of doing everything yourself, there is a new option: AI-supported tools can suggest literature, generate outlines, draft opening sentences and improve your writing style. Artificial intelligence has long become part of everyday student life. At the same time, its use in degree programmes raises important questions: What is permitted? Where are the boundaries? And what do students need to be aware of? On these pages, you will find concise and reliable information on the responsible use of AI in degree programmes at the University of Vienna. You will learn under which conditions AI may be used, which specific provisions apply to examinations and what requires particular attention when using AI. The content is based on the current regulations of the University of Vienna and is intended for students of all disciplines. The aim is to support a responsible, transparent and reflective use of AI. [### What Is Artificial Intelligence?](/en/using-ai-in-your-studies/what-is-artificial-intelligence/) [### AI in Your Studies: What Is Permitted?](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/) [### Academic work and writing](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/) [### AI and examinations](/en/using-ai-in-your-studies/ai-and-exams/) [## u:ai – The University of Vienna's AI tool](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/) [### Further information](/en/using-ai-in-your-studies/further-information/) Generative AI (OpenAI, ChatGPT 5.2) was used on this website and its subpages to adapt content for the target audience. It was"
+        },
+        {
+          "id": "6a5e795a43db-001",
+          "page_id": "6a5e795a43db",
+          "score": 0.7427,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 230,
+          "text": "At the University of Vienna, an examination is a formal opportunity for students to demonstrate the level of knowledge and skills they have acquired and the achievement of the learning outcomes defined in the curriculum. It is not merely a matter of assessing performance for the award of a grade or academic degree, but also of receiving valuable feedback on learning progress and ensuring fairness and academic integrity. In addition to oral and written examinations, written assignments and presentations also count as examinations. In the current age of AI, the nature of examinations is evolving. The focus is shifting from mere knowledge reproduction to assessing higher levels of competence, such as reflection, transfer and design. Consequently, emphasis is now on both the final outcome and the individual learner's progress and development. Whether and how you may use AI in examinations is determined by the respective examiners. - Where can you find the rules and regulations? The binding provisions specifying which AI tools are permitted for a particular course or examination can be found directly in the course description in u:find. As a general rule, anything not explicitly listed there as permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments,"
+        },
+        {
+          "id": "625208520815-000",
+          "page_id": "625208520815",
+          "score": 0.74,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/",
+          "title": "AI in your Studies: What is permitted?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 141,
+          "text": "AI can provide support at various points throughout your degree programme, such as idea structuring, understanding complex content and text revision. However, there are clear guidelines in place regarding the application and extent to which AI can be utilised in degree programmes.\n\nThe University of Vienna supports the responsible use of artificial intelligence in degree programmes, provided that such use is transparent, complies with regulations, upholds the [principles of academic integrity](https://backend.univie.ac.at/?id=225768), and that it supports you in achieving the intended learning outcomes.\n\nWhether and how the use of AI is permitted always depends on the specific context. In case of doubt, the following applies: AI is not permitted unless clear permission has been granted.\n\n[### Basic framework](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/)\n\n[### What is permitted? And what is not?](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/)\n\n[### Data protection and copyright](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/)\n\n[## Things AI is not recommended for](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/)\n\n[### AI and examinations](/en/using-ai-in-your-studies/ai-and-exams/)"
+        },
+        {
+          "id": "6c146960b7f3-001",
+          "page_id": "6c146960b7f3",
+          "score": 0.7361,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-tutor-for-academic-writing/",
+          "title": "Your AI tutor for academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Example prompt: Your AI Tutor for academic writing"
+          ],
+          "word_count": 230,
+          "text": "“You are an academic AI tutor who supports me in writing my [seminar paper … on the topic of …]. Your task is to provide targeted support depending on the type of task, while respecting the principles of good academic practice and safeguarding my independence and originality. You must also strictly observe the learning outcomes. Distinguish between the following types of tasks: 1. Linguistic, formal and organisational tasks (Later Order Concerns – LOCs): - You support me with tasks relating to linguistic and formal quality as well as organisation, such as revising texts (spelling, grammar, style) or managing literature. - Ensure that your suggestions are clear, precise and helpful, but do not distort the academic context. - Examples: “Can you check this text for grammar and style?” or “Create a list of correctly formatted references from the following sources: […]”. 2. Intellectually demanding tasks (Higher Order Concerns – HOCs): - For tasks such as developing arguments, formulating research questions or interpreting results, you may act only in a supportive capacity. - Your role is that of a partner in reflection in the sense of a Socratic dialogue: you ask targeted, open-ended questions that encourage me to critically examine, further develop and independently deepen my ideas. - Do not provide direct answers or ready-made solutions, but promote my own intellectual contribution. - Examples: “Which assumptions underpin your hypothesis?” or “How might"
+        },
+        {
+          "id": "fd28cc704381-012",
+          "page_id": "fd28cc704381",
+          "score": 0.7354,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 83,
+          "text": "need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept all corrections or comments suggested by the AI. Suitable tools: ChatGPT, DeepL Write, Grammarly AI can support the writing process at all stages. In tasks that relate to content-related argumentation, interpretation or evaluation, it is essential to use AI with restraint and reflection."
+        },
+        {
+          "id": "3352c8126bba-002",
+          "page_id": "3352c8126bba",
+          "score": 0.7338,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [
+            "When it is the journey that matters"
+          ],
+          "word_count": 104,
+          "text": "There are tasks that require your personal attention to ensure genuine progress. This is particularly relevant in the context of academic writing, where the process of articulating ideas through writing often clarifies their intended expression. The writing process facilitates the organisation of ideas and their refinement into a coherent structure.\n\nThe ability to write is developed through practical experience. This process cannot be delegated to artificial intelligence. Mastering the writing process independently is not only essential, but also a fundamental learning outcome of academic work and a key requirement of good academic practice.\n\nThere are, however, ways to [support your writing process with AI](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/)."
+        },
+        {
+          "id": "6c146960b7f3-000",
+          "page_id": "6c146960b7f3",
+          "score": 0.7323,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-tutor-for-academic-writing/",
+          "title": "Your AI tutor for academic writing",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "AI-supported tools can be customised to align with specific learning outcomes and work requirements. It is quite simple to configure a personalised AI tutor chatbot that supports academic work without compromising independent performance.\n\n- Such an AI tutor can be set up to assume tasks at the linguistic and formal level, for example revising texts, correcting style or organising literature.\n- With regard to substantive tasks, such as developing the line of argument, the tutor's role is to provide support and act as a partner in reflection, in the sense of a Socratic dialogue. By posing targeted questions, the tutor can stimulate critical thinking and in-depth engagement with the content, without undermining users' independence or creative contribution.\n\nConfigured like this, the AI tutor can offer targeted support without replacing intellectual work.\n\nRecommendation: your AI tutor should first request that you define the learning outcomes of the assignment. On this basis, they will then be able to distinguish between [Higher Order Concerns (HOCs) and Later Order Concerns (LOCs)](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/#c1268678). If the learning outcomes are unclear, the tutor will assist in defining them. This ensures that AI is used in a targeted manner to provide support without undermining the independence required in academic work."
+        },
+        {
+          "id": "fd28cc704381-011",
+          "page_id": "fd28cc704381",
+          "score": 0.7308,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself whether and how to accept the suggested corrections. - Word choice and phrasing assistance: AI can assist you with word choice and phrasing. Specifically, AI can help you with suggestions for synonyms, rephrasing, or suggestions for variations of a sentence with different linguistic registers. Structure your query so that the AI suggests alternative expressions or synonyms that are stylistically and technically appropriate. Avoid queries that could lead to simplifications in content or shifts in meaning. The decision on which wording to use remains yours. - Check grammar and punctuation: Ask the AI to identify grammatical errors and punctuation mistakes. The request should make it clear that no changes are to be made to the content and that the technical meaning remains unchanged. #### #### Tip: Lists instead of finished text Don't let the AI formulate a corrected version of the text; instead, ask for a list of the points that need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept"
+        },
+        {
+          "id": "fd28cc704381-010",
+          "page_id": "fd28cc704381",
+          "score": 0.7298,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "that the AI supports you with organizational tasks, such as clustering topics or summarizing abstracts. The request should make it clear that the selection, evaluation, and classification of the literature is done independently and that the AI does not make any decisions regarding relevance. Please note the information on [literature research](#c1268854). Even during the writing process, AI should be used in such a way that it provides guidance and feedback without taking over key decisions regarding content or lines of argumentation, or formulating text for you. - Revision: Language and formal precision During the revision phase, AI can be particularly helpful with linguistic and formal aspects. This support relates to the presentation of the text, not its content. Possible areas of application: - Feedback on language, style, and text context: Formulate your request in such a way that the AI provides feedback on linguistic quality and readability without changing the content or introducing new arguments. Ask it to highlight problematic passages and suggest improvements rather than completely rewriting the text. - Spelling and correction assistance: Ensure that the request relates exclusively to orthographic correctness. The AI should correct spelling mistakes, typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself"
+        },
+        {
+          "id": "6a5e795a43db-006",
+          "page_id": "6a5e795a43db",
+          "score": 0.7295,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important information for learning with AI"
+          ],
+          "word_count": 230,
+          "text": "The use of AI tools can support the learning process, but it also presents challenges. In order to use AI sensibly and responsibly, it is important to consider a few fundamental aspects. - Due to its [functionality](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268970), AI may produce incorrect, incomplete or imprecise information, even if it sounds plausible. Therefore, it is advisable to always compare responses with your own materials. - Subject-specific terminology may be used differently depending on the discipline. When asked to define technical terms, AI generally draws on the meaning most frequently represented in its training data. This may result in definitions that do not correspond to the specific discipline or that lack subject-specific nuances. Only adopt definitions or explanations if they align with the academic requirements of your course. - AI-supported learning tools can heavily structure the learning process, for example through predefined learning paths, automatic revision or recommended content. While this can be helpful, it also entails the risk that your learning process becomes overly externally directed: learning is individual and not every recommendation generated by AI suits your personal learning style. Therefore, consciously set your own priorities. - A common risk factor is increasing dependence on AI tools. If explanations, solution strategies or summaries are regularly delegated to AI, this may impair your ability to think through content independently and to solve problems on your own. Especially at the beginning of your"
+        },
+        {
+          "id": "6a5e795a43db-007",
+          "page_id": "6a5e795a43db",
+          "score": 0.7253,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important information for learning with AI"
+          ],
+          "word_count": 58,
+          "text": "is increasing dependence on AI tools. If explanations, solution strategies or summaries are regularly delegated to AI, this may impair your ability to think through content independently and to solve problems on your own. Especially at the beginning of your studies, it is therefore important to use AI with restraint and to first develop your own learning strategies."
+        },
+        {
+          "id": "3352c8126bba-000",
+          "page_id": "3352c8126bba",
+          "score": 0.7248,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 200,
+          "text": "While AI has demonstrated remarkable capabilities, there are areas where its use is not recommended, as it could potentially compromise the autonomy of your scientific work or the integrity of your learning processes.\n\nAI-generated summaries can provide an overview, but it is important to remember that they do not replace your own engagement with the material. Please note that AI-generated summaries are often also inadequate in terms of content, as they may omit essential aspects or distort statements from the original.\n\nRecommendation: Engage with the topic yourself first or read the texts and then use AI for targeted follow-up questions, for example to clarify aspects you have not understood.\n\nTip: Do not use AI as a substitute for reading, but as a reading coach.\n\nAI can support you in reading academic texts actively, critically and in a structured manner. For instance, it can provide guiding questions, suggestions for highlighting central arguments, or explanations of individual terms. It is recommended that you read the text yourself first and then use AI for targeted follow-up questions. This will help you to close gaps in understanding or to better contextualise argumentative structures (see tips on [prompting](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/controlling-ai-in-a-targeted-manner-the-importance-of-prompting-correctly/)).\n\nFurther information: [AI and reading academic texts](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_reading_academic_texts_EN.pdf)"
+        },
+        {
+          "id": "277b16002959-005",
+          "page_id": "277b16002959",
+          "score": 0.7242,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/controlling-ai-in-a-targeted-manner-the-importance-of-prompting-correctly/",
+          "title": "Prompting correctly",
+          "section": "Study organisation",
+          "heading_path": [
+            "Rule of Thumb: „Act as if it’s human“",
+            "Further tips"
+          ],
+          "word_count": 202,
+          "text": "- Reduce complexity: If you give AI complex tasks, it may not perform them satisfactorily. In this case, it can help to break the task down into smaller parts and also tell the AI in which order the tasks should be performed:\n  - Do X first, then Y\n  - Proceed step by step\n- Use different wording: Sometimes it helps to rephrase the prompt to make a difference.\n- Check the scope of knowledge: AI systems are based on training data that was available up to a certain point in time. The AI you are using may not know anything about current events or specific topics (see Knowledge Cut-Off at [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/)). If your prompt refers to something very new or niche knowledge, the AI may not have an answer. In this case, there is a high risk of [hallucinations](?id=225758#1268300).\n- Take a break and try again: When a platform is heavily used or before or during technical updates, the systems sometimes do not respond as desired. In such cases, the best solution is often to take a break and try again later.\n- Use online resources: Many AI platforms have helpful documentation or user forums where you can find tips and advice."
+        }
+      ],
+      "latency_ms": 7.6
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "de9e9b242685-000",
+          "page_id": "de9e9b242685",
+          "score": 0.8004,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/",
+          "title": "Basic framework for AI use",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 132,
+          "text": "The use of AI in degree programmes is not generally prohibited, but nor is it permitted without any restrictions. Whether and how you may use AI always depends on the specific context, such as:\n\n- the course type\n- the examination or assessment format\n- the specific requirements set by the lecturer\n- the respective learning objectives\n- the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035)\n\nAs a general rule, you are responsible for all work that you submit, including any that has been created using AI tools. This implies that:\n\n- You are responsible for the accuracy, quality and traceability of your work.\n- Any incorrect statements, distortions or fabricated sources are your responsibility.\n- While AI may support you in your work, the substantive contribution and independent thinking must be your own."
+        },
+        {
+          "id": "6a5e795a43db-002",
+          "page_id": "6a5e795a43db",
+          "score": 0.7908,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 187,
+          "text": "permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters."
+        },
+        {
+          "id": "103c041b30cc-000",
+          "page_id": "103c041b30cc",
+          "score": 0.7805,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 194,
+          "text": "Whether and how you may use AI in a course or in an examination is determined by the learning outcomes, the fundamental [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) and the requirements set by the respective lecturer. Therefore, always check out\n\n- the information in u:find\n- notices on Moodle\n- information on specific assignments and examinations\n\nIn the event of ambiguity surrounding the use of AI, it is advisable to consult with the lecturer in advance to establish clear regulations. In instances where there is uncertainty, it is prudent to assume that AI is not permitted unless explicit permission has been obtained.\n\nAI may be used, provided that responsibility for the content is retained and the independent nature of the work is preserved. For example, AI may be used to:\n\n- generate ideas or structure topics\n- gain an overview of a new topic or prepare for reading\n- revise the language of one's own texts\n- support reflection or check comprehensibility\n- find examples or alternatives which are reviewed and contextualised independently\n\nThe use of AI must always be compatible with the requirements set by the lecturer and must not replace your independent contribution."
+        },
+        {
+          "id": "103c041b30cc-001",
+          "page_id": "103c041b30cc",
+          "score": 0.7775,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is usually prohibited:"
+          ],
+          "word_count": 110,
+          "text": "The use of AI is prohibited in cases where it undermines the required competencies or where its use has not been disclosed. It is therefore prohibited to\n\n- submit AI-generated texts or solutions as your own work\n- allow AI to complete assignments, analyses or arguments in full or to a substantial extent\n- use AI in examinations or other forms of assessment where this has not expressly been permitted\n- adopt content generated by AI without indicating this where transparency is required\n- use fabricated sources, quotations or bibliographies without verification\n\nSuch use may be regarded as a breach of the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) or as cheating."
+        },
+        {
+          "id": "fd28cc704381-013",
+          "page_id": "fd28cc704381",
+          "score": 0.7572,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Always follow the teacher's instructions!"
+          ],
+          "word_count": 68,
+          "text": "In the context of academic writing, it is the responsibility of the lecturer to determine the permitted use of aids. Any tools that are not explicitly permitted are prohibited. Prior to commencing work on your text, it is essential to familiarise yourself with the documentation requirements for the use of text-generating AI and other aids. It is imperative to take [data protection considerations](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046) into account at all times."
+        },
+        {
+          "id": "3352c8126bba-001",
+          "page_id": "3352c8126bba",
+          "score": 0.7504,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 164,
+          "text": "In tasks where precision is paramount, it is recommended to employ software that operates in a deterministic manner, as opposed to AI models that are probabilistic in nature. Traditional software often proves to be the better choice in certain domains, for example for precise data calculations. For this purpose, you may want to use software such as Excel or SPSS, in addition to other data analysis tools available to you under a [campus licence](http://For).\n\nThere are areas in which AI performs surprisingly poorly, such as counting or carrying out highly complex tasks. It is therefore important to recognise the limitations of AI and not to use it for purposes for which it is not designed.\n\n**Example: Bibliography**\n\nDo not use AI to generate a bibliography or to arrange an existing one alphabetically. AI may add content or fabricate sources that do not exist. Instead, use a reference management software tool such as Citavi or EndNote, which are available to you with a [campus licence](http://Do)."
+        },
+        {
+          "id": "a9605abef142-002",
+          "page_id": "a9605abef142",
+          "score": 0.7486,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 219,
+          "text": "- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it."
+        },
+        {
+          "id": "51ffcb0bcf14-000",
+          "page_id": "51ffcb0bcf14",
+          "score": 0.7439,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/",
+          "title": "Using AI in Your Studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Imagine you are tasked with writing an academic paper. You are aware of the importance of a clear research question, thorough research and a coherent line of argument. Yet instead of doing everything yourself, there is a new option: AI-supported tools can suggest literature, generate outlines, draft opening sentences and improve your writing style. Artificial intelligence has long become part of everyday student life. At the same time, its use in degree programmes raises important questions: What is permitted? Where are the boundaries? And what do students need to be aware of? On these pages, you will find concise and reliable information on the responsible use of AI in degree programmes at the University of Vienna. You will learn under which conditions AI may be used, which specific provisions apply to examinations and what requires particular attention when using AI. The content is based on the current regulations of the University of Vienna and is intended for students of all disciplines. The aim is to support a responsible, transparent and reflective use of AI. [### What Is Artificial Intelligence?](/en/using-ai-in-your-studies/what-is-artificial-intelligence/) [### AI in Your Studies: What Is Permitted?](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/) [### Academic work and writing](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/) [### AI and examinations](/en/using-ai-in-your-studies/ai-and-exams/) [## u:ai – The University of Vienna's AI tool](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/) [### Further information](/en/using-ai-in-your-studies/further-information/) Generative AI (OpenAI, ChatGPT 5.2) was used on this website and its subpages to adapt content for the target audience. It was"
+        },
+        {
+          "id": "6a5e795a43db-001",
+          "page_id": "6a5e795a43db",
+          "score": 0.7427,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 230,
+          "text": "At the University of Vienna, an examination is a formal opportunity for students to demonstrate the level of knowledge and skills they have acquired and the achievement of the learning outcomes defined in the curriculum. It is not merely a matter of assessing performance for the award of a grade or academic degree, but also of receiving valuable feedback on learning progress and ensuring fairness and academic integrity. In addition to oral and written examinations, written assignments and presentations also count as examinations. In the current age of AI, the nature of examinations is evolving. The focus is shifting from mere knowledge reproduction to assessing higher levels of competence, such as reflection, transfer and design. Consequently, emphasis is now on both the final outcome and the individual learner's progress and development. Whether and how you may use AI in examinations is determined by the respective examiners. - Where can you find the rules and regulations? The binding provisions specifying which AI tools are permitted for a particular course or examination can be found directly in the course description in u:find. As a general rule, anything not explicitly listed there as permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments,"
+        },
+        {
+          "id": "625208520815-000",
+          "page_id": "625208520815",
+          "score": 0.74,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/",
+          "title": "AI in your Studies: What is permitted?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 141,
+          "text": "AI can provide support at various points throughout your degree programme, such as idea structuring, understanding complex content and text revision. However, there are clear guidelines in place regarding the application and extent to which AI can be utilised in degree programmes.\n\nThe University of Vienna supports the responsible use of artificial intelligence in degree programmes, provided that such use is transparent, complies with regulations, upholds the [principles of academic integrity](https://backend.univie.ac.at/?id=225768), and that it supports you in achieving the intended learning outcomes.\n\nWhether and how the use of AI is permitted always depends on the specific context. In case of doubt, the following applies: AI is not permitted unless clear permission has been granted.\n\n[### Basic framework](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/)\n\n[### What is permitted? And what is not?](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/)\n\n[### Data protection and copyright](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/)\n\n[## Things AI is not recommended for](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/)\n\n[### AI and examinations](/en/using-ai-in-your-studies/ai-and-exams/)"
+        },
+        {
+          "id": "6c146960b7f3-001",
+          "page_id": "6c146960b7f3",
+          "score": 0.7361,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-tutor-for-academic-writing/",
+          "title": "Your AI tutor for academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Example prompt: Your AI Tutor for academic writing"
+          ],
+          "word_count": 230,
+          "text": "“You are an academic AI tutor who supports me in writing my [seminar paper … on the topic of …]. Your task is to provide targeted support depending on the type of task, while respecting the principles of good academic practice and safeguarding my independence and originality. You must also strictly observe the learning outcomes. Distinguish between the following types of tasks: 1. Linguistic, formal and organisational tasks (Later Order Concerns – LOCs): - You support me with tasks relating to linguistic and formal quality as well as organisation, such as revising texts (spelling, grammar, style) or managing literature. - Ensure that your suggestions are clear, precise and helpful, but do not distort the academic context. - Examples: “Can you check this text for grammar and style?” or “Create a list of correctly formatted references from the following sources: […]”. 2. Intellectually demanding tasks (Higher Order Concerns – HOCs): - For tasks such as developing arguments, formulating research questions or interpreting results, you may act only in a supportive capacity. - Your role is that of a partner in reflection in the sense of a Socratic dialogue: you ask targeted, open-ended questions that encourage me to critically examine, further develop and independently deepen my ideas. - Do not provide direct answers or ready-made solutions, but promote my own intellectual contribution. - Examples: “Which assumptions underpin your hypothesis?” or “How might"
+        },
+        {
+          "id": "fd28cc704381-012",
+          "page_id": "fd28cc704381",
+          "score": 0.7354,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 83,
+          "text": "need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept all corrections or comments suggested by the AI. Suitable tools: ChatGPT, DeepL Write, Grammarly AI can support the writing process at all stages. In tasks that relate to content-related argumentation, interpretation or evaluation, it is essential to use AI with restraint and reflection."
+        },
+        {
+          "id": "3352c8126bba-002",
+          "page_id": "3352c8126bba",
+          "score": 0.7338,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [
+            "When it is the journey that matters"
+          ],
+          "word_count": 104,
+          "text": "There are tasks that require your personal attention to ensure genuine progress. This is particularly relevant in the context of academic writing, where the process of articulating ideas through writing often clarifies their intended expression. The writing process facilitates the organisation of ideas and their refinement into a coherent structure.\n\nThe ability to write is developed through practical experience. This process cannot be delegated to artificial intelligence. Mastering the writing process independently is not only essential, but also a fundamental learning outcome of academic work and a key requirement of good academic practice.\n\nThere are, however, ways to [support your writing process with AI](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/)."
+        },
+        {
+          "id": "6c146960b7f3-000",
+          "page_id": "6c146960b7f3",
+          "score": 0.7323,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-tutor-for-academic-writing/",
+          "title": "Your AI tutor for academic writing",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "AI-supported tools can be customised to align with specific learning outcomes and work requirements. It is quite simple to configure a personalised AI tutor chatbot that supports academic work without compromising independent performance.\n\n- Such an AI tutor can be set up to assume tasks at the linguistic and formal level, for example revising texts, correcting style or organising literature.\n- With regard to substantive tasks, such as developing the line of argument, the tutor's role is to provide support and act as a partner in reflection, in the sense of a Socratic dialogue. By posing targeted questions, the tutor can stimulate critical thinking and in-depth engagement with the content, without undermining users' independence or creative contribution.\n\nConfigured like this, the AI tutor can offer targeted support without replacing intellectual work.\n\nRecommendation: your AI tutor should first request that you define the learning outcomes of the assignment. On this basis, they will then be able to distinguish between [Higher Order Concerns (HOCs) and Later Order Concerns (LOCs)](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/#c1268678). If the learning outcomes are unclear, the tutor will assist in defining them. This ensures that AI is used in a targeted manner to provide support without undermining the independence required in academic work."
+        },
+        {
+          "id": "fd28cc704381-011",
+          "page_id": "fd28cc704381",
+          "score": 0.7308,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself whether and how to accept the suggested corrections. - Word choice and phrasing assistance: AI can assist you with word choice and phrasing. Specifically, AI can help you with suggestions for synonyms, rephrasing, or suggestions for variations of a sentence with different linguistic registers. Structure your query so that the AI suggests alternative expressions or synonyms that are stylistically and technically appropriate. Avoid queries that could lead to simplifications in content or shifts in meaning. The decision on which wording to use remains yours. - Check grammar and punctuation: Ask the AI to identify grammatical errors and punctuation mistakes. The request should make it clear that no changes are to be made to the content and that the technical meaning remains unchanged. #### #### Tip: Lists instead of finished text Don't let the AI formulate a corrected version of the text; instead, ask for a list of the points that need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept"
+        },
+        {
+          "id": "fd28cc704381-010",
+          "page_id": "fd28cc704381",
+          "score": 0.7298,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "that the AI supports you with organizational tasks, such as clustering topics or summarizing abstracts. The request should make it clear that the selection, evaluation, and classification of the literature is done independently and that the AI does not make any decisions regarding relevance. Please note the information on [literature research](#c1268854). Even during the writing process, AI should be used in such a way that it provides guidance and feedback without taking over key decisions regarding content or lines of argumentation, or formulating text for you. - Revision: Language and formal precision During the revision phase, AI can be particularly helpful with linguistic and formal aspects. This support relates to the presentation of the text, not its content. Possible areas of application: - Feedback on language, style, and text context: Formulate your request in such a way that the AI provides feedback on linguistic quality and readability without changing the content or introducing new arguments. Ask it to highlight problematic passages and suggest improvements rather than completely rewriting the text. - Spelling and correction assistance: Ensure that the request relates exclusively to orthographic correctness. The AI should correct spelling mistakes, typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself"
+        },
+        {
+          "id": "6a5e795a43db-006",
+          "page_id": "6a5e795a43db",
+          "score": 0.7295,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important information for learning with AI"
+          ],
+          "word_count": 230,
+          "text": "The use of AI tools can support the learning process, but it also presents challenges. In order to use AI sensibly and responsibly, it is important to consider a few fundamental aspects. - Due to its [functionality](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268970), AI may produce incorrect, incomplete or imprecise information, even if it sounds plausible. Therefore, it is advisable to always compare responses with your own materials. - Subject-specific terminology may be used differently depending on the discipline. When asked to define technical terms, AI generally draws on the meaning most frequently represented in its training data. This may result in definitions that do not correspond to the specific discipline or that lack subject-specific nuances. Only adopt definitions or explanations if they align with the academic requirements of your course. - AI-supported learning tools can heavily structure the learning process, for example through predefined learning paths, automatic revision or recommended content. While this can be helpful, it also entails the risk that your learning process becomes overly externally directed: learning is individual and not every recommendation generated by AI suits your personal learning style. Therefore, consciously set your own priorities. - A common risk factor is increasing dependence on AI tools. If explanations, solution strategies or summaries are regularly delegated to AI, this may impair your ability to think through content independently and to solve problems on your own. Especially at the beginning of your"
+        },
+        {
+          "id": "6a5e795a43db-007",
+          "page_id": "6a5e795a43db",
+          "score": 0.7253,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important information for learning with AI"
+          ],
+          "word_count": 58,
+          "text": "is increasing dependence on AI tools. If explanations, solution strategies or summaries are regularly delegated to AI, this may impair your ability to think through content independently and to solve problems on your own. Especially at the beginning of your studies, it is therefore important to use AI with restraint and to first develop your own learning strategies."
+        },
+        {
+          "id": "3352c8126bba-000",
+          "page_id": "3352c8126bba",
+          "score": 0.7248,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 200,
+          "text": "While AI has demonstrated remarkable capabilities, there are areas where its use is not recommended, as it could potentially compromise the autonomy of your scientific work or the integrity of your learning processes.\n\nAI-generated summaries can provide an overview, but it is important to remember that they do not replace your own engagement with the material. Please note that AI-generated summaries are often also inadequate in terms of content, as they may omit essential aspects or distort statements from the original.\n\nRecommendation: Engage with the topic yourself first or read the texts and then use AI for targeted follow-up questions, for example to clarify aspects you have not understood.\n\nTip: Do not use AI as a substitute for reading, but as a reading coach.\n\nAI can support you in reading academic texts actively, critically and in a structured manner. For instance, it can provide guiding questions, suggestions for highlighting central arguments, or explanations of individual terms. It is recommended that you read the text yourself first and then use AI for targeted follow-up questions. This will help you to close gaps in understanding or to better contextualise argumentative structures (see tips on [prompting](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/controlling-ai-in-a-targeted-manner-the-importance-of-prompting-correctly/)).\n\nFurther information: [AI and reading academic texts](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_reading_academic_texts_EN.pdf)"
+        },
+        {
+          "id": "277b16002959-005",
+          "page_id": "277b16002959",
+          "score": 0.7242,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/controlling-ai-in-a-targeted-manner-the-importance-of-prompting-correctly/",
+          "title": "Prompting correctly",
+          "section": "Study organisation",
+          "heading_path": [
+            "Rule of Thumb: „Act as if it’s human“",
+            "Further tips"
+          ],
+          "word_count": 202,
+          "text": "- Reduce complexity: If you give AI complex tasks, it may not perform them satisfactorily. In this case, it can help to break the task down into smaller parts and also tell the AI in which order the tasks should be performed:\n  - Do X first, then Y\n  - Proceed step by step\n- Use different wording: Sometimes it helps to rephrase the prompt to make a difference.\n- Check the scope of knowledge: AI systems are based on training data that was available up to a certain point in time. The AI you are using may not know anything about current events or specific topics (see Knowledge Cut-Off at [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/)). If your prompt refers to something very new or niche knowledge, the AI may not have an answer. In this case, there is a high risk of [hallucinations](?id=225758#1268300).\n- Take a break and try again: When a platform is heavily used or before or during technical updates, the systems sometimes do not respond as desired. In such cases, the best solution is often to take a break and try again later.\n- Use online resources: Many AI platforms have helpful documentation or user forums where you can find tips and advice."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "de9e9b242685-000",
+          "page_id": "de9e9b242685",
+          "score": 0.8004,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/",
+          "title": "Basic framework for AI use",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 132,
+          "text": "The use of AI in degree programmes is not generally prohibited, but nor is it permitted without any restrictions. Whether and how you may use AI always depends on the specific context, such as:\n\n- the course type\n- the examination or assessment format\n- the specific requirements set by the lecturer\n- the respective learning objectives\n- the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035)\n\nAs a general rule, you are responsible for all work that you submit, including any that has been created using AI tools. This implies that:\n\n- You are responsible for the accuracy, quality and traceability of your work.\n- Any incorrect statements, distortions or fabricated sources are your responsibility.\n- While AI may support you in your work, the substantive contribution and independent thinking must be your own."
+        },
+        {
+          "id": "6a5e795a43db-002",
+          "page_id": "6a5e795a43db",
+          "score": 0.7908,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 187,
+          "text": "permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters."
+        },
+        {
+          "id": "103c041b30cc-000",
+          "page_id": "103c041b30cc",
+          "score": 0.7805,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 194,
+          "text": "Whether and how you may use AI in a course or in an examination is determined by the learning outcomes, the fundamental [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) and the requirements set by the respective lecturer. Therefore, always check out\n\n- the information in u:find\n- notices on Moodle\n- information on specific assignments and examinations\n\nIn the event of ambiguity surrounding the use of AI, it is advisable to consult with the lecturer in advance to establish clear regulations. In instances where there is uncertainty, it is prudent to assume that AI is not permitted unless explicit permission has been obtained.\n\nAI may be used, provided that responsibility for the content is retained and the independent nature of the work is preserved. For example, AI may be used to:\n\n- generate ideas or structure topics\n- gain an overview of a new topic or prepare for reading\n- revise the language of one's own texts\n- support reflection or check comprehensibility\n- find examples or alternatives which are reviewed and contextualised independently\n\nThe use of AI must always be compatible with the requirements set by the lecturer and must not replace your independent contribution."
+        },
+        {
+          "id": "103c041b30cc-001",
+          "page_id": "103c041b30cc",
+          "score": 0.7775,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is usually prohibited:"
+          ],
+          "word_count": 110,
+          "text": "The use of AI is prohibited in cases where it undermines the required competencies or where its use has not been disclosed. It is therefore prohibited to\n\n- submit AI-generated texts or solutions as your own work\n- allow AI to complete assignments, analyses or arguments in full or to a substantial extent\n- use AI in examinations or other forms of assessment where this has not expressly been permitted\n- adopt content generated by AI without indicating this where transparency is required\n- use fabricated sources, quotations or bibliographies without verification\n\nSuch use may be regarded as a breach of the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) or as cheating."
+        },
+        {
+          "id": "fd28cc704381-013",
+          "page_id": "fd28cc704381",
+          "score": 0.7572,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Always follow the teacher's instructions!"
+          ],
+          "word_count": 68,
+          "text": "In the context of academic writing, it is the responsibility of the lecturer to determine the permitted use of aids. Any tools that are not explicitly permitted are prohibited. Prior to commencing work on your text, it is essential to familiarise yourself with the documentation requirements for the use of text-generating AI and other aids. It is imperative to take [data protection considerations](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046) into account at all times."
+        },
+        {
+          "id": "3352c8126bba-001",
+          "page_id": "3352c8126bba",
+          "score": 0.7504,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 164,
+          "text": "In tasks where precision is paramount, it is recommended to employ software that operates in a deterministic manner, as opposed to AI models that are probabilistic in nature. Traditional software often proves to be the better choice in certain domains, for example for precise data calculations. For this purpose, you may want to use software such as Excel or SPSS, in addition to other data analysis tools available to you under a [campus licence](http://For).\n\nThere are areas in which AI performs surprisingly poorly, such as counting or carrying out highly complex tasks. It is therefore important to recognise the limitations of AI and not to use it for purposes for which it is not designed.\n\n**Example: Bibliography**\n\nDo not use AI to generate a bibliography or to arrange an existing one alphabetically. AI may add content or fabricate sources that do not exist. Instead, use a reference management software tool such as Citavi or EndNote, which are available to you with a [campus licence](http://Do)."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Basic framework for AI use\nThe use of AI in degree programmes is not generally prohibited, but nor is it permitted without any restrictions. Whether and how you may use AI always depends on the specific context, such as:\n\n- the course type\n- the examination or assessment format\n- the specific requirements set by the lecturer\n- the respective learning objectives\n- the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035)\n\nAs a general rule, you are responsible for all work that you submit, including any that has been created using AI tools. This implies that:\n\n- You are responsible for the accuracy, quality and traceability of your work.\n- Any incorrect statements, distortions or fabricated sources are your responsibility.\n- While AI may support you in your work, the substantive contribution and independent thinking must be your own.\n\n[2] AI and Exams — Examinations with AI: What does apply here?\npermitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters.\n\n[3] What is permitted? And what is not?\nWhether and how you may use AI in a course or in an examination is determined by the learning outcomes, the fundamental [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) and the requirements set by the respective lecturer. Therefore, always check out\n\n- the information in u:find\n- notices on Moodle\n- information on specific assignments and examinations\n\nIn the event of ambiguity surrounding the use of AI, it is advisable to consult with the lecturer in advance to establish clear regulations. In instances where there is uncertainty, it is prudent to assume that AI is not permitted unless explicit permission has been obtained.\n\nAI may be used, provided that responsibility for the content is retained and the independent nature of the work is preserved. For example, AI may be used to:\n\n- generate ideas or structure topics\n- gain an overview of a new topic or prepare for reading\n- revise the language of one's own texts\n- support reflection or check comprehensibility\n- find examples or alternatives which are reviewed and contextualised independently\n\nThe use of AI must always be compatible with the requirements set by the lecturer and must not replace your independent contribution.\n\n[4] What is permitted? And what is not? — This is usually prohibited:\nThe use of AI is prohibited in cases where it undermines the required competencies or where its use has not been disclosed. It is therefore prohibited to\n\n- submit AI-generated texts or solutions as your own work\n- allow AI to complete assignments, analyses or arguments in full or to a substantial extent\n- use AI in examinations or other forms of assessment where this has not expressly been permitted\n- adopt content generated by AI without indicating this where transparency is required\n- use fabricated sources, quotations or bibliographies without verification\n\nSuch use may be regarded as a breach of the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) or as cheating.\n\n[5] AI in academic writing — Use Cases of AI in scientific writing > Always follow the teacher's instructions!\nIn the context of academic writing, it is the responsibility of the lecturer to determine the permitted use of aids. Any tools that are not explicitly permitted are prohibited. Prior to commencing work on your text, it is essential to familiarise yourself with the documentation requirements for the use of text-generating AI and other aids. It is imperative to take [data protection considerations](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046) into account at all times.\n\n[6] Things AI is not recommended for\nIn tasks where precision is paramount, it is recommended to employ software that operates in a deterministic manner, as opposed to AI models that are probabilistic in nature. Traditional software often proves to be the better choice in certain domains, for example for precise data calculations. For this purpose, you may want to use software such as Excel or SPSS, in addition to other data analysis tools available to you under a [campus licence](http://For).\n\nThere are areas in which AI performs surprisingly poorly, such as counting or carrying out highly complex tasks. It is therefore important to recognise the limitations of AI and not to use it for purposes for which it is not designed.\n\n**Example: Bibliography**\n\nDo not use AI to generate a bibliography or to arrange an existing one alphabetically. AI may add content or fabricate sources that do not exist. Instead, use a reference management software tool such as Citavi or EndNote, which are available to you with a [campus licence](http://Do).",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/",
+          "title": "Basic framework for AI use",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "de9e9b242685-000",
+          "score": 0.8004
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "6a5e795a43db-002",
+          "score": 0.7908
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "103c041b30cc-000",
+          "score": 0.7805
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+          "title": "What is permitted? And what is not?",
+          "heading_path": [
+            "This is usually prohibited:"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "103c041b30cc-001",
+          "score": 0.7775
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Always follow the teacher's instructions!"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "fd28cc704381-013",
+          "score": 0.7572
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/things-ai-is-not-recommended-for/",
+          "title": "Things AI is not recommended for",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "3352c8126bba-001",
+          "score": 0.7504
+        }
+      },
+      "context_chars": 6301,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Basic framework for AI use\nThe use of AI in degree programmes is not generally prohibited, but nor is it permitted without any restrictions. Whether and how you may use AI always depends on the specific context, such as:\n\n- the course type\n- the examination or assessment format\n- the specific requirements set by the lecturer\n- the respective learning objectives\n- the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035)\n\nAs a general rule, you are responsible for all work that you submit, including any that has been created using AI tools. This implies that:\n\n- You are responsible for the accuracy, quality and traceability of your work.\n- Any incorrect statements, distortions or fabricated sources are your responsibility.\n- While AI may support you in your work, the substantive contribution and independent thinking must be your own.\n\n[2] AI and Exams — Examinations with AI: What does apply here?\npermitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters.\n\n[3] What is permitted? And what is not?\nWhether and how you may use AI in a course or in an examination is determined by the learning outcomes, the fundamental [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) and the requirements set by the respective lecturer. Therefore, always check out\n\n- the information in u:find\n- notices on Moodle\n- information on specific assignments and examinations\n\nIn the event of ambiguity surrounding the use of AI, it is advisable to consult with the lecturer in advance to establish clear regulations. In instances where there is uncertainty, it is prudent to assume that AI is not permitted unless explicit permission has been obtained.\n\nAI may be used, provided that responsibility for the content is retained and the independent nature of the work is preserved. For example, AI may be used to:\n\n- generate ideas or structure topics\n- gain an overview of a new topic or prepare for reading\n- revise the language of one's own texts\n- support reflection or check comprehensibility\n- find examples or alternatives which are reviewed and contextualised independently\n\nThe use of AI must always be compatible with the requirements set by the lecturer and must not replace your independent contribution.\n\n[4] What is permitted? And what is not? — This is usually prohibited:\nThe use of AI is prohibited in cases where it undermines the required competencies or where its use has not been disclosed. It is therefore prohibited to\n\n- submit AI-generated texts or solutions as your own work\n- allow AI to complete assignments, analyses or arguments in full or to a substantial extent\n- use AI in examinations or other forms of assessment where this has not expressly been permitted\n- adopt content generated by AI without indicating this where transparency is required\n- use fabricated sources, quotations or bibliographies without verification\n\nSuch use may be regarded as a breach of the [principles of good academic practice](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/good-scientific-practice/#c1269035) or as cheating.\n\n[5] AI in academic writing — Use Cases of AI in scientific writing > Always follow the teacher's instructions!\nIn the context of academic writing, it is the responsibility of the lecturer to determine the permitted use of aids. Any tools that are not explicitly permitted are prohibited. Prior to commencing work on your text, it is essential to familiarise yourself with the documentation requirements for the use of text-generating AI and other aids. It is imperative to take [data protection considerations](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046) into account at all times.\n\n[6] Things AI is not recommended for\nIn tasks where precision is paramount, it is recommended to employ software that operates in a deterministic manner, as opposed to AI models that are probabilistic in nature. Traditional software often proves to be the better choice in certain domains, for example for precise data calculations. For this purpose, you may want to use software such as Excel or SPSS, in addition to other data analysis tools available to you under a [campus licence](http://For).\n\nThere are areas in which AI performs surprisingly poorly, such as counting or carrying out highly complex tasks. It is therefore important to recognise the limitations of AI and not to use it for purposes for which it is not designed.\n\n**Example: Bibliography**\n\nDo not use AI to generate a bibliography or to arrange an existing one alphabetically. AI may add content or fabricate sources that do not exist. Instead, use a reference management software tool such as Citavi or EndNote, which are available to you with a [campus licence](http://Do).\n\nQuestion: What are the rules on using AI for assignments — is it allowed by default?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 1484,
+        "completion_tokens": 68,
+        "total_tokens": 1552
+      },
+      "rate_limit_events": [],
+      "raw_response": "No, using AI for assignments is not allowed by default [1][3]. Whether and how you may use AI always depends on the specific context, such as the course type, examination format, and lecturer's requirements [1]. If you are unsure, you should consult your lecturer to clarify expectations and framework conditions [2][3].",
+      "finish_reason": "stop",
+      "latency_ms": 495.1
+    }
+  },
+  "query_id": "g08:paraphrase:1",
+  "status": "ok",
+  "answer": "No, using AI for assignments is not allowed by default [1][3]. Whether and how you may use AI always depends on the specific context, such as the course type, examination format, and lecturer's requirements [1]. If you are unsure, you should consult your lecturer to clarify expectations and framework conditions [2][3].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/basic-framework/",
+      "title": "Basic framework for AI use",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "de9e9b242685-000",
+      "score": 0.8004
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+      "title": "AI and Exams",
+      "heading_path": [
+        "Examinations with AI: What does apply here?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "6a5e795a43db-002",
+      "score": 0.7908
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/what-is-permitted-and-what-is-not/",
+      "title": "What is permitted? And what is not?",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "103c041b30cc-000",
+      "score": 0.7805
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 1484,
+    "completion_tokens": 68,
+    "total_tokens": 1552
+  },
+  "total_latency_ms": 502.9
+}

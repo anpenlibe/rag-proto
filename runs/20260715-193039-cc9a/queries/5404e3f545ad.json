@@ -1,0 +1,751 @@
+{
+  "trace_id": "5404e3f545ad",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "If I'm registered for a seminar (pi LV) but don't show up to the first unit, do I get removed?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "If I'm registered for a seminar (pi LV) but don't show up to the first unit, do I get removed?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "94c21ca04583-003",
+          "page_id": "94c21ca04583",
+          "score": 0.7288,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "a pi LV After Step 3: “Select course in u:find” you will be forwarded to the registration system in u:space. Please select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). For courses with a limited number of study places, you will have to assign points or preferences. After you assigned the points or ranked the groups you can click on “Register” to complete the registration. For courses with limited space - that are most of the courses with continuous assessment (pi LV) - you must assign points or preferences for the course during the registration process. For some pi LV groups are offered. **Groups** are parallel offers of a course, which can differ in name, place and time. When registering, you can select several groups and then prioritize them. The more groups you have selected, the more likely you are to get a place. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised and places will be allocated according to the specifications of the curricula (e.g. [points system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226340), [preference system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226332) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/)). Next, the [status of your registration](/en/abc-of-terminology/?no_cache=1#c298840) will"
+        },
+        {
+          "id": "7916c3fc6510-112",
+          "page_id": "7916c3fc6510",
+          "score": 0.6949,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 230,
+          "text": "/ - Waiting list and allocation of remaining places (courses) After the end of a registration deadline, you can check whether or not you gained a place on a lecture/an exam in u:space under Studies > Registration Overview. Furthermore, you receive an e-mail to your u:account e-mail address. If you did not gain a place, you may be listed on the waiting list or be offered an alternative parallel course. If students deregister from a course/exam and a waiting list exists, you can move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. In case of long waiting lists, the directorate of studies (SPL) will probably offer additional parallel courses, for which you may register. In this case, you will be able to change the number of points you allocated before a second allocation may start. If you gained an alternative place (remaining place) in a parallel course for which remaining places are available, you have to confirm or reject your place within the deadline defined by the directorate of studies (SPL). If you reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6855,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6853,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "7916c3fc6510-078",
+          "page_id": "7916c3fc6510",
+          "score": 0.6775,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed"
+        },
+        {
+          "id": "7916c3fc6510-103",
+          "page_id": "7916c3fc6510",
+          "score": 0.6772,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year."
+        },
+        {
+          "id": "7916c3fc6510-075",
+          "page_id": "7916c3fc6510",
+          "score": 0.6767,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars, exercises) the following status values may appear: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt): You have started but not completed your registration or you do not meet the course prerequisites yet. If you meet the requirements by the end of the registration deadline, you will automatically be considered for the allocation. - **Allocation by registration deadline (Zuteilung nach Anmeldefrist)**:If you have registered for a course with a limited number of participants, you are in consideration for the course first. Once the places have been allocated (after the end of the registration deadline), it will be decided whether you gain a place on the course. - Registered (Angemeldet): You have gained a place on the course. In case you do not want to attend, you have to deregister in due time. - On waiting list (Auf Warteliste): You have not been assigned a place on the course. If other students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place"
+        },
+        {
+          "id": "7916c3fc6510-022",
+          "page_id": "7916c3fc6510",
+          "score": 0.6766,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "exercises), you have to complete oral and/or written partial achievements. Your final grade is calculated on the basis of these partial achievements. Information about the partial achievements that will be assessed is provided on u:find and during the respective course. Each directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. The allocation of places will take place either according to the point allocation system, the preference system or the recommended path of study. The status of your registration in u:space informs you whether you are “Registered” (Angemeldet), \"On waiting list\" (Auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If an Alternative place is available, you can accept or reject it within a defined deadline. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered. Students on the waiting list will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places. Examples: Marion attends a seminar (SE) in History. Her presentation, seminar paper and contributions to the discussion of her colleagues’ presentations will be assessed. Max attends an exercise (UE) in Biology. During the exercise,"
+        },
+        {
+          "id": "7916c3fc6510-061",
+          "page_id": "7916c3fc6510",
+          "score": 0.6698,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on the registration procedure, please contact the StudiesServiceUnit (SSS) or StudiesServiceCenter of your degree programme. Example: Max would like to attend a course with 25 available places. A total number of 30 students register for this course. Max allocates 200 points to this course. As 27 other students allocated between 210 and 500 points, he does not get a place. 70 students register for another course with 50 available places. Max allocates 100 points and gets a place, because several students allocated fewer points than he did. Related Links: - [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Positive assessment Your grade will be entered within four weeks after the exam/the completion of a course or final partial achievement. You can check your grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module)."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6672,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "94c21ca04583-000",
+          "page_id": "94c21ca04583",
+          "score": 0.6643,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Seminars, exercises e.g. are courses with continous assessment (German: prüfungsimmanente Lehrveranstaltung, pi LV). Courses with continuous assessment require a registration. In courses with continuous assessment attendance and other requirements are compulsory. The registration deadlines run in the weeks before the semester starts, i.e. in September for the winter semester and in February for the summer semester. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered.\n\nWith the registration to a course, you are automatically registered for the respective Moodle course.\n\n- Some courses have a limited number of participants.\n- Places are allocated in different ways, which are determined by each [directorate of studies](https://studieren.univie.ac.at/en/abc-of-terminology/#c273314) (in German: Studienprogrammleitung, SPL)\n- Either through the [point allocation system](#c600152), the [preference system](#c600156) or the [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/).\n- Students on the [waiting list](https://studieren.univie.ac.at/en/abc-of-terminology/#c273323) will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places."
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.6597,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.6591,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        },
+        {
+          "id": "1c3b37b0f0b8-009",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6578,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same master programme",
+            "Master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You were already admitted to the master programme without selection procedure that you want to resume now but discontinued your studies? Message us within the application period via the [contact form](/en/contact-form/) and attach a scan of your passport or personal ID card. We will review your request and inform you about your further steps via e-mail. If the curriculum of your degree programme has not changed, you can resume your studies. You do not have to submit an application for admission in u:space and you do not need an online appointment. / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) -"
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6577,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "da1beee15900-004",
+          "page_id": "da1beee15900",
+          "score": 0.6564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 162,
+          "text": "/\n\n- I want to take a module examination from an extension curriculum (EC) to fulfil the QZB. How should I proceed?\n\n  In the non-degree programme you are only admitted to \"attending individual courses\". Therefore, you cannot register for the extension curriculum as such. You can only complete the examinations from an EC as lecture examination, not as module examinations. If you have any questions regarding the registration for examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n- I am not able to register for a course. How shall I proceed?\n\n  Please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the course is offered.\n- How can I switch to the degree programme?\n\n  You have successfully completed all courses and fulfil the required qualitative admission requirements in full? Apply for admission to the desired master programme in u:space within the application period. Your application will be processed according to the prevailing legal status at that time."
+        },
+        {
+          "id": "7916c3fc6510-062",
+          "page_id": "7916c3fc6510",
+          "score": 0.656,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-113",
+          "page_id": "7916c3fc6510",
+          "score": 0.6549,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 152,
+          "text": "reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) (Login necessary) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Webmail - E-Mail service The webmail service of the University of Vienna enables students to send, receive and manage their e-mails in a web browser from any location. This service is available for all those who have an active u:account with IMAP e-mail service. Exchange users are automatically forwarded to the Outlook Web App (OWA). Students without an active admission status cannot access their e-mail service. Related Links: - [Webmail - E-Mail service - further information](/en/web-services-uspace-ufind-moodle-webmail/#c242244) - [Webmail - E-Mail service](https://zid.univie.ac.at/en/e-mail/)"
+        },
+        {
+          "id": "1c3b37b0f0b8-004",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.654,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same bachelor/diploma programme",
+            "Bachelor programme without entrance exam procedure"
+          ],
+          "word_count": 230,
+          "text": "You were admitted to a bachelor programme without entrance exam procedure in the past, discontinued your studies and want to resume this degree programme? Message us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. We will implement the resumption of studies within the admission period. Afterwards you will receive information about your further steps via e-mail. The processing may take several days. You do not have to submit an application for admission in u:space. You do not have to complete any Online-Self-Assessment and you do not need an online appointment. / - Bachelor/diploma programmes without entrance exam procedure - African Studies - Ancient History and Studies in Classical Antiquity - Astronomy - Byzantine Studies and Modern Greek Studies - Catholic Theology - Classical Archaeology - Classical Philology - Comparative Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia and Tibet - Linguistics - Mathematics - Meteorology and Climate Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film"
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.65,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        }
+      ],
+      "latency_ms": 8.0
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "94c21ca04583-003",
+          "page_id": "94c21ca04583",
+          "score": 0.7288,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "a pi LV After Step 3: “Select course in u:find” you will be forwarded to the registration system in u:space. Please select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). For courses with a limited number of study places, you will have to assign points or preferences. After you assigned the points or ranked the groups you can click on “Register” to complete the registration. For courses with limited space - that are most of the courses with continuous assessment (pi LV) - you must assign points or preferences for the course during the registration process. For some pi LV groups are offered. **Groups** are parallel offers of a course, which can differ in name, place and time. When registering, you can select several groups and then prioritize them. The more groups you have selected, the more likely you are to get a place. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised and places will be allocated according to the specifications of the curricula (e.g. [points system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226340), [preference system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226332) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/)). Next, the [status of your registration](/en/abc-of-terminology/?no_cache=1#c298840) will"
+        },
+        {
+          "id": "7916c3fc6510-112",
+          "page_id": "7916c3fc6510",
+          "score": 0.6949,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 230,
+          "text": "/ - Waiting list and allocation of remaining places (courses) After the end of a registration deadline, you can check whether or not you gained a place on a lecture/an exam in u:space under Studies > Registration Overview. Furthermore, you receive an e-mail to your u:account e-mail address. If you did not gain a place, you may be listed on the waiting list or be offered an alternative parallel course. If students deregister from a course/exam and a waiting list exists, you can move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. In case of long waiting lists, the directorate of studies (SPL) will probably offer additional parallel courses, for which you may register. In this case, you will be able to change the number of points you allocated before a second allocation may start. If you gained an alternative place (remaining place) in a parallel course for which remaining places are available, you have to confirm or reject your place within the deadline defined by the directorate of studies (SPL). If you reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6855,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6853,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "7916c3fc6510-078",
+          "page_id": "7916c3fc6510",
+          "score": 0.6775,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed"
+        },
+        {
+          "id": "7916c3fc6510-103",
+          "page_id": "7916c3fc6510",
+          "score": 0.6772,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year."
+        },
+        {
+          "id": "7916c3fc6510-075",
+          "page_id": "7916c3fc6510",
+          "score": 0.6767,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars, exercises) the following status values may appear: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt): You have started but not completed your registration or you do not meet the course prerequisites yet. If you meet the requirements by the end of the registration deadline, you will automatically be considered for the allocation. - **Allocation by registration deadline (Zuteilung nach Anmeldefrist)**:If you have registered for a course with a limited number of participants, you are in consideration for the course first. Once the places have been allocated (after the end of the registration deadline), it will be decided whether you gain a place on the course. - Registered (Angemeldet): You have gained a place on the course. In case you do not want to attend, you have to deregister in due time. - On waiting list (Auf Warteliste): You have not been assigned a place on the course. If other students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place"
+        },
+        {
+          "id": "7916c3fc6510-022",
+          "page_id": "7916c3fc6510",
+          "score": 0.6766,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "exercises), you have to complete oral and/or written partial achievements. Your final grade is calculated on the basis of these partial achievements. Information about the partial achievements that will be assessed is provided on u:find and during the respective course. Each directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. The allocation of places will take place either according to the point allocation system, the preference system or the recommended path of study. The status of your registration in u:space informs you whether you are “Registered” (Angemeldet), \"On waiting list\" (Auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If an Alternative place is available, you can accept or reject it within a defined deadline. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered. Students on the waiting list will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places. Examples: Marion attends a seminar (SE) in History. Her presentation, seminar paper and contributions to the discussion of her colleagues’ presentations will be assessed. Max attends an exercise (UE) in Biology. During the exercise,"
+        },
+        {
+          "id": "7916c3fc6510-061",
+          "page_id": "7916c3fc6510",
+          "score": 0.6698,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on the registration procedure, please contact the StudiesServiceUnit (SSS) or StudiesServiceCenter of your degree programme. Example: Max would like to attend a course with 25 available places. A total number of 30 students register for this course. Max allocates 200 points to this course. As 27 other students allocated between 210 and 500 points, he does not get a place. 70 students register for another course with 50 available places. Max allocates 100 points and gets a place, because several students allocated fewer points than he did. Related Links: - [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Positive assessment Your grade will be entered within four weeks after the exam/the completion of a course or final partial achievement. You can check your grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module)."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6672,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "94c21ca04583-000",
+          "page_id": "94c21ca04583",
+          "score": 0.6643,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Seminars, exercises e.g. are courses with continous assessment (German: prüfungsimmanente Lehrveranstaltung, pi LV). Courses with continuous assessment require a registration. In courses with continuous assessment attendance and other requirements are compulsory. The registration deadlines run in the weeks before the semester starts, i.e. in September for the winter semester and in February for the summer semester. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered.\n\nWith the registration to a course, you are automatically registered for the respective Moodle course.\n\n- Some courses have a limited number of participants.\n- Places are allocated in different ways, which are determined by each [directorate of studies](https://studieren.univie.ac.at/en/abc-of-terminology/#c273314) (in German: Studienprogrammleitung, SPL)\n- Either through the [point allocation system](#c600152), the [preference system](#c600156) or the [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/).\n- Students on the [waiting list](https://studieren.univie.ac.at/en/abc-of-terminology/#c273323) will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places."
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.6597,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.6591,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        },
+        {
+          "id": "1c3b37b0f0b8-009",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6578,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same master programme",
+            "Master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "You were already admitted to the master programme without selection procedure that you want to resume now but discontinued your studies? Message us within the application period via the [contact form](/en/contact-form/) and attach a scan of your passport or personal ID card. We will review your request and inform you about your further steps via e-mail. If the curriculum of your degree programme has not changed, you can resume your studies. You do not have to submit an application for admission in u:space and you do not need an online appointment. / - Master programmes without selection procedure - Advanced Theological Studies - African Studies (multilingual) - Ancient History and Studies in Classical Antiquity (multilingual) - Ancient Oriental Philology and Oriental Archaeology - Anglophone Literatures and Cultures (English) - Applied Linguistics - Arab World Studies (multilingual) - Astronomy (English) - Austrian Studies - Cultures, Literatures, Languages - Auxiliary Sciences of History and Archival Studies (multilingual) - Banking and Finance (English, with QZB) - Bioinformatics - Biological Chemistry - Botany (English) - Business Administration (multilingual, with QZB) - Business Informatics - Business Law (admission at partner university) - Byzantine Studies and Modern Greek Studies (multilingual) - Cartography and Geoinformation - Chemistry - Chemistry and Materials Technology - Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) -"
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6577,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "da1beee15900-004",
+          "page_id": "da1beee15900",
+          "score": 0.6564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 162,
+          "text": "/\n\n- I want to take a module examination from an extension curriculum (EC) to fulfil the QZB. How should I proceed?\n\n  In the non-degree programme you are only admitted to \"attending individual courses\". Therefore, you cannot register for the extension curriculum as such. You can only complete the examinations from an EC as lecture examination, not as module examinations. If you have any questions regarding the registration for examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n- I am not able to register for a course. How shall I proceed?\n\n  Please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the course is offered.\n- How can I switch to the degree programme?\n\n  You have successfully completed all courses and fulfil the required qualitative admission requirements in full? Apply for admission to the desired master programme in u:space within the application period. Your application will be processed according to the prevailing legal status at that time."
+        },
+        {
+          "id": "7916c3fc6510-062",
+          "page_id": "7916c3fc6510",
+          "score": 0.656,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-113",
+          "page_id": "7916c3fc6510",
+          "score": 0.6549,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 152,
+          "text": "reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) (Login necessary) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Webmail - E-Mail service The webmail service of the University of Vienna enables students to send, receive and manage their e-mails in a web browser from any location. This service is available for all those who have an active u:account with IMAP e-mail service. Exchange users are automatically forwarded to the Outlook Web App (OWA). Students without an active admission status cannot access their e-mail service. Related Links: - [Webmail - E-Mail service - further information](/en/web-services-uspace-ufind-moodle-webmail/#c242244) - [Webmail - E-Mail service](https://zid.univie.ac.at/en/e-mail/)"
+        },
+        {
+          "id": "1c3b37b0f0b8-004",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.654,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same bachelor/diploma programme",
+            "Bachelor programme without entrance exam procedure"
+          ],
+          "word_count": 230,
+          "text": "You were admitted to a bachelor programme without entrance exam procedure in the past, discontinued your studies and want to resume this degree programme? Message us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. We will implement the resumption of studies within the admission period. Afterwards you will receive information about your further steps via e-mail. The processing may take several days. You do not have to submit an application for admission in u:space. You do not have to complete any Online-Self-Assessment and you do not need an online appointment. / - Bachelor/diploma programmes without entrance exam procedure - African Studies - Ancient History and Studies in Classical Antiquity - Astronomy - Byzantine Studies and Modern Greek Studies - Catholic Theology - Classical Archaeology - Classical Philology - Comparative Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia and Tibet - Linguistics - Mathematics - Meteorology and Climate Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film"
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.65,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "94c21ca04583-003",
+          "page_id": "94c21ca04583",
+          "score": 0.7288,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "a pi LV After Step 3: “Select course in u:find” you will be forwarded to the registration system in u:space. Please select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). For courses with a limited number of study places, you will have to assign points or preferences. After you assigned the points or ranked the groups you can click on “Register” to complete the registration. For courses with limited space - that are most of the courses with continuous assessment (pi LV) - you must assign points or preferences for the course during the registration process. For some pi LV groups are offered. **Groups** are parallel offers of a course, which can differ in name, place and time. When registering, you can select several groups and then prioritize them. The more groups you have selected, the more likely you are to get a place. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised and places will be allocated according to the specifications of the curricula (e.g. [points system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226340), [preference system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226332) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/)). Next, the [status of your registration](/en/abc-of-terminology/?no_cache=1#c298840) will"
+        },
+        {
+          "id": "7916c3fc6510-112",
+          "page_id": "7916c3fc6510",
+          "score": 0.6949,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 230,
+          "text": "/ - Waiting list and allocation of remaining places (courses) After the end of a registration deadline, you can check whether or not you gained a place on a lecture/an exam in u:space under Studies > Registration Overview. Furthermore, you receive an e-mail to your u:account e-mail address. If you did not gain a place, you may be listed on the waiting list or be offered an alternative parallel course. If students deregister from a course/exam and a waiting list exists, you can move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. In case of long waiting lists, the directorate of studies (SPL) will probably offer additional parallel courses, for which you may register. In this case, you will be able to change the number of points you allocated before a second allocation may start. If you gained an alternative place (remaining place) in a parallel course for which remaining places are available, you have to confirm or reject your place within the deadline defined by the directorate of studies (SPL). If you reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6855,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6853,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "7916c3fc6510-078",
+          "page_id": "7916c3fc6510",
+          "score": 0.6775,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed"
+        },
+        {
+          "id": "7916c3fc6510-103",
+          "page_id": "7916c3fc6510",
+          "score": 0.6772,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Registration for courses with continuous assessment — Registration steps\na pi LV After Step 3: “Select course in u:find” you will be forwarded to the registration system in u:space. Please select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). For courses with a limited number of study places, you will have to assign points or preferences. After you assigned the points or ranked the groups you can click on “Register” to complete the registration. For courses with limited space - that are most of the courses with continuous assessment (pi LV) - you must assign points or preferences for the course during the registration process. For some pi LV groups are offered. **Groups** are parallel offers of a course, which can differ in name, place and time. When registering, you can select several groups and then prioritize them. The more groups you have selected, the more likely you are to get a place. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised and places will be allocated according to the specifications of the curricula (e.g. [points system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226340), [preference system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226332) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/)). Next, the [status of your registration](/en/abc-of-terminology/?no_cache=1#c298840) will\n\n[2] ABC of terminology — W\n/ - Waiting list and allocation of remaining places (courses) After the end of a registration deadline, you can check whether or not you gained a place on a lecture/an exam in u:space under Studies > Registration Overview. Furthermore, you receive an e-mail to your u:account e-mail address. If you did not gain a place, you may be listed on the waiting list or be offered an alternative parallel course. If students deregister from a course/exam and a waiting list exists, you can move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. In case of long waiting lists, the directorate of studies (SPL) will probably offer additional parallel courses, for which you may register. In this case, you will be able to change the number of points you allocated before a second allocation may start. If you gained an alternative place (remaining place) in a parallel course for which remaining places are available, you have to confirm or reject your place within the deadline defined by the directorate of studies (SPL). If you reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration\n\n[3] ABC of terminology — R\nstudents deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and\n\n[4] Registration for courses and examinations — Registration for courses\nhave a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will\n\n[5] ABC of terminology — R\nthe course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed\n\n[6] ABC of terminology — U\nyou are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "94c21ca04583-003",
+          "score": 0.7288
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "W"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-112",
+          "score": 0.6949
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "R"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-076",
+          "score": 0.6855
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "271a53027cf1-003",
+          "score": 0.6853
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "R"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-078",
+          "score": 0.6775
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "U"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-103",
+          "score": 0.6772
+        }
+      },
+      "context_chars": 10972,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Registration for courses with continuous assessment — Registration steps\na pi LV After Step 3: “Select course in u:find” you will be forwarded to the registration system in u:space. Please select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). For courses with a limited number of study places, you will have to assign points or preferences. After you assigned the points or ranked the groups you can click on “Register” to complete the registration. For courses with limited space - that are most of the courses with continuous assessment (pi LV) - you must assign points or preferences for the course during the registration process. For some pi LV groups are offered. **Groups** are parallel offers of a course, which can differ in name, place and time. When registering, you can select several groups and then prioritize them. The more groups you have selected, the more likely you are to get a place. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised and places will be allocated according to the specifications of the curricula (e.g. [points system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226340), [preference system](https://studieren.univie.ac.at/en/abc-of-terminology/#c226332) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/)). Next, the [status of your registration](/en/abc-of-terminology/?no_cache=1#c298840) will\n\n[2] ABC of terminology — W\n/ - Waiting list and allocation of remaining places (courses) After the end of a registration deadline, you can check whether or not you gained a place on a lecture/an exam in u:space under Studies > Registration Overview. Furthermore, you receive an e-mail to your u:account e-mail address. If you did not gain a place, you may be listed on the waiting list or be offered an alternative parallel course. If students deregister from a course/exam and a waiting list exists, you can move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. In case of long waiting lists, the directorate of studies (SPL) will probably offer additional parallel courses, for which you may register. In this case, you will be able to change the number of points you allocated before a second allocation may start. If you gained an alternative place (remaining place) in a parallel course for which remaining places are available, you have to confirm or reject your place within the deadline defined by the directorate of studies (SPL). If you reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration\n\n[3] ABC of terminology — R\nstudents deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and\n\n[4] Registration for courses and examinations — Registration for courses\nhave a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will\n\n[5] ABC of terminology — R\nthe course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed\n\n[6] ABC of terminology — U\nyou are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year.\n\nQuestion: If I'm registered for a seminar (pi LV) but don't show up to the first unit, do I get removed?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 2911,
+        "completion_tokens": 35,
+        "total_tokens": 2946
+      },
+      "rate_limit_events": [],
+      "raw_response": "If you are registered for a course with continuous assessment (like a seminar) but do not participate in it, you will be deregistered in most cases [6].",
+      "finish_reason": "stop",
+      "latency_ms": 1124.9
+    }
+  },
+  "query_id": "g07:paraphrase:0",
+  "status": "ok",
+  "answer": "If you are registered for a course with continuous assessment (like a seminar) but do not participate in it, you will be deregistered in most cases [6].",
+  "citations": [
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "U"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-103",
+      "score": 0.6772
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 2911,
+    "completion_tokens": 35,
+    "total_tokens": 2946
+  },
+  "total_latency_ms": 1133.0
+}

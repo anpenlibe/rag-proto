@@ -1,0 +1,718 @@
+{
+  "trace_id": "026b01c31dd9",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Which personal data can I edit myself, and which changes need documentation?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Which personal data can I edit myself, and which changes need documentation?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.6988,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "a592e3a8a9f6-003",
+          "page_id": "a592e3a8a9f6",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/",
+          "title": "Legal requirements",
+          "section": "Study organisation",
+          "heading_path": [
+            "Data protection: Processing personal and confidential data in AI tools"
+          ],
+          "word_count": 187,
+          "text": "During their studies, students often work with sensitive or confidential information, such as interview data, survey results, personal details or internal documents. It is imperative that this data is handled in accordance with the relevant regulations, particularly the General Data Protection Regulation (GDPR).\n\nParticular caution is required when using AI tools, as it is often impossible to trace where entered content is stored or further processed. In particular, the following data should not be entered into AI tools without protection:\n\n- personal data of third parties, obtained for example through interviews, surveys or courses;\n- confidential research data or internal documents;\n- text drafts or scientific work, if their intended use is unclear;\n- sensitive information that allows conclusions to be drawn about individual persons.\n\nIf there is any uncertainty regarding the manner in which an AI tool processes data, it is advisable to refrain from uploading the data. Please refer to the information provided on [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/).\n\nStudents must ensure that they comply with copyright law and that third-party content is correctly labelled. They must also ensure that AI-supported contributions are not presented as their own work."
+        },
+        {
+          "id": "a9605abef142-001",
+          "page_id": "a9605abef142",
+          "score": 0.625,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 230,
+          "text": "General information - Do not use generative AI for research - Do not trust AI-generated content; check everything - Write specific prompts with a clear task, context, and details on format and style - Do not rely on AI-generated summaries - Process AI output further - For each course, check the information in u:find, on Moodle, and information on specific assignments and examinations, and clarify any open questions about the use of AI with the respective lecturer Privacy Policy & Terms of Use - Do not enter sensitive or confidential data into AI tools - Anonymise or avoid entering personal data. - Obtain the express consent of third parties before processing their data in an AI. - Ensure that the data you enter is not used for AI training - Only use GDPR-compliant AI tools that do not store data on servers outside the EU. Copyright - Check whether AI-generated texts are based on copyrighted content and cite the authors appropriately - Ensure that copyrighted texts are reproduced correctly. - AI does not have copyright to its own output. Nevertheless, you may not pass off the content as your own. - Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own"
+        },
+        {
+          "id": "a9605abef142-002",
+          "page_id": "a9605abef142",
+          "score": 0.6213,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 219,
+          "text": "- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it."
+        },
+        {
+          "id": "71536cb5b278-000",
+          "page_id": "71536cb5b278",
+          "score": 0.6158,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 126,
+          "text": "When you use AI in your studies, what is decisive is the extent of your own contribution. A helpful point of reference is the [distinction between AI-generated content and AI-supported work](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_DE.html). This distinction can help you assess:\n\n- what qualifies as your own work,\n- what may be problematic,\n- and how you should render the use of AI transparent.\n\nThe practice of directly sourcing passages or entire texts from an AI tool without substantial revision constitutes an infringement of academic integrity. In such instances, the fundamental decisions originate from the AI system, with the individual's contribution being confined to providing the prompt. This practice is in direct contravention of the established principles of academic integrity and may be problematic, particularly if it is not disclosed."
+        },
+        {
+          "id": "7141409cb6a0-005",
+          "page_id": "7141409cb6a0",
+          "score": 0.6124,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 82,
+          "text": "data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is particularly sensitive, such as health data) may not be entered into u:ai without the consent of the persons concerned. - Further information on data protection can be found [here](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046). - The University of Vienna’s data protection declaration is available at this [link](https://dsba.univie.ac.at/en/data-protection-declaration/)."
+        },
+        {
+          "id": "3397547ec441-000",
+          "page_id": "3397547ec441",
+          "score": 0.6116,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/changes-to-exams-and-teaching/proof-of-impairment/",
+          "title": "Proof of impairment",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "In order to access many of the offered support serivces at the University of Vienna it is required to provide proof of impairment.\n\nDepending on your individual needs, different offices are responsible for managing your documentation. The type of proof needed may vary. Listed below you can find out which kind of documentation you need in order to access different services:\n\nAlternative modes of assessment involve adjustments to exams/courses to compensate for disadvantages students with impairments/illnesses may face.\n\nTo apply for alternative modes of assessment, you will need:\n\n- **a medical/clinical psychological certificate**\n- or the “**[Form without Diagnosis](/fileadmin/user_upload/p_studieren/p_barrierefreistudieren/bf_docs/Formular_Besta__tigung_studienrelevante_Beeintraechtigungen_EN.pdf)**” which must be filled out by a medical provider\n- a \"[Disability Identity Card](https://www.oesterreich.gv.at/en/themen/menschen_mit_behinderungen/behindertenpass.html)\" with up to date information about a the relevant impairment\n\nStudents that experience acute health problems or happen to be in an accident right before or during an exam or course with compulsory attendance can be signed out without any consequences.Your lecturer/examiner may ask you for documentation to validate the existence of a justified reason for signing you out of a course/exam which is already in progress.\n\nIn order to do so you can provide either:\n\n- a  **medical/clinical psychological certificate**\n- or a relevant doctor's note by your primary care provider"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.6083,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "e25ffafe0a8b-000",
+          "page_id": "e25ffafe0a8b",
+          "score": 0.607,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/",
+          "title": "Citing and labelling AI",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "In order to ensure the visibility of your independent contribution, it is essential to present your work transparently and in a manner that allows for clear and accurate tracking of the use of AI. It is crucial to clearly distinguish the parts of the work that originate from you, ensuring that your independent performance is accurately assessed. Failure to disclose the use of AI could be considered a breach of the principles of good academic practice.\n\nThe responsibility for determining how the use of AI is to be made transparent lies with the respective lecturer, the study programme director (SPL) or the respective department. In the absence of specific requirements, established best practices may serve as a useful guideline.\n\nA distinction is made between references within the text and entries in the bibliography and, secondly, between content generated entirely by AI and content produced with the assistance of AI."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.607,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "7141409cb6a0-004",
+          "page_id": "7141409cb6a0",
+          "score": 0.598,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 230,
+          "text": "u:ai is operated in a secure cloud where all data is processed within the EU. The content you enter is not used for training AI models. This means that any text, documents, or questions you enter into u:ai remain in a protected environment. Bei vielen kommerziellen KI-Tools ist hingegen unklar, wo Daten gespeichert werden, wie lange sie aufbewahrt bleiben und ob sie für Trainingszwecke weiterverwendet werden. Daraus ergibt sich ein erhöhtes Risiko, insbesondere bei der Arbeit mit personenbezogenen, sensiblen oder studienrelevanten Inhalten What does this mean for me? - u:ai is compliant with data protection requirements insofar as your personal data and the information you enter are processed in accordance with the data protection standards of the General Data Protection Regulation (GDPR). This does not apply if, within the same chat, you use the web search function or the Mistral model. - When processing the personal data of third parties, the principle of data minimisation applies as a general rule. This means that only the most essential personal data may be collected, processed and stored, in order to achive a specific defined objective. - In order to process the personal data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is"
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.5875,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "dda2dc4a1baf-006",
+          "page_id": "dda2dc4a1baf",
+          "score": 0.5874,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/changes-to-exams-and-teaching/alternative-mode-of-assessment/",
+          "title": "Alternative mode of assessment",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 206,
+          "text": "If your application is granted or if you received a “letter of recommendation” (issued until February 2020), your teachers/examiners are not automatically notified and you are not automatically registered in the relevant university system.\n\nA granted application merely confirms your right to the alternative mode of assessment and provides a solid basis for communication. You have to independently contact your lecturers/examiners in all your courses/exams and inform them that you require an alternative mode of assessment. This is also due to reasons of data protection. Furthermore, some impairments occur in episodes or phases. Therefore, affected students might not have the same needs at all times. An automated system could not take this into account.\n\nTherefore, contact your lecturer or examiner as soon as possible to discuss your needs.\n\nAccording to section 59, para. 1, item 12 of the [2002 Universities Act](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (in German), degree programme students and non-degree programme students with an [impairment that directly affects their studies](/en/accessible-studies/) have the right to alternative modes of assessment.\n\nIn addition, the Statutes of the University of Vienna specify that there are [equal opportunities for people with a disability and/or a chronic illness](https://satzung.univie.ac.at/en/more-parts-of-the-statutes/equal-opportunities-for-people-with-disabilities-andor-chronic-illnesses/).\n\nYou can find the detailed legal texts on the [Accessible University of Vienna portal](https://barrierefrei.univie.ac.at/weiterfuehrend/rechtliches-und-nachweise/pruefungen/) (in German)."
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.5863,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "fd28cc704381-011",
+          "page_id": "fd28cc704381",
+          "score": 0.5853,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself whether and how to accept the suggested corrections. - Word choice and phrasing assistance: AI can assist you with word choice and phrasing. Specifically, AI can help you with suggestions for synonyms, rephrasing, or suggestions for variations of a sentence with different linguistic registers. Structure your query so that the AI suggests alternative expressions or synonyms that are stylistically and technically appropriate. Avoid queries that could lead to simplifications in content or shifts in meaning. The decision on which wording to use remains yours. - Check grammar and punctuation: Ask the AI to identify grammatical errors and punctuation mistakes. The request should make it clear that no changes are to be made to the content and that the technical meaning remains unchanged. #### #### Tip: Lists instead of finished text Don't let the AI formulate a corrected version of the text; instead, ask for a list of the points that need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept"
+        },
+        {
+          "id": "71536cb5b278-002",
+          "page_id": "71536cb5b278",
+          "score": 0.5853,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "section": "Study organisation",
+          "heading_path": [
+            "AI as a Tool"
+          ],
+          "word_count": 44,
+          "text": "revise the language of your own texts. It is imperative that you critically examine, develop and embed AI-generated results within your own line of argument. The more actively you guide AI and the more decisions you take yourself, the clearer your independent contribution remains."
+        },
+        {
+          "id": "6a5e795a43db-002",
+          "page_id": "6a5e795a43db",
+          "score": 0.5847,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 187,
+          "text": "permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters."
+        },
+        {
+          "id": "f2377f671797-003",
+          "page_id": "f2377f671797",
+          "score": 0.5812,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "Do not leave your personal belongings unattended in public areas of the University of Vienna.\n\nThis also applies to Student Spaces and course rooms.\nIn the event of theft, you can report it to any police station.\n\nStudents spend a lot of time in the digital realm, for example, to participate in courses, to research literature at the library or to interact with fellow students. The following information aims to contribute to your safety online.\n\n© University of Vienna / derknopfdruecker.com\n\n- [IT security: Tips for users](https://zid.univie.ac.at/en/services/it-security/)\n- [12 IT security commandments for users](https://zid.univie.ac.at/en/it-news/article/news/12-it-security-gebote-fuer-nutzerinnen/?no_cache=1)\n- [Password management](https://zid.univie.ac.at/en/password/)\n- [Tips regarding the password](https://zid.univie.ac.at/en/password-tips/)\n\n- [Social media and blog netiquette](https://blog.univie.ac.at/en/netiquette/)\n- [How to prevent Zoombombing](https://zid.univie.ac.at/it-news/artikel/news/keine-angst-vor-zoombombing/) (in German)\n\nParticipating, asking questions, considering issues from different perspectives and interacting with others are central aspects of studying, but can also lead to conflict. You can contact the following organisational units to seek help for yourself or for all conflict parties, or to establish a network that can help you in case of problems.\n\n© University of Vienna / derknopfdruecker.com\n\n- [ÖH Helpline](https://www.oeh.ac.at/en/helpline/)\n- [Psychological Counselling Service](https://www.studierendenberatung.at/en/)\n- [Accessible Studying Team of the University of Vienna](https://studieren.univie.ac.at/en/accessible-studies/counselling/)\n- [Sexual Harassment and Bullying Counselling Office](https://personalwesen.univie.ac.at/en/gender-equality-diversity/sexual-harassment-bullying-office/)\n- [AKGleich - Equal Opportunities Working Party](https://gleichbehandlung.univie.ac.at/en/)\n- [Arbiration Commission of the University of Vienna](https://schiedskommission.univie.ac.at/en/)"
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.581,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        }
+      ],
+      "latency_ms": 12.2
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.6988,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "a592e3a8a9f6-003",
+          "page_id": "a592e3a8a9f6",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/",
+          "title": "Legal requirements",
+          "section": "Study organisation",
+          "heading_path": [
+            "Data protection: Processing personal and confidential data in AI tools"
+          ],
+          "word_count": 187,
+          "text": "During their studies, students often work with sensitive or confidential information, such as interview data, survey results, personal details or internal documents. It is imperative that this data is handled in accordance with the relevant regulations, particularly the General Data Protection Regulation (GDPR).\n\nParticular caution is required when using AI tools, as it is often impossible to trace where entered content is stored or further processed. In particular, the following data should not be entered into AI tools without protection:\n\n- personal data of third parties, obtained for example through interviews, surveys or courses;\n- confidential research data or internal documents;\n- text drafts or scientific work, if their intended use is unclear;\n- sensitive information that allows conclusions to be drawn about individual persons.\n\nIf there is any uncertainty regarding the manner in which an AI tool processes data, it is advisable to refrain from uploading the data. Please refer to the information provided on [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/).\n\nStudents must ensure that they comply with copyright law and that third-party content is correctly labelled. They must also ensure that AI-supported contributions are not presented as their own work."
+        },
+        {
+          "id": "a9605abef142-001",
+          "page_id": "a9605abef142",
+          "score": 0.625,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 230,
+          "text": "General information - Do not use generative AI for research - Do not trust AI-generated content; check everything - Write specific prompts with a clear task, context, and details on format and style - Do not rely on AI-generated summaries - Process AI output further - For each course, check the information in u:find, on Moodle, and information on specific assignments and examinations, and clarify any open questions about the use of AI with the respective lecturer Privacy Policy & Terms of Use - Do not enter sensitive or confidential data into AI tools - Anonymise or avoid entering personal data. - Obtain the express consent of third parties before processing their data in an AI. - Ensure that the data you enter is not used for AI training - Only use GDPR-compliant AI tools that do not store data on servers outside the EU. Copyright - Check whether AI-generated texts are based on copyrighted content and cite the authors appropriately - Ensure that copyrighted texts are reproduced correctly. - AI does not have copyright to its own output. Nevertheless, you may not pass off the content as your own. - Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own"
+        },
+        {
+          "id": "a9605abef142-002",
+          "page_id": "a9605abef142",
+          "score": 0.6213,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 219,
+          "text": "- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it."
+        },
+        {
+          "id": "71536cb5b278-000",
+          "page_id": "71536cb5b278",
+          "score": 0.6158,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 126,
+          "text": "When you use AI in your studies, what is decisive is the extent of your own contribution. A helpful point of reference is the [distinction between AI-generated content and AI-supported work](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_DE.html). This distinction can help you assess:\n\n- what qualifies as your own work,\n- what may be problematic,\n- and how you should render the use of AI transparent.\n\nThe practice of directly sourcing passages or entire texts from an AI tool without substantial revision constitutes an infringement of academic integrity. In such instances, the fundamental decisions originate from the AI system, with the individual's contribution being confined to providing the prompt. This practice is in direct contravention of the established principles of academic integrity and may be problematic, particularly if it is not disclosed."
+        },
+        {
+          "id": "7141409cb6a0-005",
+          "page_id": "7141409cb6a0",
+          "score": 0.6124,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 82,
+          "text": "data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is particularly sensitive, such as health data) may not be entered into u:ai without the consent of the persons concerned. - Further information on data protection can be found [here](/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/#c1269046). - The University of Vienna’s data protection declaration is available at this [link](https://dsba.univie.ac.at/en/data-protection-declaration/)."
+        },
+        {
+          "id": "3397547ec441-000",
+          "page_id": "3397547ec441",
+          "score": 0.6116,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/changes-to-exams-and-teaching/proof-of-impairment/",
+          "title": "Proof of impairment",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "In order to access many of the offered support serivces at the University of Vienna it is required to provide proof of impairment.\n\nDepending on your individual needs, different offices are responsible for managing your documentation. The type of proof needed may vary. Listed below you can find out which kind of documentation you need in order to access different services:\n\nAlternative modes of assessment involve adjustments to exams/courses to compensate for disadvantages students with impairments/illnesses may face.\n\nTo apply for alternative modes of assessment, you will need:\n\n- **a medical/clinical psychological certificate**\n- or the “**[Form without Diagnosis](/fileadmin/user_upload/p_studieren/p_barrierefreistudieren/bf_docs/Formular_Besta__tigung_studienrelevante_Beeintraechtigungen_EN.pdf)**” which must be filled out by a medical provider\n- a \"[Disability Identity Card](https://www.oesterreich.gv.at/en/themen/menschen_mit_behinderungen/behindertenpass.html)\" with up to date information about a the relevant impairment\n\nStudents that experience acute health problems or happen to be in an accident right before or during an exam or course with compulsory attendance can be signed out without any consequences.Your lecturer/examiner may ask you for documentation to validate the existence of a justified reason for signing you out of a course/exam which is already in progress.\n\nIn order to do so you can provide either:\n\n- a  **medical/clinical psychological certificate**\n- or a relevant doctor's note by your primary care provider"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.6083,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "e25ffafe0a8b-000",
+          "page_id": "e25ffafe0a8b",
+          "score": 0.607,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/",
+          "title": "Citing and labelling AI",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "In order to ensure the visibility of your independent contribution, it is essential to present your work transparently and in a manner that allows for clear and accurate tracking of the use of AI. It is crucial to clearly distinguish the parts of the work that originate from you, ensuring that your independent performance is accurately assessed. Failure to disclose the use of AI could be considered a breach of the principles of good academic practice.\n\nThe responsibility for determining how the use of AI is to be made transparent lies with the respective lecturer, the study programme director (SPL) or the respective department. In the absence of specific requirements, established best practices may serve as a useful guideline.\n\nA distinction is made between references within the text and entries in the bibliography and, secondly, between content generated entirely by AI and content produced with the assistance of AI."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.607,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "7141409cb6a0-004",
+          "page_id": "7141409cb6a0",
+          "score": 0.598,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 230,
+          "text": "u:ai is operated in a secure cloud where all data is processed within the EU. The content you enter is not used for training AI models. This means that any text, documents, or questions you enter into u:ai remain in a protected environment. Bei vielen kommerziellen KI-Tools ist hingegen unklar, wo Daten gespeichert werden, wie lange sie aufbewahrt bleiben und ob sie für Trainingszwecke weiterverwendet werden. Daraus ergibt sich ein erhöhtes Risiko, insbesondere bei der Arbeit mit personenbezogenen, sensiblen oder studienrelevanten Inhalten What does this mean for me? - u:ai is compliant with data protection requirements insofar as your personal data and the information you enter are processed in accordance with the data protection standards of the General Data Protection Regulation (GDPR). This does not apply if, within the same chat, you use the web search function or the Mistral model. - When processing the personal data of third parties, the principle of data minimisation applies as a general rule. This means that only the most essential personal data may be collected, processed and stored, in order to achive a specific defined objective. - In order to process the personal data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is"
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.5875,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "dda2dc4a1baf-006",
+          "page_id": "dda2dc4a1baf",
+          "score": 0.5874,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/changes-to-exams-and-teaching/alternative-mode-of-assessment/",
+          "title": "Alternative mode of assessment",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 206,
+          "text": "If your application is granted or if you received a “letter of recommendation” (issued until February 2020), your teachers/examiners are not automatically notified and you are not automatically registered in the relevant university system.\n\nA granted application merely confirms your right to the alternative mode of assessment and provides a solid basis for communication. You have to independently contact your lecturers/examiners in all your courses/exams and inform them that you require an alternative mode of assessment. This is also due to reasons of data protection. Furthermore, some impairments occur in episodes or phases. Therefore, affected students might not have the same needs at all times. An automated system could not take this into account.\n\nTherefore, contact your lecturer or examiner as soon as possible to discuss your needs.\n\nAccording to section 59, para. 1, item 12 of the [2002 Universities Act](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) (in German), degree programme students and non-degree programme students with an [impairment that directly affects their studies](/en/accessible-studies/) have the right to alternative modes of assessment.\n\nIn addition, the Statutes of the University of Vienna specify that there are [equal opportunities for people with a disability and/or a chronic illness](https://satzung.univie.ac.at/en/more-parts-of-the-statutes/equal-opportunities-for-people-with-disabilities-andor-chronic-illnesses/).\n\nYou can find the detailed legal texts on the [Accessible University of Vienna portal](https://barrierefrei.univie.ac.at/weiterfuehrend/rechtliches-und-nachweise/pruefungen/) (in German)."
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.5863,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "fd28cc704381-011",
+          "page_id": "fd28cc704381",
+          "score": 0.5853,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/ai-in-academic-writing/",
+          "title": "AI in academic writing",
+          "section": "Study organisation",
+          "heading_path": [
+            "Use Cases of AI in scientific writing",
+            "Prompting tip: How to formulate prompts that ensure your own contribution"
+          ],
+          "word_count": 230,
+          "text": "typos, or obvious formal inaccuracies without changing the sentence structure or meaning. Tip: Don't let the AI formulate a corrected version of the text; instead, ask for a list of points to be corrected. Then you can decide for yourself whether and how to accept the suggested corrections. - Word choice and phrasing assistance: AI can assist you with word choice and phrasing. Specifically, AI can help you with suggestions for synonyms, rephrasing, or suggestions for variations of a sentence with different linguistic registers. Structure your query so that the AI suggests alternative expressions or synonyms that are stylistically and technically appropriate. Avoid queries that could lead to simplifications in content or shifts in meaning. The decision on which wording to use remains yours. - Check grammar and punctuation: Ask the AI to identify grammatical errors and punctuation mistakes. The request should make it clear that no changes are to be made to the content and that the technical meaning remains unchanged. #### #### Tip: Lists instead of finished text Don't let the AI formulate a corrected version of the text; instead, ask for a list of the points that need to be corrected and why. Then decide for yourself whether and how you want to accept the suggested corrections. The key is: carefully review all suggestions to maintain technical accuracy and your own writing style. Do not uncritically accept"
+        },
+        {
+          "id": "71536cb5b278-002",
+          "page_id": "71536cb5b278",
+          "score": 0.5853,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "section": "Study organisation",
+          "heading_path": [
+            "AI as a Tool"
+          ],
+          "word_count": 44,
+          "text": "revise the language of your own texts. It is imperative that you critically examine, develop and embed AI-generated results within your own line of argument. The more actively you guide AI and the more decisions you take yourself, the clearer your independent contribution remains."
+        },
+        {
+          "id": "6a5e795a43db-002",
+          "page_id": "6a5e795a43db",
+          "score": 0.5847,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 187,
+          "text": "permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments, you must [fully disclose](/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/#c1269189) such use in accordance with the principles of good academic practice. - Examination formats are changing: You should be prepared for greater emphasis on competences such as reflection and transfer. To ensure the independence of your performance, written assignments may be supplemented by oral components, plausibility checks or grade-relevant discussions. - Personal responsibility: It is imperative that you, the author, accept full responsibility for the accuracy, academic validity and integrity of the results submitted. As language models are not \"knowledge machines\" and may produce [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268979), it is essential that all AI-generated content is critically reviewed. - Consequences of misconduct: The use of unauthorised AI tools constitutes academic misconduct. This results in a non-assessment (entry of an “X”) or the annulment of a grade that has already been awarded. In serious cases, the Rectorate may impose exclusion from studies for up to two semesters."
+        },
+        {
+          "id": "f2377f671797-003",
+          "page_id": "f2377f671797",
+          "score": 0.5812,
+          "url": "https://studieren.univie.ac.at/en/studying-safely/",
+          "title": "Studying safely",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "Do not leave your personal belongings unattended in public areas of the University of Vienna.\n\nThis also applies to Student Spaces and course rooms.\nIn the event of theft, you can report it to any police station.\n\nStudents spend a lot of time in the digital realm, for example, to participate in courses, to research literature at the library or to interact with fellow students. The following information aims to contribute to your safety online.\n\n© University of Vienna / derknopfdruecker.com\n\n- [IT security: Tips for users](https://zid.univie.ac.at/en/services/it-security/)\n- [12 IT security commandments for users](https://zid.univie.ac.at/en/it-news/article/news/12-it-security-gebote-fuer-nutzerinnen/?no_cache=1)\n- [Password management](https://zid.univie.ac.at/en/password/)\n- [Tips regarding the password](https://zid.univie.ac.at/en/password-tips/)\n\n- [Social media and blog netiquette](https://blog.univie.ac.at/en/netiquette/)\n- [How to prevent Zoombombing](https://zid.univie.ac.at/it-news/artikel/news/keine-angst-vor-zoombombing/) (in German)\n\nParticipating, asking questions, considering issues from different perspectives and interacting with others are central aspects of studying, but can also lead to conflict. You can contact the following organisational units to seek help for yourself or for all conflict parties, or to establish a network that can help you in case of problems.\n\n© University of Vienna / derknopfdruecker.com\n\n- [ÖH Helpline](https://www.oeh.ac.at/en/helpline/)\n- [Psychological Counselling Service](https://www.studierendenberatung.at/en/)\n- [Accessible Studying Team of the University of Vienna](https://studieren.univie.ac.at/en/accessible-studies/counselling/)\n- [Sexual Harassment and Bullying Counselling Office](https://personalwesen.univie.ac.at/en/gender-equality-diversity/sexual-harassment-bullying-office/)\n- [AKGleich - Equal Opportunities Working Party](https://gleichbehandlung.univie.ac.at/en/)\n- [Arbiration Commission of the University of Vienna](https://schiedskommission.univie.ac.at/en/)"
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.581,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.6988,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "a592e3a8a9f6-003",
+          "page_id": "a592e3a8a9f6",
+          "score": 0.6622,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/",
+          "title": "Legal requirements",
+          "section": "Study organisation",
+          "heading_path": [
+            "Data protection: Processing personal and confidential data in AI tools"
+          ],
+          "word_count": 187,
+          "text": "During their studies, students often work with sensitive or confidential information, such as interview data, survey results, personal details or internal documents. It is imperative that this data is handled in accordance with the relevant regulations, particularly the General Data Protection Regulation (GDPR).\n\nParticular caution is required when using AI tools, as it is often impossible to trace where entered content is stored or further processed. In particular, the following data should not be entered into AI tools without protection:\n\n- personal data of third parties, obtained for example through interviews, surveys or courses;\n- confidential research data or internal documents;\n- text drafts or scientific work, if their intended use is unclear;\n- sensitive information that allows conclusions to be drawn about individual persons.\n\nIf there is any uncertainty regarding the manner in which an AI tool processes data, it is advisable to refrain from uploading the data. Please refer to the information provided on [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/).\n\nStudents must ensure that they comply with copyright law and that third-party content is correctly labelled. They must also ensure that AI-supported contributions are not presented as their own work."
+        },
+        {
+          "id": "a9605abef142-001",
+          "page_id": "a9605abef142",
+          "score": 0.625,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 230,
+          "text": "General information - Do not use generative AI for research - Do not trust AI-generated content; check everything - Write specific prompts with a clear task, context, and details on format and style - Do not rely on AI-generated summaries - Process AI output further - For each course, check the information in u:find, on Moodle, and information on specific assignments and examinations, and clarify any open questions about the use of AI with the respective lecturer Privacy Policy & Terms of Use - Do not enter sensitive or confidential data into AI tools - Anonymise or avoid entering personal data. - Obtain the express consent of third parties before processing their data in an AI. - Ensure that the data you enter is not used for AI training - Only use GDPR-compliant AI tools that do not store data on servers outside the EU. Copyright - Check whether AI-generated texts are based on copyrighted content and cite the authors appropriately - Ensure that copyrighted texts are reproduced correctly. - AI does not have copyright to its own output. Nevertheless, you may not pass off the content as your own. - Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own"
+        },
+        {
+          "id": "a9605abef142-002",
+          "page_id": "a9605abef142",
+          "score": 0.6213,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "section": "Study organisation",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "word_count": 219,
+          "text": "- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it."
+        },
+        {
+          "id": "71536cb5b278-000",
+          "page_id": "71536cb5b278",
+          "score": 0.6158,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 126,
+          "text": "When you use AI in your studies, what is decisive is the extent of your own contribution. A helpful point of reference is the [distinction between AI-generated content and AI-supported work](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_DE.html). This distinction can help you assess:\n\n- what qualifies as your own work,\n- what may be problematic,\n- and how you should render the use of AI transparent.\n\nThe practice of directly sourcing passages or entire texts from an AI tool without substantial revision constitutes an infringement of academic integrity. In such instances, the fundamental decisions originate from the AI system, with the individual's contribution being confined to providing the prompt. This practice is in direct contravention of the established principles of academic integrity and may be problematic, particularly if it is not disclosed."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Change of personal data\nDuring your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card.\n\n[2] Change of personal data\nIf you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card).\n\n[3] Legal requirements — Data protection: Processing personal and confidential data in AI tools\nDuring their studies, students often work with sensitive or confidential information, such as interview data, survey results, personal details or internal documents. It is imperative that this data is handled in accordance with the relevant regulations, particularly the General Data Protection Regulation (GDPR).\n\nParticular caution is required when using AI tools, as it is often impossible to trace where entered content is stored or further processed. In particular, the following data should not be entered into AI tools without protection:\n\n- personal data of third parties, obtained for example through interviews, surveys or courses;\n- confidential research data or internal documents;\n- text drafts or scientific work, if their intended use is unclear;\n- sensitive information that allows conclusions to be drawn about individual persons.\n\nIf there is any uncertainty regarding the manner in which an AI tool processes data, it is advisable to refrain from uploading the data. Please refer to the information provided on [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/).\n\nStudents must ensure that they comply with copyright law and that third-party content is correctly labelled. They must also ensure that AI-supported contributions are not presented as their own work.\n\n[4] Checklist for the responsible use of AI — Checklist for the responsible use of AI\nGeneral information - Do not use generative AI for research - Do not trust AI-generated content; check everything - Write specific prompts with a clear task, context, and details on format and style - Do not rely on AI-generated summaries - Process AI output further - For each course, check the information in u:find, on Moodle, and information on specific assignments and examinations, and clarify any open questions about the use of AI with the respective lecturer Privacy Policy & Terms of Use - Do not enter sensitive or confidential data into AI tools - Anonymise or avoid entering personal data. - Obtain the express consent of third parties before processing their data in an AI. - Ensure that the data you enter is not used for AI training - Only use GDPR-compliant AI tools that do not store data on servers outside the EU. Copyright - Check whether AI-generated texts are based on copyrighted content and cite the authors appropriately - Ensure that copyrighted texts are reproduced correctly. - AI does not have copyright to its own output. Nevertheless, you may not pass off the content as your own. - Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own\n\n[5] Checklist for the responsible use of AI — Checklist for the responsible use of AI\n- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it.\n\n[6] Maintaining independence: AI-generated or AI-supported?\nWhen you use AI in your studies, what is decisive is the extent of your own contribution. A helpful point of reference is the [distinction between AI-generated content and AI-supported work](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_DE.html). This distinction can help you assess:\n\n- what qualifies as your own work,\n- what may be problematic,\n- and how you should render the use of AI transparent.\n\nThe practice of directly sourcing passages or entire texts from an AI tool without substantial revision constitutes an infringement of academic integrity. In such instances, the fundamental decisions originate from the AI system, with the individual's contribution being confined to providing the prompt. This practice is in direct contravention of the established principles of academic integrity and may be problematic, particularly if it is not disclosed.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "41b1f757586e-000",
+          "score": 0.7244
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "41b1f757586e-001",
+          "score": 0.6988
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-in-your-studies-what-is-permitted/legal-requirements-data-protection-and-copyright/",
+          "title": "Legal requirements",
+          "heading_path": [
+            "Data protection: Processing personal and confidential data in AI tools"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "a592e3a8a9f6-003",
+          "score": 0.6622
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "a9605abef142-001",
+          "score": 0.625
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/",
+          "title": "Checklist for the responsible use of AI",
+          "heading_path": [
+            "Checklist for the responsible use of AI"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "a9605abef142-002",
+          "score": 0.6213
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/maintaining-independence-ai-supported-or-ai-generated/",
+          "title": "Maintaining independence: AI-generated or AI-supported?",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "71536cb5b278-000",
+          "score": 0.6158
+        }
+      },
+      "context_chars": 8423,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Change of personal data\nDuring your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card.\n\n[2] Change of personal data\nIf you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card).\n\n[3] Legal requirements — Data protection: Processing personal and confidential data in AI tools\nDuring their studies, students often work with sensitive or confidential information, such as interview data, survey results, personal details or internal documents. It is imperative that this data is handled in accordance with the relevant regulations, particularly the General Data Protection Regulation (GDPR).\n\nParticular caution is required when using AI tools, as it is often impossible to trace where entered content is stored or further processed. In particular, the following data should not be entered into AI tools without protection:\n\n- personal data of third parties, obtained for example through interviews, surveys or courses;\n- confidential research data or internal documents;\n- text drafts or scientific work, if their intended use is unclear;\n- sensitive information that allows conclusions to be drawn about individual persons.\n\nIf there is any uncertainty regarding the manner in which an AI tool processes data, it is advisable to refrain from uploading the data. Please refer to the information provided on [u:ai](/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/).\n\nStudents must ensure that they comply with copyright law and that third-party content is correctly labelled. They must also ensure that AI-supported contributions are not presented as their own work.\n\n[4] Checklist for the responsible use of AI — Checklist for the responsible use of AI\nGeneral information - Do not use generative AI for research - Do not trust AI-generated content; check everything - Write specific prompts with a clear task, context, and details on format and style - Do not rely on AI-generated summaries - Process AI output further - For each course, check the information in u:find, on Moodle, and information on specific assignments and examinations, and clarify any open questions about the use of AI with the respective lecturer Privacy Policy & Terms of Use - Do not enter sensitive or confidential data into AI tools - Anonymise or avoid entering personal data. - Obtain the express consent of third parties before processing their data in an AI. - Ensure that the data you enter is not used for AI training - Only use GDPR-compliant AI tools that do not store data on servers outside the EU. Copyright - Check whether AI-generated texts are based on copyrighted content and cite the authors appropriately - Ensure that copyrighted texts are reproduced correctly. - AI does not have copyright to its own output. Nevertheless, you may not pass off the content as your own. - Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own\n\n[5] Checklist for the responsible use of AI — Checklist for the responsible use of AI\n- Bear in mind that texts and documents you enter into AI may themselves be copyrighted: therefore, ensure that your input is not used for AI training. Honesty & Independence - Do not pass off AI-generated content as your own work - Differentiate between Higher Order Concerns (HOCs) and Later Order Concerns (LOCs) – depending on the learning outcomes. Transparency & traceability - Document which AI tools you have used, including the version. - Disclose the purpose and scope of the AI's use. - If AI-generated content has been copied verbatim, specify the prompt used. - Check whether detailed documentation of all prompts is necessary or practical. - If you used AI in a collaborative process, document how it contributed to idea development. - Only include AI tools in the bibliography if there is a publicly accessible link to the chat. Using AI as a reflection aid - Use AI as a Socratic dialogue partner that asks questions and provides food for thought. - Allow AI to assist you in developing research questions or argumentation structures, without outsourcing your intellectual performance. Clear distinction between AI support and your own contribution - Edit and review AI-generated content so that your own scientific voice remains recognisable. - Ensure that AI only supports the scientific writing process, but does not replace it.\n\n[6] Maintaining independence: AI-generated or AI-supported?\nWhen you use AI in your studies, what is decisive is the extent of your own contribution. A helpful point of reference is the [distinction between AI-generated content and AI-supported work](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_DE.html). This distinction can help you assess:\n\n- what qualifies as your own work,\n- what may be problematic,\n- and how you should render the use of AI transparent.\n\nThe practice of directly sourcing passages or entire texts from an AI tool without substantial revision constitutes an infringement of academic integrity. In such instances, the fundamental decisions originate from the AI system, with the individual's contribution being confined to providing the prompt. This practice is in direct contravention of the established principles of academic integrity and may be problematic, particularly if it is not disclosed.\n\nQuestion: Which personal data can I edit myself, and which changes need documentation?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 1925,
+        "completion_tokens": 78,
+        "total_tokens": 2003
+      },
+      "rate_limit_events": [],
+      "raw_response": "You can change the following data yourself via u:space: forwarding e-mail address, phone number, home and different delivery address, and bank account details [1]. Changes that require documentation include: name changes (e.g. through marriage), adding academic degrees from other universities, changes in citizenship, corrections to date of birth or name spelling, and changes in gender [1][2].",
+      "finish_reason": "stop",
+      "latency_ms": 2237.7
+    }
+  },
+  "query_id": "g13:paraphrase:2",
+  "status": "ok",
+  "answer": "You can change the following data yourself via u:space: forwarding e-mail address, phone number, home and different delivery address, and bank account details [1]. Changes that require documentation include: name changes (e.g. through marriage), adding academic degrees from other universities, changes in citizenship, corrections to date of birth or name spelling, and changes in gender [1][2].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+      "title": "Change of personal data",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "41b1f757586e-000",
+      "score": 0.7244
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+      "title": "Change of personal data",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "41b1f757586e-001",
+      "score": 0.6988
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 1925,
+    "completion_tokens": 78,
+    "total_tokens": 2003
+  },
+  "total_latency_ms": 2250.0
+}

@@ -1,0 +1,747 @@
+{
+  "trace_id": "7f9ee185778e",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "What do I have to sort out (courses, library) before I can close my studies?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What do I have to sort out (courses, library) before I can close my studies?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "3bb75e6f5f78-000",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7379,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "You can end your studies in the following ways:\n\n- successfully completing your degree programme and graduating\n- closing one or multiple degree programme(s) (formerly called \"exmatriculation\")\n\nClosing degree programmes is possible all year round. This is how you proceed:\n\n1. Deregister from all courses with continous assessment and examinations. This is possible via u:space during the deregistration period. Afterwards, please contact the lecturers directly. Closing your studies does not qualify as an important reason for the cancellation of an examination (info only available in German).\n2. In case, return books to the University Library or institute libraries. You can only withdraw (= close all degree programmes at the University of Vienna) if you have not borrowed any books.\n3. If you close a bachelor-/diploma or master programme, please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz) and specify which degree programme you want to close. If you want to close a doctoral/PhD programme, please contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n4. After a few days, we will inform you about the processing of your application. Check the changed status of your degree programme in u:space at Studies > Study overview. You can download your confirmation of withdrawal at Personal matters > My documents."
+        },
+        {
+          "id": "3bb75e6f5f78-002",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7078,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 182,
+          "text": "The admission to the degree programme expires and your degree programme is closed if:\n\n- You have successfully completed your degree programme. An admission for the final administrative steps carried out by the StudiesServicecenter (SSC) is not required. The admission ends with the date of the last examination.\n- You do not pay the tuition fee/Students' Union fee. You can also not pay on purpose and thereby discontinue your studies and withdraw from the university.\n- If you have paid at another Austrian university/college of teacher education (\"Pädagogische Hochschule\") and do not re-enroll your studies at the University of Vienna.\n- If you do not achieve the [minimum number of credits](/en/minimum-number-of-credits/). This applies for admissions starting from winter semester 2022/23.\n\nYou can see that your degree programme has been closed in u:space at Studies > Study overview.\n\nThe [resumption of studies](/en/admission/resumption-of-studies/) is possible within the corresponding period, provided you fulfil all requirements for the degree programme. By resuming your studies you are transferred to the current curriculum. Therefore, it may be possible that not all examinations you have already completed are recognised."
+        },
+        {
+          "id": "3bb75e6f5f78-003",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.6939,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 94,
+          "text": "/\n\n- What do I have to keep in mind regarding pending examination results?\n\n  If you want to take further exams or receive examination results, wait until all examination results have been entered by the [StudiesServiceCenter](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme and appear in u:space. After a degree programme has been closed, it is neither possible to take exams nor to enter these examination results.\n- When can I close my degree proramme(s)?\n\n  You can close your degree programme(s) year-round via our [Servicdesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz).\n\n- [§§ 66 para 4, 68, 69, 71](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "7916c3fc6510-017",
+          "page_id": "7916c3fc6510",
+          "score": 0.6818,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "the academic degree. You also receive your diploma supplement. The aim of the bilingual diploma supplement (in German/English) is to enhance the transparency and recognition of higher education degrees. Your diploma supplement contains information about the type and level of your degree, the degree programme you completed (requirements, course of studies, grading scale) as well as as standardised information about the higher education system. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - Change of degree programme Would you like to change your degree programme at the University of Vienna? Apply for admission to the new degree programme in u:space. Please note the application deadlines! Then write a message to the Admission Office via the Service Desk and have your previous degree programme closed. Related Links: - [Information on the change of degree programme](/en/admission/change-of-degree-programme/) - Closing a degree programme/withdrawing from the University of Vienna The closure of a degree programme is not subject to any deadlines at the University of Vienna. Therefore, you can request the closure of a degree programme throughout the year. If you request to close all your degree programmes, this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6747,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "4e862d77824c-015",
+          "page_id": "4e862d77824c",
+          "score": 0.6727,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "Further information"
+          ],
+          "word_count": 24,
+          "text": "- [Information regarding the payment and amount of the tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Closing a degree programme](/en/admission/closing-a-degree-programme/)\n- [Resumption of a degree programme](/en/admission/resumption-of-studies/)"
+        },
+        {
+          "id": "4e862d77824c-007",
+          "page_id": "4e862d77824c",
+          "score": 0.6725,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "What do you need to consider?"
+          ],
+          "word_count": 230,
+          "text": "If you apply for a leave of absence, this may have the following consequences: / - Effects on your studies - The admission to the degree programme remains valid. You can continue to use the u:account services and the library. - The semester count is suspended (including the [minimum number of credits](/en/minimum-number-of-credits/)). - You will only receive the student record sheet and no confirmation of enrolment. - The u:card cannot be validated as a student ID for the semester on leave. - A leave of absence does not stop an automatic transfer to a new curriculum. - A leave of absence before the start of the semester can be granted for one or two semesters. In the case of a leave of absence during the semester, the application can only be approved for the current semester. The leave of absence ends automatically. Submit a new application for the following semester within the application deadline to continue your leave of absence. - Depending on the reason for leave of absence and the documents submitted, the application will be approved for one or two semesters. If the reason for your leave of absence continues to exist after this (e.g. due to caring for your own children), you can submit a new application. - Effects on examinations and courses Taking examinations, submitting an application for recognition, submitting academic work for assessment and attending"
+        },
+        {
+          "id": "7916c3fc6510-096",
+          "page_id": "7916c3fc6510",
+          "score": 0.6702,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "in Vienna and Lower Austria](https://lehramt.univie.ac.at/) (in German) Related entries: - [Teacher Education for General Secondary Education in Vienna and Lower Austria](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31331&cHash=a9508ca1d8a392e52ec541141e6afc7d) - Termination of a degree programme You can end your studies in the following ways: - successful graduation: You will receive your graduation documents in the StudyServiceCenter (SSC) of your degree programme (e.g. certificate, diploma supplement) - discontinuing your degree programme: You can print out a confirmation of withdrawal from university via u:space. Related Links: - [Closing degree programmes/withdrawal from University of Vienna](/en/admission/closing-a-degree-programme/) - [Graduations](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/studienabschluesse/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Tolerance semesters EU/EEA citizens and persons treated as equivalent only pay the Students' Union fee for the presecribed duration of study (= \"minimum duration of study\"). At the end of this period, they are granted two additional \"tolerance semesters\", during which only the Studens' Union fee is charged. If you do not complete your degree programme in the prescribed duration of studies + the two tolerance semesters, you will pay both the Students' Union fee and the tuition fee. Related Links: - [Tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - Transcript of records (\"Sammelzeugnis\") Your transcript of records lists all grades, positive and negative ones. It is an official proof of your academic progress, which you need"
+        },
+        {
+          "id": "1c3b37b0f0b8-001",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6676,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. After you have resumed your studies, you can see if you still have to complete the minimum academic achievement in u:space. Make sure to check how many semesters you have left to complete the minimum academic achievement. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Curriculum: You will be admitted to the current curriculum without any exception. If the curriculum has changed, you have to submit an application for admission within the [application period](/en/admission/application-and-admission-periods/) (as you did when you first applied to the degree programme. We therefore recommend: Submit your application for the resumption of studies as early as possible! - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of resumption: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities:"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6652,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "7916c3fc6510-103",
+          "page_id": "7916c3fc6510",
+          "score": 0.663,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year."
+        },
+        {
+          "id": "7916c3fc6510-018",
+          "page_id": "7916c3fc6510",
+          "score": 0.6601,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can be a presentation with follow-up discussion or a conversation or oral examination between a teacher and a student of a higher education institution. - Complementary degree programme in Teacher Education With the third teaching subject (‘drittes Unterrichtsfach’) complementary degree programme, students can choose a third teaching subject in addition to the bachelor programme in Teacher Education that they are currently pursuing or have already completed. Related Links: - [Complementary degree programme in Teacher Education (only in German)](https://studieren.univie.ac.at/zulassungsverfahren/lehramtsstudien/erweiterungsstudium) - [Master programme in Teacher Education (only in German)](https://ssc-lehrerinnenbildung.univie.ac.at/studienangebot/masterstudium/) - Completion of a degree programme As soon as you have successfully passed all courses specified in your curriculum, you have completed your degree programme. The StudiesServiceCenter or your StudiesServiceUnit of your degree programme informs you about the administrative steps necessary for your graduation. After having completed your degree programme, you receive an academic degree. Related Links: - [StudiesServiceCenters (SSC)/StudiesServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) (in German) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [Alumni Association](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30183&cHash=af7264dfafa13d56a5dbfb42a68e23d8) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Confirmation of courses passed"
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6597,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "4e862d77824c-011",
+          "page_id": "4e862d77824c",
+          "score": 0.6567,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 151,
+          "text": "You have the option of [closing your studies](/en/admission/closing-a-degree-programme/) and resuming them at a later date. Consider this option especially if it is likely that your studies will be interrupted for a long time. Please inform yourself in advance about possible conditions for [resuming your studies](/en/admission/resumption-of-studies/). For master programmes with an admission procedure and the bachelor programme in Psychology, you must successfully complete the entrance exam/selection procedure again. For the bachelor programme in Sport Science and the teaching subject in Sports and Physical Education, you may have to take the [sporting aptitude admission test](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/ergaenzungspruefung/) again. Please contact the [SSC Sport Science](https://lehre-schmelz.univie.ac.at/studienservicecenter-und-studienprogrammleitung/) for more information.\n\nAs an alternative to a leave of absence, you may apply for a [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/). Please note the respective application deadlines and reasons for remission.\n\n- [§ 21 Study Law of the Statutes of the University of Vienna](https://satzung.univie.ac.at/en/study-law/)\n- [Universities Act 2002 (UG), § 67](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6561,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "1c3b37b0f0b8-005",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6557,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same bachelor/diploma programme",
+            "Bachelor programme without entrance exam procedure"
+          ],
+          "word_count": 43,
+          "text": "Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies"
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6535,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "7916c3fc6510-113",
+          "page_id": "7916c3fc6510",
+          "score": 0.6535,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 152,
+          "text": "reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) (Login necessary) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Webmail - E-Mail service The webmail service of the University of Vienna enables students to send, receive and manage their e-mails in a web browser from any location. This service is available for all those who have an active u:account with IMAP e-mail service. Exchange users are automatically forwarded to the Outlook Web App (OWA). Students without an active admission status cannot access their e-mail service. Related Links: - [Webmail - E-Mail service - further information](/en/web-services-uspace-ufind-moodle-webmail/#c242244) - [Webmail - E-Mail service](https://zid.univie.ac.at/en/e-mail/)"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6518,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.6509,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        }
+      ],
+      "latency_ms": 8.8
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "3bb75e6f5f78-000",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7379,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "You can end your studies in the following ways:\n\n- successfully completing your degree programme and graduating\n- closing one or multiple degree programme(s) (formerly called \"exmatriculation\")\n\nClosing degree programmes is possible all year round. This is how you proceed:\n\n1. Deregister from all courses with continous assessment and examinations. This is possible via u:space during the deregistration period. Afterwards, please contact the lecturers directly. Closing your studies does not qualify as an important reason for the cancellation of an examination (info only available in German).\n2. In case, return books to the University Library or institute libraries. You can only withdraw (= close all degree programmes at the University of Vienna) if you have not borrowed any books.\n3. If you close a bachelor-/diploma or master programme, please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz) and specify which degree programme you want to close. If you want to close a doctoral/PhD programme, please contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n4. After a few days, we will inform you about the processing of your application. Check the changed status of your degree programme in u:space at Studies > Study overview. You can download your confirmation of withdrawal at Personal matters > My documents."
+        },
+        {
+          "id": "3bb75e6f5f78-002",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7078,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 182,
+          "text": "The admission to the degree programme expires and your degree programme is closed if:\n\n- You have successfully completed your degree programme. An admission for the final administrative steps carried out by the StudiesServicecenter (SSC) is not required. The admission ends with the date of the last examination.\n- You do not pay the tuition fee/Students' Union fee. You can also not pay on purpose and thereby discontinue your studies and withdraw from the university.\n- If you have paid at another Austrian university/college of teacher education (\"Pädagogische Hochschule\") and do not re-enroll your studies at the University of Vienna.\n- If you do not achieve the [minimum number of credits](/en/minimum-number-of-credits/). This applies for admissions starting from winter semester 2022/23.\n\nYou can see that your degree programme has been closed in u:space at Studies > Study overview.\n\nThe [resumption of studies](/en/admission/resumption-of-studies/) is possible within the corresponding period, provided you fulfil all requirements for the degree programme. By resuming your studies you are transferred to the current curriculum. Therefore, it may be possible that not all examinations you have already completed are recognised."
+        },
+        {
+          "id": "3bb75e6f5f78-003",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.6939,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 94,
+          "text": "/\n\n- What do I have to keep in mind regarding pending examination results?\n\n  If you want to take further exams or receive examination results, wait until all examination results have been entered by the [StudiesServiceCenter](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme and appear in u:space. After a degree programme has been closed, it is neither possible to take exams nor to enter these examination results.\n- When can I close my degree proramme(s)?\n\n  You can close your degree programme(s) year-round via our [Servicdesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz).\n\n- [§§ 66 para 4, 68, 69, 71](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "7916c3fc6510-017",
+          "page_id": "7916c3fc6510",
+          "score": 0.6818,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "the academic degree. You also receive your diploma supplement. The aim of the bilingual diploma supplement (in German/English) is to enhance the transparency and recognition of higher education degrees. Your diploma supplement contains information about the type and level of your degree, the degree programme you completed (requirements, course of studies, grading scale) as well as as standardised information about the higher education system. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - Change of degree programme Would you like to change your degree programme at the University of Vienna? Apply for admission to the new degree programme in u:space. Please note the application deadlines! Then write a message to the Admission Office via the Service Desk and have your previous degree programme closed. Related Links: - [Information on the change of degree programme](/en/admission/change-of-degree-programme/) - Closing a degree programme/withdrawing from the University of Vienna The closure of a degree programme is not subject to any deadlines at the University of Vienna. Therefore, you can request the closure of a degree programme throughout the year. If you request to close all your degree programmes, this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6747,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "4e862d77824c-015",
+          "page_id": "4e862d77824c",
+          "score": 0.6727,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "Further information"
+          ],
+          "word_count": 24,
+          "text": "- [Information regarding the payment and amount of the tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Closing a degree programme](/en/admission/closing-a-degree-programme/)\n- [Resumption of a degree programme](/en/admission/resumption-of-studies/)"
+        },
+        {
+          "id": "4e862d77824c-007",
+          "page_id": "4e862d77824c",
+          "score": 0.6725,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "What do you need to consider?"
+          ],
+          "word_count": 230,
+          "text": "If you apply for a leave of absence, this may have the following consequences: / - Effects on your studies - The admission to the degree programme remains valid. You can continue to use the u:account services and the library. - The semester count is suspended (including the [minimum number of credits](/en/minimum-number-of-credits/)). - You will only receive the student record sheet and no confirmation of enrolment. - The u:card cannot be validated as a student ID for the semester on leave. - A leave of absence does not stop an automatic transfer to a new curriculum. - A leave of absence before the start of the semester can be granted for one or two semesters. In the case of a leave of absence during the semester, the application can only be approved for the current semester. The leave of absence ends automatically. Submit a new application for the following semester within the application deadline to continue your leave of absence. - Depending on the reason for leave of absence and the documents submitted, the application will be approved for one or two semesters. If the reason for your leave of absence continues to exist after this (e.g. due to caring for your own children), you can submit a new application. - Effects on examinations and courses Taking examinations, submitting an application for recognition, submitting academic work for assessment and attending"
+        },
+        {
+          "id": "7916c3fc6510-096",
+          "page_id": "7916c3fc6510",
+          "score": 0.6702,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "in Vienna and Lower Austria](https://lehramt.univie.ac.at/) (in German) Related entries: - [Teacher Education for General Secondary Education in Vienna and Lower Austria](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31331&cHash=a9508ca1d8a392e52ec541141e6afc7d) - Termination of a degree programme You can end your studies in the following ways: - successful graduation: You will receive your graduation documents in the StudyServiceCenter (SSC) of your degree programme (e.g. certificate, diploma supplement) - discontinuing your degree programme: You can print out a confirmation of withdrawal from university via u:space. Related Links: - [Closing degree programmes/withdrawal from University of Vienna](/en/admission/closing-a-degree-programme/) - [Graduations](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/studienabschluesse/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Tolerance semesters EU/EEA citizens and persons treated as equivalent only pay the Students' Union fee for the presecribed duration of study (= \"minimum duration of study\"). At the end of this period, they are granted two additional \"tolerance semesters\", during which only the Studens' Union fee is charged. If you do not complete your degree programme in the prescribed duration of studies + the two tolerance semesters, you will pay both the Students' Union fee and the tuition fee. Related Links: - [Tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - Transcript of records (\"Sammelzeugnis\") Your transcript of records lists all grades, positive and negative ones. It is an official proof of your academic progress, which you need"
+        },
+        {
+          "id": "1c3b37b0f0b8-001",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6676,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. After you have resumed your studies, you can see if you still have to complete the minimum academic achievement in u:space. Make sure to check how many semesters you have left to complete the minimum academic achievement. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Curriculum: You will be admitted to the current curriculum without any exception. If the curriculum has changed, you have to submit an application for admission within the [application period](/en/admission/application-and-admission-periods/) (as you did when you first applied to the degree programme. We therefore recommend: Submit your application for the resumption of studies as early as possible! - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of resumption: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities:"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6652,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "7916c3fc6510-103",
+          "page_id": "7916c3fc6510",
+          "score": 0.663,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not provide performances, you will be deregistered in most cases. If you are registered for an exam and do not show up, you will not be graded and will potentially be blocked for the following exam date. To avoid this, make sure to deregister in due time! If you could not deregister in due time due to unforeseen circumstances (e.g. because you had an accident), you will have to provide evidence in the most credible way to be deregistered retrospectively. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - unileben Each year at the beginning of the winter semester, unileben - the \"fair for university life\" - takes place in the Main Building of the University of Vienna. Current and future students can collect information about their everyday student life. Apart from other activities, numerous workshopsand guided tours around the main building are offered. Related Links: - [unileben](https://unileben.univie.ac.at/) (available in German) Related entries: - [School meets university](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31966&cHash=31e21b2bac3e32a96ed221a65b287480) - uniorientiert – open days for those interested in studying Uniorientiert is a university fair which takes place once a year."
+        },
+        {
+          "id": "7916c3fc6510-018",
+          "page_id": "7916c3fc6510",
+          "score": 0.6601,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can be a presentation with follow-up discussion or a conversation or oral examination between a teacher and a student of a higher education institution. - Complementary degree programme in Teacher Education With the third teaching subject (‘drittes Unterrichtsfach’) complementary degree programme, students can choose a third teaching subject in addition to the bachelor programme in Teacher Education that they are currently pursuing or have already completed. Related Links: - [Complementary degree programme in Teacher Education (only in German)](https://studieren.univie.ac.at/zulassungsverfahren/lehramtsstudien/erweiterungsstudium) - [Master programme in Teacher Education (only in German)](https://ssc-lehrerinnenbildung.univie.ac.at/studienangebot/masterstudium/) - Completion of a degree programme As soon as you have successfully passed all courses specified in your curriculum, you have completed your degree programme. The StudiesServiceCenter or your StudiesServiceUnit of your degree programme informs you about the administrative steps necessary for your graduation. After having completed your degree programme, you receive an academic degree. Related Links: - [StudiesServiceCenters (SSC)/StudiesServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) (in German) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [Alumni Association](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30183&cHash=af7264dfafa13d56a5dbfb42a68e23d8) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Confirmation of courses passed"
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6597,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "4e862d77824c-011",
+          "page_id": "4e862d77824c",
+          "score": 0.6567,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 151,
+          "text": "You have the option of [closing your studies](/en/admission/closing-a-degree-programme/) and resuming them at a later date. Consider this option especially if it is likely that your studies will be interrupted for a long time. Please inform yourself in advance about possible conditions for [resuming your studies](/en/admission/resumption-of-studies/). For master programmes with an admission procedure and the bachelor programme in Psychology, you must successfully complete the entrance exam/selection procedure again. For the bachelor programme in Sport Science and the teaching subject in Sports and Physical Education, you may have to take the [sporting aptitude admission test](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/ergaenzungspruefung/) again. Please contact the [SSC Sport Science](https://lehre-schmelz.univie.ac.at/studienservicecenter-und-studienprogrammleitung/) for more information.\n\nAs an alternative to a leave of absence, you may apply for a [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/). Please note the respective application deadlines and reasons for remission.\n\n- [§ 21 Study Law of the Statutes of the University of Vienna](https://satzung.univie.ac.at/en/study-law/)\n- [Universities Act 2002 (UG), § 67](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6561,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "1c3b37b0f0b8-005",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6557,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Resuming the same bachelor/diploma programme",
+            "Bachelor programme without entrance exam procedure"
+          ],
+          "word_count": 43,
+          "text": "Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies"
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6535,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "7916c3fc6510-113",
+          "page_id": "7916c3fc6510",
+          "score": 0.6535,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "W"
+          ],
+          "word_count": 152,
+          "text": "reject the place, you will be automatically deregistered from the course. The allocated points can not be transferred to the next semester. If you neither confirm nor reject the place, you remain on the waiting list. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) (Login necessary) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Webmail - E-Mail service The webmail service of the University of Vienna enables students to send, receive and manage their e-mails in a web browser from any location. This service is available for all those who have an active u:account with IMAP e-mail service. Exchange users are automatically forwarded to the Outlook Web App (OWA). Students without an active admission status cannot access their e-mail service. Related Links: - [Webmail - E-Mail service - further information](/en/web-services-uspace-ufind-moodle-webmail/#c242244) - [Webmail - E-Mail service](https://zid.univie.ac.at/en/e-mail/)"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6518,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.6509,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "3bb75e6f5f78-000",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7379,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "You can end your studies in the following ways:\n\n- successfully completing your degree programme and graduating\n- closing one or multiple degree programme(s) (formerly called \"exmatriculation\")\n\nClosing degree programmes is possible all year round. This is how you proceed:\n\n1. Deregister from all courses with continous assessment and examinations. This is possible via u:space during the deregistration period. Afterwards, please contact the lecturers directly. Closing your studies does not qualify as an important reason for the cancellation of an examination (info only available in German).\n2. In case, return books to the University Library or institute libraries. You can only withdraw (= close all degree programmes at the University of Vienna) if you have not borrowed any books.\n3. If you close a bachelor-/diploma or master programme, please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz) and specify which degree programme you want to close. If you want to close a doctoral/PhD programme, please contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n4. After a few days, we will inform you about the processing of your application. Check the changed status of your degree programme in u:space at Studies > Study overview. You can download your confirmation of withdrawal at Personal matters > My documents."
+        },
+        {
+          "id": "3bb75e6f5f78-002",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7078,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 182,
+          "text": "The admission to the degree programme expires and your degree programme is closed if:\n\n- You have successfully completed your degree programme. An admission for the final administrative steps carried out by the StudiesServicecenter (SSC) is not required. The admission ends with the date of the last examination.\n- You do not pay the tuition fee/Students' Union fee. You can also not pay on purpose and thereby discontinue your studies and withdraw from the university.\n- If you have paid at another Austrian university/college of teacher education (\"Pädagogische Hochschule\") and do not re-enroll your studies at the University of Vienna.\n- If you do not achieve the [minimum number of credits](/en/minimum-number-of-credits/). This applies for admissions starting from winter semester 2022/23.\n\nYou can see that your degree programme has been closed in u:space at Studies > Study overview.\n\nThe [resumption of studies](/en/admission/resumption-of-studies/) is possible within the corresponding period, provided you fulfil all requirements for the degree programme. By resuming your studies you are transferred to the current curriculum. Therefore, it may be possible that not all examinations you have already completed are recognised."
+        },
+        {
+          "id": "3bb75e6f5f78-003",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.6939,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 94,
+          "text": "/\n\n- What do I have to keep in mind regarding pending examination results?\n\n  If you want to take further exams or receive examination results, wait until all examination results have been entered by the [StudiesServiceCenter](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme and appear in u:space. After a degree programme has been closed, it is neither possible to take exams nor to enter these examination results.\n- When can I close my degree proramme(s)?\n\n  You can close your degree programme(s) year-round via our [Servicdesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz).\n\n- [§§ 66 para 4, 68, 69, 71](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "7916c3fc6510-017",
+          "page_id": "7916c3fc6510",
+          "score": 0.6818,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "the academic degree. You also receive your diploma supplement. The aim of the bilingual diploma supplement (in German/English) is to enhance the transparency and recognition of higher education degrees. Your diploma supplement contains information about the type and level of your degree, the degree programme you completed (requirements, course of studies, grading scale) as well as as standardised information about the higher education system. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - Change of degree programme Would you like to change your degree programme at the University of Vienna? Apply for admission to the new degree programme in u:space. Please note the application deadlines! Then write a message to the Admission Office via the Service Desk and have your previous degree programme closed. Related Links: - [Information on the change of degree programme](/en/admission/change-of-degree-programme/) - Closing a degree programme/withdrawing from the University of Vienna The closure of a degree programme is not subject to any deadlines at the University of Vienna. Therefore, you can request the closure of a degree programme throughout the year. If you request to close all your degree programmes, this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6747,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "4e862d77824c-015",
+          "page_id": "4e862d77824c",
+          "score": 0.6727,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "Further information"
+          ],
+          "word_count": 24,
+          "text": "- [Information regarding the payment and amount of the tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Closing a degree programme](/en/admission/closing-a-degree-programme/)\n- [Resumption of a degree programme](/en/admission/resumption-of-studies/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Closing a degree programme/Withdrawing from the University of Vienna\nYou can end your studies in the following ways:\n\n- successfully completing your degree programme and graduating\n- closing one or multiple degree programme(s) (formerly called \"exmatriculation\")\n\nClosing degree programmes is possible all year round. This is how you proceed:\n\n1. Deregister from all courses with continous assessment and examinations. This is possible via u:space during the deregistration period. Afterwards, please contact the lecturers directly. Closing your studies does not qualify as an important reason for the cancellation of an examination (info only available in German).\n2. In case, return books to the University Library or institute libraries. You can only withdraw (= close all degree programmes at the University of Vienna) if you have not borrowed any books.\n3. If you close a bachelor-/diploma or master programme, please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz) and specify which degree programme you want to close. If you want to close a doctoral/PhD programme, please contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n4. After a few days, we will inform you about the processing of your application. Check the changed status of your degree programme in u:space at Studies > Study overview. You can download your confirmation of withdrawal at Personal matters > My documents.\n\n[2] Closing a degree programme/Withdrawing from the University of Vienna\nThe admission to the degree programme expires and your degree programme is closed if:\n\n- You have successfully completed your degree programme. An admission for the final administrative steps carried out by the StudiesServicecenter (SSC) is not required. The admission ends with the date of the last examination.\n- You do not pay the tuition fee/Students' Union fee. You can also not pay on purpose and thereby discontinue your studies and withdraw from the university.\n- If you have paid at another Austrian university/college of teacher education (\"Pädagogische Hochschule\") and do not re-enroll your studies at the University of Vienna.\n- If you do not achieve the [minimum number of credits](/en/minimum-number-of-credits/). This applies for admissions starting from winter semester 2022/23.\n\nYou can see that your degree programme has been closed in u:space at Studies > Study overview.\n\nThe [resumption of studies](/en/admission/resumption-of-studies/) is possible within the corresponding period, provided you fulfil all requirements for the degree programme. By resuming your studies you are transferred to the current curriculum. Therefore, it may be possible that not all examinations you have already completed are recognised.\n\n[3] Closing a degree programme/Withdrawing from the University of Vienna\n/\n\n- What do I have to keep in mind regarding pending examination results?\n\n  If you want to take further exams or receive examination results, wait until all examination results have been entered by the [StudiesServiceCenter](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme and appear in u:space. After a degree programme has been closed, it is neither possible to take exams nor to enter these examination results.\n- When can I close my degree proramme(s)?\n\n  You can close your degree programme(s) year-round via our [Servicdesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz).\n\n- [§§ 66 para 4, 68, 69, 71](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n\n[4] ABC of terminology — C\nthe academic degree. You also receive your diploma supplement. The aim of the bilingual diploma supplement (in German/English) is to enhance the transparency and recognition of higher education degrees. Your diploma supplement contains information about the type and level of your degree, the degree programme you completed (requirements, course of studies, grading scale) as well as as standardised information about the higher education system. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - Change of degree programme Would you like to change your degree programme at the University of Vienna? Apply for admission to the new degree programme in u:space. Please note the application deadlines! Then write a message to the Admission Office via the Service Desk and have your previous degree programme closed. Related Links: - [Information on the change of degree programme](/en/admission/change-of-degree-programme/) - Closing a degree programme/withdrawing from the University of Vienna The closure of a degree programme is not subject to any deadlines at the University of Vienna. Therefore, you can request the closure of a degree programme throughout the year. If you request to close all your degree programmes, this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\ndegree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree\n\n[6] Leave of absence — Further information\n- [Information regarding the payment and amount of the tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Closing a degree programme](/en/admission/closing-a-degree-programme/)\n- [Resumption of a degree programme](/en/admission/resumption-of-studies/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "3bb75e6f5f78-000",
+          "score": 0.7379
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "3bb75e6f5f78-002",
+          "score": 0.7078
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "3bb75e6f5f78-003",
+          "score": 0.6939
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "C"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-017",
+          "score": 0.6818
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-007",
+          "score": 0.6747
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "heading_path": [
+            "Further information"
+          ],
+          "section": "Admission",
+          "chunk_id": "4e862d77824c-015",
+          "score": 0.6727
+        }
+      },
+      "context_chars": 8111,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Closing a degree programme/Withdrawing from the University of Vienna\nYou can end your studies in the following ways:\n\n- successfully completing your degree programme and graduating\n- closing one or multiple degree programme(s) (formerly called \"exmatriculation\")\n\nClosing degree programmes is possible all year round. This is how you proceed:\n\n1. Deregister from all courses with continous assessment and examinations. This is possible via u:space during the deregistration period. Afterwards, please contact the lecturers directly. Closing your studies does not qualify as an important reason for the cancellation of an examination (info only available in German).\n2. In case, return books to the University Library or institute libraries. You can only withdraw (= close all degree programmes at the University of Vienna) if you have not borrowed any books.\n3. If you close a bachelor-/diploma or master programme, please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz) and specify which degree programme you want to close. If you want to close a doctoral/PhD programme, please contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n4. After a few days, we will inform you about the processing of your application. Check the changed status of your degree programme in u:space at Studies > Study overview. You can download your confirmation of withdrawal at Personal matters > My documents.\n\n[2] Closing a degree programme/Withdrawing from the University of Vienna\nThe admission to the degree programme expires and your degree programme is closed if:\n\n- You have successfully completed your degree programme. An admission for the final administrative steps carried out by the StudiesServicecenter (SSC) is not required. The admission ends with the date of the last examination.\n- You do not pay the tuition fee/Students' Union fee. You can also not pay on purpose and thereby discontinue your studies and withdraw from the university.\n- If you have paid at another Austrian university/college of teacher education (\"Pädagogische Hochschule\") and do not re-enroll your studies at the University of Vienna.\n- If you do not achieve the [minimum number of credits](/en/minimum-number-of-credits/). This applies for admissions starting from winter semester 2022/23.\n\nYou can see that your degree programme has been closed in u:space at Studies > Study overview.\n\nThe [resumption of studies](/en/admission/resumption-of-studies/) is possible within the corresponding period, provided you fulfil all requirements for the degree programme. By resuming your studies you are transferred to the current curriculum. Therefore, it may be possible that not all examinations you have already completed are recognised.\n\n[3] Closing a degree programme/Withdrawing from the University of Vienna\n/\n\n- What do I have to keep in mind regarding pending examination results?\n\n  If you want to take further exams or receive examination results, wait until all examination results have been entered by the [StudiesServiceCenter](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme and appear in u:space. After a degree programme has been closed, it is neither possible to take exams nor to enter these examination results.\n- When can I close my degree proramme(s)?\n\n  You can close your degree programme(s) year-round via our [Servicdesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/category/stuz).\n\n- [§§ 66 para 4, 68, 69, 71](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128) [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n\n[4] ABC of terminology — C\nthe academic degree. You also receive your diploma supplement. The aim of the bilingual diploma supplement (in German/English) is to enhance the transparency and recognition of higher education degrees. Your diploma supplement contains information about the type and level of your degree, the degree programme you completed (requirements, course of studies, grading scale) as well as as standardised information about the higher education system. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Diploma Supplement](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30852&cHash=e0f7f659728ec124c1ab41f985dc9792) - Change of degree programme Would you like to change your degree programme at the University of Vienna? Apply for admission to the new degree programme in u:space. Please note the application deadlines! Then write a message to the Admission Office via the Service Desk and have your previous degree programme closed. Related Links: - [Information on the change of degree programme](/en/admission/change-of-degree-programme/) - Closing a degree programme/withdrawing from the University of Vienna The closure of a degree programme is not subject to any deadlines at the University of Vienna. Therefore, you can request the closure of a degree programme throughout the year. If you request to close all your degree programmes, this is referred to as “withdrawal from the university”. Related Links: - [Closing a degree programme/withdrawal from university](/en/admission/closing-a-degree-programme/) - [Resumption of studies](/en/admission/resumption-of-studies/) Related entries: - [Confirmation of withdrawal (\"Abgangsbescheinigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30169&cHash=4d6b9c8665691a99bc99014b4a29d313) - [Termination of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30831&cHash=b781b61903ed2560155fd624dbf8e70b) - Colloquium A colloquium can\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\ndegree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree\n\n[6] Leave of absence — Further information\n- [Information regarding the payment and amount of the tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Closing a degree programme](/en/admission/closing-a-degree-programme/)\n- [Resumption of a degree programme](/en/admission/resumption-of-studies/)\n\nQuestion: What do I have to sort out (courses, library) before I can close my studies?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2084,
+        "completion_tokens": 35,
+        "total_tokens": 2119
+      },
+      "rate_limit_events": [
+        {
+          "cycle": 0,
+          "key_id": 3,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        },
+        {
+          "cycle": 0,
+          "key_id": 0,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        },
+        {
+          "cycle": 0,
+          "key_id": 1,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        }
+      ],
+      "raw_response": "Before closing your studies, you need to deregister from all courses with continuous assessment and examinations [1], and return books to the University Library or institute libraries [1].",
+      "finish_reason": "stop",
+      "latency_ms": 6330.4
+    }
+  },
+  "query_id": "g24:paraphrase:3",
+  "status": "ok",
+  "answer": "Before closing your studies, you need to deregister from all courses with continuous assessment and examinations [1], and return books to the University Library or institute libraries [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+      "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "3bb75e6f5f78-000",
+      "score": 0.7379
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2084,
+    "completion_tokens": 35,
+    "total_tokens": 2119
+  },
+  "total_latency_ms": 6339.4
+}

@@ -1,0 +1,752 @@
+{
+  "trace_id": "cf47eb9088e5",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Can I complete single courses here and have them recognised at my home university?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Can I complete single courses here and have them recognised at my home university?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7252,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7164,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.6958,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.6945,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.6941,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "683e91ed0d69-005",
+          "page_id": "683e91ed0d69",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet"
+        },
+        {
+          "id": "271a53027cf1-001",
+          "page_id": "271a53027cf1",
+          "score": 0.688,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6879,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "518a957ec376-008",
+          "page_id": "518a957ec376",
+          "score": 0.6863,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 129,
+          "text": "already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of Vienna? If you have to meet the additional requirements prior to admission but cannot prove the corresponding knowledge by means of your school reports, you will have to take your additional exam outside of the University of Vienna. Additional exams can be passed at a [Bildungsdirektion](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir.html) in Austria.Please contact the School Board in charge. In case you provide a proof of Latin or Greek by other means, contact the [StudiesServiceCenter (SSC) of the Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/) in order to clarify whether or not your proof will be accepted."
+        },
+        {
+          "id": "7916c3fc6510-027",
+          "page_id": "7916c3fc6510",
+          "score": 0.6852,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your qualifications (= a description of your achievements). The curricula of the master programmes or the Master Access Guide (MAG) indicate which extension curricula (EC) will provide you with the subject-specific prior knowledge. You have the following options: 1. If you have been admitted to a Bachelor's programme at the University of Vienna, you will already complete the required EC during the course of this programme. You do not need a qualification description, your transcript of records is sufficient proof. 2. You did not study at the University of Vienna? Compare the curriculum of your degree programme with the admission requirements listed in the EC curriculum and enter the relevant achievements from your previous degree programme in the \"Description of Qualifications\" form. Upload the form as proof with your application for admission. Related links: - [Master Access Guide (MAG)](/en/degree-programmes/master-programmes/master-access-guide/#c167271) - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049) - [List of all curricula](https://senat.univie.ac.at/curricularkommission/curricula/) (German only) - Diploma programme In 1999, the Bologna Process was initiated by the European Higher Education Area (EHEA). This fundamentally changed the university structure in Austria. Diploma programmes have been replaced by bachelor and master programmes. At the University of Vienna,"
+        },
+        {
+          "id": "7916c3fc6510-071",
+          "page_id": "7916c3fc6510",
+          "score": 0.6845,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [Directorate of studies (SPL)/StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - Recommended path of study The recommended path of study is part of your curriculum and divides it into semesters. It shows you in which semester and in which order you should ideally complete the individual modules of the curriculum, so that you can complete your degree programme as fast and efficiently as possible. Thus, the path of study serves as a guide: It indicates the best path through your degree programme based on content-related aspects and supports you in planning the individual semesters. Since the winter semester of 2020/2021, some fields of study have already been allocating places in courses with continuous assessment along the recommended path of study. Places in courses with continuous assessment in those studies are not allocated by means of a points or preference system, but on the recommended path of study. In the coming semesters, further fields of study will be released for the allocation of places by means of the study path. Related Links: - [Recommended path"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.6841,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "1944531c4838-003",
+          "page_id": "1944531c4838",
+          "score": 0.6827,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Which degree programme are you interested in?"
+          ],
+          "word_count": 230,
+          "text": "programme](/en/admission-procedure/bachelordiploma-programmes/) - Master programme #### Bachelor programme of at least four years from Bangladesh: Your application can be processed if you - have completed a bachelor programme with a stipulated duration of at least four years (full-time) at a recognised university in Section 1 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND - have achieved a CGPA of 3.75 (out of 4.0) during your degree programme. Each application has to be processed individually. If you have a **lower CGPA** OR have completed your degree programme at a **university in Sections 2, 3 and 4**, **you do not meet the requirements** for admission to a master programme at the University of Vienna. Your application will therefore be rejected. This applies regardless of your result in the competence check. --- #### Completion of a bachelor programme with a stipulated duration of at least four years AND a master programme of two years: Your application can be processed if you: - have completed a bachelor programme with a stipulated duration of at least four years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 (out of 4.0) in your bachelor programme AND - have completed a master programme with a stipulated duration of at least two years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 out of 4.0 in your"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.6802,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6786,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6769,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "7916c3fc6510-040",
+          "page_id": "7916c3fc6510",
+          "score": 0.6761,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "/ - General university entrance qualification You can only be admitted to a degree programme if you provide proof of the general university entrance qualification. Eligible proofs: Secondary-school leaving certificate, completion of a degree programme with a duration of at least three years at a recognised post-secondary educational institution (e.g. a university). Related Links: - [Admission procedure](/en/admission-procedure/) - [Studienberechtigungsprüfung (university entrance qualification examination)](/en/admission/studying-without-secondary-school-leaving-certificate/) Related entries: - [First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Studienberechtigungsprüfung](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31976&cHash=b71951a4fb2bb2fc18957130a051ca32) - German language proficiency/courses When applying for admission to all bachelor/diploma and German-language master degree programmes, you need recognised proof of your German language skills at level A2. In order to achieve the C1 level required for admission to a degree programme, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU). The Language Center of the University of Vienna is one of the cooperation partners of the VWU. Registration for the courses at the VWU and its co-operation partners is only possible with a letter of admission. In this letter, you will be required to take the supplementary German examination if you have not yet provided proof of C1 level at the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna"
+        },
+        {
+          "id": "1c3b37b0f0b8-002",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6755,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies"
+          ],
+          "word_count": 82,
+          "text": "the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of resumption: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/)."
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6748,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        }
+      ],
+      "latency_ms": 8.4
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7252,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7164,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.6958,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.6945,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.6941,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "683e91ed0d69-005",
+          "page_id": "683e91ed0d69",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet"
+        },
+        {
+          "id": "271a53027cf1-001",
+          "page_id": "271a53027cf1",
+          "score": 0.688,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6879,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "518a957ec376-008",
+          "page_id": "518a957ec376",
+          "score": 0.6863,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 129,
+          "text": "already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of Vienna? If you have to meet the additional requirements prior to admission but cannot prove the corresponding knowledge by means of your school reports, you will have to take your additional exam outside of the University of Vienna. Additional exams can be passed at a [Bildungsdirektion](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir.html) in Austria.Please contact the School Board in charge. In case you provide a proof of Latin or Greek by other means, contact the [StudiesServiceCenter (SSC) of the Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/) in order to clarify whether or not your proof will be accepted."
+        },
+        {
+          "id": "7916c3fc6510-027",
+          "page_id": "7916c3fc6510",
+          "score": 0.6852,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "programmes, you will need subject-specific prior knowledge. You must provide proof of this when you apply for admission. Proof is provided either in the form of a trancript of records from the University of Vienna or a description of your qualifications (= a description of your achievements). The curricula of the master programmes or the Master Access Guide (MAG) indicate which extension curricula (EC) will provide you with the subject-specific prior knowledge. You have the following options: 1. If you have been admitted to a Bachelor's programme at the University of Vienna, you will already complete the required EC during the course of this programme. You do not need a qualification description, your transcript of records is sufficient proof. 2. You did not study at the University of Vienna? Compare the curriculum of your degree programme with the admission requirements listed in the EC curriculum and enter the relevant achievements from your previous degree programme in the \"Description of Qualifications\" form. Upload the form as proof with your application for admission. Related links: - [Master Access Guide (MAG)](/en/degree-programmes/master-programmes/master-access-guide/#c167271) - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049) - [List of all curricula](https://senat.univie.ac.at/curricularkommission/curricula/) (German only) - Diploma programme In 1999, the Bologna Process was initiated by the European Higher Education Area (EHEA). This fundamentally changed the university structure in Austria. Diploma programmes have been replaced by bachelor and master programmes. At the University of Vienna,"
+        },
+        {
+          "id": "7916c3fc6510-071",
+          "page_id": "7916c3fc6510",
+          "score": 0.6845,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [Directorate of studies (SPL)/StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - Recommended path of study The recommended path of study is part of your curriculum and divides it into semesters. It shows you in which semester and in which order you should ideally complete the individual modules of the curriculum, so that you can complete your degree programme as fast and efficiently as possible. Thus, the path of study serves as a guide: It indicates the best path through your degree programme based on content-related aspects and supports you in planning the individual semesters. Since the winter semester of 2020/2021, some fields of study have already been allocating places in courses with continuous assessment along the recommended path of study. Places in courses with continuous assessment in those studies are not allocated by means of a points or preference system, but on the recommended path of study. In the coming semesters, further fields of study will be released for the allocation of places by means of the study path. Related Links: - [Recommended path"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.6841,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "1944531c4838-003",
+          "page_id": "1944531c4838",
+          "score": 0.6827,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Which degree programme are you interested in?"
+          ],
+          "word_count": 230,
+          "text": "programme](/en/admission-procedure/bachelordiploma-programmes/) - Master programme #### Bachelor programme of at least four years from Bangladesh: Your application can be processed if you - have completed a bachelor programme with a stipulated duration of at least four years (full-time) at a recognised university in Section 1 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND - have achieved a CGPA of 3.75 (out of 4.0) during your degree programme. Each application has to be processed individually. If you have a **lower CGPA** OR have completed your degree programme at a **university in Sections 2, 3 and 4**, **you do not meet the requirements** for admission to a master programme at the University of Vienna. Your application will therefore be rejected. This applies regardless of your result in the competence check. --- #### Completion of a bachelor programme with a stipulated duration of at least four years AND a master programme of two years: Your application can be processed if you: - have completed a bachelor programme with a stipulated duration of at least four years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 (out of 4.0) in your bachelor programme AND - have completed a master programme with a stipulated duration of at least two years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 out of 4.0 in your"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.6802,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6786,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6769,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "66b1e5ed443c-001",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Consequences of a non-degree programme"
+          ],
+          "word_count": 229,
+          "text": "- Examination attempts in the non-degree programme also count for the degree programme. If all examination attempts are graded negatively in the non-degree programme, you are permanently excluded from the degree programme and cannot be admitted to this programme at the University of Vienna.\n- You have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- You are not admitted to a specific degree programme, but to attending individual courses (\"Besuch einzelner Lehrveranstaltungen\").\n- The admission to a non-degree programme is possibile until the end of the admission period. However, the registration deadlines for courses end before the beginning of the semester in some cases. Therefore, it is possible that you miss these deadlines.\n- Students admitted to a degree programme are favoured in the allocation of course places. If you have any questions regarding the registration for courses and examinations, please contact the [StudiesServiceCenter or StudiesServiceUnit](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme in which the courses are offered.\n- You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible.\n- There might be restrictions/limitations when it comes to health insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority about the consequences of your non-degree programme up front."
+        },
+        {
+          "id": "7916c3fc6510-040",
+          "page_id": "7916c3fc6510",
+          "score": 0.6761,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "/ - General university entrance qualification You can only be admitted to a degree programme if you provide proof of the general university entrance qualification. Eligible proofs: Secondary-school leaving certificate, completion of a degree programme with a duration of at least three years at a recognised post-secondary educational institution (e.g. a university). Related Links: - [Admission procedure](/en/admission-procedure/) - [Studienberechtigungsprüfung (university entrance qualification examination)](/en/admission/studying-without-secondary-school-leaving-certificate/) Related entries: - [First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Studienberechtigungsprüfung](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31976&cHash=b71951a4fb2bb2fc18957130a051ca32) - German language proficiency/courses When applying for admission to all bachelor/diploma and German-language master degree programmes, you need recognised proof of your German language skills at level A2. In order to achieve the C1 level required for admission to a degree programme, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU). The Language Center of the University of Vienna is one of the cooperation partners of the VWU. Registration for the courses at the VWU and its co-operation partners is only possible with a letter of admission. In this letter, you will be required to take the supplementary German examination if you have not yet provided proof of C1 level at the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna"
+        },
+        {
+          "id": "1c3b37b0f0b8-002",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6755,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies"
+          ],
+          "word_count": 82,
+          "text": "the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of resumption: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/)."
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6748,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "66b1e5ed443c-003",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7252,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "word_count": 115,
+          "text": "degree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |"
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7164,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.6958,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "45310905df19-009",
+          "page_id": "45310905df19",
+          "score": 0.6945,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "word_count": 34,
+          "text": "Students enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/)."
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.6941,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "683e91ed0d69-005",
+          "page_id": "683e91ed0d69",
+          "score": 0.6917,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Attending courses out of interest — Degree programme or non-degree programme?\ndegree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |\n\n[2] Co-registration at the University of Vienna — FAQ\n/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The\n\n[3] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[4] Admission to master programmes — All master programmes > Cooperation with the Central European University (CEU)\nStudents enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/).\n\n[5] ABC of terminology — R\nthe associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,\n\n[6] Co-registration at the University of Vienna — FAQ\nThe registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Degree programme or non-degree programme?"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-003",
+          "score": 0.7252
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-004",
+          "score": 0.7164
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-003",
+          "score": 0.6958
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "heading_path": [
+            "All master programmes",
+            "Cooperation with the Central European University (CEU)"
+          ],
+          "section": "Admission",
+          "chunk_id": "45310905df19-009",
+          "score": 0.6945
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "R"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-070",
+          "score": 0.6941
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-005",
+          "score": 0.6917
+        }
+      },
+      "context_chars": 7113,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Attending courses out of interest — Degree programme or non-degree programme?\ndegree programmes are favoured in the allocation of course places. It may well be that you do not obtain a spot. | | You can follow the recommend study path, complete a degree programme and graduate. | You are only allowed to take individual examinations/courses and must comply with the curriuclum's registration requirements. Furthermore, you are not allowed to take any public defenses. Graduating is not possible. | | You may be eligible to receive student discounts and financial assistance. Please inform yourself at the responsible authority in advance. | There might be restrictions/limitations when it comes to insurance, residence permit and financial assistance. Please make an inquiry at the responsible authority up front. |\n\n[2] Co-registration at the University of Vienna — FAQ\n/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The\n\n[3] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[4] Admission to master programmes — All master programmes > Cooperation with the Central European University (CEU)\nStudents enrolled in a master programme at the University of Vienna or at the Central European University are eligible to complete single courses at the partner institution as part of the [mutual exchange programme](/en/admission/master-programmes/ceu-cooperation/).\n\n[5] ABC of terminology — R\nthe associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,\n\n[6] Co-registration at the University of Vienna — FAQ\nThe registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet\n\nQuestion: Can I complete single courses here and have them recognised at my home university?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 1680,
+        "completion_tokens": 21,
+        "total_tokens": 1701
+      },
+      "rate_limit_events": [],
+      "raw_response": "Yes, you can complete single courses and have them recognised at your home university [2][3].",
+      "finish_reason": "stop",
+      "latency_ms": 2609.1
+    }
+  },
+  "query_id": "g20:paraphrase:1",
+  "status": "ok",
+  "answer": "Yes, you can complete single courses and have them recognised at your home university [2][3].",
+  "citations": [
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+      "title": "Co-registration at the University of Vienna",
+      "heading_path": [
+        "FAQ"
+      ],
+      "section": "Admission",
+      "chunk_id": "683e91ed0d69-004",
+      "score": 0.7164
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+      "title": "Co-registration at the University of Vienna",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "683e91ed0d69-003",
+      "score": 0.6958
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 1680,
+    "completion_tokens": 21,
+    "total_tokens": 1701
+  },
+  "total_latency_ms": 2617.5
+}

@@ -1,0 +1,709 @@
+{
+  "trace_id": "4c9549f5cd61",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How many attempts do I get at the introductory and orientation period exams?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How many attempts do I get at the introductory and orientation period exams?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7183,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.704,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "ea38d2ce2037-001",
+          "page_id": "ea38d2ce2037",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 193,
+          "text": "Your first step before starting your studies is applying for admission to a degree programme. You can submit your application for [first-time admission](/en/admission-procedure/), [change of degree programme](/en/admission/change-of-degree-programme/), [admission to an additional degree programme](/en/admission/additional-degree-programmes/) and [resumption of studies](/en/admission/resumption-of-studies/) within the application period.\n\nThe application period depends on your citizenship and the degree programme of your choice. You are unsure which period applies to you? Choose the degree programme you are interested in at \"[Admission](/en/admission-procedure/)\". In the step-by-step instruction of the admission period you find detailed info on the application procedure.\n\nOur tip: Submit your application for admission to the degree programme at the beginning of the application period! Thereby you can complete the admission procedure at the beginning of the admission period and have an easy start of your studies.\n\nApplication periods for EU/EEA/CH citizens and [Non-EU/EEA nationals with equivalent status](/en/non-eueea-nationals-with-equivalent-status/)\n\n- Winter semester 2026/27:\n  from 22 June to 5 September 2026\n- Summer semester 2027:\n  from 16 November 2026 to 5 February 2027\n\nApplication periods for citizens of non-EU/EEA countries\n\n- Winter semester 2026/27:\n  from 22 June to 3 August 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6987,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6865,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "1863348578bf-000",
+          "page_id": "1863348578bf",
+          "score": 0.684,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 34,
+          "text": "[# Entrance exam procedure](/en/)\n\nThe tests for programmes with an entrance exam procedure take place from 6 July 2026 onwards. The application period is from 2 March to 4 May 2026.\n\n©\nUniversität Wien"
+        },
+        {
+          "id": "1863348578bf-001",
+          "page_id": "1863348578bf",
+          "score": 0.6816,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Your path to a study place in 2026/27"
+          ],
+          "word_count": 215,
+          "text": "- ### Step 1\n\n  **From now on**\n\n  Find out more:\n\n  - [What is an entrance exam/aptitude test procedure?](#c4427)\n  - [Does my preferred programme have an entrance exam/aptitude test procedure?](#c7588)\n  - [How do I find my dream degree programme?](#c4476)\n  - [What will change in 2026/27?](https://aufnahmeverfahren.univie.ac.at/en/news/detail/entrance-exam-procedure-2026-27)\n- ### Step 2\n\n  **Deadline: 2 March to 4 May 2026**\n\n  The application period has ended. There is no extension period. You can only take part in this year’s entrance exam/aptitude test procedure if you applied within the application period.\n\n  Please note: The entrance exam and aptitude test procedure only take place once per academic year!\n- ### Step 3\n\n  **Written tests: From 6 July 2026 onwards**\n\n  The written tests take place on site in Vienna. We will inform you until the end of this year about the exact test dates. There are no alternative dates. Therefore, make sure to keep the test day free!\n\n  Note: The entrance exam and aptitude test procedures of the University of Vienna only take place once per academic year!\n- ### Step 4\n\n  **Results: Around 2 weeks after the test**\n\n  We will send your test result via e-mail. If you were successful, you will receive info about your further steps for your admission and starting your studies.\n\n  The winter semester always starts on 1 October."
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.6814,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "ea38d2ce2037-000",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6799,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "[### Attention: changes for bachelor and diploma programmes with entrance exam procedure for the academic year 2026/27 (please click here)](https://aufnahmeverfahren.univie.ac.at/en/)\n\nOn this site you will find an overview of the application and admission periods for bachelor/diploma and master programmes at the University of Vienna.\n\n- You have to submit your application for admission to a degree programme within the [application period (= general admission period)](#c955669).\n- You can complete the admission procedure within the [admission period (= registration period for the continuation of studies)](#c955681).\n\nThe winter semester always starts on 1 October, the summer semester on 1 March.\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n- The application for degree programmes with entrance exam or selection procedure is only possible once per academic year!\n  - [Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n  - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n- Separate application and admission periods apply for admission to [non-degree programmes](/en/admission/non-degree-programme/).\n- If you want to attend the [Preparation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) you also have to keep the registration periods of the VWU in mind."
+        },
+        {
+          "id": "ea38d2ce2037-002",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6783,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 190,
+          "text": "[#### Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 4 May 2026\n\n[#### Bachelor programme in Sport Science](/en/admission/bachelordiploma-programmes/sport-science/)\n\nApplication period irrespective of applicant's citizenship\n\n- Winter semester 2026/27:\n  from 2 March to 4 May 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[#### Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 7 April 2026\n\n#### Eligible master programmes without selection procedure for graduates of the University of Vienna\n\nApplication period for graduates of an eligible bachelor programme at the University of Vienna according to the curriculum, if no qualitative admission requirements or language skills are stipulated in it (in this case the normal application deadline applies).\n\n- Winter semester 2026/27:\n  from 22 June to 31 October 2026\n- Summer semester 2027:\n  from 16 November 2026 to 31 March 2027\n\nSpecial case: Same day admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German)"
+        },
+        {
+          "id": "0a9941520df7-000",
+          "page_id": "0a9941520df7",
+          "score": 0.678,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "[Entrance exam procedure](/en/)\n\n# Deadlines and dates\n\nAre you interested in a bachelor's/diploma programme with an entrance exam/aptitude test procedure? On this page, you will find all the information you need about our application and admission deadlines and test dates for the academic year 2026/27.\n\n- ### Application period\n\n  The application period is the time frame during which you can apply to study at the University of Vienna by submitting your application for admission.\n\n  During the application period, you can apply for the following: first-time admission, change of programme, admission to an additional programme, and resumption of studies.\n\n  Our tip: Apply right at the beginning of the application period! This will allow you to complete the admission process quickly after the admission period begins.\n- ### Admission period\n\n  During the admission period, you complete all the necessary steps in the admission process and are officially admitted.\n\n  Please note: This is only possible if you have applied within the application period and submitted an application for admission to your desired degree programme. You must also meet all admission requirements.\n\n  Our tip: Complete the admission procedure as early as possible. That way, you will get off to a good start in your studies!"
+        },
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.6756,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "7916c3fc6510-053",
+          "page_id": "7916c3fc6510",
+          "score": 0.6753,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "/ - Negative assessment Exam In the event of a negative grade, you will be able to re-sit an exam three times, which means that you can take an exam four times in total. The fourth attempt takes place orally before an examination committee. Please register to an examination in front of an examination committee at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). If the fourth examination attempt was not successful, you will be permanently blocked from this degree programme and any other degree programmes at the University of Vienna, for which the same examination result is required. Admission to these degree programmes is not possible any more. Course with continuous assessment In the event of a negative grade, you will have to repeat the entire course with continuous assessment. You can repeat a course offered by a different course instructor if it serves the same purpose with regard to your curriculum. The course can be repeated three times (four attempts in total). If the fourth attempt was not successful, you will be deregistered from this degree programme at the University of Vienna (and any other degree programmes for which this course is required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in"
+        },
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.6726,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6717,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "271a53027cf1-005",
+          "page_id": "271a53027cf1",
+          "score": 0.6705,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for exams"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Search examination on u:find You can see the details about the exam (e.g. date, time, venue, examiner(s), alternative exam dates) on the Course Directory [u:find](https://ufind.univie.ac.at/en/index.html). Click on “Register/Deregister for this exam”. You will be forwarded to u:space, where you can complete your registration. Please click on the following link if you need [help in using u:find](https://ufind.univie.ac.at/en/help.html). - Step 2: Register for the examination You can only register for exams within the relevant registration period. You can check the registration period on u:find. In u:space you have to select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Click on “Register” to complete the registration. Now, your registration has the [registration status](/en/abc-of-terminology/?no_cache=1#c741418) “Registered\"(Angemeldet) in u:space. If you do not meet all the necessary requirements (e.g. examinations from the introductory and orientation period) for taking the exam, your registration status will be \"Prerequisite currently not met\". In the details you will find the missing requirements. In this case, you are not yet able to register for the exam. If you meet the requirements by the end of the registration deadline, your registration will be considered in the allocation process. For exams with"
+        },
+        {
+          "id": "1389af33ffd3-002",
+          "page_id": "1389af33ffd3",
+          "score": 0.6701,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively, you can also use the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) which outlines the structure of your curriculum. This way, you can see at a glance which achievements you have already completed and which ones you have to complete next. In the [course directory u:find](https://ufind.univie.ac.at/de/index.html), you can select the specific courses for the current semester. Factors, such as content, time, venue, lecturer, etc., may help you in your decision. The workload required to complete a course is indicated in the form of ECTS credits. On average, completing a degree programme within its standard duration takes 30 ECTS credits per semester. Please note that you have to complete an [introductory and orientation period (STEOP)](/en/semester-planning/introductory-and-orientation-period-steop/) at the beginning of every bachelor’s programme before you are allowed to register for any other courses. In addition to compulsory and elective modules, you will have to complete [extension curricula](/en/extension-curricula-and-alternative-extensions/) (EC) in almost all bachelor’s programmes. You can register for EC in u:space. Tips for semester planning in u:find The course directory u:find offers three help tools for semester planning, which are still known to only a few students: - In the overview of all courses in"
+        },
+        {
+          "id": "04a3af80cb80-002",
+          "page_id": "04a3af80cb80",
+          "score": 0.6696,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 105,
+          "text": "The project is especially aimed at students of the University of Vienna who have motivation, concentration and/or attention difficulties.\n\nYou can register for the dates via the freely accessible [\"ISU -Study-Café\"-Moodle course](https://moodle.univie.ac.at/course/view.php?id=442689)!\nYou can register for the Moodle course yourself at any time.\n\n- On site:\n  Max. Number of participants: 14 people per date (first come first serve!)\n  In the Moodle course you can see how many places are still available per date.\n  The dates are always released by the 20th of the previous month.\n- Online:\n  Unlimited number of participants; via BigBlueButton.\n\nContact via: [peerpoint.ctl@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,rggtrqkpv0evnBwpkxkg0ce0cv');)\nPlease enter “ISU Learning Café” in the subject line."
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6695,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6689,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        }
+      ],
+      "latency_ms": 6.6
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7183,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.704,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "ea38d2ce2037-001",
+          "page_id": "ea38d2ce2037",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 193,
+          "text": "Your first step before starting your studies is applying for admission to a degree programme. You can submit your application for [first-time admission](/en/admission-procedure/), [change of degree programme](/en/admission/change-of-degree-programme/), [admission to an additional degree programme](/en/admission/additional-degree-programmes/) and [resumption of studies](/en/admission/resumption-of-studies/) within the application period.\n\nThe application period depends on your citizenship and the degree programme of your choice. You are unsure which period applies to you? Choose the degree programme you are interested in at \"[Admission](/en/admission-procedure/)\". In the step-by-step instruction of the admission period you find detailed info on the application procedure.\n\nOur tip: Submit your application for admission to the degree programme at the beginning of the application period! Thereby you can complete the admission procedure at the beginning of the admission period and have an easy start of your studies.\n\nApplication periods for EU/EEA/CH citizens and [Non-EU/EEA nationals with equivalent status](/en/non-eueea-nationals-with-equivalent-status/)\n\n- Winter semester 2026/27:\n  from 22 June to 5 September 2026\n- Summer semester 2027:\n  from 16 November 2026 to 5 February 2027\n\nApplication periods for citizens of non-EU/EEA countries\n\n- Winter semester 2026/27:\n  from 22 June to 3 August 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6987,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6865,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "1863348578bf-000",
+          "page_id": "1863348578bf",
+          "score": 0.684,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 34,
+          "text": "[# Entrance exam procedure](/en/)\n\nThe tests for programmes with an entrance exam procedure take place from 6 July 2026 onwards. The application period is from 2 March to 4 May 2026.\n\n©\nUniversität Wien"
+        },
+        {
+          "id": "1863348578bf-001",
+          "page_id": "1863348578bf",
+          "score": 0.6816,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Your path to a study place in 2026/27"
+          ],
+          "word_count": 215,
+          "text": "- ### Step 1\n\n  **From now on**\n\n  Find out more:\n\n  - [What is an entrance exam/aptitude test procedure?](#c4427)\n  - [Does my preferred programme have an entrance exam/aptitude test procedure?](#c7588)\n  - [How do I find my dream degree programme?](#c4476)\n  - [What will change in 2026/27?](https://aufnahmeverfahren.univie.ac.at/en/news/detail/entrance-exam-procedure-2026-27)\n- ### Step 2\n\n  **Deadline: 2 March to 4 May 2026**\n\n  The application period has ended. There is no extension period. You can only take part in this year’s entrance exam/aptitude test procedure if you applied within the application period.\n\n  Please note: The entrance exam and aptitude test procedure only take place once per academic year!\n- ### Step 3\n\n  **Written tests: From 6 July 2026 onwards**\n\n  The written tests take place on site in Vienna. We will inform you until the end of this year about the exact test dates. There are no alternative dates. Therefore, make sure to keep the test day free!\n\n  Note: The entrance exam and aptitude test procedures of the University of Vienna only take place once per academic year!\n- ### Step 4\n\n  **Results: Around 2 weeks after the test**\n\n  We will send your test result via e-mail. If you were successful, you will receive info about your further steps for your admission and starting your studies.\n\n  The winter semester always starts on 1 October."
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.6814,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "ea38d2ce2037-000",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6799,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "[### Attention: changes for bachelor and diploma programmes with entrance exam procedure for the academic year 2026/27 (please click here)](https://aufnahmeverfahren.univie.ac.at/en/)\n\nOn this site you will find an overview of the application and admission periods for bachelor/diploma and master programmes at the University of Vienna.\n\n- You have to submit your application for admission to a degree programme within the [application period (= general admission period)](#c955669).\n- You can complete the admission procedure within the [admission period (= registration period for the continuation of studies)](#c955681).\n\nThe winter semester always starts on 1 October, the summer semester on 1 March.\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n- The application for degree programmes with entrance exam or selection procedure is only possible once per academic year!\n  - [Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n  - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n- Separate application and admission periods apply for admission to [non-degree programmes](/en/admission/non-degree-programme/).\n- If you want to attend the [Preparation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) you also have to keep the registration periods of the VWU in mind."
+        },
+        {
+          "id": "ea38d2ce2037-002",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6783,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 190,
+          "text": "[#### Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 4 May 2026\n\n[#### Bachelor programme in Sport Science](/en/admission/bachelordiploma-programmes/sport-science/)\n\nApplication period irrespective of applicant's citizenship\n\n- Winter semester 2026/27:\n  from 2 March to 4 May 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[#### Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 7 April 2026\n\n#### Eligible master programmes without selection procedure for graduates of the University of Vienna\n\nApplication period for graduates of an eligible bachelor programme at the University of Vienna according to the curriculum, if no qualitative admission requirements or language skills are stipulated in it (in this case the normal application deadline applies).\n\n- Winter semester 2026/27:\n  from 22 June to 31 October 2026\n- Summer semester 2027:\n  from 16 November 2026 to 31 March 2027\n\nSpecial case: Same day admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German)"
+        },
+        {
+          "id": "0a9941520df7-000",
+          "page_id": "0a9941520df7",
+          "score": 0.678,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "[Entrance exam procedure](/en/)\n\n# Deadlines and dates\n\nAre you interested in a bachelor's/diploma programme with an entrance exam/aptitude test procedure? On this page, you will find all the information you need about our application and admission deadlines and test dates for the academic year 2026/27.\n\n- ### Application period\n\n  The application period is the time frame during which you can apply to study at the University of Vienna by submitting your application for admission.\n\n  During the application period, you can apply for the following: first-time admission, change of programme, admission to an additional programme, and resumption of studies.\n\n  Our tip: Apply right at the beginning of the application period! This will allow you to complete the admission process quickly after the admission period begins.\n- ### Admission period\n\n  During the admission period, you complete all the necessary steps in the admission process and are officially admitted.\n\n  Please note: This is only possible if you have applied within the application period and submitted an application for admission to your desired degree programme. You must also meet all admission requirements.\n\n  Our tip: Complete the admission procedure as early as possible. That way, you will get off to a good start in your studies!"
+        },
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.6756,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "7916c3fc6510-053",
+          "page_id": "7916c3fc6510",
+          "score": 0.6753,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "/ - Negative assessment Exam In the event of a negative grade, you will be able to re-sit an exam three times, which means that you can take an exam four times in total. The fourth attempt takes place orally before an examination committee. Please register to an examination in front of an examination committee at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). If the fourth examination attempt was not successful, you will be permanently blocked from this degree programme and any other degree programmes at the University of Vienna, for which the same examination result is required. Admission to these degree programmes is not possible any more. Course with continuous assessment In the event of a negative grade, you will have to repeat the entire course with continuous assessment. You can repeat a course offered by a different course instructor if it serves the same purpose with regard to your curriculum. The course can be repeated three times (four attempts in total). If the fourth attempt was not successful, you will be deregistered from this degree programme at the University of Vienna (and any other degree programmes for which this course is required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in"
+        },
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.6726,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.6717,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "271a53027cf1-005",
+          "page_id": "271a53027cf1",
+          "score": 0.6705,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for exams"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Search examination on u:find You can see the details about the exam (e.g. date, time, venue, examiner(s), alternative exam dates) on the Course Directory [u:find](https://ufind.univie.ac.at/en/index.html). Click on “Register/Deregister for this exam”. You will be forwarded to u:space, where you can complete your registration. Please click on the following link if you need [help in using u:find](https://ufind.univie.ac.at/en/help.html). - Step 2: Register for the examination You can only register for exams within the relevant registration period. You can check the registration period on u:find. In u:space you have to select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Click on “Register” to complete the registration. Now, your registration has the [registration status](/en/abc-of-terminology/?no_cache=1#c741418) “Registered\"(Angemeldet) in u:space. If you do not meet all the necessary requirements (e.g. examinations from the introductory and orientation period) for taking the exam, your registration status will be \"Prerequisite currently not met\". In the details you will find the missing requirements. In this case, you are not yet able to register for the exam. If you meet the requirements by the end of the registration deadline, your registration will be considered in the allocation process. For exams with"
+        },
+        {
+          "id": "1389af33ffd3-002",
+          "page_id": "1389af33ffd3",
+          "score": 0.6701,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively, you can also use the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) which outlines the structure of your curriculum. This way, you can see at a glance which achievements you have already completed and which ones you have to complete next. In the [course directory u:find](https://ufind.univie.ac.at/de/index.html), you can select the specific courses for the current semester. Factors, such as content, time, venue, lecturer, etc., may help you in your decision. The workload required to complete a course is indicated in the form of ECTS credits. On average, completing a degree programme within its standard duration takes 30 ECTS credits per semester. Please note that you have to complete an [introductory and orientation period (STEOP)](/en/semester-planning/introductory-and-orientation-period-steop/) at the beginning of every bachelor’s programme before you are allowed to register for any other courses. In addition to compulsory and elective modules, you will have to complete [extension curricula](/en/extension-curricula-and-alternative-extensions/) (EC) in almost all bachelor’s programmes. You can register for EC in u:space. Tips for semester planning in u:find The course directory u:find offers three help tools for semester planning, which are still known to only a few students: - In the overview of all courses in"
+        },
+        {
+          "id": "04a3af80cb80-002",
+          "page_id": "04a3af80cb80",
+          "score": 0.6696,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [],
+          "word_count": 105,
+          "text": "The project is especially aimed at students of the University of Vienna who have motivation, concentration and/or attention difficulties.\n\nYou can register for the dates via the freely accessible [\"ISU -Study-Café\"-Moodle course](https://moodle.univie.ac.at/course/view.php?id=442689)!\nYou can register for the Moodle course yourself at any time.\n\n- On site:\n  Max. Number of participants: 14 people per date (first come first serve!)\n  In the Moodle course you can see how many places are still available per date.\n  The dates are always released by the 20th of the previous month.\n- Online:\n  Unlimited number of participants; via BigBlueButton.\n\nContact via: [peerpoint.ctl@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,rggtrqkpv0evnBwpkxkg0ce0cv');)\nPlease enter “ISU Learning Café” in the subject line."
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6695,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6689,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7183,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.704,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "ea38d2ce2037-001",
+          "page_id": "ea38d2ce2037",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 193,
+          "text": "Your first step before starting your studies is applying for admission to a degree programme. You can submit your application for [first-time admission](/en/admission-procedure/), [change of degree programme](/en/admission/change-of-degree-programme/), [admission to an additional degree programme](/en/admission/additional-degree-programmes/) and [resumption of studies](/en/admission/resumption-of-studies/) within the application period.\n\nThe application period depends on your citizenship and the degree programme of your choice. You are unsure which period applies to you? Choose the degree programme you are interested in at \"[Admission](/en/admission-procedure/)\". In the step-by-step instruction of the admission period you find detailed info on the application procedure.\n\nOur tip: Submit your application for admission to the degree programme at the beginning of the application period! Thereby you can complete the admission procedure at the beginning of the admission period and have an easy start of your studies.\n\nApplication periods for EU/EEA/CH citizens and [Non-EU/EEA nationals with equivalent status](/en/non-eueea-nationals-with-equivalent-status/)\n\n- Winter semester 2026/27:\n  from 22 June to 5 September 2026\n- Summer semester 2027:\n  from 16 November 2026 to 5 February 2027\n\nApplication periods for citizens of non-EU/EEA countries\n\n- Winter semester 2026/27:\n  from 22 June to 3 August 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6987,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6865,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "1863348578bf-000",
+          "page_id": "1863348578bf",
+          "score": 0.684,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 34,
+          "text": "[# Entrance exam procedure](/en/)\n\nThe tests for programmes with an entrance exam procedure take place from 6 July 2026 onwards. The application period is from 2 March to 4 May 2026.\n\n©\nUniversität Wien"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Introductory and orientation period (STEOP)\nAlmost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n\n[2] ABC of terminology — I\nprograms for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)\n\n[3] Application and admission periods — Application period\nYour first step before starting your studies is applying for admission to a degree programme. You can submit your application for [first-time admission](/en/admission-procedure/), [change of degree programme](/en/admission/change-of-degree-programme/), [admission to an additional degree programme](/en/admission/additional-degree-programmes/) and [resumption of studies](/en/admission/resumption-of-studies/) within the application period.\n\nThe application period depends on your citizenship and the degree programme of your choice. You are unsure which period applies to you? Choose the degree programme you are interested in at \"[Admission](/en/admission-procedure/)\". In the step-by-step instruction of the admission period you find detailed info on the application procedure.\n\nOur tip: Submit your application for admission to the degree programme at the beginning of the application period! Thereby you can complete the admission procedure at the beginning of the admission period and have an easy start of your studies.\n\nApplication periods for EU/EEA/CH citizens and [Non-EU/EEA nationals with equivalent status](/en/non-eueea-nationals-with-equivalent-status/)\n\n- Winter semester 2026/27:\n  from 22 June to 5 September 2026\n- Summer semester 2027:\n  from 16 November 2026 to 5 February 2027\n\nApplication periods for citizens of non-EU/EEA countries\n\n- Winter semester 2026/27:\n  from 22 June to 3 August 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[4] Deadlines and dates\n- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext\n\n[5] ABC of terminology — U\nyour transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)\n\n[6] Entrance exam procedure\n[# Entrance exam procedure](/en/)\n\nThe tests for programmes with an entrance exam procedure take place from 6 July 2026 onwards. The application period is from 2 March to 4 May 2026.\n\n©\nUniversität Wien",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "b573e2ee5141-000",
+          "score": 0.7183
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "I"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-045",
+          "score": 0.704
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "heading_path": [
+            "Application period"
+          ],
+          "section": "Admission",
+          "chunk_id": "ea38d2ce2037-001",
+          "score": 0.703
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "heading_path": [],
+          "section": "Entrance exam",
+          "chunk_id": "0a9941520df7-001",
+          "score": 0.6987
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "U"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-108",
+          "score": 0.6865
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "heading_path": [],
+          "section": "Entrance exam",
+          "chunk_id": "1863348578bf-000",
+          "score": 0.684
+        }
+      },
+      "context_chars": 6609,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Introductory and orientation period (STEOP)\nAlmost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n\n[2] ABC of terminology — I\nprograms for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)\n\n[3] Application and admission periods — Application period\nYour first step before starting your studies is applying for admission to a degree programme. You can submit your application for [first-time admission](/en/admission-procedure/), [change of degree programme](/en/admission/change-of-degree-programme/), [admission to an additional degree programme](/en/admission/additional-degree-programmes/) and [resumption of studies](/en/admission/resumption-of-studies/) within the application period.\n\nThe application period depends on your citizenship and the degree programme of your choice. You are unsure which period applies to you? Choose the degree programme you are interested in at \"[Admission](/en/admission-procedure/)\". In the step-by-step instruction of the admission period you find detailed info on the application procedure.\n\nOur tip: Submit your application for admission to the degree programme at the beginning of the application period! Thereby you can complete the admission procedure at the beginning of the admission period and have an easy start of your studies.\n\nApplication periods for EU/EEA/CH citizens and [Non-EU/EEA nationals with equivalent status](/en/non-eueea-nationals-with-equivalent-status/)\n\n- Winter semester 2026/27:\n  from 22 June to 5 September 2026\n- Summer semester 2027:\n  from 16 November 2026 to 5 February 2027\n\nApplication periods for citizens of non-EU/EEA countries\n\n- Winter semester 2026/27:\n  from 22 June to 3 August 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[4] Deadlines and dates\n- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext\n\n[5] ABC of terminology — U\nyour transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)\n\n[6] Entrance exam procedure\n[# Entrance exam procedure](/en/)\n\nThe tests for programmes with an entrance exam procedure take place from 6 July 2026 onwards. The application period is from 2 March to 4 May 2026.\n\n©\nUniversität Wien\n\nQuestion: How many attempts do I get at the introductory and orientation period exams?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 1773,
+        "completion_tokens": 31,
+        "total_tokens": 1804
+      },
+      "rate_limit_events": [],
+      "raw_response": "You can retake examinations three times [1]. If the fourth examination attempt is not successful, your admission to the associated degree programme expires [1].",
+      "finish_reason": "stop",
+      "latency_ms": 853.2
+    }
+  },
+  "query_id": "g02:paraphrase:0",
+  "status": "ok",
+  "answer": "You can retake examinations three times [1]. If the fourth examination attempt is not successful, your admission to the associated degree programme expires [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+      "title": "Introductory and orientation period (STEOP)",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "b573e2ee5141-000",
+      "score": 0.7183
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 1773,
+    "completion_tokens": 31,
+    "total_tokens": 1804
+  },
+  "total_latency_ms": 860.0
+}

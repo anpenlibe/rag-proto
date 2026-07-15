@@ -1,0 +1,734 @@
+{
+  "trace_id": "6c2f26a5b266",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How does a student from another Austrian university take a course at Uni Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How does a student from another Austrian university take a course at Uni Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7717,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "2c3333c4b616-000",
+          "page_id": "2c3333c4b616",
+          "score": 0.7613,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "On this site prospective and first-year students get a first insight into the University of Vienna and into student life.\n\nA university degree mainly differs from school and other vocational trainings in two aspects:\n\n1. I am myself responsible for my study progress. This means, for example, that I have to organise my time and schedule my semester on my own.\n2. A university degree does not prepare me for a specific profession, as for example an apprenticeship does. It is a basic academic training in the selected field. I get to know scientific theories and working methods which may open up several career opportunities. I gain professional practice and experience for my later profession while working besides studying, or during an internship.\n\nOur videos in the category \"Studying made easier\" explain vividly important terms from student life at the University of Vienna.\n\nIn the \"Uni Stories\" students talk about their everyday life at university. The stories contain different topics, such as housing, budget, finances, stays abroad, barrier-free studying or the reasons that were decisive for the students choice of a particular study program.\n\n- [University Know-How](#c274210)\n- [Uni Stories](#c345104)\n\n© Universität Wien/ Martin Sowa"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7592,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7591,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7578,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7544,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "d08ccef68126-000",
+          "page_id": "d08ccef68126",
+          "score": 0.7543,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 230,
+          "text": "Our programme for a successful start to your studies [ ](/fileadmin/user_upload/welcome/Welcome_Grafiken/WelcomeWeeks_16x9-V2_2_2.mp4#t=0.1) Play video Pause video About to start the bachelor's programme in Psychology? ## Then visit the orientation course (OV) on 1 October 2026! [To the OV Pychology](https://ufind.univie.ac.at/en/course.html?lv=200222&semester=2026W) [Overview of all OV](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100) Is your first semester starting soon? To help you get off to a good start with your studies, the University of Vienna offers orientation courses, workshops and other activities for new students. We’ve put together all the information about the Welcome Weeks for you. There you’ll find important information about your studies as well as helpful tips for everyday student life. Make the most of the wide range of activities on offer and get to know the university! When clicking the play button personal data may be transferred to YouTube. The video has been loaded and can be found below on the page. For an English translation you can turn on the English subtitles. Previous © Next - [## Orientation courses At the orientation courses (OV), you’ll find out everything you need to know about your degree programme.](#c8132) - [## Workshops and guided tours Get to know the university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.7543,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "a270af95f995-004",
+          "page_id": "a270af95f995",
+          "score": 0.7512,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "Please follow the Guidelines for Good Scientific Practice from the beginning of your studies until the graduation. You find useful information here:\n\n<https://studienpraeses.univie.ac.at/infos-zum-studienrecht/sicherung-der-guten-wissenschaftlichen-praxis/plagiat/> (in German)\n\n[oeawi.at/en/guidelines/](https://oeawi.at/en/guidelines/)\n\n- [Regulation for pregnant students and nursing mothers](/en/pregnant-students-and-nursing-mothers/)\n\n#### Student participation\n\nThe Austrian National Union of Students represents all students studying at Austrian universities on both the federal level, and the level of university and studies.\n\n- [Österreichische HochschülerInnenschaft (ÖH)](https://www.oeh.ac.at/) - Austrian National Union of Students\n- [ÖH Uni Wien](http://www.oeh.univie.ac.at/) (Austrian National Union of Students at the University of Vienna)\n- [Students' representatives at the University of Vienna](http://www.oeh.univie.ac.at/fakultaets-und-studienvertretungen)\n- Union of Students Act [(HochschülerInnenschaftsgesetz)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n\nThe Unit for Quality Assurance carries out course evaluations and graduate surveys to improve teaching at the University of Vienna. Students are welcome to voice their opinions.\n\n- [Course evaluation](https://www.qs.univie.ac.at/evaluationen/lehrveranstaltungen/)\n- [Graduate survey](https://www.qs.univie.ac.at/analysen/studienabschlussbefragung/)\n- [Unit for Quality Assurance](https://www.qs.univie.ac.at/)\n\n#### Student mobility\n\nThe International Office helps you plan and realise stays abroad during your studies in the framework of mobility programmes.\n\n- [International Office](https://international.univie.ac.at/en/study-abroad-with-erasmus-and-co)\n\n#### Diversity\n\nDiversity enriches our community life by opening up different ways of understanding, thinking and acting. The perception, recognition and utilisation of diversity are therefore key fundamental values of the University of Vienna.\n\n- [Dimensions of diversity](https://gleichstellung.univie.ac.at/en/diversity)\n- [Culture & Equality](http://personalwesen.univie.ac.at/gleichstellung-diversitaet/)\n- [Contact persons](https://gleichstellung.univie.ac.at/en/prevention-counselling/counselling-office)\n- [Accessible studies](/en/accessible-studies/)\n- [Accessibility at the University of Vienna](https://barrierefrei.univie.ac.at/)"
+        },
+        {
+          "id": "785f0a10a7d6-001",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7502,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.7489,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.7487,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7482,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7469,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.7458,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "19aa7932b410-000",
+          "page_id": "19aa7932b410",
+          "score": 0.7453,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "- [\"Try out University\" of the Austrian National Union of Students](#c274344)\n- [Vienna Chamber of Labour: How to suceed in your studies](#c274350)\n- [\"Pupils go to university\" - OeAD, Young Science](#c274354)\n- [OeAD, Young Science](#c274358)\n- [home4students](#c371725)\n- [OeAD student housing](#c753516)\n\nTry out University (Studieren Probieren) offers the possibility of joining an experienced student of a university, a university of applied sciences or a teacher training college to a course and asking for \"inside information\" regarding the respective degree programme.\n\nPlease find further information on Studieren Probieren, the registration as well as contact details in the videos to the right as well as on the website of the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from this, the website also contains a clear listing of all open Studieren Probieren dates and free places.\n\n- [Here you can find the Studieren Probieren website](https://www.studierenprobieren.at/) (available only in German)"
+        },
+        {
+          "id": "8d4ed91613a3-009",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7452,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a master programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "/ - African countries The Higher National Diploma does not fulfil the requirements for admission to a master programme. --- Special case Nigeria: The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Afghanistan If you have only completed a bachelor programme in Afghanistan, you cannot be admitted to a master programme at the University of Vienna. The differences regarding the level of education are too large. Your application for admission will therefore be rejected. --- Exception: If your bachelor"
+        },
+        {
+          "id": "2b99bbd8b3f0-005",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.745,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 217,
+          "text": "Through the process of nostrification, a foreign university degree can get recognised as equivalent to an Austrian university degree programme. This recognition also entails all rights and duties that follow, such as bearing an academic title and having permission to purse a certain profession, among others.\n\nThe official Austrian information centre for international nostrifications in the university field is [ENIC NARIC AUSTRIA](https://www.aais.at/).\n\nYou may file for nostrification at the [office of the Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/).\n\nIn order to apply for admission to another degree programme, you do not have to have your higher education degree recognised through nostrification.\n\nOnce you have been admitted to a degree programme, you may [plan your semester](/en/semester-planning/) and schedule your classes.\n\nIf you are in need of assistance, you may reach out to the [StudiesServiceCenters (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. The [Student representatives (STV)](https://oeh.univie.ac.at/vertretung/fakultaets-und-studienvertretungen) of your degree programme can also help you with questions related to organising your studies.\n\nDuring your studies, the [Center for Teaching and Learning (CTL)](https://ctl.univie.ac.at/en/) will offer valuable support. The [STEOP-Mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) programme will help you particularly at the beginning of your studies. Any questions or concerns that you may have can be addressed there, while mentors will also provide insights about organising your study programme and exams as well as useful advice on reading and studying techniques."
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7444,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.7443,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        }
+      ],
+      "latency_ms": 6.7
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7717,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "2c3333c4b616-000",
+          "page_id": "2c3333c4b616",
+          "score": 0.7613,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "On this site prospective and first-year students get a first insight into the University of Vienna and into student life.\n\nA university degree mainly differs from school and other vocational trainings in two aspects:\n\n1. I am myself responsible for my study progress. This means, for example, that I have to organise my time and schedule my semester on my own.\n2. A university degree does not prepare me for a specific profession, as for example an apprenticeship does. It is a basic academic training in the selected field. I get to know scientific theories and working methods which may open up several career opportunities. I gain professional practice and experience for my later profession while working besides studying, or during an internship.\n\nOur videos in the category \"Studying made easier\" explain vividly important terms from student life at the University of Vienna.\n\nIn the \"Uni Stories\" students talk about their everyday life at university. The stories contain different topics, such as housing, budget, finances, stays abroad, barrier-free studying or the reasons that were decisive for the students choice of a particular study program.\n\n- [University Know-How](#c274210)\n- [Uni Stories](#c345104)\n\n© Universität Wien/ Martin Sowa"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7592,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7591,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7578,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7544,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "d08ccef68126-000",
+          "page_id": "d08ccef68126",
+          "score": 0.7543,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Welcome to the University of Vienna!"
+          ],
+          "word_count": 230,
+          "text": "Our programme for a successful start to your studies [ ](/fileadmin/user_upload/welcome/Welcome_Grafiken/WelcomeWeeks_16x9-V2_2_2.mp4#t=0.1) Play video Pause video About to start the bachelor's programme in Psychology? ## Then visit the orientation course (OV) on 1 October 2026! [To the OV Pychology](https://ufind.univie.ac.at/en/course.html?lv=200222&semester=2026W) [Overview of all OV](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100) Is your first semester starting soon? To help you get off to a good start with your studies, the University of Vienna offers orientation courses, workshops and other activities for new students. We’ve put together all the information about the Welcome Weeks for you. There you’ll find important information about your studies as well as helpful tips for everyday student life. Make the most of the wide range of activities on offer and get to know the university! When clicking the play button personal data may be transferred to YouTube. The video has been loaded and can be found below on the page. For an English translation you can turn on the English subtitles. Previous © Next - [## Orientation courses At the orientation courses (OV), you’ll find out everything you need to know about your degree programme.](#c8132) - [## Workshops and guided tours Get to know the university and take a guided tour of the main building. Or take part one of our exciting workshops.](#c22912) - [## unileben At the start of the semester, the unileben education fair invites all students to the Main Building. You’ll find"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.7543,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "a270af95f995-004",
+          "page_id": "a270af95f995",
+          "score": 0.7512,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "Please follow the Guidelines for Good Scientific Practice from the beginning of your studies until the graduation. You find useful information here:\n\n<https://studienpraeses.univie.ac.at/infos-zum-studienrecht/sicherung-der-guten-wissenschaftlichen-praxis/plagiat/> (in German)\n\n[oeawi.at/en/guidelines/](https://oeawi.at/en/guidelines/)\n\n- [Regulation for pregnant students and nursing mothers](/en/pregnant-students-and-nursing-mothers/)\n\n#### Student participation\n\nThe Austrian National Union of Students represents all students studying at Austrian universities on both the federal level, and the level of university and studies.\n\n- [Österreichische HochschülerInnenschaft (ÖH)](https://www.oeh.ac.at/) - Austrian National Union of Students\n- [ÖH Uni Wien](http://www.oeh.univie.ac.at/) (Austrian National Union of Students at the University of Vienna)\n- [Students' representatives at the University of Vienna](http://www.oeh.univie.ac.at/fakultaets-und-studienvertretungen)\n- Union of Students Act [(HochschülerInnenschaftsgesetz)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n\nThe Unit for Quality Assurance carries out course evaluations and graduate surveys to improve teaching at the University of Vienna. Students are welcome to voice their opinions.\n\n- [Course evaluation](https://www.qs.univie.ac.at/evaluationen/lehrveranstaltungen/)\n- [Graduate survey](https://www.qs.univie.ac.at/analysen/studienabschlussbefragung/)\n- [Unit for Quality Assurance](https://www.qs.univie.ac.at/)\n\n#### Student mobility\n\nThe International Office helps you plan and realise stays abroad during your studies in the framework of mobility programmes.\n\n- [International Office](https://international.univie.ac.at/en/study-abroad-with-erasmus-and-co)\n\n#### Diversity\n\nDiversity enriches our community life by opening up different ways of understanding, thinking and acting. The perception, recognition and utilisation of diversity are therefore key fundamental values of the University of Vienna.\n\n- [Dimensions of diversity](https://gleichstellung.univie.ac.at/en/diversity)\n- [Culture & Equality](http://personalwesen.univie.ac.at/gleichstellung-diversitaet/)\n- [Contact persons](https://gleichstellung.univie.ac.at/en/prevention-counselling/counselling-office)\n- [Accessible studies](/en/accessible-studies/)\n- [Accessibility at the University of Vienna](https://barrierefrei.univie.ac.at/)"
+        },
+        {
+          "id": "785f0a10a7d6-001",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7502,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.7489,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "e9cb4e799824-001",
+          "page_id": "e9cb4e799824",
+          "score": 0.7487,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "School meets Uni - Offers for school classes"
+          ],
+          "word_count": 156,
+          "text": "The Vienna University Library is open to all high school students free of charge. It supports students with their research for the ABA (formerly VWA) or the BHS diploma thesis. School classes can attend library courses free of charge. The students get to know the university library. They learn how to get a library card and how to borrow books. They are also introduced to research strategies using the central media search engine u:search.\n\n- [Library courses for school classes](https://bibliothek.univie.ac.at/schuelerinnen-schulungen.html)\n\nIf you are interested, you can also book a guided tour through the Main Building of the University of Vienna. The guided tour through the Main Building cost €35,-- per school class. A maximum of 30 people per group can participate in the tour. To arrange a tour, please send an email to fuehrungen@univie.ac.at. A combination of guided tour and lecture is the best way to get to know the University of Vienna.\n\n© Universität Wien"
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7482,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7469,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.7458,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "19aa7932b410-000",
+          "page_id": "19aa7932b410",
+          "score": 0.7453,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "- [\"Try out University\" of the Austrian National Union of Students](#c274344)\n- [Vienna Chamber of Labour: How to suceed in your studies](#c274350)\n- [\"Pupils go to university\" - OeAD, Young Science](#c274354)\n- [OeAD, Young Science](#c274358)\n- [home4students](#c371725)\n- [OeAD student housing](#c753516)\n\nTry out University (Studieren Probieren) offers the possibility of joining an experienced student of a university, a university of applied sciences or a teacher training college to a course and asking for \"inside information\" regarding the respective degree programme.\n\nPlease find further information on Studieren Probieren, the registration as well as contact details in the videos to the right as well as on the website of the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from this, the website also contains a clear listing of all open Studieren Probieren dates and free places.\n\n- [Here you can find the Studieren Probieren website](https://www.studierenprobieren.at/) (available only in German)"
+        },
+        {
+          "id": "8d4ed91613a3-009",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7452,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a master programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "/ - African countries The Higher National Diploma does not fulfil the requirements for admission to a master programme. --- Special case Nigeria: The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Afghanistan If you have only completed a bachelor programme in Afghanistan, you cannot be admitted to a master programme at the University of Vienna. The differences regarding the level of education are too large. Your application for admission will therefore be rejected. --- Exception: If your bachelor"
+        },
+        {
+          "id": "2b99bbd8b3f0-005",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.745,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 217,
+          "text": "Through the process of nostrification, a foreign university degree can get recognised as equivalent to an Austrian university degree programme. This recognition also entails all rights and duties that follow, such as bearing an academic title and having permission to purse a certain profession, among others.\n\nThe official Austrian information centre for international nostrifications in the university field is [ENIC NARIC AUSTRIA](https://www.aais.at/).\n\nYou may file for nostrification at the [office of the Studienpräses](https://studienpraeses.univie.ac.at/en/nostrification/).\n\nIn order to apply for admission to another degree programme, you do not have to have your higher education degree recognised through nostrification.\n\nOnce you have been admitted to a degree programme, you may [plan your semester](/en/semester-planning/) and schedule your classes.\n\nIf you are in need of assistance, you may reach out to the [StudiesServiceCenters (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. The [Student representatives (STV)](https://oeh.univie.ac.at/vertretung/fakultaets-und-studienvertretungen) of your degree programme can also help you with questions related to organising your studies.\n\nDuring your studies, the [Center for Teaching and Learning (CTL)](https://ctl.univie.ac.at/en/) will offer valuable support. The [STEOP-Mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) programme will help you particularly at the beginning of your studies. Any questions or concerns that you may have can be addressed there, while mentors will also provide insights about organising your study programme and exams as well as useful advice on reading and studying techniques."
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7444,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.7443,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7717,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "2c3333c4b616-000",
+          "page_id": "2c3333c4b616",
+          "score": 0.7613,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "On this site prospective and first-year students get a first insight into the University of Vienna and into student life.\n\nA university degree mainly differs from school and other vocational trainings in two aspects:\n\n1. I am myself responsible for my study progress. This means, for example, that I have to organise my time and schedule my semester on my own.\n2. A university degree does not prepare me for a specific profession, as for example an apprenticeship does. It is a basic academic training in the selected field. I get to know scientific theories and working methods which may open up several career opportunities. I gain professional practice and experience for my later profession while working besides studying, or during an internship.\n\nOur videos in the category \"Studying made easier\" explain vividly important terms from student life at the University of Vienna.\n\nIn the \"Uni Stories\" students talk about their everyday life at university. The stories contain different topics, such as housing, budget, finances, stays abroad, barrier-free studying or the reasons that were decisive for the students choice of a particular study program.\n\n- [University Know-How](#c274210)\n- [Uni Stories](#c345104)\n\n© Universität Wien/ Martin Sowa"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7592,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7591,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7578,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7544,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[2] University in a nutshell\nOn this site prospective and first-year students get a first insight into the University of Vienna and into student life.\n\nA university degree mainly differs from school and other vocational trainings in two aspects:\n\n1. I am myself responsible for my study progress. This means, for example, that I have to organise my time and schedule my semester on my own.\n2. A university degree does not prepare me for a specific profession, as for example an apprenticeship does. It is a basic academic training in the selected field. I get to know scientific theories and working methods which may open up several career opportunities. I gain professional practice and experience for my later profession while working besides studying, or during an internship.\n\nOur videos in the category \"Studying made easier\" explain vividly important terms from student life at the University of Vienna.\n\nIn the \"Uni Stories\" students talk about their everyday life at university. The stories contain different topics, such as housing, budget, finances, stays abroad, barrier-free studying or the reasons that were decisive for the students choice of a particular study program.\n\n- [University Know-How](#c274210)\n- [Uni Stories](#c345104)\n\n© Universität Wien/ Martin Sowa\n\n[3] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[4] Attending courses out of interest\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna.\n\n[5] ABC of terminology — U\n/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Admission to a non-degree programme\n1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-003",
+          "score": 0.7717
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/university-in-a-nutshell/",
+          "title": "University in a nutshell",
+          "heading_path": [],
+          "section": "Degree programmes",
+          "chunk_id": "2c3333c4b616-000",
+          "score": 0.7613
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-004",
+          "score": 0.7592
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-005",
+          "score": 0.7591
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "U"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-101",
+          "score": 0.7578
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "section": "Admission",
+          "chunk_id": "55c68f63e02e-002",
+          "score": 0.7544
+        }
+      },
+      "context_chars": 8998,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[2] University in a nutshell\nOn this site prospective and first-year students get a first insight into the University of Vienna and into student life.\n\nA university degree mainly differs from school and other vocational trainings in two aspects:\n\n1. I am myself responsible for my study progress. This means, for example, that I have to organise my time and schedule my semester on my own.\n2. A university degree does not prepare me for a specific profession, as for example an apprenticeship does. It is a basic academic training in the selected field. I get to know scientific theories and working methods which may open up several career opportunities. I gain professional practice and experience for my later profession while working besides studying, or during an internship.\n\nOur videos in the category \"Studying made easier\" explain vividly important terms from student life at the University of Vienna.\n\nIn the \"Uni Stories\" students talk about their everyday life at university. The stories contain different topics, such as housing, budget, finances, stays abroad, barrier-free studying or the reasons that were decisive for the students choice of a particular study program.\n\n- [University Know-How](#c274210)\n- [Uni Stories](#c345104)\n\n© Universität Wien/ Martin Sowa\n\n[3] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[4] Attending courses out of interest\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna.\n\n[5] ABC of terminology — U\n/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Admission to a non-degree programme\n1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\nQuestion: How does a student from another Austrian university take a course at Uni Vienna?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 2337,
+        "completion_tokens": 50,
+        "total_tokens": 2387
+      },
+      "rate_limit_events": [
+        {
+          "cycle": 0,
+          "key_id": 0,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        }
+      ],
+      "raw_response": "A student from another Austrian university can participate in courses at the University of Vienna through co-registration [1]. They can also attend courses as a non-degree student by following the admission procedure outlined in sources [3], [4], and [6].",
+      "finish_reason": "stop",
+      "latency_ms": 2951.1
+    }
+  },
+  "query_id": "g20:paraphrase:2",
+  "status": "ok",
+  "answer": "A student from another Austrian university can participate in courses at the University of Vienna through co-registration [1]. They can also attend courses as a non-degree student by following the admission procedure outlined in sources [3], [4], and [6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+      "title": "Co-registration at the University of Vienna",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "683e91ed0d69-003",
+      "score": 0.7717
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+      "title": "Attending courses out of interest",
+      "heading_path": [
+        "Your steps in the admission procedure"
+      ],
+      "section": "Admission",
+      "chunk_id": "66b1e5ed443c-004",
+      "score": 0.7592
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+      "title": "Attending courses out of interest",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "66b1e5ed443c-005",
+      "score": 0.7591
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+      "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+      "heading_path": [
+        "Admission to a non-degree programme"
+      ],
+      "section": "Admission",
+      "chunk_id": "55c68f63e02e-002",
+      "score": 0.7544
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 2337,
+    "completion_tokens": 50,
+    "total_tokens": 2387
+  },
+  "total_latency_ms": 2957.9
+}

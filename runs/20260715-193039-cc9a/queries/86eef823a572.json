@@ -1,0 +1,693 @@
+{
+  "trace_id": "86eef823a572",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Which locations serve plant-based food to students?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Which locations serve plant-based food to students?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6219,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "e9cb4e799824-003",
+          "page_id": "e9cb4e799824",
+          "score": 0.601,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "word_count": 151,
+          "text": "Who knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5879,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "75eddaa2a2b3-000",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5815,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 87,
+          "text": "- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)"
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.573,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "d285ba202518-009",
+          "page_id": "d285ba202518",
+          "score": 0.5697,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [
+            "Sports"
+          ],
+          "word_count": 92,
+          "text": "run by private companies) or flat sharing are reasonable alternatives to renting a flat. We list a few sites to find accommodation, but the internet also offers many other useful websites: - [home4students](https://www.home4students.at/en/) - [OeAD student housing](https://housing.oead.at/en/) - [STUWO Student Housing](https://www.stuwo.at/en/dormitories/vienna/) - [Student dormitories in Vienna](https://www.studium.at/studentenheime/wien) (available in German) - [Real estate platform](http://www.immodirekt.at/) (available in German) - [Online notice board of the Austrian National Union of Students](https://schwarzesbrett.oeh.ac.at/wohnen/) (available in German) - [heimdatenbank.at](http://heimdatenbank.at/) (available in German) [## You've got further questions?](/en/contact-form/) [The contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "c36a62909719-000",
+          "page_id": "c36a62909719",
+          "score": 0.5641,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "An overview of all services related to balanced nutrition, physical activity and mental health – especially for students. Whether you are looking for a sports course, cafeteria tips or help during stressful periods of study, this website provides information to help you stay healthy, focused and balanced throughout your studies. The range of services will be updated continuously.\n\n© Ian Ehm\n\n[### The extension curriculum ‘Health literacy and empowerment for students’.](/en/degree-programmes/extension-curricula-and-alternative-extensions/gesundheitskompetenz-und-empowerment-fuer-studierende-ec-15-ects/)\n\nThis extension curriculum helps you develop practical skills in health promotion and sustainable nutrition, physical activity and mental health, and supports you in making self-determined, health-related decisions.\n\n[### VU Running as the key to better performance at university](https://ufind.univie.ac.at/en/course.html?lv=330185&semester=2026S)\n\nTo deepen evidence-based knowledge of training planning and optimal nutrition, and to gain practical experience together\n\nThe course is aimed at both beginners and experienced runners, regardless of their individual level of experience.\n\n[### Lecture series „Health in Society“](https://gig.univie.ac.at/en/study)\n\nAs part of the lecture series, we will be presenting a talk entitled “Healthy Campus Life: Focus on student health” on 9 June 2026.\n\nWhether you cycle to university, take a sports course at the University Sports Institute or simply take the stairs – even small activities support your well-being and health.\n\nDiscover a wide range of sports courses – from yoga to volleyball.\n\n[Click here to discover the offers](https://musi.usi.at/)"
+        },
+        {
+          "id": "19aa7932b410-004",
+          "page_id": "19aa7932b410",
+          "score": 0.559,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [
+            "OeAD, Young Science"
+          ],
+          "word_count": 157,
+          "text": "or Innsbruck. - [Here you can find home4students](https://www.home4students.at/en/) © Home4students # OeAD student housing OeAD student housing is a non-profit student residence provider for international and national students and offers accommodations for around 12,000 students annually throughout Austria. Due to our partnerships with other student accommodation providers, we can offer you a wide range of accommodation in Austria in addition to our own OeAD-Guesthouses in Vienna, Graz and Leoben. You will live in an international environment - in the heart of Austria - and meet young people from all over the world. You pay an all-inclusive price: Electricity, gas, water, heating, internet and running costs are already included in the accommodation fee. - [You can find an overview of all accommodations here.](https://www.oeadstudenthousing.at/en/) © OeAD student housing [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "742c275ff565-000",
+          "page_id": "742c275ff565",
+          "score": 0.5529,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/education-fairs/",
+          "title": "Education Fairs",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 31,
+          "text": "[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "19aa7932b410-003",
+          "page_id": "19aa7932b410",
+          "score": 0.5524,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [
+            "OeAD, Young Science"
+          ],
+          "word_count": 230,
+          "text": "The Zentrum für die Zusammenarbeit von Wissenschaft und Schule (Centre for Cooperation of Science and Schools) offers Austrian pupils diverse possibilities to get in touch and work together with researchers. **Topics for pre-scientific paper/diploma thesis****:** On the Young Science thematic platform young people can find numerous suggestions for their final papers originating from Austrian research projects, involving reading suggestions and support offered by researchers. **School visits of researchers****:** In the Framework of the initiative \"Young Science ambassadors\" researchers from all over Austria voluntarily visit school classes to speak of their everyday work. **Participation in Research projects****:** Pupils can participate in numerous research projects and Support the sciences, for example by collecting data. Once a year, the Citizen Science Award invites all schools (and those interested in science) to participate in research projects and win prizes. The Young Science Centre is financed by BMBWF and part of the OeAD-GmbH. - [Further information is available on the Young Science website](http://www.youngscience.at) (in German) © OeAD, Young Science # home4students home4students offers inexpensive living space for students in close proximity to universities, colleges or universities of applied sciences (FH) in Vienna, Graz, Klagenfurt, Salzburg or Innsbruck. - [Here you can find home4students](https://www.home4students.at/en/) © Home4students # OeAD student housing OeAD student housing is a non-profit student residence provider for international and national students and offers accommodations for around 12,000 students annually throughout Austria. Due to"
+        },
+        {
+          "id": "d285ba202518-007",
+          "page_id": "d285ba202518",
+          "score": 0.5518,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 180,
+          "text": "In everyday life, students are sometimes faced with difficult situations. There are several institutions that provide support and assistance:\n\n- Studying with a child\n  - [Vienna University Children's Office (Kinderbüro)](https://kinderbuero-uniwien.at/en/)\n  - [Information platform UniKid-UniCare Austria](https://www.unikid-unicare.at/) (available in German)\n  - [University of Vienna Human Resources and Gender Equality - Reconciling work & family life](https://gleichstellung.univie.ac.at/en/equality#c11601)\n  - [Child care Vienna](https://gleichstellung.univie.ac.at/en/equality#c11601)\n  - [wienXtra - Kinderinfo](http://www.wienxtra.at/kinderaktiv/) (available in German)\n\n- Counselling Office Sexual Harassment and Bullying\n  The office is a point of first contact and central office for persons affected by sexual harassment and mobbing at the University of Vienna.\n  - [Counselling Office Sexual Harassment & Bullying](https://gleichstellung.univie.ac.at/en/prevention-counselling)\n\n- Psychological Counseling Centers\n  The Psychological Counseling Centers offer support to students and applicants by using psychological and psychotherapeutical methods.\n  - [Psychological Counseling Centers](https://www.studierendenberatung.at/en/)\n\n© Universität Wien / derknopfdruecker.com\n\nYou would like to learn a new language or improve your language skills? The Language Center (Sprachenzentrum) offers general as well as sicentific language courses at various levels in over 30 languages to (future) students of all disciplines, university staff and alumni.\n\n- [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/)"
+        },
+        {
+          "id": "04a3af80cb80-001",
+          "page_id": "04a3af80cb80",
+          "score": 0.5434,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What can you expect in the ISU-Study-Café?"
+          ],
+          "word_count": 227,
+          "text": "- Study  Space – on site and online\n  - **On site:** Our traditional learning café remains a central meeting point for students who want to come together in a physical space. Here you will benefit from direct interaction with study guides and fellow students.\n    - Mondays 10:00 AM to 1:00 PM in the main building.\n    - Tuesdays 10:00 AM to 1:00 PM in the main building.\n    - Thursdays 5:00 PM to 8:00 PM in the main building.\n  - Hybrid:\n    This semester, we are offering you an even more diverse range of options with a new space at Althanstraße 8B and a new setting. Participation in the hybrid learning café is possible both on-site and digitally. For students who need flexibility or are unable to attend in person, we are opening up our virtual learning space. This allows you to immerse yourself in a productive, structured and collaborative learning environment regardless of your location.\n    - Wednesdays 2:00 PM to 5:00 PM at Althanstraße 8B and online.\n- Regularity and time structure: Fixed study times and planned breaks help you to develop and maintain a study rhythm.\n- Shared breaks: Short, shared breaks with other students not only promote social interaction, but also relaxation and motivation.\n- Learning support: Our experienced learning mentors are on hand to provide you with advice and support regarding learning planning and study organisation."
+        },
+        {
+          "id": "04a3af80cb80-000",
+          "page_id": "04a3af80cb80",
+          "score": 0.5428,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What is the ISU study café?"
+          ],
+          "word_count": 100,
+          "text": "The ISU Learning Café of the Individual Study Support (ISU) serves to support and network students at the University of Vienna. The central idea is to create a space for the most efficient, community-orientated learning possible.\n\nSpecifically, the presence of others is to be utilised in the sense of body doubling. The concept of body doubling has proven to be an effective method for increasing concentration and productivity while learning through the presence of others.\n\nHybrid sessions aim to offer the same benefits in a virtual format, allowing you to participate from anywhere and benefit from the collective learning atmosphere."
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.5426,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.5399,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "7916c3fc6510-009",
+          "page_id": "7916c3fc6510",
+          "score": 0.5396,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "an Alternative place is available, you can accept or reject it within a defined deadline. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/en/web/gast/login?p_p_id=ssploginportlet_WAR_ssploginportlet&p_p_lifecycle=0&_ssploginportlet_WAR_ssploginportlet_redirect=%2Fweb%2Fstudium%2Fanmeldeuebersicht) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Alternative extensions (AE) In most bachelor's/diploma programmes, it is possible to complete ‘alternative extensions (AE)’ worth at least 15 ECTS credits instead of an extension curriculum (EC). As part of alternative extensions, you do not take a prescribed EC, but instead look for other courses or examinations that can be assigned to your own programme. Which achievements can be recognised? Courses and examinations from... 1. the range offered by your own degree programme at the University of Vienna, provided that the registration requirements are met and places are available; 2. other degree programmes at the University of Vienna, provided that the registration requirements are met and places are available; 3. other degree programmes at other recognised domestic post-secondary educational institutions; 4. recognised foreign post-secondary educational institutions within the framework of mobility programmes with advance notification or via the [Circle U. Open Campus.](https://www.circle-u.eu/open-campus) Other options: - Courses, examinations, and certificates at post-secondary educational institutions that focus on the certification of foreign language skills; - Austrian National Union of Students activity according to HSG, whereby 1 semester hour"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.5367,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "16e2ef0b071f-000",
+          "page_id": "16e2ef0b071f",
+          "score": 0.5362,
+          "url": "https://studieren.univie.ac.at/en/graduates/",
+          "title": "Services for graduates",
+          "section": "Graduates",
+          "heading_path": [],
+          "word_count": 132,
+          "text": "© Universität Wien / Barbara Mair\n\nWelcome to the University of Vienna’s alumni community. Now that you have graduated you are entering a new stage of life. This also means that your relationship to your alma mater changes. The University of Vienna would like to continue to accompany you on your path. For this purpose, we are offering the following services to you.\n\nThe University of Vienna [Alumni Community](https://alumni.univie.ac.at/) is a vibrant, open network for all graduates. Here, we connect, exchange experiences, share knowledge – and generate new ideas together.\n\n© Universität Wien / Barbara Mair\n\nGraduation ceremonies offer the ideal setting for celebrating the completion of your bachelor’s, master’s, diploma or doctoral/PhD programme together with your friends and family.\n\n- [Click here for more information.](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/)\n\n© Universität Wien / Klaus Ranger"
+        },
+        {
+          "id": "a8cc2bd99f51-003",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.534,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "word_count": 146,
+          "text": "Collapse all\n\nOpen all\n\n#### Test literature\n\n- [H. G. Widdowson (1996). *Linguistics*. Oxford: Oxford University Press. Chapter 1 und 2](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testliteratur/Widdowson_Linguistics.pdf)\n- [Katherine Mansfield. *The Garden Party* (Modern Library). New York: Random House, 1922, S. 58-82.](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testliteratur/Katherine_Mansfiel_The_Garden_Party.pdf)\n- Kimberlé Crenshaw. *The Urgency of Intersectionality*. Video available at: <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality/details>\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in English and American Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_ang) (only available in German)\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Chemische, biochemische und physiologische Grundlagen der Pharmazie und Ernährungswissenschaften: Vorbereitungsliteratur für das Aufnahmeverfahren](https://phaidra.univie.ac.at/detail/o:2045218) (only available in German)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programmes in Nutritional Sciences and Pharmacy](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_phaern) (only available in German)\n\n#### Note on applying\n\nYou are interested in Nutritional Sciences as well as in Pharmacy? Apply for both programmes. Changing between those two programmes is not possible."
+        },
+        {
+          "id": "d285ba202518-006",
+          "page_id": "d285ba202518",
+          "score": 0.5338,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 160,
+          "text": "The University of Vienna awards merit-based and need-based scholarships several times a year. Other institutions also provide financial support.\n\n- [Scholarship announcements](http://studienpraeses.univie.ac.at/stipendien/) (available in German)\n- [Bulletin of the University of Vienna](http://www.univie.ac.at/mtbl02/?t=0;f=Stipendien,_Foerderungen) (available in German)\n- [GRANTS database](http://www.grants.at/)\n- [\"AK-Wissenschaftspreis\" - Science award of the Austrian Chamber of Labour](https://ooe.arbeiterkammer.at/wissenschaftspreis/) (available in German\n- [\"Stipendium für Bahnbrecher\" - Scholarship for pioneers](https://www.idealo.de/unternehmen/stipendium/) (available in German)\n\n#### Scholarships of individual federal states\n\n- [Scholarship for scientific work granted by ÖGB (Austrian Federation of Trade Unions)](https://www.oegb.at//cms/S06/S06_0.a/1342537100485) (available in German)\n- [Graduation scholarship of the Study Grant Authority](https://www.stipendium.at/stipendien/studium-beruf#header-ce-112) (available in German)\n\nStudents get reduced tickets for public transport and special offers for getting from A to B.\n\n- [Wiener Linien (Vienna transport authority)](https://www.wienerlinien.at/web/wl-en/tickets-for-students)\n- [ÖBB (Austrian federal railways)](https://www.oebb.at/de/tickets-kundenkarten/schueler-gruppen/zeit-schueler-karten)\n- [Transportation in Vienna - wien.gv.at](https://www.wien.gv.at/verkehr/oeffentlicher-verkehr) (in German)\n- [City of Vienna: Parking in Vienna](https://www.wien.gv.at/verkehr/parken) (in German)\n- Travel allowance is granted by individual federal states, and to [study grant recipients](https://www.stipendium.at/stipendien/weitere-foerderungen#header-ce-72)\n\n© Universität Wien / Franz Pfluegl"
+        }
+      ],
+      "latency_ms": 7.6
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6219,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "e9cb4e799824-003",
+          "page_id": "e9cb4e799824",
+          "score": 0.601,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "word_count": 151,
+          "text": "Who knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5879,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "75eddaa2a2b3-000",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5815,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 87,
+          "text": "- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)"
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.573,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "d285ba202518-009",
+          "page_id": "d285ba202518",
+          "score": 0.5697,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [
+            "Sports"
+          ],
+          "word_count": 92,
+          "text": "run by private companies) or flat sharing are reasonable alternatives to renting a flat. We list a few sites to find accommodation, but the internet also offers many other useful websites: - [home4students](https://www.home4students.at/en/) - [OeAD student housing](https://housing.oead.at/en/) - [STUWO Student Housing](https://www.stuwo.at/en/dormitories/vienna/) - [Student dormitories in Vienna](https://www.studium.at/studentenheime/wien) (available in German) - [Real estate platform](http://www.immodirekt.at/) (available in German) - [Online notice board of the Austrian National Union of Students](https://schwarzesbrett.oeh.ac.at/wohnen/) (available in German) - [heimdatenbank.at](http://heimdatenbank.at/) (available in German) [## You've got further questions?](/en/contact-form/) [The contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "c36a62909719-000",
+          "page_id": "c36a62909719",
+          "score": 0.5641,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "An overview of all services related to balanced nutrition, physical activity and mental health – especially for students. Whether you are looking for a sports course, cafeteria tips or help during stressful periods of study, this website provides information to help you stay healthy, focused and balanced throughout your studies. The range of services will be updated continuously.\n\n© Ian Ehm\n\n[### The extension curriculum ‘Health literacy and empowerment for students’.](/en/degree-programmes/extension-curricula-and-alternative-extensions/gesundheitskompetenz-und-empowerment-fuer-studierende-ec-15-ects/)\n\nThis extension curriculum helps you develop practical skills in health promotion and sustainable nutrition, physical activity and mental health, and supports you in making self-determined, health-related decisions.\n\n[### VU Running as the key to better performance at university](https://ufind.univie.ac.at/en/course.html?lv=330185&semester=2026S)\n\nTo deepen evidence-based knowledge of training planning and optimal nutrition, and to gain practical experience together\n\nThe course is aimed at both beginners and experienced runners, regardless of their individual level of experience.\n\n[### Lecture series „Health in Society“](https://gig.univie.ac.at/en/study)\n\nAs part of the lecture series, we will be presenting a talk entitled “Healthy Campus Life: Focus on student health” on 9 June 2026.\n\nWhether you cycle to university, take a sports course at the University Sports Institute or simply take the stairs – even small activities support your well-being and health.\n\nDiscover a wide range of sports courses – from yoga to volleyball.\n\n[Click here to discover the offers](https://musi.usi.at/)"
+        },
+        {
+          "id": "19aa7932b410-004",
+          "page_id": "19aa7932b410",
+          "score": 0.559,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [
+            "OeAD, Young Science"
+          ],
+          "word_count": 157,
+          "text": "or Innsbruck. - [Here you can find home4students](https://www.home4students.at/en/) © Home4students # OeAD student housing OeAD student housing is a non-profit student residence provider for international and national students and offers accommodations for around 12,000 students annually throughout Austria. Due to our partnerships with other student accommodation providers, we can offer you a wide range of accommodation in Austria in addition to our own OeAD-Guesthouses in Vienna, Graz and Leoben. You will live in an international environment - in the heart of Austria - and meet young people from all over the world. You pay an all-inclusive price: Electricity, gas, water, heating, internet and running costs are already included in the accommodation fee. - [You can find an overview of all accommodations here.](https://www.oeadstudenthousing.at/en/) © OeAD student housing [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "742c275ff565-000",
+          "page_id": "742c275ff565",
+          "score": 0.5529,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/education-fairs/",
+          "title": "Education Fairs",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 31,
+          "text": "[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "19aa7932b410-003",
+          "page_id": "19aa7932b410",
+          "score": 0.5524,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/we-cooperate-with/",
+          "title": "We cooperate with ...",
+          "section": "Degree programmes",
+          "heading_path": [
+            "OeAD, Young Science"
+          ],
+          "word_count": 230,
+          "text": "The Zentrum für die Zusammenarbeit von Wissenschaft und Schule (Centre for Cooperation of Science and Schools) offers Austrian pupils diverse possibilities to get in touch and work together with researchers. **Topics for pre-scientific paper/diploma thesis****:** On the Young Science thematic platform young people can find numerous suggestions for their final papers originating from Austrian research projects, involving reading suggestions and support offered by researchers. **School visits of researchers****:** In the Framework of the initiative \"Young Science ambassadors\" researchers from all over Austria voluntarily visit school classes to speak of their everyday work. **Participation in Research projects****:** Pupils can participate in numerous research projects and Support the sciences, for example by collecting data. Once a year, the Citizen Science Award invites all schools (and those interested in science) to participate in research projects and win prizes. The Young Science Centre is financed by BMBWF and part of the OeAD-GmbH. - [Further information is available on the Young Science website](http://www.youngscience.at) (in German) © OeAD, Young Science # home4students home4students offers inexpensive living space for students in close proximity to universities, colleges or universities of applied sciences (FH) in Vienna, Graz, Klagenfurt, Salzburg or Innsbruck. - [Here you can find home4students](https://www.home4students.at/en/) © Home4students # OeAD student housing OeAD student housing is a non-profit student residence provider for international and national students and offers accommodations for around 12,000 students annually throughout Austria. Due to"
+        },
+        {
+          "id": "d285ba202518-007",
+          "page_id": "d285ba202518",
+          "score": 0.5518,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 180,
+          "text": "In everyday life, students are sometimes faced with difficult situations. There are several institutions that provide support and assistance:\n\n- Studying with a child\n  - [Vienna University Children's Office (Kinderbüro)](https://kinderbuero-uniwien.at/en/)\n  - [Information platform UniKid-UniCare Austria](https://www.unikid-unicare.at/) (available in German)\n  - [University of Vienna Human Resources and Gender Equality - Reconciling work & family life](https://gleichstellung.univie.ac.at/en/equality#c11601)\n  - [Child care Vienna](https://gleichstellung.univie.ac.at/en/equality#c11601)\n  - [wienXtra - Kinderinfo](http://www.wienxtra.at/kinderaktiv/) (available in German)\n\n- Counselling Office Sexual Harassment and Bullying\n  The office is a point of first contact and central office for persons affected by sexual harassment and mobbing at the University of Vienna.\n  - [Counselling Office Sexual Harassment & Bullying](https://gleichstellung.univie.ac.at/en/prevention-counselling)\n\n- Psychological Counseling Centers\n  The Psychological Counseling Centers offer support to students and applicants by using psychological and psychotherapeutical methods.\n  - [Psychological Counseling Centers](https://www.studierendenberatung.at/en/)\n\n© Universität Wien / derknopfdruecker.com\n\nYou would like to learn a new language or improve your language skills? The Language Center (Sprachenzentrum) offers general as well as sicentific language courses at various levels in over 30 languages to (future) students of all disciplines, university staff and alumni.\n\n- [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/)"
+        },
+        {
+          "id": "04a3af80cb80-001",
+          "page_id": "04a3af80cb80",
+          "score": 0.5434,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What can you expect in the ISU-Study-Café?"
+          ],
+          "word_count": 227,
+          "text": "- Study  Space – on site and online\n  - **On site:** Our traditional learning café remains a central meeting point for students who want to come together in a physical space. Here you will benefit from direct interaction with study guides and fellow students.\n    - Mondays 10:00 AM to 1:00 PM in the main building.\n    - Tuesdays 10:00 AM to 1:00 PM in the main building.\n    - Thursdays 5:00 PM to 8:00 PM in the main building.\n  - Hybrid:\n    This semester, we are offering you an even more diverse range of options with a new space at Althanstraße 8B and a new setting. Participation in the hybrid learning café is possible both on-site and digitally. For students who need flexibility or are unable to attend in person, we are opening up our virtual learning space. This allows you to immerse yourself in a productive, structured and collaborative learning environment regardless of your location.\n    - Wednesdays 2:00 PM to 5:00 PM at Althanstraße 8B and online.\n- Regularity and time structure: Fixed study times and planned breaks help you to develop and maintain a study rhythm.\n- Shared breaks: Short, shared breaks with other students not only promote social interaction, but also relaxation and motivation.\n- Learning support: Our experienced learning mentors are on hand to provide you with advice and support regarding learning planning and study organisation."
+        },
+        {
+          "id": "04a3af80cb80-000",
+          "page_id": "04a3af80cb80",
+          "score": 0.5428,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/the-isu-study-cafe/",
+          "title": "The ISU study café",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What is the ISU study café?"
+          ],
+          "word_count": 100,
+          "text": "The ISU Learning Café of the Individual Study Support (ISU) serves to support and network students at the University of Vienna. The central idea is to create a space for the most efficient, community-orientated learning possible.\n\nSpecifically, the presence of others is to be utilised in the sense of body doubling. The concept of body doubling has proven to be an effective method for increasing concentration and productivity while learning through the presence of others.\n\nHybrid sessions aim to offer the same benefits in a virtual format, allowing you to participate from anywhere and benefit from the collective learning atmosphere."
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.5426,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.5399,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "7916c3fc6510-009",
+          "page_id": "7916c3fc6510",
+          "score": 0.5396,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "an Alternative place is available, you can accept or reject it within a defined deadline. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/en/web/gast/login?p_p_id=ssploginportlet_WAR_ssploginportlet&p_p_lifecycle=0&_ssploginportlet_WAR_ssploginportlet_redirect=%2Fweb%2Fstudium%2Fanmeldeuebersicht) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Alternative extensions (AE) In most bachelor's/diploma programmes, it is possible to complete ‘alternative extensions (AE)’ worth at least 15 ECTS credits instead of an extension curriculum (EC). As part of alternative extensions, you do not take a prescribed EC, but instead look for other courses or examinations that can be assigned to your own programme. Which achievements can be recognised? Courses and examinations from... 1. the range offered by your own degree programme at the University of Vienna, provided that the registration requirements are met and places are available; 2. other degree programmes at the University of Vienna, provided that the registration requirements are met and places are available; 3. other degree programmes at other recognised domestic post-secondary educational institutions; 4. recognised foreign post-secondary educational institutions within the framework of mobility programmes with advance notification or via the [Circle U. Open Campus.](https://www.circle-u.eu/open-campus) Other options: - Courses, examinations, and certificates at post-secondary educational institutions that focus on the certification of foreign language skills; - Austrian National Union of Students activity according to HSG, whereby 1 semester hour"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.5367,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "16e2ef0b071f-000",
+          "page_id": "16e2ef0b071f",
+          "score": 0.5362,
+          "url": "https://studieren.univie.ac.at/en/graduates/",
+          "title": "Services for graduates",
+          "section": "Graduates",
+          "heading_path": [],
+          "word_count": 132,
+          "text": "© Universität Wien / Barbara Mair\n\nWelcome to the University of Vienna’s alumni community. Now that you have graduated you are entering a new stage of life. This also means that your relationship to your alma mater changes. The University of Vienna would like to continue to accompany you on your path. For this purpose, we are offering the following services to you.\n\nThe University of Vienna [Alumni Community](https://alumni.univie.ac.at/) is a vibrant, open network for all graduates. Here, we connect, exchange experiences, share knowledge – and generate new ideas together.\n\n© Universität Wien / Barbara Mair\n\nGraduation ceremonies offer the ideal setting for celebrating the completion of your bachelor’s, master’s, diploma or doctoral/PhD programme together with your friends and family.\n\n- [Click here for more information.](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/)\n\n© Universität Wien / Klaus Ranger"
+        },
+        {
+          "id": "a8cc2bd99f51-003",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.534,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Choose your degree programme!"
+          ],
+          "word_count": 146,
+          "text": "Collapse all\n\nOpen all\n\n#### Test literature\n\n- [H. G. Widdowson (1996). *Linguistics*. Oxford: Oxford University Press. Chapter 1 und 2](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testliteratur/Widdowson_Linguistics.pdf)\n- [Katherine Mansfield. *The Garden Party* (Modern Library). New York: Random House, 1922, S. 58-82.](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testliteratur/Katherine_Mansfiel_The_Garden_Party.pdf)\n- Kimberlé Crenshaw. *The Urgency of Intersectionality*. Video available at: <https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality/details>\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programme in English and American Studies](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_ang) (only available in German)\n\nCollapse all\n\nOpen all\n\n#### Test literature\n\n[Chemische, biochemische und physiologische Grundlagen der Pharmazie und Ernährungswissenschaften: Vorbereitungsliteratur für das Aufnahmeverfahren](https://phaidra.univie.ac.at/detail/o:2045218) (only available in German)\n\n#### Sample exercises and test structure\n\n[Sample exercises and test structure for the bachelor's programmes in Nutritional Sciences and Pharmacy](https://self-assessment2.pzle.univie.ac.at/start.php?id=preav_phaern) (only available in German)\n\n#### Note on applying\n\nYou are interested in Nutritional Sciences as well as in Pharmacy? Apply for both programmes. Changing between those two programmes is not possible."
+        },
+        {
+          "id": "d285ba202518-006",
+          "page_id": "d285ba202518",
+          "score": 0.5338,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 160,
+          "text": "The University of Vienna awards merit-based and need-based scholarships several times a year. Other institutions also provide financial support.\n\n- [Scholarship announcements](http://studienpraeses.univie.ac.at/stipendien/) (available in German)\n- [Bulletin of the University of Vienna](http://www.univie.ac.at/mtbl02/?t=0;f=Stipendien,_Foerderungen) (available in German)\n- [GRANTS database](http://www.grants.at/)\n- [\"AK-Wissenschaftspreis\" - Science award of the Austrian Chamber of Labour](https://ooe.arbeiterkammer.at/wissenschaftspreis/) (available in German\n- [\"Stipendium für Bahnbrecher\" - Scholarship for pioneers](https://www.idealo.de/unternehmen/stipendium/) (available in German)\n\n#### Scholarships of individual federal states\n\n- [Scholarship for scientific work granted by ÖGB (Austrian Federation of Trade Unions)](https://www.oegb.at//cms/S06/S06_0.a/1342537100485) (available in German)\n- [Graduation scholarship of the Study Grant Authority](https://www.stipendium.at/stipendien/studium-beruf#header-ce-112) (available in German)\n\nStudents get reduced tickets for public transport and special offers for getting from A to B.\n\n- [Wiener Linien (Vienna transport authority)](https://www.wienerlinien.at/web/wl-en/tickets-for-students)\n- [ÖBB (Austrian federal railways)](https://www.oebb.at/de/tickets-kundenkarten/schueler-gruppen/zeit-schueler-karten)\n- [Transportation in Vienna - wien.gv.at](https://www.wien.gv.at/verkehr/oeffentlicher-verkehr) (in German)\n- [City of Vienna: Parking in Vienna](https://www.wien.gv.at/verkehr/parken) (in German)\n- Travel allowance is granted by individual federal states, and to [study grant recipients](https://www.stipendium.at/stipendien/weitere-foerderungen#header-ce-72)\n\n© Universität Wien / Franz Pfluegl"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "c36a62909719-001",
+          "page_id": "c36a62909719",
+          "score": 0.6219,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 134,
+          "text": "Just five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)"
+        },
+        {
+          "id": "e9cb4e799824-003",
+          "page_id": "e9cb4e799824",
+          "score": 0.601,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "word_count": 151,
+          "text": "Who knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5879,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "75eddaa2a2b3-000",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.5815,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 87,
+          "text": "- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)"
+        },
+        {
+          "id": "d285ba202518-004",
+          "page_id": "d285ba202518",
+          "score": 0.573,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 212,
+          "text": "\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms."
+        },
+        {
+          "id": "d285ba202518-009",
+          "page_id": "d285ba202518",
+          "score": 0.5697,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [
+            "Sports"
+          ],
+          "word_count": 92,
+          "text": "run by private companies) or flat sharing are reasonable alternatives to renting a flat. We list a few sites to find accommodation, but the internet also offers many other useful websites: - [home4students](https://www.home4students.at/en/) - [OeAD student housing](https://housing.oead.at/en/) - [STUWO Student Housing](https://www.stuwo.at/en/dormitories/vienna/) - [Student dormitories in Vienna](https://www.studium.at/studentenheime/wien) (available in German) - [Real estate platform](http://www.immodirekt.at/) (available in German) - [Online notice board of the Austrian National Union of Students](https://schwarzesbrett.oeh.ac.at/wohnen/) (available in German) - [heimdatenbank.at](http://heimdatenbank.at/) (available in German) [## You've got further questions?](/en/contact-form/) [The contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Health during your studies\nJust five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)\n\n[2] Our offers and projects — Further offers for pupils and school classes at the University of Vienna > Grüne Schule at the Botanical Garden\nWho knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[3] Student Space: room for students\n- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m.\n\n[4] Student Space: room for students\n- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)\n\n[5] Studying and Living - Who can help me with ...?\n\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms.\n\n[6] Studying and Living - Who can help me with ...? — Sports\nrun by private companies) or flat sharing are reasonable alternatives to renting a flat. We list a few sites to find accommodation, but the internet also offers many other useful websites: - [home4students](https://www.home4students.at/en/) - [OeAD student housing](https://housing.oead.at/en/) - [STUWO Student Housing](https://www.stuwo.at/en/dormitories/vienna/) - [Student dormitories in Vienna](https://www.studium.at/studentenheime/wien) (available in German) - [Real estate platform](http://www.immodirekt.at/) (available in German) - [Online notice board of the Austrian National Union of Students](https://schwarzesbrett.oeh.ac.at/wohnen/) (available in German) - [heimdatenbank.at](http://heimdatenbank.at/) (available in German) [## You've got further questions?](/en/contact-form/) [The contact form is the best way to reach the responsible office.](/en/contact-form/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+          "title": "Health during your studies",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c36a62909719-001",
+          "score": 0.6219
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "heading_path": [
+            "Further offers for pupils and school classes at the University of Vienna",
+            "Grüne Schule at the Botanical Garden"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "e9cb4e799824-003",
+          "score": 0.601
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "75eddaa2a2b3-001",
+          "score": 0.5879
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "75eddaa2a2b3-000",
+          "score": 0.5815
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "d285ba202518-004",
+          "score": 0.573
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "heading_path": [
+            "Sports"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "d285ba202518-009",
+          "score": 0.5697
+        }
+      },
+      "context_chars": 8965,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Health during your studies\nJust five minutes of exercise in green spaces reduce stress and negative moods.\n\nStrengthen your everyday student life with small, conscious decisions about nutrition.\n\nEating a small handful of nuts every day can have a positive effect on heart health.\n\nVegetarian and vegan dishes are available daily at two locations at the University of Vienna.\n\n- [Lia Cafeteria on Oskar-Morgenstern-Platz](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Lia Bistro in the University Biology Building](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n\n[From master´s thesis to optimised nutrition](https://blog.univie.ac.at/studierende/ernaehrung-im-studium/)\n\nIn this post, student Denny explains how to eat healthier in everyday student life.\n\nWell-being starts in the mind. Strategies to strengthen resilience and focus on studying can help.\n\n[Tips and tricks for dealing with stressful periods of study can be found on the blog.](https://blog.univie.ac.at/studium/facing-challenges-wie-kann-ich-meine-resilienz-staerken/)\n\n[Decisiveness, control over your own reactions and more.](https://blog.univie.ac.at/studium/resilienz-im-studium-strategien-fuer-mehr-handlungskompetenz/)\n\n[Support through psychological counselling and psychotherapeutic methods.](https://www.studierendenberatung.at/)\n\n[2] Our offers and projects — Further offers for pupils and school classes at the University of Vienna > Grüne Schule at the Botanical Garden\nWho knows the trick of the lotus blossom? What does a living fossil look like? Where does Vienna's biggest bamboo grove grow?\n\nThe Botanical Garden of the University of Vienna offers school classes a unique opportunity to experience nature and explore plants in the middle of the city.\n\nThe aim of the project Grüne Schule (Green School) is to give pupils an understanding of the fascinating world of plants. Guided tours and workshops stimulate the interest in researching and exploring nature. Expertise, stunning details and inspiring histories as well as the didactic mediation take centre stage - an exciting and adecuate provision of knowledge for our young generation.\n\n[Click here to know more](http://grueneschule.univie.ac.at) (in German)\n\n© Universität Wien / derknopfdruecker.com\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[3] Student Space: room for students\n- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m.\n\n[4] Student Space: room for students\n- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)\n\n[5] Studying and Living - Who can help me with ...?\n\"Team Barrierefrei\" offers counselling and information related to studying and student life for students with a disability, impairment or disease.\n\n- [Studying with disabilities](/en/accessible-studies/)\n- [University of Vienna Accessbile Studies](/en/)\n\n© Universität Wien / Barbara Mair\n\nThe cafeterias offer reasonable meals. Everyone is allowed to eat there, a permit or special ID is not needed. To get meals even cheaper you can obtain the so-called \"Mensenpickerl\" at the Austrian National Union of Students (Österreichische HochschülerInnenschaft - ÖH).\n\nApart from the cafeterias, students like to go to the numerous restaurants and cafés located around the main building where meals and snacks are relatively cheap.\n\n- [Cafeterias](http://www.mensen.at/) - good food for a reasonable price\n- [ÖH - Mensenpickerl](https://oeh.univie.ac.at/en/page/canteen-sticker)- eat even cheaper\n\nAs long as you are studying at the University of Vienna you have to pay the fees according to your citizenship (in some cases only the Students' Union fee, in some cases more) every semester in time. The tuition fee depends on your citzenship and, for EU/EEA citizens, also on the duration of your studies.\n\n- [Students' Union fee/tuition fee](/en/tuition-fee/)\n\nThere are several types of financial support available for students. Obtain information about allowances/grants for studying abroad in your home country. Student discounts can make life easier - at least in financial terms.\n\n[6] Studying and Living - Who can help me with ...? — Sports\nrun by private companies) or flat sharing are reasonable alternatives to renting a flat. We list a few sites to find accommodation, but the internet also offers many other useful websites: - [home4students](https://www.home4students.at/en/) - [OeAD student housing](https://housing.oead.at/en/) - [STUWO Student Housing](https://www.stuwo.at/en/dormitories/vienna/) - [Student dormitories in Vienna](https://www.studium.at/studentenheime/wien) (available in German) - [Real estate platform](http://www.immodirekt.at/) (available in German) - [Online notice board of the Austrian National Union of Students](https://schwarzesbrett.oeh.ac.at/wohnen/) (available in German) - [heimdatenbank.at](http://heimdatenbank.at/) (available in German) [## You've got further questions?](/en/contact-form/) [The contact form is the best way to reach the responsible office.](/en/contact-form/)\n\nQuestion: Which locations serve plant-based food to students?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2331,
+        "completion_tokens": 41,
+        "total_tokens": 2372
+      },
+      "rate_limit_events": [],
+      "raw_response": "Two locations at the University of Vienna serve vegetarian and vegan dishes daily: Lia Cafeteria on Oskar-Morgenstern-Platz and Lia Bistro in the University Biology Building [1].",
+      "finish_reason": "stop",
+      "latency_ms": 6700.4
+    }
+  },
+  "query_id": "g15:paraphrase:1",
+  "status": "ok",
+  "answer": "Two locations at the University of Vienna serve vegetarian and vegan dishes daily: Lia Cafeteria on Oskar-Morgenstern-Platz and Lia Bistro in the University Biology Building [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/studying-healthily/",
+      "title": "Health during your studies",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "c36a62909719-001",
+      "score": 0.6219
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2331,
+    "completion_tokens": 41,
+    "total_tokens": 2372
+  },
+  "total_latency_ms": 6708.1
+}

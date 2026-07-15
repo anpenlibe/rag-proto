@@ -1,0 +1,27 @@
+{
+  "source": "https://studieren.univie.ac.at/en/",
+  "scraped_at": "2026-07-14",
+  "pages": 121,
+  "languages": {
+    "en": 121
+  },
+  "sections": {
+    "Degree programmes": 21,
+    "Admission": 28,
+    "Resumption of studies": 4,
+    "Entrance exam": 7,
+    "Tuition fee": 5,
+    "Study organisation": 45,
+    "Web services": 1,
+    "Accessible studies": 9,
+    "Graduates": 1
+  },
+  "total_words": 118997,
+  "skipped": {
+    "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/facts-figures-publications-about-the-university/": "redirect to external about-us page (no own content)",
+    "https://studieren.univie.ac.at/en/studying-exams/bonus-points-in-lectures/": "empty stub (no body content)"
+  },
+  "removed": {
+    "german_pages": "4 German-only pages removed (3 from pages.jsonl + 1 orphan .md mirror); corpus is now English-only"
+  }
+}

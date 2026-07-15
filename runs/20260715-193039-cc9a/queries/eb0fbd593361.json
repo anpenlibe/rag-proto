@@ -1,0 +1,724 @@
+{
+  "trace_id": "eb0fbd593361",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How do I register for courses and exams at the University of Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How do I register for courses and exams at the University of Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "271a53027cf1-000",
+          "page_id": "271a53027cf1",
+          "score": 0.9145,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 115,
+          "text": "The following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.8184,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.8118,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-002",
+          "page_id": "683e91ed0d69",
+          "score": 0.8075,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 214,
+          "text": "1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.8043,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7999,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7938,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.7918,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7853,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.7828,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7796,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7792,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.7789,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "479712f83ed4-011",
+          "page_id": "479712f83ed4",
+          "score": 0.7781,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you want to study at the University of Vienna. Pay the prescribed tuition fee/Students' Union fee at the university of arts. Then continue with step 3. ##### Step 3: Complete the admission at the University of Vienna 1. Send a message with the subject line “Lehramt Kunstuniversität” via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/927). Send the following documents attached to your message: 1. All pages of your secondary-school leaving certificate merged into one PDF file including translation if the document was not issued in German or English 2. Your current student record sheet of the university of arts 2. We will process your application and inform you via e-mail. ##### Step 4: Order your u:card and plan your semester Wait a few days after receiving the confirmation via e-mail. Log into u:space → Financial matters → Tuition fee/Students' Union fee and check if the fee is marked as received. If yes, you can order your student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission"
+        },
+        {
+          "id": "683e91ed0d69-005",
+          "page_id": "683e91ed0d69",
+          "score": 0.7772,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet"
+        },
+        {
+          "id": "479712f83ed4-010",
+          "page_id": "479712f83ed4",
+          "score": 0.776,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you study at least one teaching subject at one of the following universities of arts - [University of Music and Performing Arts Vienna](https://www.mdw.ac.at/studiencenter/zulassung-zum-universitaetsuebergreifenden-lehramts-studium/) (only available in German) - [Universität of Applied Arts Vienna](https://www.dieangewandte.at/lehramt_kombination) (only available in German) - [Akademie der bildenden Künste Wien](https://www.akbild.ac.at/de/studium/zulassungspruefungen/bachelorstudium-kuenstlerisches-lehramt) (only available in German) You first participate in the aptitude test procedure of the university of arts. After you were successful you can be admitted to one or more teaching subjects at the University of Vienna. If you want to study all teaching subjects at the university of arts you will attend the general educational basics at the University of Vienna as part of a [co-registration](https://studieren.univie.ac.at/en/admission/co-registration/). #### Follow these steps: Collapse all Open all ##### Step 1: Register in u:space You already have a u:account, but it expired? Reactivate your u:account via the [website of the Vienna University Computer Center](https://account.forms.univie.ac.at/uaccount-reaktivieren/index.html?lang=en). You don't have a u:account? 1. Create a u:account in [u:space](http://uspace.univie.ac.at/) within the admission period. 2. Make sure you remember your login data. You will need the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you"
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7706,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.77,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "1944531c4838-001",
+          "page_id": "1944531c4838",
+          "score": 0.7668,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 152,
+          "text": "Find out in advance which requirements you must meet with documents from your country in order to fulfil the admission requirements at the University of Vienna. The competence check only makes sense if you meet all the requirements.\n\nProspective students who do not fulfil all requirements cannot be admitted to a degree programme at the University of Vienna.\n\nAlso check the specific requirements for your desired degree programme, such as proof of German and/or English language proficiency and further required documents. You can find information on this on the [page for the respective degree programme](/en/admission-procedure/).\n\nPlease also ensure that your documents are correctly legalised and translated.\n\n- [Documents from Bangladesh](#c1270047)\n- [Documents from India](#c1270039)\n- [Documents from Pakistan](#c1270031)\n\nYour documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "0a9941520df7-000",
+          "page_id": "0a9941520df7",
+          "score": 0.7657,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "[Entrance exam procedure](/en/)\n\n# Deadlines and dates\n\nAre you interested in a bachelor's/diploma programme with an entrance exam/aptitude test procedure? On this page, you will find all the information you need about our application and admission deadlines and test dates for the academic year 2026/27.\n\n- ### Application period\n\n  The application period is the time frame during which you can apply to study at the University of Vienna by submitting your application for admission.\n\n  During the application period, you can apply for the following: first-time admission, change of programme, admission to an additional programme, and resumption of studies.\n\n  Our tip: Apply right at the beginning of the application period! This will allow you to complete the admission process quickly after the admission period begins.\n- ### Admission period\n\n  During the admission period, you complete all the necessary steps in the admission process and are officially admitted.\n\n  Please note: This is only possible if you have applied within the application period and submitted an application for admission to your desired degree programme. You must also meet all admission requirements.\n\n  Our tip: Complete the admission procedure as early as possible. That way, you will get off to a good start in your studies!"
+        }
+      ],
+      "latency_ms": 9.1
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "271a53027cf1-000",
+          "page_id": "271a53027cf1",
+          "score": 0.9145,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 115,
+          "text": "The following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.8184,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.8118,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-002",
+          "page_id": "683e91ed0d69",
+          "score": 0.8075,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 214,
+          "text": "1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.8043,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7999,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7938,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "3c19c09b246d-000",
+          "page_id": "3c19c09b246d",
+          "score": 0.7918,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-on-site/",
+          "title": "Studying on site",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "This website provides students with information, tips and tricks as well as with the most important [FAQs on studying on site](/en/studying-exams/studying-on-site/#c612968).\n\n© Barbara Mair\n\n- Particularly for new students: Get yourself the University of Vienna Welcome Guide as an [e-book](/en/welcome/welcome-guide/) or order a [printed copy](https://www.facultasdruckt.at/welcomeguide) free of charge via facultas.\n- Check on [u:find](https://ufind.univie.ac.at/en/index.html), how courses/exams will be held (on site, digital or hybrid).\n- Register for all courses/exams on [u:space](https://uspace.univie.ac.at/web/gast/home). Following registration, you can access the learning materials on Moodle.\n\n© Universität Wien / derknopfdruecker.com\n\n- Check your [Webmail account](https://zid.univie.ac.at/en/e-mail) as well as [Moodle](https://moodle.univie.ac.at) to see if there are any short-term changes regarding the relevant course/exam.\n- Do not forget to bring\n  - laptop, charger and/or a powerbank for courses\n  - if necessary a headset with a microphone, if you are at the University and participate in online courses and\n  - u:card for exams\n\nIf you want to use the on-site services of the [Vienna University Library](https://bibliothek.univie.ac.at/en/), please get informed about the applicable security rules in advance.\n\n[### ub.univie.ac.at](https://bibliothek.univie.ac.at/en/)\n\nYou can study at the following locations.\n\n© University of Vienna / derknopfdruecker.com\n\n[### Student Spaces](https://backend.univie.ac.at/index.php?id=112116&L=0)\n\n[### Reading rooms of the Vienna University Library](https://bibliothek.univie.ac.at/en/platzreservierung.html)\n\n[### Computer Rooms](https://zid.univie.ac.at/en/computer-rooms/)\n\n[### Studying remotely](/en/studying-exams/studying-remotely/)\n\n[### Studying in hybrid form](/en/studying-exams/studying-in-hybrid-form/)"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7853,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.7828,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7796,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7792,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.7789,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "479712f83ed4-011",
+          "page_id": "479712f83ed4",
+          "score": 0.7781,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you want to study at the University of Vienna. Pay the prescribed tuition fee/Students' Union fee at the university of arts. Then continue with step 3. ##### Step 3: Complete the admission at the University of Vienna 1. Send a message with the subject line “Lehramt Kunstuniversität” via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/927). Send the following documents attached to your message: 1. All pages of your secondary-school leaving certificate merged into one PDF file including translation if the document was not issued in German or English 2. Your current student record sheet of the university of arts 2. We will process your application and inform you via e-mail. ##### Step 4: Order your u:card and plan your semester Wait a few days after receiving the confirmation via e-mail. Log into u:space → Financial matters → Tuition fee/Students' Union fee and check if the fee is marked as received. If yes, you can order your student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission"
+        },
+        {
+          "id": "683e91ed0d69-005",
+          "page_id": "683e91ed0d69",
+          "score": 0.7772,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The processing period can take up to two weeks. You should therefore submit your application for co-registration in good time. - When do I get access to the Moodle courses? First, wait for the approval of the co-enrolment. Afterwards, register for the desired course. Only then will you have access to the Moodle course. Please note that the course must be activated by a lecturer or tutor so that it is also accessible to students. It is up to the course instructor to decide when this happens. - Why do I need a signed pre-approval? The signed pre-approval allows your home university to check whether the selected courses can be recognised for your degree programme. Your home university will issue it if it is not possible to take certain examinations there (e.g. because the course is not offered there). Please contact your home university to find out which office is responsible for confirming your pre-approval. - Where can I find the student record sheet of the University of Vienna?? You can download your student record sheet as soon as the co-registration has been approved. You can find the student record sheet"
+        },
+        {
+          "id": "479712f83ed4-010",
+          "page_id": "479712f83ed4",
+          "score": 0.776,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you study at least one teaching subject at one of the following universities of arts - [University of Music and Performing Arts Vienna](https://www.mdw.ac.at/studiencenter/zulassung-zum-universitaetsuebergreifenden-lehramts-studium/) (only available in German) - [Universität of Applied Arts Vienna](https://www.dieangewandte.at/lehramt_kombination) (only available in German) - [Akademie der bildenden Künste Wien](https://www.akbild.ac.at/de/studium/zulassungspruefungen/bachelorstudium-kuenstlerisches-lehramt) (only available in German) You first participate in the aptitude test procedure of the university of arts. After you were successful you can be admitted to one or more teaching subjects at the University of Vienna. If you want to study all teaching subjects at the university of arts you will attend the general educational basics at the University of Vienna as part of a [co-registration](https://studieren.univie.ac.at/en/admission/co-registration/). #### Follow these steps: Collapse all Open all ##### Step 1: Register in u:space You already have a u:account, but it expired? Reactivate your u:account via the [website of the Vienna University Computer Center](https://account.forms.univie.ac.at/uaccount-reaktivieren/index.html?lang=en). You don't have a u:account? 1. Create a u:account in [u:space](http://uspace.univie.ac.at/) within the admission period. 2. Make sure you remember your login data. You will need the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you"
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7706,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.77,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "1944531c4838-001",
+          "page_id": "1944531c4838",
+          "score": 0.7668,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 152,
+          "text": "Find out in advance which requirements you must meet with documents from your country in order to fulfil the admission requirements at the University of Vienna. The competence check only makes sense if you meet all the requirements.\n\nProspective students who do not fulfil all requirements cannot be admitted to a degree programme at the University of Vienna.\n\nAlso check the specific requirements for your desired degree programme, such as proof of German and/or English language proficiency and further required documents. You can find information on this on the [page for the respective degree programme](/en/admission-procedure/).\n\nPlease also ensure that your documents are correctly legalised and translated.\n\n- [Documents from Bangladesh](#c1270047)\n- [Documents from India](#c1270039)\n- [Documents from Pakistan](#c1270031)\n\nYour documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "0a9941520df7-000",
+          "page_id": "0a9941520df7",
+          "score": 0.7657,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "[Entrance exam procedure](/en/)\n\n# Deadlines and dates\n\nAre you interested in a bachelor's/diploma programme with an entrance exam/aptitude test procedure? On this page, you will find all the information you need about our application and admission deadlines and test dates for the academic year 2026/27.\n\n- ### Application period\n\n  The application period is the time frame during which you can apply to study at the University of Vienna by submitting your application for admission.\n\n  During the application period, you can apply for the following: first-time admission, change of programme, admission to an additional programme, and resumption of studies.\n\n  Our tip: Apply right at the beginning of the application period! This will allow you to complete the admission process quickly after the admission period begins.\n- ### Admission period\n\n  During the admission period, you complete all the necessary steps in the admission process and are officially admitted.\n\n  Please note: This is only possible if you have applied within the application period and submitted an application for admission to your desired degree programme. You must also meet all admission requirements.\n\n  Our tip: Complete the admission procedure as early as possible. That way, you will get off to a good start in your studies!"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "271a53027cf1-000",
+          "page_id": "271a53027cf1",
+          "score": 0.9145,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 115,
+          "text": "The following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.8184,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.8118,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-002",
+          "page_id": "683e91ed0d69",
+          "score": 0.8075,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 214,
+          "text": "1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.8043,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7999,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Registration for courses and examinations\nThe following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)\n\n[2] Co-registration at the University of Vienna\nAre you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[4] Co-registration at the University of Vienna\n1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester.\n\n[5] Co-registration at the University of Vienna — How to apply for co-registration\n1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\").\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Admission to a non-degree programme\n1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "271a53027cf1-000",
+          "score": 0.9145
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-000",
+          "score": 0.8184
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-004",
+          "score": 0.8118
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-002",
+          "score": 0.8075
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-001",
+          "score": 0.8043
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "section": "Admission",
+          "chunk_id": "55c68f63e02e-002",
+          "score": 0.7999
+        }
+      },
+      "context_chars": 9512,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Registration for courses and examinations\nThe following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)\n\n[2] Co-registration at the University of Vienna\nAre you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[4] Co-registration at the University of Vienna\n1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester.\n\n[5] Co-registration at the University of Vienna — How to apply for co-registration\n1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\").\n\n[6] Making up for supplementary examinations from the bachelor programme for admission to a master programme — Admission to a non-degree programme\n1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\nQuestion: How do I register for courses and exams at the University of Vienna?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2392,
+        "completion_tokens": 98,
+        "total_tokens": 2490
+      },
+      "rate_limit_events": [],
+      "raw_response": "To register for courses and exams at the University of Vienna, you need an active u:account and a valid admission to a degree programme [1]. You can find instructions on how to register for courses and exams on the University's website, and you can also contact your Studies Service Center (SSC) or Studies Service Unit (SSS) for help [1]. Additionally, you can register for courses and exams in u:find after your co-registration has been approved [4].",
+      "finish_reason": "stop",
+      "latency_ms": 2252.0
+    }
+  },
+  "query_id": "g01:canonical:0",
+  "status": "ok",
+  "answer": "To register for courses and exams at the University of Vienna, you need an active u:account and a valid admission to a degree programme [1]. You can find instructions on how to register for courses and exams on the University's website, and you can also contact your Studies Service Center (SSC) or Studies Service Unit (SSS) for help [1]. Additionally, you can register for courses and exams in u:find after your co-registration has been approved [4].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+      "title": "Registration for courses and examinations",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "271a53027cf1-000",
+      "score": 0.9145
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+      "title": "Co-registration at the University of Vienna",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "683e91ed0d69-002",
+      "score": 0.8075
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2392,
+    "completion_tokens": 98,
+    "total_tokens": 2490
+  },
+  "total_latency_ms": 2261.3
+}

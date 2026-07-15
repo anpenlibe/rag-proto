@@ -1,0 +1,718 @@
+{
+  "trace_id": "3cd019ec71c5",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How do I obtain an officially signed confirmation of my studies?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How do I obtain an officially signed confirmation of my studies?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "c2bb4a72f574-000",
+          "page_id": "c2bb4a72f574",
+          "score": 0.8048,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Current students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7764,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "c2bb4a72f574-003",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7614,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 207,
+          "text": "The payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there."
+        },
+        {
+          "id": "7916c3fc6510-020",
+          "page_id": "7916c3fc6510",
+          "score": 0.7568,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "The confirmation of study periods is one of the so-called study documents. It contains information about your periods of study at the University of Vienna. As long as you are admitted to a degree programme, you can find your confirmation of study periods in u:space under \"Personal Matters\" > \"My documents\". If your u:account is no longer active, you can request the confirmation of study periods. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [Confirmations for former students](/en/confirmations/) Related entries: - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Confirmation of withdrawal (\"Abgangsbescheinigung\") The confirmation of withdrawal is used as a confirmation of your requested withdrawal from a degree programme (for successfully completed degree programmes you obtain your final documents from your StudiesServiceCenter). You can print your confirmation of withdrawal via u:space by clicking Personal Matters\" > \"My documents\". Related Links: - [StudiesServiceCenters (SSC) and StudiesServiceUnits (‘StudienServiceStelle’, SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Continuation of studies Related entries: - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - Course (LV) To take exams, you have to attend courses (\"Lehrveranstaltung\", LV). There are courses with continuous assessment and courses with non-continuous assessment. In the first case, you have to deliver results already during the semester. Courses with non-continuous assessment end with an examination at the end of the semester resp. in"
+        },
+        {
+          "id": "f34d0e11d342-002",
+          "page_id": "f34d0e11d342",
+          "score": 0.7561,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 230,
+          "text": "and version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Transcript of records In your transcript of records you can see all examination results at the University of Vienna. It contains information about the examination date and completion of courses as well as ECTS received thereby. The transcript of records is available in German and English. - Confirmation of courses passed In the confirmation of courses passed only successfully completed examinations are listed. It contains information about the examination date and completion of courses as well as ECTS received thereby. The confirmation of courses passed is available in German and English. - Payment request/confirmation In your payment request/confirmation you will find the amount of the tuition fee/Students' Union fee prescribed for the current semester. Furthermore, the date you paid at is confirmed as soon as the fee has been received by the University of Vienna. The payment request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of"
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "f34d0e11d342-001",
+          "page_id": "f34d0e11d342",
+          "score": 0.7443,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 230,
+          "text": "- Confirmation of study periods In your confirmation of study periods you find an overview of all degree and non-degree programmes you are or were admitted to at the University of Vienna. It contains data regarding the beginning and end of studies, re-registered semesters and semesters on leave. The confirmation of study periods is available in German and English. - Confirmation of enrolment Your confirmation of enrolment confirms that you are enrolled for a specific degree or non-degree programme in a specific semester. If you are admitted to multiple programmes at the University of Vienna there is a separate confirmation of enrolment for each programme. Other authorities often refer to the confirmation of enrolment as \"Inskriptionsbestätigung\". The confirmation of enrolment is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Student record sheet In your student record sheet you can find an overview of all programmes you are and were admitted to. It is issued for each semester. The student record sheet contains information about the curriculum and version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed"
+        },
+        {
+          "id": "7916c3fc6510-090",
+          "page_id": "7916c3fc6510",
+          "score": 0.7384,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "soon as your tuition fee contribution appears in u:space as \"received on...\", you can print out your student record sheet and your confirmation of enrolment for the respective semester. Related Links: - [u:space](https://studieren.univie.ac.at/en/abc-of-terminology/#c273319) Related entries: - [Confirmation of courses passed (‘Bestätigung über positiv absolvierte Prüfungen’)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30833&cHash=384abc77d3971dc5719c107fd6ea13f4) - [Transcript of records (\"Sammelzeugnis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31251&cHash=96a657912ac9ab41a08745ded22bb839) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - [Confirmation of study periods (\"Studienzeitbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31294&cHash=be04add5fe3411a86e9b4c39c5b95416) - Study law You have rights and obligations that govern your studies from admission until graduation. If you have any questions, you can contact the following offices: - The Directorate of Studies (SPL) is responsible for your degree programme and should be your first point of contact if you have any questions regarding legal issues and administrative enquiries during your studies. - Lecturers and examiners are the primary contact persons for the implementation of alternative modes of assessment for students with impairments. The SPL takes the fundamental decisions about this. The Accessible Studying team (‘Team Barrierefrei’) offers (also anonymous) advice. - The Office of the Studienpräses provides support if you encounter problems during your studies that neither your lecturer nor the SPL can solve. - If you have questions about admission and the tuition fee, please contact the Admission Office. - In individual cases, the ombuds office for students ('Ombudsstelle für Studierende') of the Federal Ministry can help"
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.7356,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "f34d0e11d342-004",
+          "page_id": "f34d0e11d342",
+          "score": 0.7329,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 20,
+          "text": "[### Confirmations for (former) students](/en/confirmations-students/)\n\n[### Confirmations for third parties](/en/confirmations-third-parties/)\n\n- [Information about confirmations for employees (login required)](https://wiki.univie.ac.at/pages/viewpage.action?pageId=363964279)\n- [u:space](http://uspace.univie.ac.at/en)"
+        },
+        {
+          "id": "7916c3fc6510-039",
+          "page_id": "7916c3fc6510",
+          "score": 0.7302,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "F"
+          ],
+          "word_count": 65,
+          "text": "For a full legalisation, first, the ministry of education and then the foreign ministry in the issuing country confirm the authenticity of the signature and, if applicable, the official seal on the document. Subsequently, the documents are additionally legalised by the competent Austrian embassy or consulate in the issuing country. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) - [Austrian representations](https://www.bmeia.gv.at/en/embassies-consulates/search-for-austrian-representations/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31907&cHash=ece0672df79bf5dda0ad3dd1dae3d29f)"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.7279,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.7179,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7172,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "f34d0e11d342-003",
+          "page_id": "f34d0e11d342",
+          "score": 0.7137,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 54,
+          "text": "request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of withdrawal cannot be issued. The confirmation of withdrawal is available in German and English."
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7095,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "7916c3fc6510-067",
+          "page_id": "7916c3fc6510",
+          "score": 0.7073,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 79,
+          "text": "an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required for your graduation. This confirmation is valid for six weeks and can be presented at public authorities until your degree is issued. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)"
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7052,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "27f958b3969a-007",
+          "page_id": "27f958b3969a",
+          "score": 0.6996,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "1. Inform yourself in the issuing country which national public authority may issue an apostille, and if there are any requirements.\n2. Have an apostille added to your documents.\n   The apostille can be added on the document itself, on an attached page, or by means of an electronic apostille. Do not detach the apostille! The apostille must attest any signature(s) by the issuing educational institution (directorate, rectorate, or deanship) that the document bears. The signature of the notary or translation agency may not be attested.\n3. Have your documents translated.\n   Your [documents as well as the apostille has to be translated](#c1122153), if they were not issued in German or English.\n4. Apply for admission to a study programme.\n   Scan all pages of your document, including all seals and (if necessary) the translation. After assuring yourself that the scan is legible, combine your documents into a PDF-file. Follow the next steps in the [admission procedure](/en/admission-procedure/).\n\nDocuments issued in certain countries do not need to be diplomatically certified. However, we require an [official translation in German or English](#c1122153), if the documents were not issued in either of these languages.\n\nDocuments issued in an EU/EEA country or Switzerland are exempt from all legalisation requirements."
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6966,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        }
+      ],
+      "latency_ms": 7.7
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "c2bb4a72f574-000",
+          "page_id": "c2bb4a72f574",
+          "score": 0.8048,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Current students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7764,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "c2bb4a72f574-003",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7614,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 207,
+          "text": "The payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there."
+        },
+        {
+          "id": "7916c3fc6510-020",
+          "page_id": "7916c3fc6510",
+          "score": 0.7568,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "The confirmation of study periods is one of the so-called study documents. It contains information about your periods of study at the University of Vienna. As long as you are admitted to a degree programme, you can find your confirmation of study periods in u:space under \"Personal Matters\" > \"My documents\". If your u:account is no longer active, you can request the confirmation of study periods. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [Confirmations for former students](/en/confirmations/) Related entries: - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Confirmation of withdrawal (\"Abgangsbescheinigung\") The confirmation of withdrawal is used as a confirmation of your requested withdrawal from a degree programme (for successfully completed degree programmes you obtain your final documents from your StudiesServiceCenter). You can print your confirmation of withdrawal via u:space by clicking Personal Matters\" > \"My documents\". Related Links: - [StudiesServiceCenters (SSC) and StudiesServiceUnits (‘StudienServiceStelle’, SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Continuation of studies Related entries: - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - Course (LV) To take exams, you have to attend courses (\"Lehrveranstaltung\", LV). There are courses with continuous assessment and courses with non-continuous assessment. In the first case, you have to deliver results already during the semester. Courses with non-continuous assessment end with an examination at the end of the semester resp. in"
+        },
+        {
+          "id": "f34d0e11d342-002",
+          "page_id": "f34d0e11d342",
+          "score": 0.7561,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 230,
+          "text": "and version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Transcript of records In your transcript of records you can see all examination results at the University of Vienna. It contains information about the examination date and completion of courses as well as ECTS received thereby. The transcript of records is available in German and English. - Confirmation of courses passed In the confirmation of courses passed only successfully completed examinations are listed. It contains information about the examination date and completion of courses as well as ECTS received thereby. The confirmation of courses passed is available in German and English. - Payment request/confirmation In your payment request/confirmation you will find the amount of the tuition fee/Students' Union fee prescribed for the current semester. Furthermore, the date you paid at is confirmed as soon as the fee has been received by the University of Vienna. The payment request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of"
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "f34d0e11d342-001",
+          "page_id": "f34d0e11d342",
+          "score": 0.7443,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 230,
+          "text": "- Confirmation of study periods In your confirmation of study periods you find an overview of all degree and non-degree programmes you are or were admitted to at the University of Vienna. It contains data regarding the beginning and end of studies, re-registered semesters and semesters on leave. The confirmation of study periods is available in German and English. - Confirmation of enrolment Your confirmation of enrolment confirms that you are enrolled for a specific degree or non-degree programme in a specific semester. If you are admitted to multiple programmes at the University of Vienna there is a separate confirmation of enrolment for each programme. Other authorities often refer to the confirmation of enrolment as \"Inskriptionsbestätigung\". The confirmation of enrolment is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Student record sheet In your student record sheet you can find an overview of all programmes you are and were admitted to. It is issued for each semester. The student record sheet contains information about the curriculum and version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed"
+        },
+        {
+          "id": "7916c3fc6510-090",
+          "page_id": "7916c3fc6510",
+          "score": 0.7384,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "soon as your tuition fee contribution appears in u:space as \"received on...\", you can print out your student record sheet and your confirmation of enrolment for the respective semester. Related Links: - [u:space](https://studieren.univie.ac.at/en/abc-of-terminology/#c273319) Related entries: - [Confirmation of courses passed (‘Bestätigung über positiv absolvierte Prüfungen’)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30833&cHash=384abc77d3971dc5719c107fd6ea13f4) - [Transcript of records (\"Sammelzeugnis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31251&cHash=96a657912ac9ab41a08745ded22bb839) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - [Confirmation of study periods (\"Studienzeitbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31294&cHash=be04add5fe3411a86e9b4c39c5b95416) - Study law You have rights and obligations that govern your studies from admission until graduation. If you have any questions, you can contact the following offices: - The Directorate of Studies (SPL) is responsible for your degree programme and should be your first point of contact if you have any questions regarding legal issues and administrative enquiries during your studies. - Lecturers and examiners are the primary contact persons for the implementation of alternative modes of assessment for students with impairments. The SPL takes the fundamental decisions about this. The Accessible Studying team (‘Team Barrierefrei’) offers (also anonymous) advice. - The Office of the Studienpräses provides support if you encounter problems during your studies that neither your lecturer nor the SPL can solve. - If you have questions about admission and the tuition fee, please contact the Admission Office. - In individual cases, the ombuds office for students ('Ombudsstelle für Studierende') of the Federal Ministry can help"
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.7356,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "f34d0e11d342-004",
+          "page_id": "f34d0e11d342",
+          "score": 0.7329,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 20,
+          "text": "[### Confirmations for (former) students](/en/confirmations-students/)\n\n[### Confirmations for third parties](/en/confirmations-third-parties/)\n\n- [Information about confirmations for employees (login required)](https://wiki.univie.ac.at/pages/viewpage.action?pageId=363964279)\n- [u:space](http://uspace.univie.ac.at/en)"
+        },
+        {
+          "id": "7916c3fc6510-039",
+          "page_id": "7916c3fc6510",
+          "score": 0.7302,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "F"
+          ],
+          "word_count": 65,
+          "text": "For a full legalisation, first, the ministry of education and then the foreign ministry in the issuing country confirm the authenticity of the signature and, if applicable, the official seal on the document. Subsequently, the documents are additionally legalised by the competent Austrian embassy or consulate in the issuing country. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) - [Austrian representations](https://www.bmeia.gv.at/en/embassies-consulates/search-for-austrian-representations/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31907&cHash=ece0672df79bf5dda0ad3dd1dae3d29f)"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.7279,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "4e862d77824c-014",
+          "page_id": "4e862d77824c",
+          "score": 0.7179,
+          "url": "https://studieren.univie.ac.at/en/admission/leave-of-absence/",
+          "title": "Leave of absence",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 177,
+          "text": "after the leave of absence has ended. - What information must be included on the confirmation letter from my place of employment? Your place of employment must confirm that your employment exceeds the marginal earnings threshold (\"Geringfügikeitsgrenze\") and lasts more than four weeks in the semester you applied for. In the case of training/qualification programmes, you also need a confirmation of participation/registration from the training/qualification institute stating the extent and duration of the course. - What documentation can I provide to prove that I am self-employed? You can provide a corresponding confirmation (such as a tax book extract, health insurance contract etc.) in combination with a statutory declaration on the extent of the impairment. - I applied for a leave of absence shortly before the payment deadline for the tuition fee/ Students' Union fee. Should I still pay the fee? Yes, otherwise your studies will be closed automatically. If your application is approved, you can apply for a [reimbursement](/en/tuition-fee/remission-and-reimbursement/) of the tuition fee. You must pay the Students' Union fee in any case. It cannot be refunded."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7172,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "f34d0e11d342-003",
+          "page_id": "f34d0e11d342",
+          "score": 0.7137,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 54,
+          "text": "request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of withdrawal cannot be issued. The confirmation of withdrawal is available in German and English."
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7095,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "7916c3fc6510-067",
+          "page_id": "7916c3fc6510",
+          "score": 0.7073,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 79,
+          "text": "an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required for your graduation. This confirmation is valid for six weeks and can be presented at public authorities until your degree is issued. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)"
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.7052,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "27f958b3969a-007",
+          "page_id": "27f958b3969a",
+          "score": 0.6996,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "1. Inform yourself in the issuing country which national public authority may issue an apostille, and if there are any requirements.\n2. Have an apostille added to your documents.\n   The apostille can be added on the document itself, on an attached page, or by means of an electronic apostille. Do not detach the apostille! The apostille must attest any signature(s) by the issuing educational institution (directorate, rectorate, or deanship) that the document bears. The signature of the notary or translation agency may not be attested.\n3. Have your documents translated.\n   Your [documents as well as the apostille has to be translated](#c1122153), if they were not issued in German or English.\n4. Apply for admission to a study programme.\n   Scan all pages of your document, including all seals and (if necessary) the translation. After assuring yourself that the scan is legible, combine your documents into a PDF-file. Follow the next steps in the [admission procedure](/en/admission-procedure/).\n\nDocuments issued in certain countries do not need to be diplomatically certified. However, we require an [official translation in German or English](#c1122153), if the documents were not issued in either of these languages.\n\nDocuments issued in an EU/EEA country or Switzerland are exempt from all legalisation requirements."
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6966,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "c2bb4a72f574-000",
+          "page_id": "c2bb4a72f574",
+          "score": 0.8048,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Current students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7764,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "c2bb4a72f574-003",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7614,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 207,
+          "text": "The payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there."
+        },
+        {
+          "id": "7916c3fc6510-020",
+          "page_id": "7916c3fc6510",
+          "score": 0.7568,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "The confirmation of study periods is one of the so-called study documents. It contains information about your periods of study at the University of Vienna. As long as you are admitted to a degree programme, you can find your confirmation of study periods in u:space under \"Personal Matters\" > \"My documents\". If your u:account is no longer active, you can request the confirmation of study periods. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [Confirmations for former students](/en/confirmations/) Related entries: - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Confirmation of withdrawal (\"Abgangsbescheinigung\") The confirmation of withdrawal is used as a confirmation of your requested withdrawal from a degree programme (for successfully completed degree programmes you obtain your final documents from your StudiesServiceCenter). You can print your confirmation of withdrawal via u:space by clicking Personal Matters\" > \"My documents\". Related Links: - [StudiesServiceCenters (SSC) and StudiesServiceUnits (‘StudienServiceStelle’, SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Continuation of studies Related entries: - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - Course (LV) To take exams, you have to attend courses (\"Lehrveranstaltung\", LV). There are courses with continuous assessment and courses with non-continuous assessment. In the first case, you have to deliver results already during the semester. Courses with non-continuous assessment end with an examination at the end of the semester resp. in"
+        },
+        {
+          "id": "f34d0e11d342-002",
+          "page_id": "f34d0e11d342",
+          "score": 0.7561,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "word_count": 230,
+          "text": "and version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Transcript of records In your transcript of records you can see all examination results at the University of Vienna. It contains information about the examination date and completion of courses as well as ECTS received thereby. The transcript of records is available in German and English. - Confirmation of courses passed In the confirmation of courses passed only successfully completed examinations are listed. It contains information about the examination date and completion of courses as well as ECTS received thereby. The confirmation of courses passed is available in German and English. - Payment request/confirmation In your payment request/confirmation you will find the amount of the tuition fee/Students' Union fee prescribed for the current semester. Furthermore, the date you paid at is confirmed as soon as the fee has been received by the University of Vienna. The payment request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of"
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Confirmations for (former) students\nCurrent students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?\n\n[2] Confirmations for (former) students\nThe Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/).\n\n[3] Confirmations for (former) students\nThe payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there.\n\n[4] ABC of terminology — C\nThe confirmation of study periods is one of the so-called study documents. It contains information about your periods of study at the University of Vienna. As long as you are admitted to a degree programme, you can find your confirmation of study periods in u:space under \"Personal Matters\" > \"My documents\". If your u:account is no longer active, you can request the confirmation of study periods. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [Confirmations for former students](/en/confirmations/) Related entries: - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Confirmation of withdrawal (\"Abgangsbescheinigung\") The confirmation of withdrawal is used as a confirmation of your requested withdrawal from a degree programme (for successfully completed degree programmes you obtain your final documents from your StudiesServiceCenter). You can print your confirmation of withdrawal via u:space by clicking Personal Matters\" > \"My documents\". Related Links: - [StudiesServiceCenters (SSC) and StudiesServiceUnits (‘StudienServiceStelle’, SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Continuation of studies Related entries: - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - Course (LV) To take exams, you have to attend courses (\"Lehrveranstaltung\", LV). There are courses with continuous assessment and courses with non-continuous assessment. In the first case, you have to deliver results already during the semester. Courses with non-continuous assessment end with an examination at the end of the semester resp. in\n\n[5] Confirmations — Confirmations in u:space\nand version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Transcript of records In your transcript of records you can see all examination results at the University of Vienna. It contains information about the examination date and completion of courses as well as ECTS received thereby. The transcript of records is available in German and English. - Confirmation of courses passed In the confirmation of courses passed only successfully completed examinations are listed. It contains information about the examination date and completion of courses as well as ECTS received thereby. The confirmation of courses passed is available in German and English. - Payment request/confirmation In your payment request/confirmation you will find the amount of the tuition fee/Students' Union fee prescribed for the current semester. Furthermore, the date you paid at is confirmed as soon as the fee has been received by the University of Vienna. The payment request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of\n\n[6] Confirmations\nCurrent students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c2bb4a72f574-000",
+          "score": 0.8048
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c2bb4a72f574-002",
+          "score": 0.7764
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c2bb4a72f574-003",
+          "score": 0.7614
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "C"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-020",
+          "score": 0.7568
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "heading_path": [
+            "Confirmations in u:space"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "f34d0e11d342-002",
+          "score": 0.7561
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "f34d0e11d342-000",
+          "score": 0.749
+        }
+      },
+      "context_chars": 9412,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Confirmations for (former) students\nCurrent students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?\n\n[2] Confirmations for (former) students\nThe Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/).\n\n[3] Confirmations for (former) students\nThe payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there.\n\n[4] ABC of terminology — C\nThe confirmation of study periods is one of the so-called study documents. It contains information about your periods of study at the University of Vienna. As long as you are admitted to a degree programme, you can find your confirmation of study periods in u:space under \"Personal Matters\" > \"My documents\". If your u:account is no longer active, you can request the confirmation of study periods. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [Confirmations for former students](/en/confirmations/) Related entries: - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Confirmation of withdrawal (\"Abgangsbescheinigung\") The confirmation of withdrawal is used as a confirmation of your requested withdrawal from a degree programme (for successfully completed degree programmes you obtain your final documents from your StudiesServiceCenter). You can print your confirmation of withdrawal via u:space by clicking Personal Matters\" > \"My documents\". Related Links: - [StudiesServiceCenters (SSC) and StudiesServiceUnits (‘StudienServiceStelle’, SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31292&cHash=8fb756fa18f12c081793a7bcf39b7390) - [Closing a degree programme/withdrawing from the University of Vienna](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31896&cHash=2e24f8e1dcdf22ae4e1123db52ef795d) - Continuation of studies Related entries: - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - Course (LV) To take exams, you have to attend courses (\"Lehrveranstaltung\", LV). There are courses with continuous assessment and courses with non-continuous assessment. In the first case, you have to deliver results already during the semester. Courses with non-continuous assessment end with an examination at the end of the semester resp. in\n\n[5] Confirmations — Confirmations in u:space\nand version, beginning of studies, enrolment status (or end of studies) and possible resumptions of studies. The student record sheet is available in German and English. You can download the document for the current semester as soon as the prescribed tuition fee/Students' Union fee has been received by the University of Vienna. - Transcript of records In your transcript of records you can see all examination results at the University of Vienna. It contains information about the examination date and completion of courses as well as ECTS received thereby. The transcript of records is available in German and English. - Confirmation of courses passed In the confirmation of courses passed only successfully completed examinations are listed. It contains information about the examination date and completion of courses as well as ECTS received thereby. The confirmation of courses passed is available in German and English. - Payment request/confirmation In your payment request/confirmation you will find the amount of the tuition fee/Students' Union fee prescribed for the current semester. Furthermore, the date you paid at is confirmed as soon as the fee has been received by the University of Vienna. The payment request/confirmation is available as bilingual document (German and English). - Confirmation of withdrawal If you close one (or multiple) of your degree programmes you can download a confirmation of withdrawal for this programme. For successfully completed programmes a confirmation of\n\n[6] Confirmations\nCurrent students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned.\n\nQuestion: How do I obtain an officially signed confirmation of my studies?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2380,
+        "completion_tokens": 67,
+        "total_tokens": 2447
+      },
+      "rate_limit_events": [],
+      "raw_response": "You can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents, which carry an official electronic signature [1][6]. If you need a confirmation with a \"wet\" stamp and signature, you can message the Servicedesk [1].",
+      "finish_reason": "stop",
+      "latency_ms": 2604.8
+    }
+  },
+  "query_id": "g12:paraphrase:1",
+  "status": "ok",
+  "answer": "You can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents, which carry an official electronic signature [1][6]. If you need a confirmation with a \"wet\" stamp and signature, you can message the Servicedesk [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+      "title": "Confirmations for (former) students",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "c2bb4a72f574-000",
+      "score": 0.8048
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/confirmations/",
+      "title": "Confirmations",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "f34d0e11d342-000",
+      "score": 0.749
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2380,
+    "completion_tokens": 67,
+    "total_tokens": 2447
+  },
+  "total_latency_ms": 2612.6
+}

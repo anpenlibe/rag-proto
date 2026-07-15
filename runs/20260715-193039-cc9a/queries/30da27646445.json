@@ -1,0 +1,720 @@
+{
+  "trace_id": "30da27646445",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "I study at another Austrian university — how can I take individual courses at the University of Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "I study at another Austrian university — how can I take individual courses at the University of Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7985,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "98c081b92ab3-004",
+          "page_id": "98c081b92ab3",
+          "score": 0.7749,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 230,
+          "text": "If you study at multiple universities in Austria, you can decide where you pay the tuition fee/Students' Union fee yourself. You have already paid at another university? Then you have to re-enrol in your studies at the University of Vienna yourself each semester. Otherwise your studies will be automatically closed after the end of the payment period. / - How do I re-enrol in my studies if I pay at another university? 1. Pay the prescribed fee at the other university and wait for a few days. 2. Log into u:space within the payment period of the University of Vienna. 3. Verify if the fee is already marked as \"received\" at Financial matters > Tuition fee/Students' Union fee. There may be a remaining difference left to pay. This may be the case if you have, for example, paid at an Austrian university of applied science but the tuition fee is prescribed at the University of Vienna. 4. Look for the degree programme you want to continue studying at Studies > Study overview. Confirm that you want to continue studying this degree programme. To do so choose the button \"continue studying\". If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7699,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "785f0a10a7d6-001",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7663,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register"
+        },
+        {
+          "id": "785f0a10a7d6-000",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 38,
+          "text": "You were admitted to a bachelor/diploma or master programme at the University of Vienna and want to study a different degree programme? Here you can find detailed information to best prepare your return to the University of Vienna."
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7613,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7598,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7544,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.753,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7507,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7454,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.745,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "92171fe690f7-000",
+          "page_id": "92171fe690f7",
+          "score": 0.7449,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/",
+          "title": "Returning to the University of Vienna – Resumption of studies",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You did study at the University of Vienna in the past and want to start studying again? Your steps in the admission procedure vary, depending on whether you want to be admitted to the same or a different degree programme or rather a non-degree programme.\n\n[## I want to study the same degree programme again.](/en/admission/resumption-of-studies/same-degree-programme/)\n\n[## I want to study a different degree programme.](/en/admission/resumption-of-studies/other-degree-programme/)\n\n[## I want to be admitted to a non-degree programme or attend the VWU again.](/en/admission/resumption-of-studies/non-degree-programme/)\n\n- [Detailed information on the tuition fee/Students' Union fee](/en/tuition-fee/)"
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.7449,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        },
+        {
+          "id": "98c081b92ab3-005",
+          "page_id": "98c081b92ab3",
+          "score": 0.7446,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 134,
+          "text": "If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree programme. Afterwards you can download your student documents in Personal matters > My documents. Private universities do not forward the payment information to the University of Vienna. In this case you have to also pay the Students' Union fee at the University of Vienna. Afterwards you can contact the [Austrian Students' Union](https://www.oeh.ac.at/en/forms/oh-fee-refund/). There you can apply for a refund of the fee you have paid twice. Austrian universities of applied sciences only forward the information about the payment of the Students' Union fee. The tuition fee is not forwarded to the University of Vienna."
+        },
+        {
+          "id": "271a53027cf1-000",
+          "page_id": "271a53027cf1",
+          "score": 0.7446,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 115,
+          "text": "The following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "479712f83ed4-003",
+          "page_id": "479712f83ed4",
+          "score": 0.7424,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 69,
+          "text": "programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study."
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7422,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.7419,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        }
+      ],
+      "latency_ms": 9.1
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7985,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "98c081b92ab3-004",
+          "page_id": "98c081b92ab3",
+          "score": 0.7749,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 230,
+          "text": "If you study at multiple universities in Austria, you can decide where you pay the tuition fee/Students' Union fee yourself. You have already paid at another university? Then you have to re-enrol in your studies at the University of Vienna yourself each semester. Otherwise your studies will be automatically closed after the end of the payment period. / - How do I re-enrol in my studies if I pay at another university? 1. Pay the prescribed fee at the other university and wait for a few days. 2. Log into u:space within the payment period of the University of Vienna. 3. Verify if the fee is already marked as \"received\" at Financial matters > Tuition fee/Students' Union fee. There may be a remaining difference left to pay. This may be the case if you have, for example, paid at an Austrian university of applied science but the tuition fee is prescribed at the University of Vienna. 4. Look for the degree programme you want to continue studying at Studies > Study overview. Confirm that you want to continue studying this degree programme. To do so choose the button \"continue studying\". If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7699,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "785f0a10a7d6-001",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7663,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register"
+        },
+        {
+          "id": "785f0a10a7d6-000",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 38,
+          "text": "You were admitted to a bachelor/diploma or master programme at the University of Vienna and want to study a different degree programme? Here you can find detailed information to best prepare your return to the University of Vienna."
+        },
+        {
+          "id": "683e91ed0d69-004",
+          "page_id": "683e91ed0d69",
+          "score": 0.7613,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - Can I change my application for co-registration at a later date or submit another application for the same semester? You can only submit one application for co-registration per semester. Think carefully about which courses you would like to take. Once your application has been approved, you are responsible for registering for the courses and examinations. If there are any changes to the pre-approved courses during the semester, you must clarify this with your home university. - My co-registration has been confirmed. Am I automatically enrolled for the specified courses and examinations? No, you have to register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html). Please note that the registration period may vary depending on the course and degree programme. - Can I complete every course by co-registering? You can complete most courses and examinations by co-registering. However, sometimes there are certain requirements for participation in the course that you must fulfill. Find out in [u:find](https://ufind.univie.ac.at/en/index.html) whether you do. Please note: Co-registration does not guarantee a place in a course with continuous assessment. If you have any questions about registering for courses and examinations, please contact the respective [StudiesServiceCenter (SSC)/StudiesServiceUnit(SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/). - The registration period for the course I would like to complete ends earlier than the application period for co-registration. What deadline do I have to meet? You can only register for a course once the co-registration has been approved. The"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7598,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7544,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "2332cdbc78e4-000",
+          "page_id": "2332cdbc78e4",
+          "score": 0.753,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "You were admitted to the University of Vienna in the past and want to be admitted to a non-degree programme now? Non-degree students are not admitted to a specific degree programme but, for example, to the \"attending of individual courses\" or to a continuing education programme.\n\nYou were admitted at the University of Vienna in the past and want to visit individual courses out of interest? If this is the case, you have to note several things:\n\n- Examination attempts in the non-degree programme are also counted in the degree programme. If all examination attempts are graded negatively, you will be permanently excluded from the degree programme, and you cannot study this degree programme.\n- You have to pay the [tuition fee as well as the Students’ Union fee](/en/tuition-fee/).\n- Course places are preferably distributed among degree students.\n- During a non-degree programme it is not possible to pass (partial) diploma examinations, module examinations or public defenses.\n\nMessage us via the [contact form](/en/contact-form/) within the application period and attach a scan of your passport or personal ID card. Please also send us the certificate of your name change, if applicable. We will admit you to the non-degree programme and inform you about further steps via e-mail. The processing may take several days.\n\nAnother option is the admission to a bachelor/diploma or master programme, if you fulfil the admission requirements."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7507,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.7454,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "34ad51983701-000",
+          "page_id": "34ad51983701",
+          "score": 0.745,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/",
+          "title": "Studying a non-degree programme at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 170,
+          "text": "You can be admitted to non-degree programmes for different reasons. In a non-degree programme\n\n- ... you are not admitted to a specific degree programme.\n- ... you can download your student record sheet and confirmation of enrolment in u:space, as soon as your [tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) is received by the University of Vienna.\n- ... a transcript of records will be issued for any exams you take. It is available in u:space > Personal matters > My documents.\n- ... you have to take note of several consequences.\n\nChoose the reasons, why you want to be admitted to a non-degree programme. You will find info on the admission procedure and possible consequences you have to keep in mind as a non-degree student.\n\n[### Attending the VWU](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/)\n\nReceiving the Austrian secondary-school leaving certificate late (only available in German).\n\n[### Attending courses out of interest](/en/admission/non-degree-programme/attending-courses-out-of-interest/)\n\n[### No secondary-school leaving certificate](/en/admission/studying-without-secondary-school-leaving-certificate/)\n\n\"Studienberechtigungsprüfung\" (only available in German).\n\n[### Making up for \"subject-specific\" supplementary examinations](/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/)\n\n[### Making up for qualitative admission requirements (QZB)](/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/)"
+        },
+        {
+          "id": "92171fe690f7-000",
+          "page_id": "92171fe690f7",
+          "score": 0.7449,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/",
+          "title": "Returning to the University of Vienna – Resumption of studies",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You did study at the University of Vienna in the past and want to start studying again? Your steps in the admission procedure vary, depending on whether you want to be admitted to the same or a different degree programme or rather a non-degree programme.\n\n[## I want to study the same degree programme again.](/en/admission/resumption-of-studies/same-degree-programme/)\n\n[## I want to study a different degree programme.](/en/admission/resumption-of-studies/other-degree-programme/)\n\n[## I want to be admitted to a non-degree programme or attend the VWU again.](/en/admission/resumption-of-studies/non-degree-programme/)\n\n- [Detailed information on the tuition fee/Students' Union fee](/en/tuition-fee/)"
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.7449,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        },
+        {
+          "id": "98c081b92ab3-005",
+          "page_id": "98c081b92ab3",
+          "score": 0.7446,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 134,
+          "text": "If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree programme. Afterwards you can download your student documents in Personal matters > My documents. Private universities do not forward the payment information to the University of Vienna. In this case you have to also pay the Students' Union fee at the University of Vienna. Afterwards you can contact the [Austrian Students' Union](https://www.oeh.ac.at/en/forms/oh-fee-refund/). There you can apply for a refund of the fee you have paid twice. Austrian universities of applied sciences only forward the information about the payment of the Students' Union fee. The tuition fee is not forwarded to the University of Vienna."
+        },
+        {
+          "id": "271a53027cf1-000",
+          "page_id": "271a53027cf1",
+          "score": 0.7446,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 115,
+          "text": "The following page provides instructions on how to register for courses and exams. In order to register for courses and exams, you need an active [u:account](https://zid.univie.ac.at/en/uaccount/) as well as a valid [admission](/en/admission-procedure/) to a degree programme at the University of Vienna.\n\n[Registration for courses](#c254735)\n[Registration for exams](#c254738)\n\n- For information about how to plan your schedule, please go to the website [Planning your semester](/en/semester-planning/).\n- If you have any questions about the registration (registration periods, limited numbers of study places), please contact your [studies service center (SSC)/studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n- The [ABC of terminology](/en/abc-of-terminology/?no_cache=1) provides explanations on the university terminology.\n\n[### Registration for courses with non-continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/)\n\n[### Registration for courses with continuous assessment](/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "479712f83ed4-003",
+          "page_id": "479712f83ed4",
+          "score": 0.7424,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 69,
+          "text": "programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study."
+        },
+        {
+          "id": "66b1e5ed443c-000",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7422,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 143,
+          "text": "You are interested in individual courses at the University of Vienna and want to further your education without completing a degree programme? Then a non-degree programme is the right choice.\n\nThe information on this website applies to persons who are admitted at the University of Vienna for the first time. If you were admitted to a degree or non-degree programme at the University of Vienna in the past, please read the information on the [resumption of studies](/en/admission/resumption-of-studies/).\n\nYou need the following document as JPEG or PNG file:\n\n- your valid passport or personal ID card (front and back)\n\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.7419,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "683e91ed0d69-003",
+          "page_id": "683e91ed0d69",
+          "score": 0.7985,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)"
+        },
+        {
+          "id": "683e91ed0d69-000",
+          "page_id": "683e91ed0d69",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 205,
+          "text": "Are you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "98c081b92ab3-004",
+          "page_id": "98c081b92ab3",
+          "score": 0.7749,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 230,
+          "text": "If you study at multiple universities in Austria, you can decide where you pay the tuition fee/Students' Union fee yourself. You have already paid at another university? Then you have to re-enrol in your studies at the University of Vienna yourself each semester. Otherwise your studies will be automatically closed after the end of the payment period. / - How do I re-enrol in my studies if I pay at another university? 1. Pay the prescribed fee at the other university and wait for a few days. 2. Log into u:space within the payment period of the University of Vienna. 3. Verify if the fee is already marked as \"received\" at Financial matters > Tuition fee/Students' Union fee. There may be a remaining difference left to pay. This may be the case if you have, for example, paid at an Austrian university of applied science but the tuition fee is prescribed at the University of Vienna. 4. Look for the degree programme you want to continue studying at Studies > Study overview. Confirm that you want to continue studying this degree programme. To do so choose the button \"continue studying\". If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree"
+        },
+        {
+          "id": "66b1e5ed443c-005",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7699,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 153,
+          "text": "- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna."
+        },
+        {
+          "id": "785f0a10a7d6-001",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7663,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register"
+        },
+        {
+          "id": "785f0a10a7d6-000",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [],
+          "word_count": 38,
+          "text": "You were admitted to a bachelor/diploma or master programme at the University of Vienna and want to study a different degree programme? Here you can find detailed information to best prepare your return to the University of Vienna."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[2] Co-registration at the University of Vienna\nAre you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Paying the tuition fee/Students' Union fee (= re-enrolment) — I am paying the tuition fee/Students' Union fee at another university\nIf you study at multiple universities in Austria, you can decide where you pay the tuition fee/Students' Union fee yourself. You have already paid at another university? Then you have to re-enrol in your studies at the University of Vienna yourself each semester. Otherwise your studies will be automatically closed after the end of the payment period. / - How do I re-enrol in my studies if I pay at another university? 1. Pay the prescribed fee at the other university and wait for a few days. 2. Log into u:space within the payment period of the University of Vienna. 3. Verify if the fee is already marked as \"received\" at Financial matters > Tuition fee/Students' Union fee. There may be a remaining difference left to pay. This may be the case if you have, for example, paid at an Austrian university of applied science but the tuition fee is prescribed at the University of Vienna. 4. Look for the degree programme you want to continue studying at Studies > Study overview. Confirm that you want to continue studying this degree programme. To do so choose the button \"continue studying\". If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree\n\n[4] Attending courses out of interest\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna.\n\n[5] Studying at the University of Vienna again – different degree programme — General information about your return to the University of Vienna\n- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register\n\n[6] Studying at the University of Vienna again – different degree programme\nYou were admitted to a bachelor/diploma or master programme at the University of Vienna and want to study a different degree programme? Here you can find detailed information to best prepare your return to the University of Vienna.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-003",
+          "score": 0.7985
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-000",
+          "score": 0.7823
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-004",
+          "score": 0.7749
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-005",
+          "score": 0.7699
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "section": "Resumption of studies",
+          "chunk_id": "785f0a10a7d6-001",
+          "score": 0.7663
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "heading_path": [],
+          "section": "Resumption of studies",
+          "chunk_id": "785f0a10a7d6-000",
+          "score": 0.7638
+        }
+      },
+      "context_chars": 7382,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Co-registration at the University of Vienna\n- If you are already admitted to a degree programme at the University of Vienna. You can participate in courses of another degree programme and, if needed, get them recognised at another university.\n- If you study at a university of applied sciences.\n- If you study at a university college of teacher education - with the esception of the [Teacher Education Programme for General Secondary Education in Vienna and Lower Austria](https://lehramt.univie.ac.at/)\n- If you are a student of a non-Austrian university.\n- If you are admitted at a different university within a student mobility programme.\n- If you are a non-degree student at your home university.\n- If you are currently taking a leave of absence at a different university.\n- If you study at a private university.\n\n[§ 63 para. 9, Universities Act 2002 (UG)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Artikel=&Paragraf=63&Anlage=&Uebergangsrecht=)\n\n[2] Co-registration at the University of Vienna\nAre you studying at another Austrian university, but would like to complete individual courses at the University of Vienna? You can have these courses recognised at your home university by applying for co-registration. Don't forget to register for courses after your application has been approved.\n\nPlease note:\n\n- You cannot complete a degree programme at the University of Vienna as a co-registered student.\n- The co-registration has to be applied for each semester.\n- If you are enrolled in a Doctoral/PhD programme and want to co-register, please contact the [Center for Doctoral Studies](https://doktorat.univie.ac.at/en/doctoralphd-programmes/co-registration/).\n\nIf you are studying at the University of Vienna and would like to take courses at another university, please contact the [StudyServiceCentre (SSC) or the StudyServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme.\n\nYou need the following documents as PDF files:\n\n- [the pre-approval form (PDF)](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nWinter semester 2026/27:\n\n- Application period: from 13 July to 31 Oktober 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Paying the tuition fee/Students' Union fee (= re-enrolment) — I am paying the tuition fee/Students' Union fee at another university\nIf you study at multiple universities in Austria, you can decide where you pay the tuition fee/Students' Union fee yourself. You have already paid at another university? Then you have to re-enrol in your studies at the University of Vienna yourself each semester. Otherwise your studies will be automatically closed after the end of the payment period. / - How do I re-enrol in my studies if I pay at another university? 1. Pay the prescribed fee at the other university and wait for a few days. 2. Log into u:space within the payment period of the University of Vienna. 3. Verify if the fee is already marked as \"received\" at Financial matters > Tuition fee/Students' Union fee. There may be a remaining difference left to pay. This may be the case if you have, for example, paid at an Austrian university of applied science but the tuition fee is prescribed at the University of Vienna. 4. Look for the degree programme you want to continue studying at Studies > Study overview. Confirm that you want to continue studying this degree programme. To do so choose the button \"continue studying\". If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree\n\n[4] Attending courses out of interest\n- [Tuition fee/Students' Union fee](/en/tuition-fee/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)\n\n/\n\n- Can I attend courses, even if I do not have a secondary-school leaving certificate?\n\n  Yes. You can be admitted to a non-degree programme to attend individual courses if you do not have a secondary-school leaving certificate. You do not have to fulfil any special admission requirements.\n- How much does a non-degree programme cost?\n\n  In a non-degree programme you have to pay the [tuition fee as well as the Students' Union fee](/en/tuition-fee/), irrespective of your citizenship.\n- Which courses can I attend?\n\n  Please inquire at the [StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of the degree programme that offers the courses you are interested in. Information on individual courses is available in [u:find](http://ufind.univie.ac.at/en), the course and staff directory of the University of Vienna.\n\n[5] Studying at the University of Vienna again – different degree programme — General information about your return to the University of Vienna\n- Minimum academic achievement: Since winter semester 2022/23 you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed. - Change of name: If your legal name has changed, please disclose this at an early stage. Message us via the [contact form](/en/contact-form/) and attach a scan of your valid passport or personal ID card and a proof of the name change (e.g. marriage certificate or official notice of the name change). - Application and admission period: The deadlines for your admission at the University of Vienna depend on the type of degree programme and your citizenship. You can find detailed information at the respective type of degree programme. - Recognition of exams: The [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) of the respective degree programme can provide information regarding recognition of prior study achievements and help you to organise your studies. - Completion of the admission: You do not have to book an online appointment. - Simultaneous admission at two Austrian universities: It is not permitted to be admitted to the same degree programme at two Austrian universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register\n\n[6] Studying at the University of Vienna again – different degree programme\nYou were admitted to a bachelor/diploma or master programme at the University of Vienna and want to study a different degree programme? Here you can find detailed information to best prepare your return to the University of Vienna.\n\nQuestion: I study at another Austrian university — how can I take individual courses at the University of Vienna?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 1838,
+        "completion_tokens": 70,
+        "total_tokens": 1908
+      },
+      "rate_limit_events": [
+        {
+          "cycle": 0,
+          "key_id": 0,
+          "error": "rate_limit",
+          "detail": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k",
+          "backoff_s": 0
+        }
+      ],
+      "raw_response": "You can take individual courses at the University of Vienna by applying for co-registration [2]. After your application is approved, you need to register for the courses [2]. You will also need to re-enrol in your studies at the University of Vienna each semester if you pay the tuition fee/Students' Union fee at another university [3].",
+      "finish_reason": "stop",
+      "latency_ms": 6305.1
+    }
+  },
+  "query_id": "g20:canonical:0",
+  "status": "ok",
+  "answer": "You can take individual courses at the University of Vienna by applying for co-registration [2]. After your application is approved, you need to register for the courses [2]. You will also need to re-enrol in your studies at the University of Vienna each semester if you pay the tuition fee/Students' Union fee at another university [3].",
+  "citations": [
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+      "title": "Co-registration at the University of Vienna",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "683e91ed0d69-000",
+      "score": 0.7823
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+      "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+      "heading_path": [
+        "I am paying the tuition fee/Students' Union fee at another university"
+      ],
+      "section": "Tuition fee",
+      "chunk_id": "98c081b92ab3-004",
+      "score": 0.7749
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 1838,
+    "completion_tokens": 70,
+    "total_tokens": 1908
+  },
+  "total_latency_ms": 6314.3
+}

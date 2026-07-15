@@ -1,0 +1,744 @@
+{
+  "trace_id": "558d052fbe9f",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Can you explain the STEOP and what happens if I keep failing it?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Can you explain the STEOP and what happens if I keep failing it?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7168,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "b573e2ee5141-001",
+          "page_id": "b573e2ee5141",
+          "score": 0.7029,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important Information"
+          ],
+          "word_count": 159,
+          "text": "Starting with the winter semester 2022/23, you will be excluded permanently if you do not pass the STEOP. Students who have not passed the STEOP before the winter semester 2022/23 and have not resumed the degree programme by then are excluded from the associated degree programme retroactively.\n\nExamples:\n\n- You have not passed the STEOP in summer semester 2022: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2021/22 (or earlier) and have not resumed your degree programme: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2020/21 and have resumed your studies after one year (as possible in the old legislation) and are currently admitted: You are not affected by the expulsion."
+        },
+        {
+          "id": "b573e2ee5141-002",
+          "page_id": "b573e2ee5141",
+          "score": 0.6681,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "What is STEOP-Mentoring?"
+          ],
+          "word_count": 73,
+          "text": "STEOP-Mentoring aims to support you during your first semester at the University of Vienna! Small peer-goups led by student STEOP-mentors serve as a voluntary addition to the lectures of the introductory and orientation period (STEOP) and are there to help you in mastering its challenges.\n\n[You find further information (available in German) here.](https://ctl.univie.ac.at/services-zur-qualitaet-von-studien/steop-mentoring/informationen-fuer-studierende/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "0a9941520df7-002",
+          "page_id": "0a9941520df7",
+          "score": 0.639,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [
+            "You have further questions?"
+          ],
+          "word_count": 96,
+          "text": "Any questions about the admission procedure?\n\nMessage us via the contact form. You can reach us by phone on Mondays and Thursdays from 12:30 to 13:30.\n\n[+43-1-4277-12100](tel:+43-1-4277-12100)\n[To the contact form](/en/contact)\n\nDo you have questions about registering for courses and examinations? Or about grades and the recognition of exams? The StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) are the right place to go.\n\n[To the SSCs](https://www.univie.ac.at/en/studies/students/organisation-of-studies-and-teaching)\n\nWould you like to know more about support services such as STEOP mentoring or writing workshops? The team at the CTL looks forward to answering your questions.\n\n[Email](#)\n[To the CTL website](https://ctl.univie.ac.at/en)"
+        },
+        {
+          "id": "7916c3fc6510-062",
+          "page_id": "7916c3fc6510",
+          "score": 0.6262,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-069",
+          "page_id": "7916c3fc6510",
+          "score": 0.6174,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "/ - Re-enrolment In order to continue your studies at the University of Vienna, you must pay your tuition fee/Students' Union (ÖH) fee in due time. If you deliberately do not pay the fee (because you do not want to continue your studies) or if you forget to pay the fee, you lose your admission to studies. In case you have paid the fee at a different Austrian university, you have to re-enrol in your studies at the University of Vienna. You can do that until the end of the admission period. Related Links: - [Re-enrolment](/en/tuition-fee/paymentre-enrolment/) - [Payment of the tuition fee/Students’ Union (ÖH) fee](/en/tuition-fee/paymentre-enrolment/) - [Tuition fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - [Continuation of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31960&cHash=051426adf043f8ab058f4e6c4520bb53) - Re-sitting an exam It is possible to re-sit a STEOP exam three times. If your fourth attempt is not successful, your admission to the associated degree programme expires on the day of the exam. You can take exams that are not part of the STEOP four times. The last attempt takes place before an examination committee. If the last attempt is not successful, your admission to the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa)"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6089,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "1facb80561ec-005",
+          "page_id": "1facb80561ec",
+          "score": 0.6088,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 188,
+          "text": "of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - Writing theses: [research question camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/research-question-camp/), [methods camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/methods-camp/), [writing days](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-days/) - In selected fields of study: [Peer Student-Counseling](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/peer-advice-on-study-progress/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. - Why are SWS sometimes displayed in u:space? To be considered examination-active, you must achieve at least 16 ECTS credits or at least 8 SWS (semester hours per week). Some students see SWS instead of ECTS credits in u:space. This occurs when SWS are more beneficial for reaching examination activity status more quickly."
+        },
+        {
+          "id": "518a957ec376-008",
+          "page_id": "518a957ec376",
+          "score": 0.6086,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 129,
+          "text": "already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of Vienna? If you have to meet the additional requirements prior to admission but cannot prove the corresponding knowledge by means of your school reports, you will have to take your additional exam outside of the University of Vienna. Additional exams can be passed at a [Bildungsdirektion](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir.html) in Austria.Please contact the School Board in charge. In case you provide a proof of Latin or Greek by other means, contact the [StudiesServiceCenter (SSC) of the Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/) in order to clarify whether or not your proof will be accepted."
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6043,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "7916c3fc6510-053",
+          "page_id": "7916c3fc6510",
+          "score": 0.6008,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "/ - Negative assessment Exam In the event of a negative grade, you will be able to re-sit an exam three times, which means that you can take an exam four times in total. The fourth attempt takes place orally before an examination committee. Please register to an examination in front of an examination committee at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). If the fourth examination attempt was not successful, you will be permanently blocked from this degree programme and any other degree programmes at the University of Vienna, for which the same examination result is required. Admission to these degree programmes is not possible any more. Course with continuous assessment In the event of a negative grade, you will have to repeat the entire course with continuous assessment. You can repeat a course offered by a different course instructor if it serves the same purpose with regard to your curriculum. The course can be repeated three times (four attempts in total). If the fourth attempt was not successful, you will be deregistered from this degree programme at the University of Vienna (and any other degree programmes for which this course is required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in"
+        },
+        {
+          "id": "7916c3fc6510-061",
+          "page_id": "7916c3fc6510",
+          "score": 0.5875,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on the registration procedure, please contact the StudiesServiceUnit (SSS) or StudiesServiceCenter of your degree programme. Example: Max would like to attend a course with 25 available places. A total number of 30 students register for this course. Max allocates 200 points to this course. As 27 other students allocated between 210 and 500 points, he does not get a place. 70 students register for another course with 50 available places. Max allocates 100 points and gets a place, because several students allocated fewer points than he did. Related Links: - [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Positive assessment Your grade will be entered within four weeks after the exam/the completion of a course or final partial achievement. You can check your grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module)."
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.587,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "d08ccef68126-002",
+          "page_id": "d08ccef68126",
+          "score": 0.5854,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "How is my degree programme structured? What are the next steps? How does semester planning and the exams in the introductory and orientation period (STEOP) work? These questions will be answered at the orientation courses (OV) for your degree programme. At many locations, there are additional welcome events alongside the OV. **The programme is constantly being updated**, so do check back from time to time!\n\n[Discover the orientation course!](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\nGet to know the main building, find out about studying abroad or discover the library’s services. Workshops, guided tours, and other information events starting in mid-September offer skills and tips for your studies.\n\nNew events are being added continuously.\n\n- [Previous month](/en/?tx_eventnews_newsmonth%5Baction%5D=month&tx_eventnews_newsmonth%5Bcontroller%5D=News&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Bmonth%5D=6&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=b6d8455d59a8f08f81e7862a4ebe44ed#c22236)\n- July 2026\n- [Next month](/en/?tx_eventnews_newsmonth%5Baction%5D=month&tx_eventnews_newsmonth%5Bcontroller%5D=News&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Bmonth%5D=8&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=4e1d9ba493c5587fbb264b4fdf4ebb31#c22236)\n\n| M | T | W | T | F | S | S |\n| --- | --- | --- | --- | --- | --- | --- |\n|\n\n  |\n\n  |\n\n 1 |\n\n 2 |\n\n 3 |\n\n 4 |\n\n 5 |\n|\n\n 6 |\n\n 7 |\n\n 8 |\n\n 9 |\n\n 10 |\n\n 11 |\n\n 12 |\n|\n\n 13 |\n\n 14 |\n\n 15 |\n\n 16 |\n\n 17 |\n\n 18 |\n\n 19 |\n|\n\n 20 |\n\n 21 |\n\n 22 |\n\n 23 |\n\n 24 |\n\n 25 |\n\n 26 |\n|\n\n 27 |\n\n 28 |\n\n 29 |\n\n 30 |\n\n 31 |\n\n  |\n\n  |\n\nNo entries for the selected period."
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.5839,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.5839,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.5823,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.5795,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "e25ffafe0a8b-000",
+          "page_id": "e25ffafe0a8b",
+          "score": 0.5787,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/",
+          "title": "Citing and labelling AI",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "In order to ensure the visibility of your independent contribution, it is essential to present your work transparently and in a manner that allows for clear and accurate tracking of the use of AI. It is crucial to clearly distinguish the parts of the work that originate from you, ensuring that your independent performance is accurately assessed. Failure to disclose the use of AI could be considered a breach of the principles of good academic practice.\n\nThe responsibility for determining how the use of AI is to be made transparent lies with the respective lecturer, the study programme director (SPL) or the respective department. In the absence of specific requirements, established best practices may serve as a useful guideline.\n\nA distinction is made between references within the text and entries in the bibliography and, secondly, between content generated entirely by AI and content produced with the assistance of AI."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.5786,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        }
+      ],
+      "latency_ms": 9.0
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7168,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "b573e2ee5141-001",
+          "page_id": "b573e2ee5141",
+          "score": 0.7029,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important Information"
+          ],
+          "word_count": 159,
+          "text": "Starting with the winter semester 2022/23, you will be excluded permanently if you do not pass the STEOP. Students who have not passed the STEOP before the winter semester 2022/23 and have not resumed the degree programme by then are excluded from the associated degree programme retroactively.\n\nExamples:\n\n- You have not passed the STEOP in summer semester 2022: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2021/22 (or earlier) and have not resumed your degree programme: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2020/21 and have resumed your studies after one year (as possible in the old legislation) and are currently admitted: You are not affected by the expulsion."
+        },
+        {
+          "id": "b573e2ee5141-002",
+          "page_id": "b573e2ee5141",
+          "score": 0.6681,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "What is STEOP-Mentoring?"
+          ],
+          "word_count": 73,
+          "text": "STEOP-Mentoring aims to support you during your first semester at the University of Vienna! Small peer-goups led by student STEOP-mentors serve as a voluntary addition to the lectures of the introductory and orientation period (STEOP) and are there to help you in mastering its challenges.\n\n[You find further information (available in German) here.](https://ctl.univie.ac.at/services-zur-qualitaet-von-studien/steop-mentoring/informationen-fuer-studierende/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "0a9941520df7-002",
+          "page_id": "0a9941520df7",
+          "score": 0.639,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [
+            "You have further questions?"
+          ],
+          "word_count": 96,
+          "text": "Any questions about the admission procedure?\n\nMessage us via the contact form. You can reach us by phone on Mondays and Thursdays from 12:30 to 13:30.\n\n[+43-1-4277-12100](tel:+43-1-4277-12100)\n[To the contact form](/en/contact)\n\nDo you have questions about registering for courses and examinations? Or about grades and the recognition of exams? The StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) are the right place to go.\n\n[To the SSCs](https://www.univie.ac.at/en/studies/students/organisation-of-studies-and-teaching)\n\nWould you like to know more about support services such as STEOP mentoring or writing workshops? The team at the CTL looks forward to answering your questions.\n\n[Email](#)\n[To the CTL website](https://ctl.univie.ac.at/en)"
+        },
+        {
+          "id": "7916c3fc6510-062",
+          "page_id": "7916c3fc6510",
+          "score": 0.6262,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-069",
+          "page_id": "7916c3fc6510",
+          "score": 0.6174,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "/ - Re-enrolment In order to continue your studies at the University of Vienna, you must pay your tuition fee/Students' Union (ÖH) fee in due time. If you deliberately do not pay the fee (because you do not want to continue your studies) or if you forget to pay the fee, you lose your admission to studies. In case you have paid the fee at a different Austrian university, you have to re-enrol in your studies at the University of Vienna. You can do that until the end of the admission period. Related Links: - [Re-enrolment](/en/tuition-fee/paymentre-enrolment/) - [Payment of the tuition fee/Students’ Union (ÖH) fee](/en/tuition-fee/paymentre-enrolment/) - [Tuition fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - [Continuation of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31960&cHash=051426adf043f8ab058f4e6c4520bb53) - Re-sitting an exam It is possible to re-sit a STEOP exam three times. If your fourth attempt is not successful, your admission to the associated degree programme expires on the day of the exam. You can take exams that are not part of the STEOP four times. The last attempt takes place before an examination committee. If the last attempt is not successful, your admission to the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa)"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6089,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "1facb80561ec-005",
+          "page_id": "1facb80561ec",
+          "score": 0.6088,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 188,
+          "text": "of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - Writing theses: [research question camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/research-question-camp/), [methods camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/methods-camp/), [writing days](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-days/) - In selected fields of study: [Peer Student-Counseling](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/peer-advice-on-study-progress/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. - Why are SWS sometimes displayed in u:space? To be considered examination-active, you must achieve at least 16 ECTS credits or at least 8 SWS (semester hours per week). Some students see SWS instead of ECTS credits in u:space. This occurs when SWS are more beneficial for reaching examination activity status more quickly."
+        },
+        {
+          "id": "518a957ec376-008",
+          "page_id": "518a957ec376",
+          "score": 0.6086,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 129,
+          "text": "already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of Vienna? If you have to meet the additional requirements prior to admission but cannot prove the corresponding knowledge by means of your school reports, you will have to take your additional exam outside of the University of Vienna. Additional exams can be passed at a [Bildungsdirektion](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir.html) in Austria.Please contact the School Board in charge. In case you provide a proof of Latin or Greek by other means, contact the [StudiesServiceCenter (SSC) of the Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/) in order to clarify whether or not your proof will be accepted."
+        },
+        {
+          "id": "7916c3fc6510-108",
+          "page_id": "7916c3fc6510",
+          "score": 0.6043,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 85,
+          "text": "your transcript of records. This counts as one of your permissible attempts. You will have lost one examination attempt. If you state an appropriate reason, you can apply for the deletion of your examination attempt in the Office of the Studienpräses within 14 days after your exam has been marked with an “X”. You will receive an official notice informing you about whether or not your application was successful. Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) Related entries: - [Discontinuing an exam/course with continuous assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30167&cHash=040ff36417e980db488e9aba95efa9ef)"
+        },
+        {
+          "id": "7916c3fc6510-053",
+          "page_id": "7916c3fc6510",
+          "score": 0.6008,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "/ - Negative assessment Exam In the event of a negative grade, you will be able to re-sit an exam three times, which means that you can take an exam four times in total. The fourth attempt takes place orally before an examination committee. Please register to an examination in front of an examination committee at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). If the fourth examination attempt was not successful, you will be permanently blocked from this degree programme and any other degree programmes at the University of Vienna, for which the same examination result is required. Admission to these degree programmes is not possible any more. Course with continuous assessment In the event of a negative grade, you will have to repeat the entire course with continuous assessment. You can repeat a course offered by a different course instructor if it serves the same purpose with regard to your curriculum. The course can be repeated three times (four attempts in total). If the fourth attempt was not successful, you will be deregistered from this degree programme at the University of Vienna (and any other degree programmes for which this course is required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in"
+        },
+        {
+          "id": "7916c3fc6510-061",
+          "page_id": "7916c3fc6510",
+          "score": 0.5875,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on the registration procedure, please contact the StudiesServiceUnit (SSS) or StudiesServiceCenter of your degree programme. Example: Max would like to attend a course with 25 available places. A total number of 30 students register for this course. Max allocates 200 points to this course. As 27 other students allocated between 210 and 500 points, he does not get a place. 70 students register for another course with 50 available places. Max allocates 100 points and gets a place, because several students allocated fewer points than he did. Related Links: - [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) Related entries: - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Positive assessment Your grade will be entered within four weeks after the exam/the completion of a course or final partial achievement. You can check your grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module)."
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.587,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "d08ccef68126-002",
+          "page_id": "d08ccef68126",
+          "score": 0.5854,
+          "url": "https://studieren.univie.ac.at/en/welcome/",
+          "title": "Welcome at the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "How is my degree programme structured? What are the next steps? How does semester planning and the exams in the introductory and orientation period (STEOP) work? These questions will be answered at the orientation courses (OV) for your degree programme. At many locations, there are additional welcome events alongside the OV. **The programme is constantly being updated**, so do check back from time to time!\n\n[Discover the orientation course!](https://ufind.univie.ac.at/en/search.html?x_c=c%3A24&filter=courses&query=l%3Aov%20l%3Ala-ov%20%2Bct%20c%3A100)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\nGet to know the main building, find out about studying abroad or discover the library’s services. Workshops, guided tours, and other information events starting in mid-September offer skills and tips for your studies.\n\nNew events are being added continuously.\n\n- [Previous month](/en/?tx_eventnews_newsmonth%5Baction%5D=month&tx_eventnews_newsmonth%5Bcontroller%5D=News&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Bmonth%5D=6&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=b6d8455d59a8f08f81e7862a4ebe44ed#c22236)\n- July 2026\n- [Next month](/en/?tx_eventnews_newsmonth%5Baction%5D=month&tx_eventnews_newsmonth%5Bcontroller%5D=News&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Bmonth%5D=8&tx_eventnews_newsmonth%5BoverwriteDemand%5D%5Byear%5D=2026&cHash=4e1d9ba493c5587fbb264b4fdf4ebb31#c22236)\n\n| M | T | W | T | F | S | S |\n| --- | --- | --- | --- | --- | --- | --- |\n|\n\n  |\n\n  |\n\n 1 |\n\n 2 |\n\n 3 |\n\n 4 |\n\n 5 |\n|\n\n 6 |\n\n 7 |\n\n 8 |\n\n 9 |\n\n 10 |\n\n 11 |\n\n 12 |\n|\n\n 13 |\n\n 14 |\n\n 15 |\n\n 16 |\n\n 17 |\n\n 18 |\n\n 19 |\n|\n\n 20 |\n\n 21 |\n\n 22 |\n\n 23 |\n\n 24 |\n\n 25 |\n\n 26 |\n|\n\n 27 |\n\n 28 |\n\n 29 |\n\n 30 |\n\n 31 |\n\n  |\n\n  |\n\nNo entries for the selected period."
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.5839,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.5839,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.5823,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.5795,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "e25ffafe0a8b-000",
+          "page_id": "e25ffafe0a8b",
+          "score": 0.5787,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/citing-and-labelling-ai/",
+          "title": "Citing and labelling AI",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 149,
+          "text": "In order to ensure the visibility of your independent contribution, it is essential to present your work transparently and in a manner that allows for clear and accurate tracking of the use of AI. It is crucial to clearly distinguish the parts of the work that originate from you, ensuring that your independent performance is accurately assessed. Failure to disclose the use of AI could be considered a breach of the principles of good academic practice.\n\nThe responsibility for determining how the use of AI is to be made transparent lies with the respective lecturer, the study programme director (SPL) or the respective department. In the absence of specific requirements, established best practices may serve as a useful guideline.\n\nA distinction is made between references within the text and entries in the bibliography and, secondly, between content generated entirely by AI and content produced with the assistance of AI."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.5786,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "b573e2ee5141-000",
+          "page_id": "b573e2ee5141",
+          "score": 0.7168,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "Almost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)."
+        },
+        {
+          "id": "b573e2ee5141-001",
+          "page_id": "b573e2ee5141",
+          "score": 0.7029,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Important Information"
+          ],
+          "word_count": 159,
+          "text": "Starting with the winter semester 2022/23, you will be excluded permanently if you do not pass the STEOP. Students who have not passed the STEOP before the winter semester 2022/23 and have not resumed the degree programme by then are excluded from the associated degree programme retroactively.\n\nExamples:\n\n- You have not passed the STEOP in summer semester 2022: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2021/22 (or earlier) and have not resumed your degree programme: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2020/21 and have resumed your studies after one year (as possible in the old legislation) and are currently admitted: You are not affected by the expulsion."
+        },
+        {
+          "id": "b573e2ee5141-002",
+          "page_id": "b573e2ee5141",
+          "score": 0.6681,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "section": "Study organisation",
+          "heading_path": [
+            "What is STEOP-Mentoring?"
+          ],
+          "word_count": 73,
+          "text": "STEOP-Mentoring aims to support you during your first semester at the University of Vienna! Small peer-goups led by student STEOP-mentors serve as a voluntary addition to the lectures of the introductory and orientation period (STEOP) and are there to help you in mastering its challenges.\n\n[You find further information (available in German) here.](https://ctl.univie.ac.at/services-zur-qualitaet-von-studien/steop-mentoring/informationen-fuer-studierende/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "0a9941520df7-002",
+          "page_id": "0a9941520df7",
+          "score": 0.639,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [
+            "You have further questions?"
+          ],
+          "word_count": 96,
+          "text": "Any questions about the admission procedure?\n\nMessage us via the contact form. You can reach us by phone on Mondays and Thursdays from 12:30 to 13:30.\n\n[+43-1-4277-12100](tel:+43-1-4277-12100)\n[To the contact form](/en/contact)\n\nDo you have questions about registering for courses and examinations? Or about grades and the recognition of exams? The StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) are the right place to go.\n\n[To the SSCs](https://www.univie.ac.at/en/studies/students/organisation-of-studies-and-teaching)\n\nWould you like to know more about support services such as STEOP mentoring or writing workshops? The team at the CTL looks forward to answering your questions.\n\n[Email](#)\n[To the CTL website](https://ctl.univie.ac.at/en)"
+        },
+        {
+          "id": "7916c3fc6510-062",
+          "page_id": "7916c3fc6510",
+          "score": 0.6262,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "grade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-069",
+          "page_id": "7916c3fc6510",
+          "score": 0.6174,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "/ - Re-enrolment In order to continue your studies at the University of Vienna, you must pay your tuition fee/Students' Union (ÖH) fee in due time. If you deliberately do not pay the fee (because you do not want to continue your studies) or if you forget to pay the fee, you lose your admission to studies. In case you have paid the fee at a different Austrian university, you have to re-enrol in your studies at the University of Vienna. You can do that until the end of the admission period. Related Links: - [Re-enrolment](/en/tuition-fee/paymentre-enrolment/) - [Payment of the tuition fee/Students’ Union (ÖH) fee](/en/tuition-fee/paymentre-enrolment/) - [Tuition fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - [Continuation of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31960&cHash=051426adf043f8ab058f4e6c4520bb53) - Re-sitting an exam It is possible to re-sit a STEOP exam three times. If your fourth attempt is not successful, your admission to the associated degree programme expires on the day of the exam. You can take exams that are not part of the STEOP four times. The last attempt takes place before an examination committee. If the last attempt is not successful, your admission to the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Introductory and orientation period (STEOP)\nAlmost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n\n[2] Introductory and orientation period (STEOP) — Important Information\nStarting with the winter semester 2022/23, you will be excluded permanently if you do not pass the STEOP. Students who have not passed the STEOP before the winter semester 2022/23 and have not resumed the degree programme by then are excluded from the associated degree programme retroactively.\n\nExamples:\n\n- You have not passed the STEOP in summer semester 2022: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2021/22 (or earlier) and have not resumed your degree programme: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2020/21 and have resumed your studies after one year (as possible in the old legislation) and are currently admitted: You are not affected by the expulsion.\n\n[3] Introductory and orientation period (STEOP) — What is STEOP-Mentoring?\nSTEOP-Mentoring aims to support you during your first semester at the University of Vienna! Small peer-goups led by student STEOP-mentors serve as a voluntary addition to the lectures of the introductory and orientation period (STEOP) and are there to help you in mastering its challenges.\n\n[You find further information (available in German) here.](https://ctl.univie.ac.at/services-zur-qualitaet-von-studien/steop-mentoring/informationen-fuer-studierende/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[4] Deadlines and dates — You have further questions?\nAny questions about the admission procedure?\n\nMessage us via the contact form. You can reach us by phone on Mondays and Thursdays from 12:30 to 13:30.\n\n[+43-1-4277-12100](tel:+43-1-4277-12100)\n[To the contact form](/en/contact)\n\nDo you have questions about registering for courses and examinations? Or about grades and the recognition of exams? The StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) are the right place to go.\n\n[To the SSCs](https://www.univie.ac.at/en/studies/students/organisation-of-studies-and-teaching)\n\nWould you like to know more about support services such as STEOP mentoring or writing workshops? The team at the CTL looks forward to answering your questions.\n\n[Email](#)\n[To the CTL website](https://ctl.univie.ac.at/en)\n\n[5] ABC of terminology — P\ngrade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)\n\n[6] ABC of terminology — R\n/ - Re-enrolment In order to continue your studies at the University of Vienna, you must pay your tuition fee/Students' Union (ÖH) fee in due time. If you deliberately do not pay the fee (because you do not want to continue your studies) or if you forget to pay the fee, you lose your admission to studies. In case you have paid the fee at a different Austrian university, you have to re-enrol in your studies at the University of Vienna. You can do that until the end of the admission period. Related Links: - [Re-enrolment](/en/tuition-fee/paymentre-enrolment/) - [Payment of the tuition fee/Students’ Union (ÖH) fee](/en/tuition-fee/paymentre-enrolment/) - [Tuition fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - [Continuation of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31960&cHash=051426adf043f8ab058f4e6c4520bb53) - Re-sitting an exam It is possible to re-sit a STEOP exam three times. If your fourth attempt is not successful, your admission to the associated degree programme expires on the day of the exam. You can take exams that are not part of the STEOP four times. The last attempt takes place before an examination committee. If the last attempt is not successful, your admission to the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "b573e2ee5141-000",
+          "score": 0.7168
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "heading_path": [
+            "Important Information"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "b573e2ee5141-001",
+          "score": 0.7029
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+          "title": "Introductory and orientation period (STEOP)",
+          "heading_path": [
+            "What is STEOP-Mentoring?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "b573e2ee5141-002",
+          "score": 0.6681
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "heading_path": [
+            "You have further questions?"
+          ],
+          "section": "Entrance exam",
+          "chunk_id": "0a9941520df7-002",
+          "score": 0.639
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "P"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-062",
+          "score": 0.6262
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "R"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-069",
+          "score": 0.6174
+        }
+      },
+      "context_chars": 8117,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Introductory and orientation period (STEOP)\nAlmost all bachelor’s, teacher accreditation and diploma programmes require you to complete an introductory and orientation period (STEOP) during the first semester.\n\nThe aim of the STEOP is to give you an insight into your studies and enable you to assess\n\n- whether the course contents are in line with your personal expectations in the programme, and\n- if you can meet the requirements for the degree programme.\n\nOnly after passing all STEOP examinations, you can attend additional courses and take further examinations. All examination dates are scheduled in such a way that you can continue your studies in the subsequent semester, as soon as you have successfully completed the STEOP.\n\nYou can retake examinations three times. If the fourth examination attempt is not successful, your admission to the associated degree programme expires on the day of the examination. A resumption of this degree programme is not possible at the University of Vienna. You are also permanently excluded from all degree programmes in which this negatively assessed examimination is compulsory according to the curriculum.\n\nYou can find information about your degree programme’s STEOP and the relevant dates in [u:find](https://ufind.univie.ac.at/en/index.html). Alternatively, you can also contact your [studies service center (SSC) or studies service unit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/).\n\n[2] Introductory and orientation period (STEOP) — Important Information\nStarting with the winter semester 2022/23, you will be excluded permanently if you do not pass the STEOP. Students who have not passed the STEOP before the winter semester 2022/23 and have not resumed the degree programme by then are excluded from the associated degree programme retroactively.\n\nExamples:\n\n- You have not passed the STEOP in summer semester 2022: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2021/22 (or earlier) and have not resumed your degree programme: a resumption is only possible for degree programmes, where the four times negatively assessed, examinations are not part of the curriculum.\n- You have not passed the STEOP in the winter semester 2020/21 and have resumed your studies after one year (as possible in the old legislation) and are currently admitted: You are not affected by the expulsion.\n\n[3] Introductory and orientation period (STEOP) — What is STEOP-Mentoring?\nSTEOP-Mentoring aims to support you during your first semester at the University of Vienna! Small peer-goups led by student STEOP-mentors serve as a voluntary addition to the lectures of the introductory and orientation period (STEOP) and are there to help you in mastering its challenges.\n\n[You find further information (available in German) here.](https://ctl.univie.ac.at/services-zur-qualitaet-von-studien/steop-mentoring/informationen-fuer-studierende/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[4] Deadlines and dates — You have further questions?\nAny questions about the admission procedure?\n\nMessage us via the contact form. You can reach us by phone on Mondays and Thursdays from 12:30 to 13:30.\n\n[+43-1-4277-12100](tel:+43-1-4277-12100)\n[To the contact form](/en/contact)\n\nDo you have questions about registering for courses and examinations? Or about grades and the recognition of exams? The StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) are the right place to go.\n\n[To the SSCs](https://www.univie.ac.at/en/studies/students/organisation-of-studies-and-teaching)\n\nWould you like to know more about support services such as STEOP mentoring or writing workshops? The team at the CTL looks forward to answering your questions.\n\n[Email](#)\n[To the CTL website](https://ctl.univie.ac.at/en)\n\n[5] ABC of terminology — P\ngrade in the record of examinations in u:space as well as in your transcript of records. You can re-sit a passed exam once within twelve months (provided that you have not yet completed your degree programme/stage of the degree programme/module). With your new attempt, the previous examination result becomes void and the new grade is entered, even if the second grade is lower than the first. If no courses with continuous assessment are offered in the semester following your first attempt, you can only re-sit the exam in the semester after next at the latest, but not after you have completed the corresponding module, stage of the degree programme or degree programme. You should announce that you would like to re-sit the exam within 6 months. If you do not use this opportunity, you will not be able to repeat the exam at a later point. Related entries: - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - Postgraduate Center The University of Vienna's Postgraduate Center offers the possibility of continuing education and training by means of continuing education programmes and certificate courses. For the participation in a continuing education and training programmes, a tuition fee is charged. Related Links: - [Postgraduate Center](https://www.postgraduatecenter.at/en/) Related entries: - [University continuing education and training programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31320&cHash=55408351546b9c990256e179042cc5cd) - Practical course (course type) Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)\n\n[6] ABC of terminology — R\n/ - Re-enrolment In order to continue your studies at the University of Vienna, you must pay your tuition fee/Students' Union (ÖH) fee in due time. If you deliberately do not pay the fee (because you do not want to continue your studies) or if you forget to pay the fee, you lose your admission to studies. In case you have paid the fee at a different Austrian university, you have to re-enrol in your studies at the University of Vienna. You can do that until the end of the admission period. Related Links: - [Re-enrolment](/en/tuition-fee/paymentre-enrolment/) - [Payment of the tuition fee/Students’ Union (ÖH) fee](/en/tuition-fee/paymentre-enrolment/) - [Tuition fee](/en/tuition-fee/) Related entries: - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31268&cHash=5186d8ac34fa30c4b1270fc725ce2ef7) - [Continuation of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31960&cHash=051426adf043f8ab058f4e6c4520bb53) - Re-sitting an exam It is possible to re-sit a STEOP exam three times. If your fourth attempt is not successful, your admission to the associated degree programme expires on the day of the exam. You can take exams that are not part of the STEOP four times. The last attempt takes place before an examination committee. If the last attempt is not successful, your admission to the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa)\n\nQuestion: Can you explain the STEOP and what happens if I keep failing it?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2180,
+        "completion_tokens": 128,
+        "total_tokens": 2308
+      },
+      "rate_limit_events": [],
+      "raw_response": "The STEOP (Introductory and Orientation Period) is a required period for most bachelor's, teacher accreditation, and diploma programs at the University of Vienna, which gives you insight into your studies and helps you assess if the course contents meet your expectations [1]. If you fail the STEOP, you can retake the examinations three times [1]. If your fourth attempt is not successful, your admission to the associated degree program expires, and you are permanently excluded from all degree programs that require the negatively assessed examination [1][2]. You will not be able to resume the degree program at the University of Vienna [1][2].",
+      "finish_reason": "stop",
+      "latency_ms": 1465.0
+    }
+  },
+  "query_id": "g02:paraphrase:1",
+  "status": "ok",
+  "answer": "The STEOP (Introductory and Orientation Period) is a required period for most bachelor's, teacher accreditation, and diploma programs at the University of Vienna, which gives you insight into your studies and helps you assess if the course contents meet your expectations [1]. If you fail the STEOP, you can retake the examinations three times [1]. If your fourth attempt is not successful, your admission to the associated degree program expires, and you are permanently excluded from all degree programs that require the negatively assessed examination [1][2]. You will not be able to resume the degree program at the University of Vienna [1][2].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+      "title": "Introductory and orientation period (STEOP)",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "b573e2ee5141-000",
+      "score": 0.7168
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/introductory-and-orientation-period-steop/",
+      "title": "Introductory and orientation period (STEOP)",
+      "heading_path": [
+        "Important Information"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "b573e2ee5141-001",
+      "score": 0.7029
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2180,
+    "completion_tokens": 128,
+    "total_tokens": 2308
+  },
+  "total_latency_ms": 1474.1
+}

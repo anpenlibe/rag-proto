@@ -1,0 +1,786 @@
+{
+  "trace_id": "d66d1cb5bd17",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "wanna jump from my current bachelor to a different one... do i have to redo that OSA thing and when does the switch actually kick in?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "wanna jump from my current bachelor to a different one... do i have to redo that OSA thing and when does the switch actually kick in?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "33b149ca0707-004",
+          "page_id": "33b149ca0707",
+          "score": 0.7517,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 203,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-003",
+          "page_id": "33b149ca0707",
+          "score": 0.7467,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 187,
+          "text": "1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "33b149ca0707-000",
+          "page_id": "33b149ca0707",
+          "score": 0.7349,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 54,
+          "text": "You would like to change your bachelor/diploma programme?\n\nYour steps in the change of degree programme depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?"
+        },
+        {
+          "id": "5a4e79a6c5d5-004",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7092,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 204,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7042,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.7005,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6973,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "33b149ca0707-007",
+          "page_id": "33b149ca0707",
+          "score": 0.6971,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 102,
+          "text": "via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results have been announced. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, the application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the [applicable application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "33b149ca0707-006",
+          "page_id": "33b149ca0707",
+          "score": 0.6969,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 230,
+          "text": "Entrance exam procedures only take place once per academic year (before the winter semester). The entrance exam procedure for bachelor and diploma programmes is only valid for the winter and summer semester following the procedure. The successfully completed entrance exam procedure for the bachelor programme in Teacher Education it is valid indefinitely. 1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure. 2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/entrance-exam/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code. Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\". Only then you are registered for the entrance exam procedure. 3. Participate in the [entrance exam](/en/entrance-exam/). 4. An admission to the degree programme is only possible after you have successfully participated in the entrance exam procedure. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results have been announced. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few"
+        },
+        {
+          "id": "5a4e79a6c5d5-003",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.6944,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 151,
+          "text": "1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Starting from the beginning of the admission period, you will be automatically admitted to the additional degree programme within five working days. Check the status of your admission in u:space > Study overview. If you have not been admitted within this timeframe, please contact the Admission Office via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933)."
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.6911,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        },
+        {
+          "id": "33b149ca0707-009",
+          "page_id": "33b149ca0707",
+          "score": 0.6894,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 230,
+          "text": "Entrance exam procedures only take place once per academic year (before the winter semester). The entrance exam procedure for bachelor and diploma programmes is only valid for the winter and summer semester following the procedure. The successfully completed entrance exam procedure for the bachelor programme in Teacher Education it is valid indefinitely. 1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure. 2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in u:space > Studies > Apply for admission and upload the [required documents](/en/entrance-exam/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code. Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\". Only then you are registered for the entrance exam procedure and the admission office can process your application. 3. Participate in the [entrance exam](/en/entrance-exam/). 4. An admission to the degree programme is only possible after you have successfully participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space >"
+        },
+        {
+          "id": "33b149ca0707-001",
+          "page_id": "33b149ca0707",
+          "score": 0.6883,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "How to change your degree programme"
+          ],
+          "word_count": 230,
+          "text": "Use the selection below. There you will find instructions on how to submit your application and complete the admission procedure. [### with compulsory OSA](#c806569) / - List of degree programmes A compulsory OSA is prescribed in the following bachelor programmes: - Astronomy - Comparative Literature - German Philology - Geography - History - Japanology - Mathematics - Oriental Studies - Philosophy - Physics - Romance Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies [### with entrance exam procedure](#c806577) / - List of degree programmes Entrance exam procedures are conducted in the following bachelor/diploma programmes: - Biology - Business Administration - Business Informatics - Chemistry - Computer Science - Economics - Education - English and American Studies - International Business Administration - International Legal Studies - Korean Studies - Law - Mass Media and Communication Science - Mathematical Foundations of Data Science - Nutritional Sciences - Pharmacy - Political Science - Psychology - Social and Cultural Anthropology - Sociology - Teacher Education - Transcultural Communication - Sport and Human Movement Science (sporting aptitude admission test) [### further bachelor/ diploma programmes](#c806593) / - List of degree programmes Neither a compulsory OSA, nor an entrance exam procedure are prescribed in the following bachelor/diploma programmes: - African Studies - Ancient History and Studies in Classical Antiquity - Byzantine Studies and Modern Greek Studies - Catholic"
+        },
+        {
+          "id": "33b149ca0707-010",
+          "page_id": "33b149ca0707",
+          "score": 0.6839,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 160,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "a2d7a0c2877b-000",
+          "page_id": "a2d7a0c2877b",
+          "score": 0.6805,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/",
+          "title": "Change of degree programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 40,
+          "text": "You are currently studying at the University of Vienna and would like to change your degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/change-of-degree-programme/change-of-master-programme/)"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6746,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.6734,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "a2d7a0c2877b-001",
+          "page_id": "a2d7a0c2877b",
+          "score": 0.6728,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/",
+          "title": "Change of degree programme",
+          "section": "Admission",
+          "heading_path": [
+            "General information regarding the change of a degree programme"
+          ],
+          "word_count": 204,
+          "text": "- Number of changes of degree programme: You can change your degree programme as often as you want to, according to the University of Vienna. However, a change of degree programme might impact your family allowance and/or study grant. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions in this regard. Clarify the consequences on a potential residence permit with the Immigration Office (MA 35) or the responsible district commission (\"Bezirkshauptmannschaft\").\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n- Transferring to the University of Vienna from another university: The information regarding the change of degree programmes applies to students admitted at the University of Vienna. Students who wish to transfer to the University of Vienna have to complete the admission procedure. The entry into a higher semester is not possible. After [completing the admission procedure](/en/admission-procedure/) you can apply for potential recognition of your previous examinations at the [StudiesServiceCenter or StudiesServiceUnit](https://ufind.univie.ac.at/en/search.html?filter=all&query=StudienServiceCenter) responsible for your degree programme. Thereby you might shorten the duration of your degree programme."
+        },
+        {
+          "id": "33b149ca0707-013",
+          "page_id": "33b149ca0707",
+          "score": 0.6724,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Special cases when changing a bachelor/diploma programme"
+          ],
+          "word_count": 47,
+          "text": "aptitude admission test, send us a message in which you indicate the desired change via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). The Admission Office will effectuate the change, which you will see after a few days in u:space at Studies > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "479712f83ed4-003",
+          "page_id": "479712f83ed4",
+          "score": 0.672,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 69,
+          "text": "programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study."
+        }
+      ],
+      "latency_ms": 10.7
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "33b149ca0707-004",
+          "page_id": "33b149ca0707",
+          "score": 0.7517,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 203,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-003",
+          "page_id": "33b149ca0707",
+          "score": 0.7467,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 187,
+          "text": "1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "33b149ca0707-000",
+          "page_id": "33b149ca0707",
+          "score": 0.7349,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 54,
+          "text": "You would like to change your bachelor/diploma programme?\n\nYour steps in the change of degree programme depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?"
+        },
+        {
+          "id": "5a4e79a6c5d5-004",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7092,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 204,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7042,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.7005,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6973,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "33b149ca0707-007",
+          "page_id": "33b149ca0707",
+          "score": 0.6971,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 102,
+          "text": "via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results have been announced. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, the application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the [applicable application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "33b149ca0707-006",
+          "page_id": "33b149ca0707",
+          "score": 0.6969,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 230,
+          "text": "Entrance exam procedures only take place once per academic year (before the winter semester). The entrance exam procedure for bachelor and diploma programmes is only valid for the winter and summer semester following the procedure. The successfully completed entrance exam procedure for the bachelor programme in Teacher Education it is valid indefinitely. 1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure. 2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/entrance-exam/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code. Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\". Only then you are registered for the entrance exam procedure. 3. Participate in the [entrance exam](/en/entrance-exam/). 4. An admission to the degree programme is only possible after you have successfully participated in the entrance exam procedure. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results have been announced. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few"
+        },
+        {
+          "id": "5a4e79a6c5d5-003",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.6944,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 151,
+          "text": "1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Starting from the beginning of the admission period, you will be automatically admitted to the additional degree programme within five working days. Check the status of your admission in u:space > Study overview. If you have not been admitted within this timeframe, please contact the Admission Office via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933)."
+        },
+        {
+          "id": "479712f83ed4-002",
+          "page_id": "479712f83ed4",
+          "score": 0.6911,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 230,
+          "text": "Collapse all Open all #### Business Administration ← → International Business Administration You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Computer Science ← → Business Informatics You are admitted to one of these two bachelor's programmes at the University of Vienna and want to change to the other programme or study both? Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study. #### Political Science ← → Sociology ← → Cultural- and Social Anthropology You are admitted to one of these three bachelor's programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which"
+        },
+        {
+          "id": "33b149ca0707-009",
+          "page_id": "33b149ca0707",
+          "score": 0.6894,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 230,
+          "text": "Entrance exam procedures only take place once per academic year (before the winter semester). The entrance exam procedure for bachelor and diploma programmes is only valid for the winter and summer semester following the procedure. The successfully completed entrance exam procedure for the bachelor programme in Teacher Education it is valid indefinitely. 1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure. 2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in u:space > Studies > Apply for admission and upload the [required documents](/en/entrance-exam/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code. Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\". Only then you are registered for the entrance exam procedure and the admission office can process your application. 3. Participate in the [entrance exam](/en/entrance-exam/). 4. An admission to the degree programme is only possible after you have successfully participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space >"
+        },
+        {
+          "id": "33b149ca0707-001",
+          "page_id": "33b149ca0707",
+          "score": 0.6883,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "How to change your degree programme"
+          ],
+          "word_count": 230,
+          "text": "Use the selection below. There you will find instructions on how to submit your application and complete the admission procedure. [### with compulsory OSA](#c806569) / - List of degree programmes A compulsory OSA is prescribed in the following bachelor programmes: - Astronomy - Comparative Literature - German Philology - Geography - History - Japanology - Mathematics - Oriental Studies - Philosophy - Physics - Romance Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies [### with entrance exam procedure](#c806577) / - List of degree programmes Entrance exam procedures are conducted in the following bachelor/diploma programmes: - Biology - Business Administration - Business Informatics - Chemistry - Computer Science - Economics - Education - English and American Studies - International Business Administration - International Legal Studies - Korean Studies - Law - Mass Media and Communication Science - Mathematical Foundations of Data Science - Nutritional Sciences - Pharmacy - Political Science - Psychology - Social and Cultural Anthropology - Sociology - Teacher Education - Transcultural Communication - Sport and Human Movement Science (sporting aptitude admission test) [### further bachelor/ diploma programmes](#c806593) / - List of degree programmes Neither a compulsory OSA, nor an entrance exam procedure are prescribed in the following bachelor/diploma programmes: - African Studies - Ancient History and Studies in Classical Antiquity - Byzantine Studies and Modern Greek Studies - Catholic"
+        },
+        {
+          "id": "33b149ca0707-010",
+          "page_id": "33b149ca0707",
+          "score": 0.6839,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 160,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "a2d7a0c2877b-000",
+          "page_id": "a2d7a0c2877b",
+          "score": 0.6805,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/",
+          "title": "Change of degree programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 40,
+          "text": "You are currently studying at the University of Vienna and would like to change your degree programme? Your steps in the admission procedure and the application period depend on the type of degree programme.\n\n[## Bachelor/diploma programmes](/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/)\n\n[## Master programmes](/en/admission/change-of-degree-programme/change-of-master-programme/)"
+        },
+        {
+          "id": "785f0a10a7d6-002",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6746,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about your return to the University of Vienna"
+          ],
+          "word_count": 44,
+          "text": "universities at the same time. If you have already studied the chosen degree programme at another university, please send your confirmation of withdrawal via the [contact form](/en/contact-form/). - Organising your studies: [Tips and tricks to plan your studies and register for courses and exams](/en/study-organisation/)."
+        },
+        {
+          "id": "3bb75e6f5f78-001",
+          "page_id": "3bb75e6f5f78",
+          "score": 0.6734,
+          "url": "https://studieren.univie.ac.at/en/admission/closing-a-degree-programme/",
+          "title": "Closing a degree programme/Withdrawing from the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "What do I need a confirmation of withdrawal for?"
+          ],
+          "word_count": 109,
+          "text": "- It is a proof that you are no longer admitted to the respective degree programme at the University of Vienna.\n- Different authorities in Austria and abroad may demand a confirmation of withdrawal.\n- If you want to be admitted to the same degree programme at another Austrian university you have to present your confirmation of withdrawal there.\n\nA confirmation of withdrawal is also available if you close only one of multiple degree programmes.\n\nYou do not receive a confirmation of withdrawal if you successfully complete a degree programme at the University of Vienna or complete all supplementary examinations at the University Preparation Programme of the Vienna Universities."
+        },
+        {
+          "id": "a2d7a0c2877b-001",
+          "page_id": "a2d7a0c2877b",
+          "score": 0.6728,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/",
+          "title": "Change of degree programme",
+          "section": "Admission",
+          "heading_path": [
+            "General information regarding the change of a degree programme"
+          ],
+          "word_count": 204,
+          "text": "- Number of changes of degree programme: You can change your degree programme as often as you want to, according to the University of Vienna. However, a change of degree programme might impact your family allowance and/or study grant. Please contact the responsible authority (local Tax Office or Austrian Study Grant Authority) if you have any questions in this regard. Clarify the consequences on a potential residence permit with the Immigration Office (MA 35) or the responsible district commission (\"Bezirkshauptmannschaft\").\n- Minimum academic achievement: Since winter semester 2022/23 onwards you have to achieve [at least 16 ECTS](/en/minimum-number-of-credits/) for each bachelor/diploma programme you are admitted to. If this is not the case, the degree programme will be closed.\n- Transferring to the University of Vienna from another university: The information regarding the change of degree programmes applies to students admitted at the University of Vienna. Students who wish to transfer to the University of Vienna have to complete the admission procedure. The entry into a higher semester is not possible. After [completing the admission procedure](/en/admission-procedure/) you can apply for potential recognition of your previous examinations at the [StudiesServiceCenter or StudiesServiceUnit](https://ufind.univie.ac.at/en/search.html?filter=all&query=StudienServiceCenter) responsible for your degree programme. Thereby you might shorten the duration of your degree programme."
+        },
+        {
+          "id": "33b149ca0707-013",
+          "page_id": "33b149ca0707",
+          "score": 0.6724,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Special cases when changing a bachelor/diploma programme"
+          ],
+          "word_count": 47,
+          "text": "aptitude admission test, send us a message in which you indicate the desired change via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). The Admission Office will effectuate the change, which you will see after a few days in u:space at Studies > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "479712f83ed4-003",
+          "page_id": "479712f83ed4",
+          "score": 0.672,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Changing your degree programme or studying an additional programme within certain groups",
+            "Studiengruppen"
+          ],
+          "word_count": 69,
+          "text": "programmes at the University of Vienna? You can change between these three programmes or study two or all three programmes. Note the [deadline](#c4319) and message us. - Changing your degree programme: Define which programme you want to close and which you want to study in the future in the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936). - Additional degree programme: Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) and tell us which programme you would like to study."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "33b149ca0707-004",
+          "page_id": "33b149ca0707",
+          "score": 0.7517,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 203,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-003",
+          "page_id": "33b149ca0707",
+          "score": 0.7467,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 187,
+          "text": "1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "33b149ca0707-000",
+          "page_id": "33b149ca0707",
+          "score": 0.7349,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 54,
+          "text": "You would like to change your bachelor/diploma programme?\n\nYour steps in the change of degree programme depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?"
+        },
+        {
+          "id": "5a4e79a6c5d5-004",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7092,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 204,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7042,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.7005,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Change of bachelor/diploma programmes — Bachelor programmes with compulsory OSA > Non-EU/EEA secondary-school leaving certificate\n1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.\n\n[2] Change of bachelor/diploma programmes — Bachelor programmes with compulsory OSA > EU/EEA secondary-school leaving certificate and citizenship\n1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March).\n\n[3] Change of bachelor/diploma programmes\nYou would like to change your bachelor/diploma programme?\n\nYour steps in the change of degree programme depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?\n\n[4] Additional bachelor/diploma programme — Bachelor programmes with compulsory OSA > Non-EU/EEA secondary-school leaving certificate\n1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail.\n\n[5] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[6] Change of bachelor/diploma programmes — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-004",
+          "score": 0.7517
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-003",
+          "score": 0.7467
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-000",
+          "score": 0.7349
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "section": "Admission",
+          "chunk_id": "5a4e79a6c5d5-004",
+          "score": 0.7092
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-019",
+          "score": 0.7042
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-017",
+          "score": 0.7005
+        }
+      },
+      "context_chars": 7887,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Change of bachelor/diploma programmes — Bachelor programmes with compulsory OSA > Non-EU/EEA secondary-school leaving certificate\n1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.\n\n[2] Change of bachelor/diploma programmes — Bachelor programmes with compulsory OSA > EU/EEA secondary-school leaving certificate and citizenship\n1. Complete the [Online-Self-Assessment](https://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March).\n\n[3] Change of bachelor/diploma programmes\nYou would like to change your bachelor/diploma programme?\n\nYour steps in the change of degree programme depend on two factors:\n\n1. Does your chosen degree programme have a compulsory Online-Self-Assessment (OSA) or entrance exam procedure?\n2. Is your secondary-school leaving certificate and citizenship from an EU/EEA country or Switzerland, or from a non-EU/EEA country?\n\n[4] Additional bachelor/diploma programme — Bachelor programmes with compulsory OSA > Non-EU/EEA secondary-school leaving certificate\n1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at/) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail.\n\n[5] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[6] Change of bachelor/diploma programmes — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.\n\nQuestion: wanna jump from my current bachelor to a different one... do i have to redo that OSA thing and when does the switch actually kick in?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 1938,
+        "completion_tokens": 138,
+        "total_tokens": 2076
+      },
+      "rate_limit_events": [],
+      "raw_response": "To change your bachelor programme, you need to complete the Online-Self-Assessment (OSA) of the desired degree programme [1][2]. After receiving your OSA code, apply for admission to the new programme within the application period [1][2]. If your new programme has a compulsory OSA and you have a non-EU/EEA secondary-school leaving certificate, the switch will be effective after you receive your admission letter and message the Servicedesk [1]. If you have an EU/EEA secondary-school leaving certificate and citizenship, the admission to the new programme is only in effect starting from the semester start (1 October/1 March) [2].",
+      "finish_reason": "stop",
+      "latency_ms": 1516.5
+    }
+  },
+  "query_id": "g21:weird:0",
+  "status": "ok",
+  "answer": "To change your bachelor programme, you need to complete the Online-Self-Assessment (OSA) of the desired degree programme [1][2]. After receiving your OSA code, apply for admission to the new programme within the application period [1][2]. If your new programme has a compulsory OSA and you have a non-EU/EEA secondary-school leaving certificate, the switch will be effective after you receive your admission letter and message the Servicedesk [1]. If you have an EU/EEA secondary-school leaving certificate and citizenship, the admission to the new programme is only in effect starting from the semester start (1 October/1 March) [2].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+      "title": "Change of bachelor/diploma programmes",
+      "heading_path": [
+        "Bachelor programmes with compulsory OSA",
+        "Non-EU/EEA secondary-school leaving certificate"
+      ],
+      "section": "Admission",
+      "chunk_id": "33b149ca0707-004",
+      "score": 0.7517
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+      "title": "Change of bachelor/diploma programmes",
+      "heading_path": [
+        "Bachelor programmes with compulsory OSA",
+        "EU/EEA secondary-school leaving certificate and citizenship"
+      ],
+      "section": "Admission",
+      "chunk_id": "33b149ca0707-003",
+      "score": 0.7467
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 1938,
+    "completion_tokens": 138,
+    "total_tokens": 2076
+  },
+  "total_latency_ms": 1527.3
+}

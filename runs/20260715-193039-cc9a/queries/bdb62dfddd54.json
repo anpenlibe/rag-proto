@@ -1,0 +1,784 @@
+{
+  "trace_id": "bdb62dfddd54",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "Do I need my secondary-school certificate legalised and translated to apply from outside the EU?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "Do I need my secondary-school certificate legalised and translated to apply from outside the EU?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "27f958b3969a-009",
+          "page_id": "27f958b3969a",
+          "score": 0.8064,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 230,
+          "text": "We only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how"
+        },
+        {
+          "id": "27f958b3969a-000",
+          "page_id": "27f958b3969a",
+          "score": 0.8003,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 70,
+          "text": "You wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)"
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.78,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7754,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.7751,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "27f958b3969a-010",
+          "page_id": "27f958b3969a",
+          "score": 0.7618,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 166,
+          "text": "diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how long is the diplomatic certification valid? A diplomatic certification is valid indefinitely. - I am a non-EU/EEA citizen, but I previously studied in an EU/EEA country/Switzerland or graduated from school there. Do my documents require diplomatic certification? Your citizenship has no influence on whether your documents require diplomatic certification. The deciding factor is the issuing country of your documents. For further information on the required kind of certification, please select your issuing country in the [overview](#c1122165). - My documents have been issued in two languages: in the national language of the issuing country, as well as German/English. Am I required to have an additional translation made? No, the University of Vienna accepts documents issued in two languages, if one of the languages is German or English."
+        },
+        {
+          "id": "313b8c02de9e-005",
+          "page_id": "313b8c02de9e",
+          "score": 0.7539,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I had English lessons in school. Is this a proof of English language proficiency? Having had English lessons in school is not sufficient as proof of language proficiency. A secondary-school leaving certificate with successful graduation exam in the subject English from a school in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, New Zealand or Canada is an accepted proof, if the level of English proficiency is noted as B2 or higher. If the level is not clearly evident in the certificate, a confirmation by the school administration may be demanded. - I have completed my studies in a non-EU/EEA country. Does this count as proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed a degree of at least two years, taught entirely in English, at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - I have a secondary-school leaving certificate from a non-EU/EEA country with the subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom"
+        },
+        {
+          "id": "27f958b3969a-007",
+          "page_id": "27f958b3969a",
+          "score": 0.7454,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "1. Inform yourself in the issuing country which national public authority may issue an apostille, and if there are any requirements.\n2. Have an apostille added to your documents.\n   The apostille can be added on the document itself, on an attached page, or by means of an electronic apostille. Do not detach the apostille! The apostille must attest any signature(s) by the issuing educational institution (directorate, rectorate, or deanship) that the document bears. The signature of the notary or translation agency may not be attested.\n3. Have your documents translated.\n   Your [documents as well as the apostille has to be translated](#c1122153), if they were not issued in German or English.\n4. Apply for admission to a study programme.\n   Scan all pages of your document, including all seals and (if necessary) the translation. After assuring yourself that the scan is legible, combine your documents into a PDF-file. Follow the next steps in the [admission procedure](/en/admission-procedure/).\n\nDocuments issued in certain countries do not need to be diplomatically certified. However, we require an [official translation in German or English](#c1122153), if the documents were not issued in either of these languages.\n\nDocuments issued in an EU/EEA country or Switzerland are exempt from all legalisation requirements."
+        },
+        {
+          "id": "27f958b3969a-001",
+          "page_id": "27f958b3969a",
+          "score": 0.7439,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become certified?"
+          ],
+          "word_count": 230,
+          "text": "Look for the issuing country of your documents in the following section. There you will find out what specific kind of legalisation is required for your documents. / - Countries A to B - Afghanistan: [full diplomatic certification (temporarily deferred)](#c1121830) - Albania: [Apostille](#c1121828) - Algeria: [full diplomatic certification](#c1121827) - Andorra: [Apostille](#c1121828) - Angola: [Apostille](#c1121828) - Antigua and Barbuda: [Apostille](#c1121828) - Argentina: [Apostille](#c1121828) - Armenia: [Apostille](#c1121828) - Australia: [Apostille](#c1121828) - Azerbaijan: [Apostille](#c1121828) - Bahamas: [Apostille](#c1121828) - Bahrain: [Apostille](#c1121828) - Bangladesh: [full diplomatic certification](#c1121827) - Barbados: [Apostille](#c1121828) - Belarus: [Apostille](#c1121828) - Belize: [Apostille](#c1121828) - Benin: [full diplomatic certification](#c1121827) - Bhutan: [full diplomatic certification](#c1121827) - Bolivia: [Apostille](#c1121828) - Bosnia and Herzegovina: [no diplomatic certification](#c1121829) - Botswana: [Apostille](#c1121828) - Brazil: [Apostille](#c1121828) - Brunei Darussalam: [Apostille](#c1121828) - Burkina Faso: [full diplomatic certification](#c1121827) - Burundi: [full diplomatic certification (temporarily deferred)](#c1121830) - Countries C to H - Cabo Verde: [Apostille](#c1121828) - Cambodia: [full diplomatic certification](#c1121827) - Cameroon: [full diplomatic certification](#c1121827) - Canada: [Apostille](#c1121828) - Central African Republic: [full diplomatic certification](#c1121827) - Chad: [full diplomatic certification (temporarily deferred)](#c1121830) - Chile: [Apostille](#c1121828) - China: [Apostille](#c1121828) - In addition to the Apostille, documents from China have to be certified by the [APS of the German embassy in Beijing](https://www.aps.org.cn/internationale-kooperationen/osterreich) (German/Chinese only). - China (Hongkong): [Apostille](#c1121828) - Colombia: [Apostille](#c1121828) - Comoros: [full diplomatic certification (temporarily deferred)](#c1121830) - Congo: [full diplomatic certification (temporarily deferred)](#c1121830) - Congo (Democratic Republic): [full diplomatic certification (temporarily deferred)](#c1121830)"
+        },
+        {
+          "id": "8d4ed91613a3-004",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7428,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application"
+        },
+        {
+          "id": "1944531c4838-006",
+          "page_id": "1944531c4838",
+          "score": 0.7399,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Documents from Pakistan"
+          ],
+          "word_count": 34,
+          "text": "Your documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "313b8c02de9e-001",
+          "page_id": "313b8c02de9e",
+          "score": 0.7382,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "word_count": 230,
+          "text": "- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025))."
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7341,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7339,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7339,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "7916c3fc6510-099",
+          "page_id": "7916c3fc6510",
+          "score": 0.7338,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn translators. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Tuition fee As long as you are studying at the University of Vienna, you have to pay the Student's Union (ÖH) fee and, if applicable, the tuition fee eversy semester in due time. The amount of the tuition fee depends on your nationality. For EU/EEA/CH citizens, the duration of their studies plays also plays a role. Related Links: - [Information about the tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - [Tolerance semesters](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31297&cHash=f0dee5ae0ea77af89fdfedaca07ca13b) - [Residence permit (\"visa\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31902&cHash=7ce64213ce44f86321e3da3c2d4faf36) - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - [Payment period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32002&cHash=50174e9655aa9a11d1bb85ebc71fc50f) - Tutorial Tutors are students of a higher semester and at the same time student assistants who support teachers. For some lectures a tutorial course is offered, which consists of additional sessions to explain relevant subject matters to students. In this case, however, no course instructor is present. - Types of exams In your curriculum, you may find"
+        },
+        {
+          "id": "8d4ed91613a3-002",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7332,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "/ - Afghanistan If you only have a secondary-school leaving certificate from Afghanistan, you cannot be admitted to a bachelor or diploma programme at the University of Vienna. The secondary-school leaving certificate from Afghanistan (12-Grade Graduation Certificate) is not adequate as proof of the general university entrance qualification. The differences to a secondary-school leaving certificate from Austria are too large. Your application for admission will therefore be rejected. --- Exception: If your secondary-school leaving certificate is from Afghanistan and you also have already studied a degree programme you can submit an application for admission to a bachelor or diploma programme. Each application has to be processed individually. - Bangladesh Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - China If you have completed your secondary-school leaving certificate in China and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Gaokao with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and certification by the [APS of the German embassy in Beijing](https://www.aps.org.cn/internationale-kooperationen/osterreich) (German/Chinese only). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - India Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Indonesia If you have completed your secondary-school leaving certificate in"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.7325,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.7298,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "27f958b3969a-005",
+          "page_id": "27f958b3969a",
+          "score": 0.7275,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become certified?"
+          ],
+          "word_count": 121,
+          "text": "- Tunisia: [full diplomatic certification](#c1121827) - Türkiye: [Apostille](#c1121828) - Turkish Republic of Northern Cyprus: [Apostille](#c1121828) - Turkmenistan: [full diplomatic certification](#c1121827) - Tuvalu: [full diplomatic certification](#c1121827) - Uganda: [full diplomatic certification](#c1121827) - Ukraine: [Apostille](#c1121828) - Required starting from the beginning of the application period for the summer semester 2027. - United Arab Emirates: [full diplomatic certification](#c1121827) - United Kingdom of Great Britain and Northern Ireland: [no diplomatic certification](#c1121829) - Uruguay: [Apostille](#c1121828) - USA: [no diplomatic certification](#c1121829) - Uzbekistan: [full diplomatic certification](#c1121827) - Vanuatu: [Apostille](#c1121828) - Vatican City: [full diplomatic certification](#c1121827) - Venezuela: [Apostille](#c1121828) - Vietnam: [full diplomatic certification](#c1121827) - West Bank and Gaza Strip: [full diplomatic certification](#c1121827) - Yemen: [full diplomatic certification](#c1121827) - Zambia: [full diplomatic certification](#c1121827) - Zimbabwe: [full diplomatic certification](#c1121827)"
+        }
+      ],
+      "latency_ms": 7.2
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "27f958b3969a-009",
+          "page_id": "27f958b3969a",
+          "score": 0.8064,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 230,
+          "text": "We only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how"
+        },
+        {
+          "id": "27f958b3969a-000",
+          "page_id": "27f958b3969a",
+          "score": 0.8003,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 70,
+          "text": "You wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)"
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.78,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7754,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.7751,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "27f958b3969a-010",
+          "page_id": "27f958b3969a",
+          "score": 0.7618,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 166,
+          "text": "diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how long is the diplomatic certification valid? A diplomatic certification is valid indefinitely. - I am a non-EU/EEA citizen, but I previously studied in an EU/EEA country/Switzerland or graduated from school there. Do my documents require diplomatic certification? Your citizenship has no influence on whether your documents require diplomatic certification. The deciding factor is the issuing country of your documents. For further information on the required kind of certification, please select your issuing country in the [overview](#c1122165). - My documents have been issued in two languages: in the national language of the issuing country, as well as German/English. Am I required to have an additional translation made? No, the University of Vienna accepts documents issued in two languages, if one of the languages is German or English."
+        },
+        {
+          "id": "313b8c02de9e-005",
+          "page_id": "313b8c02de9e",
+          "score": 0.7539,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I had English lessons in school. Is this a proof of English language proficiency? Having had English lessons in school is not sufficient as proof of language proficiency. A secondary-school leaving certificate with successful graduation exam in the subject English from a school in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, New Zealand or Canada is an accepted proof, if the level of English proficiency is noted as B2 or higher. If the level is not clearly evident in the certificate, a confirmation by the school administration may be demanded. - I have completed my studies in a non-EU/EEA country. Does this count as proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed a degree of at least two years, taught entirely in English, at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - I have a secondary-school leaving certificate from a non-EU/EEA country with the subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom"
+        },
+        {
+          "id": "27f958b3969a-007",
+          "page_id": "27f958b3969a",
+          "score": 0.7454,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "1. Inform yourself in the issuing country which national public authority may issue an apostille, and if there are any requirements.\n2. Have an apostille added to your documents.\n   The apostille can be added on the document itself, on an attached page, or by means of an electronic apostille. Do not detach the apostille! The apostille must attest any signature(s) by the issuing educational institution (directorate, rectorate, or deanship) that the document bears. The signature of the notary or translation agency may not be attested.\n3. Have your documents translated.\n   Your [documents as well as the apostille has to be translated](#c1122153), if they were not issued in German or English.\n4. Apply for admission to a study programme.\n   Scan all pages of your document, including all seals and (if necessary) the translation. After assuring yourself that the scan is legible, combine your documents into a PDF-file. Follow the next steps in the [admission procedure](/en/admission-procedure/).\n\nDocuments issued in certain countries do not need to be diplomatically certified. However, we require an [official translation in German or English](#c1122153), if the documents were not issued in either of these languages.\n\nDocuments issued in an EU/EEA country or Switzerland are exempt from all legalisation requirements."
+        },
+        {
+          "id": "27f958b3969a-001",
+          "page_id": "27f958b3969a",
+          "score": 0.7439,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become certified?"
+          ],
+          "word_count": 230,
+          "text": "Look for the issuing country of your documents in the following section. There you will find out what specific kind of legalisation is required for your documents. / - Countries A to B - Afghanistan: [full diplomatic certification (temporarily deferred)](#c1121830) - Albania: [Apostille](#c1121828) - Algeria: [full diplomatic certification](#c1121827) - Andorra: [Apostille](#c1121828) - Angola: [Apostille](#c1121828) - Antigua and Barbuda: [Apostille](#c1121828) - Argentina: [Apostille](#c1121828) - Armenia: [Apostille](#c1121828) - Australia: [Apostille](#c1121828) - Azerbaijan: [Apostille](#c1121828) - Bahamas: [Apostille](#c1121828) - Bahrain: [Apostille](#c1121828) - Bangladesh: [full diplomatic certification](#c1121827) - Barbados: [Apostille](#c1121828) - Belarus: [Apostille](#c1121828) - Belize: [Apostille](#c1121828) - Benin: [full diplomatic certification](#c1121827) - Bhutan: [full diplomatic certification](#c1121827) - Bolivia: [Apostille](#c1121828) - Bosnia and Herzegovina: [no diplomatic certification](#c1121829) - Botswana: [Apostille](#c1121828) - Brazil: [Apostille](#c1121828) - Brunei Darussalam: [Apostille](#c1121828) - Burkina Faso: [full diplomatic certification](#c1121827) - Burundi: [full diplomatic certification (temporarily deferred)](#c1121830) - Countries C to H - Cabo Verde: [Apostille](#c1121828) - Cambodia: [full diplomatic certification](#c1121827) - Cameroon: [full diplomatic certification](#c1121827) - Canada: [Apostille](#c1121828) - Central African Republic: [full diplomatic certification](#c1121827) - Chad: [full diplomatic certification (temporarily deferred)](#c1121830) - Chile: [Apostille](#c1121828) - China: [Apostille](#c1121828) - In addition to the Apostille, documents from China have to be certified by the [APS of the German embassy in Beijing](https://www.aps.org.cn/internationale-kooperationen/osterreich) (German/Chinese only). - China (Hongkong): [Apostille](#c1121828) - Colombia: [Apostille](#c1121828) - Comoros: [full diplomatic certification (temporarily deferred)](#c1121830) - Congo: [full diplomatic certification (temporarily deferred)](#c1121830) - Congo (Democratic Republic): [full diplomatic certification (temporarily deferred)](#c1121830)"
+        },
+        {
+          "id": "8d4ed91613a3-004",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7428,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "you have completed your secondary-school leaving certificate in Colombia and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Examen de Estado para Ingreso a la Educación Superior with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Republic of Korea If you have completed your secondary-school leaving certificate in the Republic of Korea and apply for a bachelor/diploma programme, you require a proof of your university entrance exam College Scholastic Ability Test with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Nigeria The Austrian embassy or the Austrian consulate require a proof of the University of Vienna, before the over-legalisation can be issued? Proceed as follows: 1. Let your documents be legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application"
+        },
+        {
+          "id": "1944531c4838-006",
+          "page_id": "1944531c4838",
+          "score": 0.7399,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Documents from Pakistan"
+          ],
+          "word_count": 34,
+          "text": "Your documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "313b8c02de9e-001",
+          "page_id": "313b8c02de9e",
+          "score": 0.7382,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "word_count": 230,
+          "text": "- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025))."
+        },
+        {
+          "id": "8d4ed91613a3-005",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7341,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "legalised by the ministry of education. 2. Let the documents that were legalised by the ministry of education be legalised by the ministry of foreign affairs. 3. Apply for admission to the degree programme with these documents within the [application period](/en/admission/application-and-admission-periods/). You will receive an automatic confirmation, that you have applied for admission at the University of Vienna via e-mail. 4. Provide this confirmation at the Austrian representation and let your documents be over-legalised. This automatic confirmation is accepted as proof. 5. A few weeks after your application you will receive an amendment request with a deadline for submission (as the over-legalisaiton by the Austrian representation was missing in your original submission). 6. Submit the documents with the full diplomatic certification within the deadline. 7. Wait for your admission letter. - Pakistan Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Türkiye If you have completed your secondary-school leaving certificate in Türkiye and apply for a bachelor/diploma programme, you require a proof of your university entrance exam ÖSYS (admission to bachelor/diploma programmes, applies to Turkish citizens) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) or university entrance exam YÖS (admission to bachelor/diploma programmes, applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7339,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7339,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "7916c3fc6510-099",
+          "page_id": "7916c3fc6510",
+          "score": 0.7338,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn translators. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Tuition fee As long as you are studying at the University of Vienna, you have to pay the Student's Union (ÖH) fee and, if applicable, the tuition fee eversy semester in due time. The amount of the tuition fee depends on your nationality. For EU/EEA/CH citizens, the duration of their studies plays also plays a role. Related Links: - [Information about the tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - [Tolerance semesters](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31297&cHash=f0dee5ae0ea77af89fdfedaca07ca13b) - [Residence permit (\"visa\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31902&cHash=7ce64213ce44f86321e3da3c2d4faf36) - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - [Payment period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32002&cHash=50174e9655aa9a11d1bb85ebc71fc50f) - Tutorial Tutors are students of a higher semester and at the same time student assistants who support teachers. For some lectures a tutorial course is offered, which consists of additional sessions to explain relevant subject matters to students. In this case, however, no course instructor is present. - Types of exams In your curriculum, you may find"
+        },
+        {
+          "id": "8d4ed91613a3-002",
+          "page_id": "8d4ed91613a3",
+          "score": 0.7332,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "/ - Afghanistan If you only have a secondary-school leaving certificate from Afghanistan, you cannot be admitted to a bachelor or diploma programme at the University of Vienna. The secondary-school leaving certificate from Afghanistan (12-Grade Graduation Certificate) is not adequate as proof of the general university entrance qualification. The differences to a secondary-school leaving certificate from Austria are too large. Your application for admission will therefore be rejected. --- Exception: If your secondary-school leaving certificate is from Afghanistan and you also have already studied a degree programme you can submit an application for admission to a bachelor or diploma programme. Each application has to be processed individually. - Bangladesh Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - China If you have completed your secondary-school leaving certificate in China and apply for a bachelor/diploma programme, you require a proof of your university entrance exam Gaokao with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and certification by the [APS of the German embassy in Beijing](https://www.aps.org.cn/internationale-kooperationen/osterreich) (German/Chinese only). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - India Please read the [information about the required CGPA and competence check](/en/admission/info-third-country-students/vfs-global/). - Indonesia If you have completed your secondary-school leaving certificate in"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.7325,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.7298,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "27f958b3969a-005",
+          "page_id": "27f958b3969a",
+          "score": 0.7275,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become certified?"
+          ],
+          "word_count": 121,
+          "text": "- Tunisia: [full diplomatic certification](#c1121827) - Türkiye: [Apostille](#c1121828) - Turkish Republic of Northern Cyprus: [Apostille](#c1121828) - Turkmenistan: [full diplomatic certification](#c1121827) - Tuvalu: [full diplomatic certification](#c1121827) - Uganda: [full diplomatic certification](#c1121827) - Ukraine: [Apostille](#c1121828) - Required starting from the beginning of the application period for the summer semester 2027. - United Arab Emirates: [full diplomatic certification](#c1121827) - United Kingdom of Great Britain and Northern Ireland: [no diplomatic certification](#c1121829) - Uruguay: [Apostille](#c1121828) - USA: [no diplomatic certification](#c1121829) - Uzbekistan: [full diplomatic certification](#c1121827) - Vanuatu: [Apostille](#c1121828) - Vatican City: [full diplomatic certification](#c1121827) - Venezuela: [Apostille](#c1121828) - Vietnam: [full diplomatic certification](#c1121827) - West Bank and Gaza Strip: [full diplomatic certification](#c1121827) - Yemen: [full diplomatic certification](#c1121827) - Zambia: [full diplomatic certification](#c1121827) - Zimbabwe: [full diplomatic certification](#c1121827)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "27f958b3969a-009",
+          "page_id": "27f958b3969a",
+          "score": 0.8064,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 230,
+          "text": "We only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how"
+        },
+        {
+          "id": "27f958b3969a-000",
+          "page_id": "27f958b3969a",
+          "score": 0.8003,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 70,
+          "text": "You wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)"
+        },
+        {
+          "id": "5a4e79a6c5d5-014",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.78,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 182,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme."
+        },
+        {
+          "id": "33b149ca0707-019",
+          "page_id": "33b149ca0707",
+          "score": 0.7754,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 173,
+          "text": "/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme."
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.7751,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "27f958b3969a-010",
+          "page_id": "27f958b3969a",
+          "score": 0.7618,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "section": "Admission",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "word_count": 166,
+          "text": "diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how long is the diplomatic certification valid? A diplomatic certification is valid indefinitely. - I am a non-EU/EEA citizen, but I previously studied in an EU/EEA country/Switzerland or graduated from school there. Do my documents require diplomatic certification? Your citizenship has no influence on whether your documents require diplomatic certification. The deciding factor is the issuing country of your documents. For further information on the required kind of certification, please select your issuing country in the [overview](#c1122165). - My documents have been issued in two languages: in the national language of the issuing country, as well as German/English. Am I required to have an additional translation made? No, the University of Vienna accepts documents issued in two languages, if one of the languages is German or English."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Legalisation and translation — How do my documents become translated?\nWe only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how\n\n[2] Legalisation and translation\nYou wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)\n\n[3] Additional bachelor/diploma programme — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme.\n\n[4] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[5] ABC of terminology — L\nLegalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)\n\n[6] Legalisation and translation — How do my documents become translated?\ndiplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how long is the diplomatic certification valid? A diplomatic certification is valid indefinitely. - I am a non-EU/EEA citizen, but I previously studied in an EU/EEA country/Switzerland or graduated from school there. Do my documents require diplomatic certification? Your citizenship has no influence on whether your documents require diplomatic certification. The deciding factor is the issuing country of your documents. For further information on the required kind of certification, please select your issuing country in the [overview](#c1122165). - My documents have been issued in two languages: in the national language of the issuing country, as well as German/English. Am I required to have an additional translation made? No, the University of Vienna accepts documents issued in two languages, if one of the languages is German or English.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "section": "Admission",
+          "chunk_id": "27f958b3969a-009",
+          "score": 0.8064
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "27f958b3969a-000",
+          "score": 0.8003
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "5a4e79a6c5d5-014",
+          "score": 0.78
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-019",
+          "score": 0.7754
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "L"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-048",
+          "score": 0.7751
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+          "title": "Legalisation and translation",
+          "heading_path": [
+            "How do my documents become translated?"
+          ],
+          "section": "Admission",
+          "chunk_id": "27f958b3969a-010",
+          "score": 0.7618
+        }
+      },
+      "context_chars": 7463,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Legalisation and translation — How do my documents become translated?\nWe only accept documents that were issued in German or English. If your documents were issued in a different language, a translation is required. Please regard the following terms: - If full diplomatic certification is required, your documents have to be legalised first. Only then they may be translated including all stamps, seals, and certification notes. - An apostille must also be translated. This means that the apostille has to be affixed to the original document first. Afterwards it can be translated. - The documents must be translated by official sworn and court certified translators. - The translation must be inseparably attached to the original document. Do not detach the documents (not even when scanning them!). Else the translation will be void. # FAQ / - Which documents require diplomatic certification? We require diplomatic certification of all documents that attest your prior education. - Bachelor/diploma programmes: All pages of your secondary school leaving certificate and, if applicable, transcripts of records/diplomas (if you have studied at a university before). - Master programmes: Your higher education degree certificate, relevant transcripts of records and/or the diploma supplement. - My documents have not been diplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how\n\n[2] Legalisation and translation\nYou wish to apply for admission and your documents were issued in a non-EU/EEA country? Please have them translated after they were diplomatically certified (i.e. legalised) first.\n\nYour documents were issued in an EU/EEA country or Switzerland? Such documents need only [be translated](#c1122153), while legalisation is not required.\n\nThere are four possibilities:\n\n- [Full diplomatic certification](#c1121827)\n- [Apostille](#c1121828)\n- [Diplomatic certification is not required](#c1121829)\n- [Diplomatic certification is temporarily deferred](#c1121830)\n\n[3] Additional bachelor/diploma programme — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I be admitted to an additional degree programme?\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your admission to an additional degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The admission to the additional degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the admission to the additional degree programme.\n\n[4] Change of bachelor/diploma programmes — FAQ\n/\n\n- My secondary-school leaving certificate is from an EU/EEA country, but I have citizenship of a non-EU/EEA country. How can I change my degree programme\n\n  Submit your application for admission within the application period for non-EU/EEA citizens. Follow the steps for changing your degree programme with secondary-school leaving certificate and citizenship from an EU/EEA country. In this way, your change of degree programme can be conducted earlier and faster – and you can start your new degree programme in a less stressful way.\n\n  You can prove that you belong to a group of persons according to the [Decree on Groups of Persons](/en/non-eueea-nationals-with-equivalent-status/)? If this is the case, you can also submit your application within the application period for EU/EEA citizens. Submit the proof of belonging to a group of persons. The change of degree programme will take longer, as your application must be processed individually, and you have to wait for your admission letter. With this letter you will also receive the info you need to complete the change of degree programme.\n\n[5] ABC of terminology — L\nLegalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)\n\n[6] Legalisation and translation — How do my documents become translated?\ndiplomatically certified yet. Can I still apply for admission? No, as you may only apply once all documents have been diplomatically certified and translated, as required. If your application is incomplete, it may prolong its lead time. - For how long is the diplomatic certification valid? A diplomatic certification is valid indefinitely. - I am a non-EU/EEA citizen, but I previously studied in an EU/EEA country/Switzerland or graduated from school there. Do my documents require diplomatic certification? Your citizenship has no influence on whether your documents require diplomatic certification. The deciding factor is the issuing country of your documents. For further information on the required kind of certification, please select your issuing country in the [overview](#c1122165). - My documents have been issued in two languages: in the national language of the issuing country, as well as German/English. Am I required to have an additional translation made? No, the University of Vienna accepts documents issued in two languages, if one of the languages is German or English.\n\nQuestion: Do I need my secondary-school certificate legalised and translated to apply from outside the EU?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 1828,
+        "completion_tokens": 48,
+        "total_tokens": 1876
+      },
+      "rate_limit_events": [],
+      "raw_response": "Yes, if your secondary-school leaving certificate was issued in a non-EU/EEA country, it needs to be legalised [1][2][5] and translated [1][2][6] to apply for admission.",
+      "finish_reason": "stop",
+      "latency_ms": 899.7
+    }
+  },
+  "query_id": "g22:paraphrase:2",
+  "status": "ok",
+  "answer": "Yes, if your secondary-school leaving certificate was issued in a non-EU/EEA country, it needs to be legalised [1][2][5] and translated [1][2][6] to apply for admission.",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+      "title": "Legalisation and translation",
+      "heading_path": [
+        "How do my documents become translated?"
+      ],
+      "section": "Admission",
+      "chunk_id": "27f958b3969a-009",
+      "score": 0.8064
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+      "title": "Legalisation and translation",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "27f958b3969a-000",
+      "score": 0.8003
+    },
+    {
+      "n": 5,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "L"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-048",
+      "score": 0.7751
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/legalisation/",
+      "title": "Legalisation and translation",
+      "heading_path": [
+        "How do my documents become translated?"
+      ],
+      "section": "Admission",
+      "chunk_id": "27f958b3969a-010",
+      "score": 0.7618
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 1828,
+    "completion_tokens": 48,
+    "total_tokens": 1876
+  },
+  "total_latency_ms": 907.0
+}

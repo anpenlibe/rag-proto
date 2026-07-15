@@ -1,0 +1,707 @@
+{
+  "trace_id": "2c69388beee0",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "For admission requiring English B2, what test results are recognised?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "For admission requiring English B2, what test results are recognised?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "313b8c02de9e-002",
+          "page_id": "313b8c02de9e",
+          "score": 0.7698,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 159,
+          "text": "- TOEFL: IBT (internet-based): 94 points or higher\n- IELTS Academic: Overall Band Score: 6.5 points\n- Cambridge English First Certificate (FCE): result level B2\n- Cambridge Certificate in Advanced English (CAE): result level B2\n- Language Competency Examination at level B2 by a university language centre. The language centre has to be located at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese certificates may not be older than three years at the time of application.\n\nAny of the above mentioned certificates at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\nA proof of English language proficiency at level C1 is required for admission to the master programme in Anglophone Literatures and Cultures, the master programme in English Language and Linguistics and English (Teaching Subject) in the master programme Teacher Education."
+        },
+        {
+          "id": "313b8c02de9e-001",
+          "page_id": "313b8c02de9e",
+          "score": 0.7484,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "word_count": 230,
+          "text": "- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025))."
+        },
+        {
+          "id": "313b8c02de9e-000",
+          "page_id": "313b8c02de9e",
+          "score": 0.7395,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 110,
+          "text": "You must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)"
+        },
+        {
+          "id": "b37d157fc3c4-003",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7367,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "word_count": 51,
+          "text": "[English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Research in Economics and Finance](/en/degree-programmes/master-programmes/research-in-economics-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Science-Technology-Society](/en/degree-programmes/master-programmes/science-technology-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Sinophone Societies and Cultures](/en/degree-programmes/master-programmes/sinophone-societies-and-cultures-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) & Chinese (proof by previous study or HSK 5 or TOCFL Band B Level 4) |"
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.7336,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "313b8c02de9e-004",
+          "page_id": "313b8c02de9e",
+          "score": 0.724,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 227,
+          "text": "- Degree diploma and transcript of records/diploma supplement\n\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- Degree diploma and transcript of records/diploma supplement\n  - of a completed degree programme,\n  - with English language specific courses,\n  - to the extent of at least 36 ECTS.\n\nThese proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 115 points or higher\n- IELTS Academic: Overall Band Score: 8 or higher\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\n- [Universities Act 2002 (UG), especially §§ 63, 64](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- Decree: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/02_pdf/20250205-13.pdf) (05.02.2025)\n- For applications for admission until winter semester 2024/25 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_30.pdf) (17.12.2021)\n- For applications for admission for the summer semester 2025 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2024_2025/2024_2025_18.pdf) (23.10.2024)"
+        },
+        {
+          "id": "313b8c02de9e-005",
+          "page_id": "313b8c02de9e",
+          "score": 0.7174,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I had English lessons in school. Is this a proof of English language proficiency? Having had English lessons in school is not sufficient as proof of language proficiency. A secondary-school leaving certificate with successful graduation exam in the subject English from a school in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, New Zealand or Canada is an accepted proof, if the level of English proficiency is noted as B2 or higher. If the level is not clearly evident in the certificate, a confirmation by the school administration may be demanded. - I have completed my studies in a non-EU/EEA country. Does this count as proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed a degree of at least two years, taught entirely in English, at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - I have a secondary-school leaving certificate from a non-EU/EEA country with the subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom"
+        },
+        {
+          "id": "518a957ec376-000",
+          "page_id": "518a957ec376",
+          "score": 0.7169,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Apart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the"
+        },
+        {
+          "id": "a8cc2bd99f51-000",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.7155,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 167,
+          "text": "[Entrance exam procedure](/en/)\n\n# Test details: Test literature and sample exercises\n\nWhat do I need to study for the test? How is the test structured? On this page you'll find information about the test literature and sample exercises. This will help you get ready for the written test!\n\nPlease note:\n\n- The tests for some degree programmes take place at the same time.\n- The test literature is only valid for the academic year 2026/27.\n\n[Here you'll find an overview of all test dates.](/en/deadlines-and-dates)\n\n©\nUniversität Wien\n\nPrevious\n\n©\n\nNext\n\nCollapse all\n\nOpen all\n\n- [Biology](#c6372)\n- [Business Administration](#c3421)\n- [Business Informatics](#c6835)\n- [Chemistry](#c6828)\n- [Computer Science](#c6835)\n- [Economics](#c3421)\n- [Education](#c3426)\n- [English and American Studies](#c6829)\n- [International Business Administration](#c3421)\n- [International Legal Studies](#c6836)\n- [Korean Studies](#c6838)\n- [Law (diploma programme)](#c6827)\n- [Mass Media and Communication Science](#c6830)\n- [Mathematical Foundations of Data Science (English)](#c6839)\n- [Nutritional Sciences](#c6834)\n- [Pharmacy](#c6834)\n- [Political Science](#c6837)\n- [Psychology](#c6833)\n- [Social and Cultural Anthropology](#c6837)\n- [Sociology](#c6837)\n- [Teacher Education](#c6840)\n- [Transcultural Communication](#c6826)"
+        },
+        {
+          "id": "b37d157fc3c4-006",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7121,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Multilingual Master Programmes"
+          ],
+          "word_count": 230,
+          "text": "und historische Sprachwissenschaft)](/en/degree-programmes/master-programmes/indo-european-studies-master/) | [German](/en/admission/german-language-proficiency/) & indo-European language (proof by previous study) | | [Interdisciplinary East European Studies (Interdisziplinäre Osteuropastudien)](/en/degree-programmes/master-programmes/interdisciplinary-east-european-studies-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [International Business Administration (Internationale Betriebswirtschaft)](/en/degree-programmes/master-programmes/international-business-administration-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [International Legal Studies (Internationale Rechtswissenschaften)](/en/degree-programmes/master-programmes/international-legal-studies-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Japanology (Japanologie)](/en/degree-programmes/master-programmes/japanology-master/) | [German](/en/admission/german-language-proficiency/) & Japanese (proof by previous study or JLPT N2 [=B2.1. - Japanese language proficiency test]) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Jewish Studies (Judaistik)](/en/degree-programmes/master-programmes/jewish-studies-master/) | [German](/en/admission/german-language-proficiency/) & Aramaic, Hebrew (proof by previous study) | | [Koreanology (Koreanologie)](/en/degree-programmes/master-programmes/koreanology-master/) | [German](/en/admission/german-language-proficiency/) & Korean (proof by previous study or certificate at level B2 [Topik 4]) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Languages and Cultures of South Asia (Sprachen und Kulturen Südasiens)](/en/degree-programmes/master-programmes/languages-and-cultures-of-south-asia-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Philosophy](/en/degree-programmes/master-programmes/philosophy-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Physical Geography: Environmental Dynamics and Sustainability](/en/degree-programmes/master-programmes/physical-geography-environmental-dynamics-and-sustainability-master/) | [German A2](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Religious Education (Religionspädagogik)](/en/degree-programmes/master-programmes/religious-education-master/) | [German](/en/admission/german-language-proficiency/) & New Testament Greek (proof by previous study) | | [Romance Studies (Romanistik)](/en/degree-programmes/master-programmes/romance-studies-master/) | [German](/en/admission/german-language-proficiency/) & French, Italian, Portuguese, Romanian or Spanish (proof by previous study) | | [Scandinavian Studies (Skandinavistik)](/en/degree-programmes/master-programmes/scandinavian-studies-master/) | [German](/en/admission/german-language-proficiency/) & Scandinavian language(s) (Danish, Faroese, Icelandic, Norwegian, Swedish) (proof by previous study) | | [Slavonic Studies (Slawistik)](/en/degree-programmes/master-programmes/slavonic-studies-master/) | [German](/en/admission/german-language-proficiency/) & Bosnian/Croatian/Serbian, Czech, Bulgarian, Polish, Russian, Slovak,"
+        },
+        {
+          "id": "45310905df19-007",
+          "page_id": "45310905df19",
+          "score": 0.7101,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "English master programmes"
+          ],
+          "word_count": 226,
+          "text": "/\n\n- List of degree programmes\n\n  - [Anglophone Literatures and Cultures](/en/admission/master-programmes/anglophone-literatures-and-cultures/)\n  - [Applied Economics](/en/admission/master-programmes/applied-economics-new/) (with AV)\n  - [Arabic Linguistics](/en/admission/master-programmes/arabic-linguistics/) (with AV)\n  - [Astronomy](/en/admission/master-programmes/astronomy/)\n  - [Banking and Finance](/en/admission/master-programmes/banking-and-finance/) (with QZB)\n  - [Botany](/en/admission/master-programmes/botany/)\n  - [Business Analytics](/en/admission/master-programmes/business-analytics/) (with AV)\n  - [Cognition, Behavior and Neurobiology (CoBeNe Master)](/en/admission/master-programmes/cognition-behavior-and-neurobiology-cobene-master/) (with QZB)\n  - [Communication Science](/en/admission/master-programmes/communication-science/) (with AV)\n  - [Computational Science](/en/admission/master-programmes/computational-science/) (with QZB)\n  - [Computer Science](/en/admission/master-programmes/computer-science/) (with AV)\n  - [Cultural Differences and Transnational Processes (CREOLE)](/zulassung/masterstudien/cultural-differences-and-transnational-processes-creole/)\n  - [Data Science](/en/admission/master-programmes/data-science/) (with AV)\n  - [Drug Discovery and Development](/en/admission/master-programmes/drug-discovery-and-development/) (with AV)\n  - [East Asian Economy and Society](/en/admission/master-programmes/east-asian-economy-and-society/) (with AV)\n  - [Ecology and Ecosystems](/zulassung/masterstudien/ecology-and-ecosystems/)\n  - [English Language and Linguistics](/zulassung/masterstudien/english-language-and-linguistics/)\n  - [Environmental Systems: Processes – Pollution – Solutions](/en/admission/master-programmes/environmental-systems-processes-pollution-solutions/) (with AV)\n  - [European Master in Health and Physical Activity](/en/admission/master-programmes/european-master-in-health-and-physical-activity/)\n  - [Evolutionary Genomics and Systems Biology](/en/admission/master-programmes/evolutionary-genomics-and-systems-biology/) (with AV)\n  - [Global Demography](/en/admission/master-programmes/global-demography/) (with AV)\n  - [Governing Socio-Ecological Transformations](/en/admission/master-programmes/governing-socio-ecological-transformations/) (with AV)\n  - [Green Chemistry (admission at partner university)](https://www.tuwien.at/en/studies/studies/master-programmes/chemistry/selection-procedure)\n  - [Mathematics](/zulassung/masterstudien/mathematik/)\n  - [Media Informatics](/en/admission/master-programmes/media-informatics/) (with AV)\n  - [Meteorology and Climate Science](/en/admission/master-programmes/meteorology/)\n  - [Microbiome Science](/en/admission/master-programmes/microbiome-science/) (with AV)\n  - [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/admission/master-programmes/middle-european-interdisciplinary-masters-programme-in-cognitive-science-meicogsci/) (with AV)\n  - [Molecular Biology](/en/admission/master-programmes/molecular-biology-en/) (with QZB)\n  - [Molecular Precision Medicine (admission at partner university)](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/)\n  - [Multilingual Technologies (admission at partner university)](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html)\n  - [Neuroscience](/en/admission/master-programmes/neuroscience/) (with AV)\n  - [Philosophy and Economics](/en/admission/master-programmes/philosophy-and-economics/) (with AV)\n  - [Physics](/en/admission/master-programmes/physics/)\n  - [Religion in Europe](/en/admission/master-programmes/religion-in-europe/) (with AV)\n  - [Research in Economics and Finance](/en/admission/master-programmes/research-in-economics-and-finance/) (with AV)\n  - [Science-Technology-Society](/en/admission/master-programmes/science-technology-society/) (with AV)\n  - [Sinophone Societies and Cultures](/en/admission/master-programmes/sinophone-societies-and-cultures/) (with QZB)"
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.7083,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "2b99bbd8b3f0-003",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7068,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Is proof of German language proficiency required?"
+          ],
+          "word_count": 103,
+          "text": "All bachelor/diploma programmes as well as master programmes instructed in German require proof of [German language proficiency at level A2](/en/admission/german-language-proficiency/german-language-proficiency-a2/) at the time of application. Without such certification you cannot apply for admission.\n\nTo be admitted to the degree programme you need a proof of [German language proficiency at level C1](/en/admission/german-language-proficiency/german-language-proficiency-c1/). If you do not possess such a proof, the supplementary examination in German will be prescribed in your admission letter.\n\nWith this admission letter, you can be admitted as a non-degree student and attend a German course at the [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en/vienna) for up to four semesters."
+        },
+        {
+          "id": "1863348578bf-003",
+          "page_id": "1863348578bf",
+          "score": 0.7037,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- ### Economics and Law\n\n  - [Business Administration](/en/business-administration)\n  - [Economics](/en/economics)\n  - [International Business Administration](/en/international-business-administration)\n  - [International Legal Studies](/en/international-legal-studies)\n  - [Law](/en/law) (diploma programme)\n- ### STEM\n\n  - [Biology](/en/biology)\n  - [Business Informatics](/en/business-informatics)\n  - [Chemistry](/en/chemistry)\n  - [Computer Science](/en/computer-science)\n  - [Mathematical Foundations of Data Science](/en/mathematical-foundations-of-data-science) (English)\n- ### Health, Psychology and Sport\n\n  - [Nutritional Sciences](/en/nutritional-sciences)\n  - [Pharmacy](/en/pharmacy)\n  - [Psychology](/en/psychology)\n\n  A [sporting aptitude admission test](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/zulassungspruefung/) (website only available in German) is required for the bachelor's programme in [Sport and Human Movement Science](https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/).\n- ### History, Society and Culture\n\n  - [Mass Media and Communication Science](/en/mass-media-and-communication-science)\n  - [Political Science](/en/political-science)\n  - [Social and Cultural Anthropology](/en/social-and-cultural-anthropology)\n  - [Sociology](/en/sociology)\n- ### Education, Philosophy and Religion\n\n  - [Teacher Education](/en/teacher-education)\n  - [Education](/en/education)\n- ### Languages\n\n  - [English and American Studies](/en/english-and-american-studies)\n  - [Korean Studies](/en/korean-studies)\n  - [Transcultural Communication](/en/transcultural-communication)\n\nStart your virtual journey through a bachelor's programme at the University of Vienna with uni:check and find out whether studying is the right choice for you.\n\n[Start the uni:check!](https://unicheck.univie.ac.at/en/)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\nVisit us at education fairs like uniorientiert or BeSt and talk to students and staff from various degree programmes!\n\n[Upcoming dates](https://studieren.univie.ac.at/en/degree-programmes/education-fairs/)\n\nPrevious\n\n©\n\nNext\n\nGet to know the main topics covered in the programme and find out whether it meets your expectations.\n\n[Try out the OSAs!](https://self-assessment.univie.ac.at/en/)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "1c320dc7aeb6-000",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.7016,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 142,
+          "text": "[Entrance exam procedure](/en/)\n\n# German language proficiency for bachelor's and diploma programmes with entrance exam procedure\n\nYou need German language proficiency for all bachelor's and diploma programmes. The only exception is Mathematical Foundations of Data Science (because it is instructed in English).\n\n- When you apply, you must provide a proof of German language proficiency at level A2.\n- You decide for yourself whether your level of German is sufficient for the written test. Dictionaries are not allowed during the test.\n- To be admitted to the degree programme, you need level C1. To reach this level, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU).\n\nFind out everything you need to know about the recognised German language certificates and the VWU on this page.\n\n©\n[Translate to English:] derknopfdruecker.com\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "313b8c02de9e-003",
+          "page_id": "313b8c02de9e",
+          "score": 0.7014,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 191,
+          "text": "- Degree diploma and transcript of records/diploma supplement\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- English as first language ([see FAQ](#c805025)).\n- Proof of erudite language: secondary-school leaving certificate, if the certificate was awarded at an institution\n  - with English as the language of education\n  - in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- These proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 110 points or higher\n- IELTS Academic: Overall Band Score: 8 (at least 7.5 per component)\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\nA proof of English language proficiency at level C2 is required for the master programme in Translation, if one of the working languages is English."
+        },
+        {
+          "id": "b37d157fc3c4-001",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7014,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "word_count": 230,
+          "text": "The following master programmes are taught completely in English. | Degree Programme | Required Qualification | | --- | --- | | [Anglophone Literatures and Cultures](/en/degree-programmes/master-programmes/anglophone-literatures-and-cultures-master/) | [English C1 for programmes at the Department of English](/en/admission/english-language-proficiency/#c805011) (admission requirement) | | [Applied Economics](/en/degree-programmes/master-programmes/applied-economics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Arabic Linguistics](/en/degree-programmes/master-programmes/arabic-linguistics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) & [Arabic B2](/en/degree-programmes/master-programmes/arabic-linguistics-master/#c1173677) (admission requirement) | | [Astronomy](/en/degree-programmes/master-programmes/astronomy-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Banking and Finance](/en/degree-programmes/master-programmes/banking-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Botany (Botanik)](/en/degree-programmes/master-programmes/botany-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Business Analytics](/en/degree-programmes/master-programmes/business-analytics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Cognition, Behaviour and Neurobiology](/en/degree-programmes/master-programmes/cognition-behavior-and-neurobiology-master/#c232773) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Communication Science](/en/degree-programmes/master-programmes/communication-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Computational Science](/en/degree-programmes/master-programmes/computational-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Computer Science (Informatik)](/en/degree-programmes/master-programmes/computer-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Cultural Differences and Transnational Processes (CREOLE)](/en/degree-programmes/master-programmes/cultural-differences-and-transnational-processes-creole-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Data Science](/en/degree-programmes/master-programmes/data-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Drug Discovery and Development](/en/degree-programmes/master-programmes/drug-discovery-and-development-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [East Asian Economy and Society](/en/degree-programmes/master-programmes/east-asian-economy-and-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Ecology and Ecosystems](/en/degree-programmes/master-programmes/ecology-and-ecosystems-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [English Language and Linguistics](/en/degree-programmes/master-programmes/english-language-and-linguistics-master/) | [English C1 for programmes at the Department of English](/en/admission/english-language-proficiency/#c805011) (admission requirement) | | [Environmental Sciences](/en/degree-programmes/master-programmes/environmental-systems-processes-pollution-solutions-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [European Master in Health and Physical Activity](/en/degree-programmes/master-programmes/european-master-in-health-and-physical-activity-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement)"
+        },
+        {
+          "id": "518a957ec376-001",
+          "page_id": "518a957ec376",
+          "score": 0.7003,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the degree programme](#c283453) | | [Linguistics](/en/bachelordiploma-programmes/linguistics-bachelor/) | [Latin during the degree programme](#c283453) | | [Musicology](/en/bachelordiploma-programmes/musicology-bachelor/) | [Latin during the degree programme](#c283453) | | [Oriental Studies](/en/degree-programmes/bachelordiploma-programmes/oriental-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Pharmacy](/en/bachelordiploma-programmes/pharmacy-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Philosophy](/en/degree-programmes/bachelordiploma-programmes/philosophy-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Prehistory and Historical Archaeology](/en/bachelordiploma-programmes/prehistory-and-historical-archaeology-bachelor/) | [Latin during the degree programme](#c283453) | | [Protestant Theology](/en/bachelordiploma-programmes/protestant-theology-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Romance Studies](/en/degree-programmes/bachelordiploma-programmes/romance-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Scandinavian Studies](/en/bachelordiploma-programmes/scandinavian-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Slavonic Studies](/en/degree-programmes/bachelordiploma-programmes/slavonic-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Sport Science](/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/) | [Sporting Aptitude Admission Test](#c283454) | - Subjects of the Teacher Education Programme with additional exams | Subject | Supplementary Examination | | --- | --- | | [Bosnian/Croatian/Serbian](/en/degree-programmes/teacher-education-programme/bosniancroatianserbian-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Catholic Religion](/en/teacher-education-programme/catholic-religion-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Czech](/en/degree-programmes/teacher-education-programme/czech-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Descriptive Geometry](/en/degree-programmes/teacher-education-programme/descriptive-geometry-teaching-subject/) | [Descriptive Geometry prior to admission](#c551515) | | [English](/en/degree-programmes/teacher-education-programme/english-teaching-subject/) | [Latin during the degree programme](#c283453) | | [French](/en/degree-programmes/teacher-education-programme/french-teaching-subject/) | [Latin during the degree"
+        },
+        {
+          "id": "45310905df19-003",
+          "page_id": "45310905df19",
+          "score": 0.6998,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes"
+          ],
+          "word_count": 230,
+          "text": "(multilingual)](/en/admission/master-programmes/interdisciplinary-east-european-studies/) - [International Business Administration](/en/admission/master-programmes/international-business-administration/) (multilingual, with QZB) - [International Legal Studies](/en/admission/master-programmes/international-legal-studies/) (multilingual, with QZB) - [Islamic Religious Education](/en/admission/master-programmes/islamic-religious-education/) - [Japanology](/en/admission/master-programmes/japanology/) (multilingual) - [Jewish Studies](/en/admission/master-programmes/jewish-studies/) (multilingual) - [Journalism and Communication Studies](/en/admission/master-programmes/journalism-and-communication-studies/) - [Koreanology](/en/admission/master-programmes/koreanology/) (multilingual) - [Languages and Cultures of South Asia](/en/admission/master-programmes/languages-and-cultures-of-south-asia/) (multilingual) - [Mathematics](/en/admission/master-programmes/mathematics/) (English) - [Media Informatics](/en/admission/master-programmes/media-informatics/) (English, with AV) - [Meteorology and Climate Science](/en/admission/master-programmes/meteorology/) (English) - [Microbiome Science](/en/admission/master-programmes/microbiome-science/) (English, with AV) - [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/admission/master-programmes/middle-european-interdisciplinary-masters-programme-in-cognitive-science-meicogsci/) (English, with AV) - [Molecular Biology](/en/admission/master-programmes/molecular-biology-en/) (English, with QZB) - [Molecular Precision Medicine](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/) (English, admission at partner university) - [Multilingual Technologies](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html) (English, admission at partner university) - [Musicology](/en/admission/master-programmes/musicology/) - [Neuroscience](/en/admission/master-programmes/neuroscience/) (English, with AV) - [Nursing Science](/en/admission/master-programmes/nursing-science/) - [Nutritional Sciences](/en/admission/master-programmes/nutritional-sciences/) - [Pharmacy](/en/admission/master-programmes/pharmacy/) - [Philosophy](/en/admission/master-programmes/philosophy/) (multilingual, with QZB) - [Philosophy and Economics](/en/admission/master-programmes/philosophy-and-economics/) (English, with AV) - [Physical Geography: Environmental Dynamics and Sustainability](/zulassung/masterstudien/physical-geography-environmental-dynamics-and-sustainability/) (multilingual, with QZB) - [Physics](/en/admission/master-programmes/physics/) (English) - [Political Science](/en/admission/master-programmes/political-science/) - [Prehistory and Historical Archaeology](/en/admission/master-programmes/prehistory-and-historical-archaeology/) - [Protestant Theology](/en/admission/master-programmes/protestant-theology/) - [Psychology](/en/admission/master-programmes/psychology/) (with AV) - [Psychotherapy](/en/admission/master-programmes/psychotherapy/) (with AV) - [Religious Education](/en/admission/master-programmes/religious-education/) - [Religion in Europe](/en/admission/master-programmes/religion-in-europe/) (English, with AV) - [Religious Studies](/en/admission/master-programmes/religious-studies/) (multilingual) - [Research in Economics and Finance](/en/admission/master-programmes/research-in-economics-and-finance/) (English, with AV) - [Romance Studies](/en/admission/master-programmes/romance-studies/) (multilingual) - [Scandinavian Studies](/en/admission/master-programmes/scandinavian-studies/) (multilingual) - [Science-Technology-Society](/en/admission/master-programmes/science-technology-society/) (English, with AV) - [Sinophone Societies and Cultures](/en/admission/master-programmes/sinophone-societies-and-cultures/)(English, with QZB) - [Slavonic Studies](/en/admission/master-programmes/slavonic-studies/) (multilingual) - [Social and Cultural Anthropology](/en/admission/master-programmes/social-and-cultural-anthropology/) (multilingual) - [Sociology](/en/admission/master-programmes/sociology/) - [Spatial Data Science and GeoCommunication](/zulassung/masterstudien/spatial-data-science-and-geocommunication/) (multilingual, with QZB) - [Sports and Human Movement Science](/en/admission/master-programmes/sports-and-human-movement-science/) (with QZB)"
+        },
+        {
+          "id": "7916c3fc6510-068",
+          "page_id": "7916c3fc6510",
+          "score": 0.698,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "Q"
+          ],
+          "word_count": 162,
+          "text": "/\n\n- Qualitative admission requirements (QZB)\n\n  Admission to a master programme is only possible if you have completed an eligible bachelor/diploma programme. For some master programmes, you must also fulfil so-called qualitative admission requirements (\"qualitative Zulassungsbedingungen\", QZB) when submitting your application. QZB are requirement for admission. You can therefore not make up for these as part of the degree programme you are applying for (e.g. as supplementary examinations).\n\n  QZB are a certain number of ECTS that you must have already completed in parts of your previous degree programme. In addition, individual documents may also be required from you, e.g. a description of qualifications or proof of language proficiency. You can find out whether QZB are required for your master programme either in the [curriculum of the respective degree programme](https://senat.univie.ac.at/curricularkommission/curricula/) (in German only) or in the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/#c167271).\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Master Access Guide](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31175&cHash=4eba972ee804cb8bd7bcba120d0149d6)\n  - [Master programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31177&cHash=4a88be10c3b363efc2e78dc594e8873a)\n  - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31903&cHash=b8933888e680ba23ff94674d4d28a5dc)\n  - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39933&cHash=62657c685b836056f2e228ca3e437c2e)"
+        }
+      ],
+      "latency_ms": 6.4
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "313b8c02de9e-002",
+          "page_id": "313b8c02de9e",
+          "score": 0.7698,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 159,
+          "text": "- TOEFL: IBT (internet-based): 94 points or higher\n- IELTS Academic: Overall Band Score: 6.5 points\n- Cambridge English First Certificate (FCE): result level B2\n- Cambridge Certificate in Advanced English (CAE): result level B2\n- Language Competency Examination at level B2 by a university language centre. The language centre has to be located at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese certificates may not be older than three years at the time of application.\n\nAny of the above mentioned certificates at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\nA proof of English language proficiency at level C1 is required for admission to the master programme in Anglophone Literatures and Cultures, the master programme in English Language and Linguistics and English (Teaching Subject) in the master programme Teacher Education."
+        },
+        {
+          "id": "313b8c02de9e-001",
+          "page_id": "313b8c02de9e",
+          "score": 0.7484,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "word_count": 230,
+          "text": "- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025))."
+        },
+        {
+          "id": "313b8c02de9e-000",
+          "page_id": "313b8c02de9e",
+          "score": 0.7395,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 110,
+          "text": "You must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)"
+        },
+        {
+          "id": "b37d157fc3c4-003",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7367,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "word_count": 51,
+          "text": "[English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Research in Economics and Finance](/en/degree-programmes/master-programmes/research-in-economics-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Science-Technology-Society](/en/degree-programmes/master-programmes/science-technology-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Sinophone Societies and Cultures](/en/degree-programmes/master-programmes/sinophone-societies-and-cultures-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) & Chinese (proof by previous study or HSK 5 or TOCFL Band B Level 4) |"
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.7336,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "313b8c02de9e-004",
+          "page_id": "313b8c02de9e",
+          "score": 0.724,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 227,
+          "text": "- Degree diploma and transcript of records/diploma supplement\n\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- Degree diploma and transcript of records/diploma supplement\n  - of a completed degree programme,\n  - with English language specific courses,\n  - to the extent of at least 36 ECTS.\n\nThese proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 115 points or higher\n- IELTS Academic: Overall Band Score: 8 or higher\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\n- [Universities Act 2002 (UG), especially §§ 63, 64](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- Decree: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/02_pdf/20250205-13.pdf) (05.02.2025)\n- For applications for admission until winter semester 2024/25 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_30.pdf) (17.12.2021)\n- For applications for admission for the summer semester 2025 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2024_2025/2024_2025_18.pdf) (23.10.2024)"
+        },
+        {
+          "id": "313b8c02de9e-005",
+          "page_id": "313b8c02de9e",
+          "score": 0.7174,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I had English lessons in school. Is this a proof of English language proficiency? Having had English lessons in school is not sufficient as proof of language proficiency. A secondary-school leaving certificate with successful graduation exam in the subject English from a school in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, New Zealand or Canada is an accepted proof, if the level of English proficiency is noted as B2 or higher. If the level is not clearly evident in the certificate, a confirmation by the school administration may be demanded. - I have completed my studies in a non-EU/EEA country. Does this count as proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed a degree of at least two years, taught entirely in English, at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - I have a secondary-school leaving certificate from a non-EU/EEA country with the subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom"
+        },
+        {
+          "id": "518a957ec376-000",
+          "page_id": "518a957ec376",
+          "score": 0.7169,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Apart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the"
+        },
+        {
+          "id": "a8cc2bd99f51-000",
+          "page_id": "a8cc2bd99f51",
+          "score": 0.7155,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/test-details/",
+          "title": "Test details: Test literature and sample exercises",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 167,
+          "text": "[Entrance exam procedure](/en/)\n\n# Test details: Test literature and sample exercises\n\nWhat do I need to study for the test? How is the test structured? On this page you'll find information about the test literature and sample exercises. This will help you get ready for the written test!\n\nPlease note:\n\n- The tests for some degree programmes take place at the same time.\n- The test literature is only valid for the academic year 2026/27.\n\n[Here you'll find an overview of all test dates.](/en/deadlines-and-dates)\n\n©\nUniversität Wien\n\nPrevious\n\n©\n\nNext\n\nCollapse all\n\nOpen all\n\n- [Biology](#c6372)\n- [Business Administration](#c3421)\n- [Business Informatics](#c6835)\n- [Chemistry](#c6828)\n- [Computer Science](#c6835)\n- [Economics](#c3421)\n- [Education](#c3426)\n- [English and American Studies](#c6829)\n- [International Business Administration](#c3421)\n- [International Legal Studies](#c6836)\n- [Korean Studies](#c6838)\n- [Law (diploma programme)](#c6827)\n- [Mass Media and Communication Science](#c6830)\n- [Mathematical Foundations of Data Science (English)](#c6839)\n- [Nutritional Sciences](#c6834)\n- [Pharmacy](#c6834)\n- [Political Science](#c6837)\n- [Psychology](#c6833)\n- [Social and Cultural Anthropology](#c6837)\n- [Sociology](#c6837)\n- [Teacher Education](#c6840)\n- [Transcultural Communication](#c6826)"
+        },
+        {
+          "id": "b37d157fc3c4-006",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7121,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Multilingual Master Programmes"
+          ],
+          "word_count": 230,
+          "text": "und historische Sprachwissenschaft)](/en/degree-programmes/master-programmes/indo-european-studies-master/) | [German](/en/admission/german-language-proficiency/) & indo-European language (proof by previous study) | | [Interdisciplinary East European Studies (Interdisziplinäre Osteuropastudien)](/en/degree-programmes/master-programmes/interdisciplinary-east-european-studies-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [International Business Administration (Internationale Betriebswirtschaft)](/en/degree-programmes/master-programmes/international-business-administration-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [International Legal Studies (Internationale Rechtswissenschaften)](/en/degree-programmes/master-programmes/international-legal-studies-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Japanology (Japanologie)](/en/degree-programmes/master-programmes/japanology-master/) | [German](/en/admission/german-language-proficiency/) & Japanese (proof by previous study or JLPT N2 [=B2.1. - Japanese language proficiency test]) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Jewish Studies (Judaistik)](/en/degree-programmes/master-programmes/jewish-studies-master/) | [German](/en/admission/german-language-proficiency/) & Aramaic, Hebrew (proof by previous study) | | [Koreanology (Koreanologie)](/en/degree-programmes/master-programmes/koreanology-master/) | [German](/en/admission/german-language-proficiency/) & Korean (proof by previous study or certificate at level B2 [Topik 4]) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Languages and Cultures of South Asia (Sprachen und Kulturen Südasiens)](/en/degree-programmes/master-programmes/languages-and-cultures-of-south-asia-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Philosophy](/en/degree-programmes/master-programmes/philosophy-master/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Physical Geography: Environmental Dynamics and Sustainability](/en/degree-programmes/master-programmes/physical-geography-environmental-dynamics-and-sustainability-master/) | [German A2](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Religious Education (Religionspädagogik)](/en/degree-programmes/master-programmes/religious-education-master/) | [German](/en/admission/german-language-proficiency/) & New Testament Greek (proof by previous study) | | [Romance Studies (Romanistik)](/en/degree-programmes/master-programmes/romance-studies-master/) | [German](/en/admission/german-language-proficiency/) & French, Italian, Portuguese, Romanian or Spanish (proof by previous study) | | [Scandinavian Studies (Skandinavistik)](/en/degree-programmes/master-programmes/scandinavian-studies-master/) | [German](/en/admission/german-language-proficiency/) & Scandinavian language(s) (Danish, Faroese, Icelandic, Norwegian, Swedish) (proof by previous study) | | [Slavonic Studies (Slawistik)](/en/degree-programmes/master-programmes/slavonic-studies-master/) | [German](/en/admission/german-language-proficiency/) & Bosnian/Croatian/Serbian, Czech, Bulgarian, Polish, Russian, Slovak,"
+        },
+        {
+          "id": "45310905df19-007",
+          "page_id": "45310905df19",
+          "score": 0.7101,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes",
+            "English master programmes"
+          ],
+          "word_count": 226,
+          "text": "/\n\n- List of degree programmes\n\n  - [Anglophone Literatures and Cultures](/en/admission/master-programmes/anglophone-literatures-and-cultures/)\n  - [Applied Economics](/en/admission/master-programmes/applied-economics-new/) (with AV)\n  - [Arabic Linguistics](/en/admission/master-programmes/arabic-linguistics/) (with AV)\n  - [Astronomy](/en/admission/master-programmes/astronomy/)\n  - [Banking and Finance](/en/admission/master-programmes/banking-and-finance/) (with QZB)\n  - [Botany](/en/admission/master-programmes/botany/)\n  - [Business Analytics](/en/admission/master-programmes/business-analytics/) (with AV)\n  - [Cognition, Behavior and Neurobiology (CoBeNe Master)](/en/admission/master-programmes/cognition-behavior-and-neurobiology-cobene-master/) (with QZB)\n  - [Communication Science](/en/admission/master-programmes/communication-science/) (with AV)\n  - [Computational Science](/en/admission/master-programmes/computational-science/) (with QZB)\n  - [Computer Science](/en/admission/master-programmes/computer-science/) (with AV)\n  - [Cultural Differences and Transnational Processes (CREOLE)](/zulassung/masterstudien/cultural-differences-and-transnational-processes-creole/)\n  - [Data Science](/en/admission/master-programmes/data-science/) (with AV)\n  - [Drug Discovery and Development](/en/admission/master-programmes/drug-discovery-and-development/) (with AV)\n  - [East Asian Economy and Society](/en/admission/master-programmes/east-asian-economy-and-society/) (with AV)\n  - [Ecology and Ecosystems](/zulassung/masterstudien/ecology-and-ecosystems/)\n  - [English Language and Linguistics](/zulassung/masterstudien/english-language-and-linguistics/)\n  - [Environmental Systems: Processes – Pollution – Solutions](/en/admission/master-programmes/environmental-systems-processes-pollution-solutions/) (with AV)\n  - [European Master in Health and Physical Activity](/en/admission/master-programmes/european-master-in-health-and-physical-activity/)\n  - [Evolutionary Genomics and Systems Biology](/en/admission/master-programmes/evolutionary-genomics-and-systems-biology/) (with AV)\n  - [Global Demography](/en/admission/master-programmes/global-demography/) (with AV)\n  - [Governing Socio-Ecological Transformations](/en/admission/master-programmes/governing-socio-ecological-transformations/) (with AV)\n  - [Green Chemistry (admission at partner university)](https://www.tuwien.at/en/studies/studies/master-programmes/chemistry/selection-procedure)\n  - [Mathematics](/zulassung/masterstudien/mathematik/)\n  - [Media Informatics](/en/admission/master-programmes/media-informatics/) (with AV)\n  - [Meteorology and Climate Science](/en/admission/master-programmes/meteorology/)\n  - [Microbiome Science](/en/admission/master-programmes/microbiome-science/) (with AV)\n  - [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/admission/master-programmes/middle-european-interdisciplinary-masters-programme-in-cognitive-science-meicogsci/) (with AV)\n  - [Molecular Biology](/en/admission/master-programmes/molecular-biology-en/) (with QZB)\n  - [Molecular Precision Medicine (admission at partner university)](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/)\n  - [Multilingual Technologies (admission at partner university)](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html)\n  - [Neuroscience](/en/admission/master-programmes/neuroscience/) (with AV)\n  - [Philosophy and Economics](/en/admission/master-programmes/philosophy-and-economics/) (with AV)\n  - [Physics](/en/admission/master-programmes/physics/)\n  - [Religion in Europe](/en/admission/master-programmes/religion-in-europe/) (with AV)\n  - [Research in Economics and Finance](/en/admission/master-programmes/research-in-economics-and-finance/) (with AV)\n  - [Science-Technology-Society](/en/admission/master-programmes/science-technology-society/) (with AV)\n  - [Sinophone Societies and Cultures](/en/admission/master-programmes/sinophone-societies-and-cultures/) (with QZB)"
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.7083,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "2b99bbd8b3f0-003",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7068,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "Is proof of German language proficiency required?"
+          ],
+          "word_count": 103,
+          "text": "All bachelor/diploma programmes as well as master programmes instructed in German require proof of [German language proficiency at level A2](/en/admission/german-language-proficiency/german-language-proficiency-a2/) at the time of application. Without such certification you cannot apply for admission.\n\nTo be admitted to the degree programme you need a proof of [German language proficiency at level C1](/en/admission/german-language-proficiency/german-language-proficiency-c1/). If you do not possess such a proof, the supplementary examination in German will be prescribed in your admission letter.\n\nWith this admission letter, you can be admitted as a non-degree student and attend a German course at the [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en/vienna) for up to four semesters."
+        },
+        {
+          "id": "1863348578bf-003",
+          "page_id": "1863348578bf",
+          "score": 0.7037,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/",
+          "title": "Entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- ### Economics and Law\n\n  - [Business Administration](/en/business-administration)\n  - [Economics](/en/economics)\n  - [International Business Administration](/en/international-business-administration)\n  - [International Legal Studies](/en/international-legal-studies)\n  - [Law](/en/law) (diploma programme)\n- ### STEM\n\n  - [Biology](/en/biology)\n  - [Business Informatics](/en/business-informatics)\n  - [Chemistry](/en/chemistry)\n  - [Computer Science](/en/computer-science)\n  - [Mathematical Foundations of Data Science](/en/mathematical-foundations-of-data-science) (English)\n- ### Health, Psychology and Sport\n\n  - [Nutritional Sciences](/en/nutritional-sciences)\n  - [Pharmacy](/en/pharmacy)\n  - [Psychology](/en/psychology)\n\n  A [sporting aptitude admission test](https://lehre-schmelz.univie.ac.at/zulassung-zum-studium/zulassungspruefung/) (website only available in German) is required for the bachelor's programme in [Sport and Human Movement Science](https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/).\n- ### History, Society and Culture\n\n  - [Mass Media and Communication Science](/en/mass-media-and-communication-science)\n  - [Political Science](/en/political-science)\n  - [Social and Cultural Anthropology](/en/social-and-cultural-anthropology)\n  - [Sociology](/en/sociology)\n- ### Education, Philosophy and Religion\n\n  - [Teacher Education](/en/teacher-education)\n  - [Education](/en/education)\n- ### Languages\n\n  - [English and American Studies](/en/english-and-american-studies)\n  - [Korean Studies](/en/korean-studies)\n  - [Transcultural Communication](/en/transcultural-communication)\n\nStart your virtual journey through a bachelor's programme at the University of Vienna with uni:check and find out whether studying is the right choice for you.\n\n[Start the uni:check!](https://unicheck.univie.ac.at/en/)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext\n\nVisit us at education fairs like uniorientiert or BeSt and talk to students and staff from various degree programmes!\n\n[Upcoming dates](https://studieren.univie.ac.at/en/degree-programmes/education-fairs/)\n\nPrevious\n\n©\n\nNext\n\nGet to know the main topics covered in the programme and find out whether it meets your expectations.\n\n[Try out the OSAs!](https://self-assessment.univie.ac.at/en/)\n\n©\nIan Ehm\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "1c320dc7aeb6-000",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.7016,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 142,
+          "text": "[Entrance exam procedure](/en/)\n\n# German language proficiency for bachelor's and diploma programmes with entrance exam procedure\n\nYou need German language proficiency for all bachelor's and diploma programmes. The only exception is Mathematical Foundations of Data Science (because it is instructed in English).\n\n- When you apply, you must provide a proof of German language proficiency at level A2.\n- You decide for yourself whether your level of German is sufficient for the written test. Dictionaries are not allowed during the test.\n- To be admitted to the degree programme, you need level C1. To reach this level, you can attend a German course as part of the University Preparation Programme of the Vienna Universities (VWU).\n\nFind out everything you need to know about the recognised German language certificates and the VWU on this page.\n\n©\n[Translate to English:] derknopfdruecker.com\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "313b8c02de9e-003",
+          "page_id": "313b8c02de9e",
+          "score": 0.7014,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 191,
+          "text": "- Degree diploma and transcript of records/diploma supplement\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- English as first language ([see FAQ](#c805025)).\n- Proof of erudite language: secondary-school leaving certificate, if the certificate was awarded at an institution\n  - with English as the language of education\n  - in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- These proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 110 points or higher\n- IELTS Academic: Overall Band Score: 8 (at least 7.5 per component)\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\nA proof of English language proficiency at level C2 is required for the master programme in Translation, if one of the working languages is English."
+        },
+        {
+          "id": "b37d157fc3c4-001",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7014,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "word_count": 230,
+          "text": "The following master programmes are taught completely in English. | Degree Programme | Required Qualification | | --- | --- | | [Anglophone Literatures and Cultures](/en/degree-programmes/master-programmes/anglophone-literatures-and-cultures-master/) | [English C1 for programmes at the Department of English](/en/admission/english-language-proficiency/#c805011) (admission requirement) | | [Applied Economics](/en/degree-programmes/master-programmes/applied-economics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Arabic Linguistics](/en/degree-programmes/master-programmes/arabic-linguistics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) & [Arabic B2](/en/degree-programmes/master-programmes/arabic-linguistics-master/#c1173677) (admission requirement) | | [Astronomy](/en/degree-programmes/master-programmes/astronomy-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Banking and Finance](/en/degree-programmes/master-programmes/banking-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Botany (Botanik)](/en/degree-programmes/master-programmes/botany-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Business Analytics](/en/degree-programmes/master-programmes/business-analytics-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Cognition, Behaviour and Neurobiology](/en/degree-programmes/master-programmes/cognition-behavior-and-neurobiology-master/#c232773) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Communication Science](/en/degree-programmes/master-programmes/communication-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Computational Science](/en/degree-programmes/master-programmes/computational-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Computer Science (Informatik)](/en/degree-programmes/master-programmes/computer-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Cultural Differences and Transnational Processes (CREOLE)](/en/degree-programmes/master-programmes/cultural-differences-and-transnational-processes-creole-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Data Science](/en/degree-programmes/master-programmes/data-science-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Drug Discovery and Development](/en/degree-programmes/master-programmes/drug-discovery-and-development-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [East Asian Economy and Society](/en/degree-programmes/master-programmes/east-asian-economy-and-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Ecology and Ecosystems](/en/degree-programmes/master-programmes/ecology-and-ecosystems-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [English Language and Linguistics](/en/degree-programmes/master-programmes/english-language-and-linguistics-master/) | [English C1 for programmes at the Department of English](/en/admission/english-language-proficiency/#c805011) (admission requirement) | | [Environmental Sciences](/en/degree-programmes/master-programmes/environmental-systems-processes-pollution-solutions-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [European Master in Health and Physical Activity](/en/degree-programmes/master-programmes/european-master-in-health-and-physical-activity-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement)"
+        },
+        {
+          "id": "518a957ec376-001",
+          "page_id": "518a957ec376",
+          "score": 0.7003,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the degree programme](#c283453) | | [Linguistics](/en/bachelordiploma-programmes/linguistics-bachelor/) | [Latin during the degree programme](#c283453) | | [Musicology](/en/bachelordiploma-programmes/musicology-bachelor/) | [Latin during the degree programme](#c283453) | | [Oriental Studies](/en/degree-programmes/bachelordiploma-programmes/oriental-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Pharmacy](/en/bachelordiploma-programmes/pharmacy-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Philosophy](/en/degree-programmes/bachelordiploma-programmes/philosophy-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Prehistory and Historical Archaeology](/en/bachelordiploma-programmes/prehistory-and-historical-archaeology-bachelor/) | [Latin during the degree programme](#c283453) | | [Protestant Theology](/en/bachelordiploma-programmes/protestant-theology-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Romance Studies](/en/degree-programmes/bachelordiploma-programmes/romance-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Scandinavian Studies](/en/bachelordiploma-programmes/scandinavian-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Slavonic Studies](/en/degree-programmes/bachelordiploma-programmes/slavonic-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Sport Science](/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/) | [Sporting Aptitude Admission Test](#c283454) | - Subjects of the Teacher Education Programme with additional exams | Subject | Supplementary Examination | | --- | --- | | [Bosnian/Croatian/Serbian](/en/degree-programmes/teacher-education-programme/bosniancroatianserbian-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Catholic Religion](/en/teacher-education-programme/catholic-religion-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Czech](/en/degree-programmes/teacher-education-programme/czech-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Descriptive Geometry](/en/degree-programmes/teacher-education-programme/descriptive-geometry-teaching-subject/) | [Descriptive Geometry prior to admission](#c551515) | | [English](/en/degree-programmes/teacher-education-programme/english-teaching-subject/) | [Latin during the degree programme](#c283453) | | [French](/en/degree-programmes/teacher-education-programme/french-teaching-subject/) | [Latin during the degree"
+        },
+        {
+          "id": "45310905df19-003",
+          "page_id": "45310905df19",
+          "score": 0.6998,
+          "url": "https://studieren.univie.ac.at/en/admission-procedure/master-programmes/",
+          "title": "Admission to master programmes",
+          "section": "Admission",
+          "heading_path": [
+            "All master programmes"
+          ],
+          "word_count": 230,
+          "text": "(multilingual)](/en/admission/master-programmes/interdisciplinary-east-european-studies/) - [International Business Administration](/en/admission/master-programmes/international-business-administration/) (multilingual, with QZB) - [International Legal Studies](/en/admission/master-programmes/international-legal-studies/) (multilingual, with QZB) - [Islamic Religious Education](/en/admission/master-programmes/islamic-religious-education/) - [Japanology](/en/admission/master-programmes/japanology/) (multilingual) - [Jewish Studies](/en/admission/master-programmes/jewish-studies/) (multilingual) - [Journalism and Communication Studies](/en/admission/master-programmes/journalism-and-communication-studies/) - [Koreanology](/en/admission/master-programmes/koreanology/) (multilingual) - [Languages and Cultures of South Asia](/en/admission/master-programmes/languages-and-cultures-of-south-asia/) (multilingual) - [Mathematics](/en/admission/master-programmes/mathematics/) (English) - [Media Informatics](/en/admission/master-programmes/media-informatics/) (English, with AV) - [Meteorology and Climate Science](/en/admission/master-programmes/meteorology/) (English) - [Microbiome Science](/en/admission/master-programmes/microbiome-science/) (English, with AV) - [Middle European interdisciplinary master's programme in Cognitive Science (MEi:CogSci)](/en/admission/master-programmes/middle-european-interdisciplinary-masters-programme-in-cognitive-science-meicogsci/) (English, with AV) - [Molecular Biology](/en/admission/master-programmes/molecular-biology-en/) (English, with QZB) - [Molecular Precision Medicine](https://www.meduniwien.ac.at/web/en/studies-further-education/the-molecular-precision-medicine-masters-programme/) (English, admission at partner university) - [Multilingual Technologies](https://www.fh-campuswien.ac.at/en/studies/study-courses/detail/multilingual-technologies.html) (English, admission at partner university) - [Musicology](/en/admission/master-programmes/musicology/) - [Neuroscience](/en/admission/master-programmes/neuroscience/) (English, with AV) - [Nursing Science](/en/admission/master-programmes/nursing-science/) - [Nutritional Sciences](/en/admission/master-programmes/nutritional-sciences/) - [Pharmacy](/en/admission/master-programmes/pharmacy/) - [Philosophy](/en/admission/master-programmes/philosophy/) (multilingual, with QZB) - [Philosophy and Economics](/en/admission/master-programmes/philosophy-and-economics/) (English, with AV) - [Physical Geography: Environmental Dynamics and Sustainability](/zulassung/masterstudien/physical-geography-environmental-dynamics-and-sustainability/) (multilingual, with QZB) - [Physics](/en/admission/master-programmes/physics/) (English) - [Political Science](/en/admission/master-programmes/political-science/) - [Prehistory and Historical Archaeology](/en/admission/master-programmes/prehistory-and-historical-archaeology/) - [Protestant Theology](/en/admission/master-programmes/protestant-theology/) - [Psychology](/en/admission/master-programmes/psychology/) (with AV) - [Psychotherapy](/en/admission/master-programmes/psychotherapy/) (with AV) - [Religious Education](/en/admission/master-programmes/religious-education/) - [Religion in Europe](/en/admission/master-programmes/religion-in-europe/) (English, with AV) - [Religious Studies](/en/admission/master-programmes/religious-studies/) (multilingual) - [Research in Economics and Finance](/en/admission/master-programmes/research-in-economics-and-finance/) (English, with AV) - [Romance Studies](/en/admission/master-programmes/romance-studies/) (multilingual) - [Scandinavian Studies](/en/admission/master-programmes/scandinavian-studies/) (multilingual) - [Science-Technology-Society](/en/admission/master-programmes/science-technology-society/) (English, with AV) - [Sinophone Societies and Cultures](/en/admission/master-programmes/sinophone-societies-and-cultures/)(English, with QZB) - [Slavonic Studies](/en/admission/master-programmes/slavonic-studies/) (multilingual) - [Social and Cultural Anthropology](/en/admission/master-programmes/social-and-cultural-anthropology/) (multilingual) - [Sociology](/en/admission/master-programmes/sociology/) - [Spatial Data Science and GeoCommunication](/zulassung/masterstudien/spatial-data-science-and-geocommunication/) (multilingual, with QZB) - [Sports and Human Movement Science](/en/admission/master-programmes/sports-and-human-movement-science/) (with QZB)"
+        },
+        {
+          "id": "7916c3fc6510-068",
+          "page_id": "7916c3fc6510",
+          "score": 0.698,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "Q"
+          ],
+          "word_count": 162,
+          "text": "/\n\n- Qualitative admission requirements (QZB)\n\n  Admission to a master programme is only possible if you have completed an eligible bachelor/diploma programme. For some master programmes, you must also fulfil so-called qualitative admission requirements (\"qualitative Zulassungsbedingungen\", QZB) when submitting your application. QZB are requirement for admission. You can therefore not make up for these as part of the degree programme you are applying for (e.g. as supplementary examinations).\n\n  QZB are a certain number of ECTS that you must have already completed in parts of your previous degree programme. In addition, individual documents may also be required from you, e.g. a description of qualifications or proof of language proficiency. You can find out whether QZB are required for your master programme either in the [curriculum of the respective degree programme](https://senat.univie.ac.at/curricularkommission/curricula/) (in German only) or in the [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/#c167271).\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Master Access Guide](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31175&cHash=4eba972ee804cb8bd7bcba120d0149d6)\n  - [Master programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31177&cHash=4a88be10c3b363efc2e78dc594e8873a)\n  - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31903&cHash=b8933888e680ba23ff94674d4d28a5dc)\n  - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39933&cHash=62657c685b836056f2e228ca3e437c2e)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "313b8c02de9e-002",
+          "page_id": "313b8c02de9e",
+          "score": 0.7698,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 159,
+          "text": "- TOEFL: IBT (internet-based): 94 points or higher\n- IELTS Academic: Overall Band Score: 6.5 points\n- Cambridge English First Certificate (FCE): result level B2\n- Cambridge Certificate in Advanced English (CAE): result level B2\n- Language Competency Examination at level B2 by a university language centre. The language centre has to be located at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese certificates may not be older than three years at the time of application.\n\nAny of the above mentioned certificates at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\nA proof of English language proficiency at level C1 is required for admission to the master programme in Anglophone Literatures and Cultures, the master programme in English Language and Linguistics and English (Teaching Subject) in the master programme Teacher Education."
+        },
+        {
+          "id": "313b8c02de9e-001",
+          "page_id": "313b8c02de9e",
+          "score": 0.7484,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "word_count": 230,
+          "text": "- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025))."
+        },
+        {
+          "id": "313b8c02de9e-000",
+          "page_id": "313b8c02de9e",
+          "score": 0.7395,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 110,
+          "text": "You must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)"
+        },
+        {
+          "id": "b37d157fc3c4-003",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7367,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "word_count": 51,
+          "text": "[English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Research in Economics and Finance](/en/degree-programmes/master-programmes/research-in-economics-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Science-Technology-Society](/en/degree-programmes/master-programmes/science-technology-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Sinophone Societies and Cultures](/en/degree-programmes/master-programmes/sinophone-societies-and-cultures-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) & Chinese (proof by previous study or HSK 5 or TOCFL Band B Level 4) |"
+        },
+        {
+          "id": "313b8c02de9e-007",
+          "page_id": "313b8c02de9e",
+          "score": 0.7336,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 107,
+          "text": "proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure."
+        },
+        {
+          "id": "313b8c02de9e-004",
+          "page_id": "313b8c02de9e",
+          "score": 0.724,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 227,
+          "text": "- Degree diploma and transcript of records/diploma supplement\n\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- Degree diploma and transcript of records/diploma supplement\n  - of a completed degree programme,\n  - with English language specific courses,\n  - to the extent of at least 36 ECTS.\n\nThese proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 115 points or higher\n- IELTS Academic: Overall Band Score: 8 or higher\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\n- [Universities Act 2002 (UG), especially §§ 63, 64](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- Decree: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/02_pdf/20250205-13.pdf) (05.02.2025)\n- For applications for admission until winter semester 2024/25 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_30.pdf) (17.12.2021)\n- For applications for admission for the summer semester 2025 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2024_2025/2024_2025_18.pdf) (23.10.2024)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Proof of English language proficiency\n- TOEFL: IBT (internet-based): 94 points or higher\n- IELTS Academic: Overall Band Score: 6.5 points\n- Cambridge English First Certificate (FCE): result level B2\n- Cambridge Certificate in Advanced English (CAE): result level B2\n- Language Competency Examination at level B2 by a university language centre. The language centre has to be located at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese certificates may not be older than three years at the time of application.\n\nAny of the above mentioned certificates at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\nA proof of English language proficiency at level C1 is required for admission to the master programme in Anglophone Literatures and Cultures, the master programme in English Language and Linguistics and English (Teaching Subject) in the master programme Teacher Education.\n\n[2] Proof of English language proficiency — Recognised proofs of English language proficiency at level B2 > Proofs B2\n- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\n[3] Proof of English language proficiency\nYou must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[4] Knowledge of Foreign Languages — Master Programmes taught in English\n[English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Research in Economics and Finance](/en/degree-programmes/master-programmes/research-in-economics-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Science-Technology-Society](/en/degree-programmes/master-programmes/science-technology-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Sinophone Societies and Cultures](/en/degree-programmes/master-programmes/sinophone-societies-and-cultures-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) & Chinese (proof by previous study or HSK 5 or TOCFL Band B Level 4) |\n\n[5] Proof of English language proficiency — FAQ\nproof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure.\n\n[6] Proof of English language proficiency\n- Degree diploma and transcript of records/diploma supplement\n\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- Degree diploma and transcript of records/diploma supplement\n  - of a completed degree programme,\n  - with English language specific courses,\n  - to the extent of at least 36 ECTS.\n\nThese proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 115 points or higher\n- IELTS Academic: Overall Band Score: 8 or higher\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\n- [Universities Act 2002 (UG), especially §§ 63, 64](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- Decree: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/02_pdf/20250205-13.pdf) (05.02.2025)\n- For applications for admission until winter semester 2024/25 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_30.pdf) (17.12.2021)\n- For applications for admission for the summer semester 2025 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2024_2025/2024_2025_18.pdf) (23.10.2024)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "313b8c02de9e-002",
+          "score": 0.7698
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "heading_path": [
+            "Recognised proofs of English language proficiency at level B2",
+            "Proofs B2"
+          ],
+          "section": "Admission",
+          "chunk_id": "313b8c02de9e-001",
+          "score": 0.7484
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "313b8c02de9e-000",
+          "score": 0.7395
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "heading_path": [
+            "Master Programmes taught in English"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "b37d157fc3c4-003",
+          "score": 0.7367
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "313b8c02de9e-007",
+          "score": 0.7336
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "313b8c02de9e-004",
+          "score": 0.724
+        }
+      },
+      "context_chars": 7288,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Proof of English language proficiency\n- TOEFL: IBT (internet-based): 94 points or higher\n- IELTS Academic: Overall Band Score: 6.5 points\n- Cambridge English First Certificate (FCE): result level B2\n- Cambridge Certificate in Advanced English (CAE): result level B2\n- Language Competency Examination at level B2 by a university language centre. The language centre has to be located at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese certificates may not be older than three years at the time of application.\n\nAny of the above mentioned certificates at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\nA proof of English language proficiency at level C1 is required for admission to the master programme in Anglophone Literatures and Cultures, the master programme in English Language and Linguistics and English (Teaching Subject) in the master programme Teacher Education.\n\n[2] Proof of English language proficiency — Recognised proofs of English language proficiency at level B2 > Proofs B2\n- Secondary-school leaving certificate with successful graduation exam in the subject English. The following conditions apply:\n  - The secondary-school leaving certificate was completed at a school of an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n  - If the level of English proficiency is not clearly evident in the certificate, a confirmation by the school administration may be demanded.\n  - The Austrian secondary-school leaving certificate (Matura) of the Corona year 2021 is equal to other secondary-school leaving certificates.\n- \"IB diploma\" according to the regulations of the \"International Baccalaureate Organization\" with the subject English.\n- Certificate of the supplementary examination in the subject English from the University Preparation Programme of an Austrian University.\n- \"Studienberechtigungszeugnis\" from an Austrian university with a successfully completed examination in the subject English.\n- Degree diploma and transcript of records/diploma supplement, which fulfills all of the following conditions:\n  - full-time degree programme of at least two years and\n  - taught entirely in English and\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n\nThese proofs are valid for an unlimited time.\n\nAny of the above mentioned proofs at a higher level than B2, can also be accepted as proof of English language proficiency at level B2 ([see FAQ](#c805025)).\n\n[3] Proof of English language proficiency\nYou must provide a proof of English language proficiency to be admitted to the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science or [English or multilingual master programmes](/en/degree-programmes/degree-programmes-in-foreign-languages/) at the Universitiy of Vienna.\n\n[## Recognised proofs at level B2](#c805007)\n\n[## Recognised proofs at level C1](#c805011)\n\n[## Recognised proofs at level C2](#c805018)\n\nA proof of English language proficiency at level B2 is required for admission to the bachelor programme in [International Legal Studies](/en/entrance-exam/international-legal-studies/) and in [Mathematical Foundations of Data Science](/en/entrance-exam/mathematical-foundations-of-data-science/mathematical-foundations-of-data-science/) as well as to multiple master programmes taught in English and multilingual master programmes.\n\n- [Required English proficiency for admission to master programmes taught in foreign languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[4] Knowledge of Foreign Languages — Master Programmes taught in English\n[English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Research in Economics and Finance](/en/degree-programmes/master-programmes/research-in-economics-and-finance-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Science-Technology-Society](/en/degree-programmes/master-programmes/science-technology-society-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) | | [Sinophone Societies and Cultures](/en/degree-programmes/master-programmes/sinophone-societies-and-cultures-master/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) & Chinese (proof by previous study or HSK 5 or TOCFL Band B Level 4) |\n\n[5] Proof of English language proficiency — FAQ\nproof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the bachelor programme in International Legal Studies or Mathematical Foundations of Data Science. How should I proceed? Upload the final transcript of your previous school year as \"Certificate of proficiency in English at level B2\" at \"Further documents and proofs\" in your application for admission in u:space. You have to upload the secondary-school leaving certificate with the exam in the subject English before you complete the admission procedure.\n\n[6] Proof of English language proficiency\n- Degree diploma and transcript of records/diploma supplement\n\n  - of a full-time degree programme of at least two years,\n  - taught entirely in English,\n  - at a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.\n- Degree diploma and transcript of records/diploma supplement\n  - of a completed degree programme,\n  - with English language specific courses,\n  - to the extent of at least 36 ECTS.\n\nThese proofs are valid for an unlimited time.\n\n- TOEFL: IBT (internet-based): 115 points or higher\n- IELTS Academic: Overall Band Score: 8 or higher\n- Cambridge Certificate in Advanced English (CAE): Grade A\n- Cambridge Certificate of Proficiency in English (CPE): Grade C or higher\n\nThese proofs may not be older than three years at the time of application.\n\n- [Universities Act 2002 (UG), especially §§ 63, 64](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- Decree: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/02_pdf/20250205-13.pdf) (05.02.2025)\n- For applications for admission until winter semester 2024/25 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2021_2022/2021_2022_30.pdf) (17.12.2021)\n- For applications for admission for the summer semester 2025 the following decree applies: [Decree by the Rectorate regarding the proof of English language proficiency required in the admission procedure](https://mtbl.univie.ac.at/storage/media/mtbl02/2024_2025/2024_2025_18.pdf) (23.10.2024)\n\nQuestion: For admission requiring English B2, what test results are recognised?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 1817,
+        "completion_tokens": 75,
+        "total_tokens": 1892
+      },
+      "rate_limit_events": [],
+      "raw_response": "For admission requiring English B2, the following test results are recognised: TOEFL IBT with 94 points or higher, IELTS Academic with an Overall Band Score of 6.5 points, Cambridge English First Certificate (FCE) with result level B2, and Cambridge Certificate in Advanced English (CAE) with result level B2 [1].",
+      "finish_reason": "stop",
+      "latency_ms": 843.9
+    }
+  },
+  "query_id": "g18:paraphrase:3",
+  "status": "ok",
+  "answer": "For admission requiring English B2, the following test results are recognised: TOEFL IBT with 94 points or higher, IELTS Academic with an Overall Band Score of 6.5 points, Cambridge English First Certificate (FCE) with result level B2, and Cambridge Certificate in Advanced English (CAE) with result level B2 [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+      "title": "Proof of English language proficiency",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "313b8c02de9e-002",
+      "score": 0.7698
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 1817,
+    "completion_tokens": 75,
+    "total_tokens": 1892
+  },
+  "total_latency_ms": 850.4
+}

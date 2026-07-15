@@ -1,0 +1,745 @@
+{
+  "trace_id": "aa8372a5c8f6",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How many credit points must a new bachelor student achieve within two years?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How many credit points must a new bachelor student achieve within two years?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.7052,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-009",
+          "page_id": "506482512197",
+          "score": 0.6841,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "the minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the minimum number of credits in complementary degree programmes. Achievements completed in complementary degree programmes are not recognised for the minimum number of credits. - I am enrolled in the bachelor's programme in Teacher Education. Do I have to obtain the minimum number of credits for each teaching subject separately? What happens if I change my teaching subject? In the bachelor’s programme in Teacher Education, you have to obtain the minimum number of credits for both teaching subjects and the pedagogical part in total. You do not have to obtain the minimum number of credits for each teaching subject separately. If one teaching subject in your combination changes, as long as one of the two teaching subjects remains the same, the semesters continue to be counted for the new combination. Both newly obtained ECTS credits and ECTS credits recognised in due time are counting towards the ECTS credits for the new combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you"
+        },
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6833,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6803,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "506482512197-006",
+          "page_id": "506482512197",
+          "score": 0.6758,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply"
+        },
+        {
+          "id": "1944531c4838-004",
+          "page_id": "1944531c4838",
+          "score": 0.6732,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Which degree programme are you interested in?"
+          ],
+          "word_count": 49,
+          "text": "in your bachelor programme AND - have completed a master programme with a stipulated duration of at least two years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 out of 4.0 in your master's programme. [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "506482512197-000",
+          "page_id": "506482512197",
+          "score": 0.6721,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You have to obtain at least 16 ECTS credits in every bachelor’s and diploma programme within four semesters.\n\nThis applies\n\n- to all programmes to which you are admitted since the winter semester of 2022/2023\n- and to all programmes that you [resume](/en/admission/resumption-of-studies/) from this time.\n\nOtherwise, the admission to the degree programme expires. If you would like to apply for re-admission to the same degree programme (= resumption of studies) at the University of Vienna, you can only do so after two [academic years](/en/semester-planning/the-academic-year/) (= four semesters)."
+        },
+        {
+          "id": "506482512197-010",
+          "page_id": "506482512197",
+          "score": 0.6672,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used"
+        },
+        {
+          "id": "506482512197-011",
+          "page_id": "506482512197",
+          "score": 0.6653,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used for the new subject combination are counted. Example 3: You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You begin a teacher education programme with a completely different combination of teaching subjects. The counting of ECTS credits and semesters for the minimum number of credits starts at 0 again. - I am studying a complementary teacher education programme. Do I have to obtain the minimum number of credits? No, you do not have to obtain the minimum number of credits in complementary degree programmes. If you include a teaching subject from a complementary teacher education programme in your subject combination, only the semesters from previous subject combinations of the newly combined subjects are counted. Example: You are studying a subject combination and a complementary degree programme at the same time. After 3 semesters, you exchange one of your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed"
+        },
+        {
+          "id": "506482512197-013",
+          "page_id": "506482512197",
+          "score": 0.6634,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements for my studies? If at least one subject in a teacher education combination is completed at a university of art in Vienna, the respective university of art is responsible for calculating the ECTS credits. The ECTS credits are calculated over the entire duration of the degree programme. Information about exams at the University of Vienna will be obtained if necessary. If students have completed less than 16 ECTS credits by the end of the fourth semester (deadline 31 October for the summer semester/31 March for the winter semester), it is up to the respective university of art to exclude the student from the degree programme after reviewing all information. ECTS credits obtained at the University of Vienna are displayed in [u:space](https://uspace.univie.ac.at/web/studium). - Are there any programs that support me in my studies and in achieving the minimum number of credits? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.6572,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-014",
+          "page_id": "7916c3fc6510",
+          "score": 0.6564,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "B"
+          ],
+          "word_count": 191,
+          "text": "/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)"
+        },
+        {
+          "id": "506482512197-014",
+          "page_id": "506482512197",
+          "score": 0.6547,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 130,
+          "text": "Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "e74bbb31ca64-001",
+          "page_id": "e74bbb31ca64",
+          "score": 0.6538,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/checking-my-interest/",
+          "title": "Career orientation and educational choice",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "makes you achieve your goal. Do not get yourself influenced too much by future job opportunities when making your decision - the labour market can change radically within the next 3 to 5 years. A degree programme takes at least three years. Bear in mind that you will deal with topics of this degree programme for the next 3 to 5 years . - Your curriculum (or study plan) is a helpful tool for choosing your degree programme. Each degree programme has its own curriculum which provides you with information on the programme structure, contents and the course of study. On the details page of each degree programme you can find a link to the curriculum. - Get information about possible deadlines, requirements or entrance exam procedures in time. For example, if you would like to study Psychology or Journalism and Communication Studies, you have to participate in an entrance exam procedure. Also, different admission deadlines apply. If you would like to study Sport Science, physical fitness is very important: There is a supplementary examination which you have to complete before you start with your degree programme. Some degree programmes require (previous) knowledge in Latin or Greek. © Universität Wien/Martin Sowa"
+        },
+        {
+          "id": "506482512197-008",
+          "page_id": "506482512197",
+          "score": 0.653,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree programme affected, you can see the number of ECTS credits already obtained for the minimum number of credits in your [u:space dashboard](https://uspace.univie.ac.at/web/studium). The data are updated automatically 4 times a day. - I am continuing my studies (without interruption) that have been changed to a new curriculum. Do I have to obtain the minimum number of credits again? No. A conversion to the successor curriculum is considered a continuation of the previous degree programme. - I have already studied at the University of Vienna through an exchange programme (e.g. Erasmus+, Erasmus+ Blended Intensive Programme, Non-EU Exchange) and would now like to enrol as a regular student. Do I have to obtain the minimum number of credits? If you were enrolled for your exchange program in the winter semester of 2022/23 or later and now apply for admission to the the same bachelor's or diploma programme, you will need to obtain the minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.6526,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.6524,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6496,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "8d4ed91613a3-013",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6453,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 109,
+          "text": "to pass, before I submit my application for admission? Unfortunately, this is not possible as which and if any supplementary examinations are prescribed will only be determined individually during the processing of your documents. - I already have a university degree and now want to study a bachelor/diploma programme. Can I apply with this certificate instead of my secondary-school leaving certificate? Yes, if you have completed a programme with a duration of at least three years or at least 180 ECTS (e.g. a three-year bachelor programme) at a recognised post-secondary educational institution you can use this as proof of your university entrance qualification instead of your secondary-school leaving certificate."
+        }
+      ],
+      "latency_ms": 7.0
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.7052,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-009",
+          "page_id": "506482512197",
+          "score": 0.6841,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "the minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the minimum number of credits in complementary degree programmes. Achievements completed in complementary degree programmes are not recognised for the minimum number of credits. - I am enrolled in the bachelor's programme in Teacher Education. Do I have to obtain the minimum number of credits for each teaching subject separately? What happens if I change my teaching subject? In the bachelor’s programme in Teacher Education, you have to obtain the minimum number of credits for both teaching subjects and the pedagogical part in total. You do not have to obtain the minimum number of credits for each teaching subject separately. If one teaching subject in your combination changes, as long as one of the two teaching subjects remains the same, the semesters continue to be counted for the new combination. Both newly obtained ECTS credits and ECTS credits recognised in due time are counting towards the ECTS credits for the new combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you"
+        },
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6833,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6803,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "506482512197-006",
+          "page_id": "506482512197",
+          "score": 0.6758,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply"
+        },
+        {
+          "id": "1944531c4838-004",
+          "page_id": "1944531c4838",
+          "score": 0.6732,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements",
+            "Which degree programme are you interested in?"
+          ],
+          "word_count": 49,
+          "text": "in your bachelor programme AND - have completed a master programme with a stipulated duration of at least two years (full-time) at a recognised university AND - have achieved a CGPA of at least 3.75 out of 4.0 in your master's programme. [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "506482512197-000",
+          "page_id": "506482512197",
+          "score": 0.6721,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You have to obtain at least 16 ECTS credits in every bachelor’s and diploma programme within four semesters.\n\nThis applies\n\n- to all programmes to which you are admitted since the winter semester of 2022/2023\n- and to all programmes that you [resume](/en/admission/resumption-of-studies/) from this time.\n\nOtherwise, the admission to the degree programme expires. If you would like to apply for re-admission to the same degree programme (= resumption of studies) at the University of Vienna, you can only do so after two [academic years](/en/semester-planning/the-academic-year/) (= four semesters)."
+        },
+        {
+          "id": "506482512197-010",
+          "page_id": "506482512197",
+          "score": 0.6672,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used"
+        },
+        {
+          "id": "506482512197-011",
+          "page_id": "506482512197",
+          "score": 0.6653,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used for the new subject combination are counted. Example 3: You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You begin a teacher education programme with a completely different combination of teaching subjects. The counting of ECTS credits and semesters for the minimum number of credits starts at 0 again. - I am studying a complementary teacher education programme. Do I have to obtain the minimum number of credits? No, you do not have to obtain the minimum number of credits in complementary degree programmes. If you include a teaching subject from a complementary teacher education programme in your subject combination, only the semesters from previous subject combinations of the newly combined subjects are counted. Example: You are studying a subject combination and a complementary degree programme at the same time. After 3 semesters, you exchange one of your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed"
+        },
+        {
+          "id": "506482512197-013",
+          "page_id": "506482512197",
+          "score": 0.6634,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements for my studies? If at least one subject in a teacher education combination is completed at a university of art in Vienna, the respective university of art is responsible for calculating the ECTS credits. The ECTS credits are calculated over the entire duration of the degree programme. Information about exams at the University of Vienna will be obtained if necessary. If students have completed less than 16 ECTS credits by the end of the fourth semester (deadline 31 October for the summer semester/31 March for the winter semester), it is up to the respective university of art to exclude the student from the degree programme after reviewing all information. ECTS credits obtained at the University of Vienna are displayed in [u:space](https://uspace.univie.ac.at/web/studium). - Are there any programs that support me in my studies and in achieving the minimum number of credits? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.6572,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-014",
+          "page_id": "7916c3fc6510",
+          "score": 0.6564,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "B"
+          ],
+          "word_count": 191,
+          "text": "/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)"
+        },
+        {
+          "id": "506482512197-014",
+          "page_id": "506482512197",
+          "score": 0.6547,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 130,
+          "text": "Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "e74bbb31ca64-001",
+          "page_id": "e74bbb31ca64",
+          "score": 0.6538,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/checking-my-interest/",
+          "title": "Career orientation and educational choice",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 201,
+          "text": "makes you achieve your goal. Do not get yourself influenced too much by future job opportunities when making your decision - the labour market can change radically within the next 3 to 5 years. A degree programme takes at least three years. Bear in mind that you will deal with topics of this degree programme for the next 3 to 5 years . - Your curriculum (or study plan) is a helpful tool for choosing your degree programme. Each degree programme has its own curriculum which provides you with information on the programme structure, contents and the course of study. On the details page of each degree programme you can find a link to the curriculum. - Get information about possible deadlines, requirements or entrance exam procedures in time. For example, if you would like to study Psychology or Journalism and Communication Studies, you have to participate in an entrance exam procedure. Also, different admission deadlines apply. If you would like to study Sport Science, physical fitness is very important: There is a supplementary examination which you have to complete before you start with your degree programme. Some degree programmes require (previous) knowledge in Latin or Greek. © Universität Wien/Martin Sowa"
+        },
+        {
+          "id": "506482512197-008",
+          "page_id": "506482512197",
+          "score": 0.653,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree programme affected, you can see the number of ECTS credits already obtained for the minimum number of credits in your [u:space dashboard](https://uspace.univie.ac.at/web/studium). The data are updated automatically 4 times a day. - I am continuing my studies (without interruption) that have been changed to a new curriculum. Do I have to obtain the minimum number of credits again? No. A conversion to the successor curriculum is considered a continuation of the previous degree programme. - I have already studied at the University of Vienna through an exchange programme (e.g. Erasmus+, Erasmus+ Blended Intensive Programme, Non-EU Exchange) and would now like to enrol as a regular student. Do I have to obtain the minimum number of credits? If you were enrolled for your exchange program in the winter semester of 2022/23 or later and now apply for admission to the the same bachelor's or diploma programme, you will need to obtain the minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the"
+        },
+        {
+          "id": "1944531c4838-005",
+          "page_id": "1944531c4838",
+          "score": 0.6526,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 222,
+          "text": "Your documents have to be legalised by [apostille](/en/admission/info-third-country-students/legalisation/#c1121828) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice.\n\n/\n\n- Bachelor/diploma programme\n\n  If your secondary-school leaving certificate (12 years of education) is from India and you have achieved at least 85% of the maximum possible marks, your application can be processed. Each application must be reviewed individually.\n\n  [Detailed information about admission to a bachelor or diploma programme](/en/admission-procedure/bachelordiploma-programmes/)\n- Master programme\n\n  Your application can be processed if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - your university is classified as Section 1 or 2 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 60% of the maximum points available in your studies.\n\n  OR, if:\n\n  - You have completed a bachelor programme with a stipulated duration of at least three years (full-time) at a recognised university AND\n  - you have completed your bachelor programme at a state university, which is classified as Section 3 (according to ENIC NARIC AUSTRIA Credential Evaluation) AND\n  - you have achieved at least 80% of the maximum points available in your studies.\n\n  Each application must be reviewed individually.\n\n  [Detailed information about admission to master programmes](/en/admission-procedure/master-programmes/)"
+        },
+        {
+          "id": "7916c3fc6510-060",
+          "page_id": "7916c3fc6510",
+          "score": 0.6524,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "points you allocate to a course, the more likely it is that you are accepted. The points account is created when you register for a course for the first time. If you cannot find any points in u:space, register for the course and you will see that a new points account has been created for the current semester. The allocation of points can still be changed within the registration deadline. You cannot save points for the following semester, which means that you will lose points that you have not used. The directorate of studies can add additional regulations to the point allocation system: Bonus points: If certain criteria apply (e.g. academic progress or number of ECTS credits obtained in the previous semester), students automatically receive additional points. Points of the previous semester: If you are on the waiting list of a course, you will automatically be credited the allocated points for the same course in the following semester and these will be added to your newly allocated points. You can view these extra points in the section “points of previous semester”. This only applies to allocated points. Any points that you did not allocate are lost. After the end of the registration period and the subsequent allocation of places, you will receive an e-mail to your u:account e-mail-address informing you about the status of your registration. For further information on"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6496,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "8d4ed91613a3-013",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6453,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 109,
+          "text": "to pass, before I submit my application for admission? Unfortunately, this is not possible as which and if any supplementary examinations are prescribed will only be determined individually during the processing of your documents. - I already have a university degree and now want to study a bachelor/diploma programme. Can I apply with this certificate instead of my secondary-school leaving certificate? Yes, if you have completed a programme with a duration of at least three years or at least 180 ECTS (e.g. a three-year bachelor programme) at a recognised post-secondary educational institution you can use this as proof of your university entrance qualification instead of your secondary-school leaving certificate."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.7052,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-009",
+          "page_id": "506482512197",
+          "score": 0.6841,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "the minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the minimum number of credits in complementary degree programmes. Achievements completed in complementary degree programmes are not recognised for the minimum number of credits. - I am enrolled in the bachelor's programme in Teacher Education. Do I have to obtain the minimum number of credits for each teaching subject separately? What happens if I change my teaching subject? In the bachelor’s programme in Teacher Education, you have to obtain the minimum number of credits for both teaching subjects and the pedagogical part in total. You do not have to obtain the minimum number of credits for each teaching subject separately. If one teaching subject in your combination changes, as long as one of the two teaching subjects remains the same, the semesters continue to be counted for the new combination. Both newly obtained ECTS credits and ECTS credits recognised in due time are counting towards the ECTS credits for the new combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you"
+        },
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.6835,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6833,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6803,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "506482512197-006",
+          "page_id": "506482512197",
+          "score": 0.6758,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Minimum number of credits — FAQs about the minimum number of credits\nyour teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements\n\n[2] Minimum number of credits — FAQs about the minimum number of credits\nthe minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the minimum number of credits in complementary degree programmes. Achievements completed in complementary degree programmes are not recognised for the minimum number of credits. - I am enrolled in the bachelor's programme in Teacher Education. Do I have to obtain the minimum number of credits for each teaching subject separately? What happens if I change my teaching subject? In the bachelor’s programme in Teacher Education, you have to obtain the minimum number of credits for both teaching subjects and the pedagogical part in total. You do not have to obtain the minimum number of credits for each teaching subject separately. If one teaching subject in your combination changes, as long as one of the two teaching subjects remains the same, the semesters continue to be counted for the new combination. Both newly obtained ECTS credits and ECTS credits recognised in due time are counting towards the ECTS credits for the new combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you\n\n[3] Minimum number of credits — For your information\nIf you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin.\n\n[4] Minimum number of credits — FAQs about the minimum number of credits\ndepending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\nwill lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not\n\n[6] Minimum number of credits — FAQs about the minimum number of credits\nyour studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-012",
+          "score": 0.7052
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-009",
+          "score": 0.6841
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "For your information"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-001",
+          "score": 0.6835
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-004",
+          "score": 0.6833
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-005",
+          "score": 0.6803
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-006",
+          "score": 0.6758
+        }
+      },
+      "context_chars": 8310,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Minimum number of credits — FAQs about the minimum number of credits\nyour teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements\n\n[2] Minimum number of credits — FAQs about the minimum number of credits\nthe minimum number of 16 ECTS credits within four semesters (including the semester(s) of your exchange). - Do I also have to obtain the minimum number of credits in complementary degree programmes? No, you do not have to obtain the minimum number of credits in complementary degree programmes. Achievements completed in complementary degree programmes are not recognised for the minimum number of credits. - I am enrolled in the bachelor's programme in Teacher Education. Do I have to obtain the minimum number of credits for each teaching subject separately? What happens if I change my teaching subject? In the bachelor’s programme in Teacher Education, you have to obtain the minimum number of credits for both teaching subjects and the pedagogical part in total. You do not have to obtain the minimum number of credits for each teaching subject separately. If one teaching subject in your combination changes, as long as one of the two teaching subjects remains the same, the semesters continue to be counted for the new combination. Both newly obtained ECTS credits and ECTS credits recognised in due time are counting towards the ECTS credits for the new combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you\n\n[3] Minimum number of credits — For your information\nIf you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin.\n\n[4] Minimum number of credits — FAQs about the minimum number of credits\ndepending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\nwill lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not\n\n[6] Minimum number of credits — FAQs about the minimum number of credits\nyour studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply\n\nQuestion: How many credit points must a new bachelor student achieve within two years?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 1855,
+        "completion_tokens": 12,
+        "total_tokens": 1867
+      },
+      "rate_limit_events": [],
+      "raw_response": "16 ECTS credits within four semesters [2].",
+      "finish_reason": "stop",
+      "latency_ms": 1043.2
+    }
+  },
+  "query_id": "g03:paraphrase:2",
+  "status": "ok",
+  "answer": "16 ECTS credits within four semesters [2].",
+  "citations": [
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+      "title": "Minimum number of credits",
+      "heading_path": [
+        "FAQs about the minimum number of credits"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "506482512197-009",
+      "score": 0.6841
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 1855,
+    "completion_tokens": 12,
+    "total_tokens": 1867
+  },
+  "total_latency_ms": 1050.4
+}

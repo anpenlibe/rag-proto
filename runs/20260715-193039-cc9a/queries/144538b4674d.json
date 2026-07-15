@@ -1,0 +1,780 @@
+{
+  "trace_id": "144538b4674d",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How is the academic year split, and on what dates do the terms start?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How is the academic year split, and on what dates do the terms start?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "db62f7204cc2-000",
+          "page_id": "db62f7204cc2",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 215,
+          "text": "The academic year is divided into winter semester and summer semester. Each semester consists of a period during which courses are held and a lecuture-free period (\"holidays\").\n\n- The University of Vienna is closed on [public holidays](https://www.wien.gv.at/amtshelfer/feiertage/).\n- [Application and admission periods for degree programmes without an entrance exam procedure](/en/admission/application-and-admission-periods/)\n- [Application and admission period for degree programmes with an entrance exam procedure](/en/entrance-exam/deadlines-for-entrance-exam-procedures/)\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2026 |\n| Rectors's Day (no classes) | 12 March 2026 |\n| Easter break | 30 March to 12 April 2026 |\n| Whitsun break | 23 May to 25 May 2026 |\n| End of classes | 30 June 2026 |\n| Lecture-free period (summer break) | 1 July to 30 September 2026 |\n| End of semester | 30 September 2026 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2026 |\n| All Souls Day | 2 November 2026 |\n| Christmas break | 21 December 2026 to 6 January 2027 |\n| End of classes | 31 January 2027 |\n| Lecture-free period (semester break) | 1 to 28 February 2027 |\n| End of semester | 28 February 2027 |"
+        },
+        {
+          "id": "7916c3fc6510-001",
+          "page_id": "7916c3fc6510",
+          "score": 0.7438,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "/ - Academic degree You receive an academic degree after you have successfully completed your higher education by means of a final examination and/or presentation (e.g. public defence). Subsequently, you will receive your graduation document. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Bachelor programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30829&cHash=c027deec5ec3cafecd595fd8e14cc288) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Academic year The academic year starts on 1 October and ends on 30 September. It is divided into the winter and summer semesters, which are separated in February by the lecture-free period (= semester break). Related Links: - [The academic year](/en/semester-planning/the-academic-year/) - Accessible studying Team Barrierefrei offers support to people with psychological or physical impairments at the beginning of their studies and in their everyday university life. Students can reach the the team personally, by telephone or via e-mail. Related Links: - [Accessible studies](/en/accessible-studies/) - Additional degree programme If you are currently studying at the University of Vienna, you can apply for admission to an additional degree programme via u:space. Please note the respective application deadlines. Related Links: - [Information on additional degree programme](/en/admission/additional-degree-programmes/) Related entries: - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Additional exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can"
+        },
+        {
+          "id": "db62f7204cc2-001",
+          "page_id": "db62f7204cc2",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 152,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6822,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "7916c3fc6510-082",
+          "page_id": "7916c3fc6510",
+          "score": 0.6733,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "refers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are not allowed to be admitted to the same degree programme at two Austrian universities at the same time. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Additional degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31361&cHash=e12f215c7a0b1ef3c7839058fc004954) - [Second degree programme (\"Zweitstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31365&cHash=03b0043a8f69fcd61c5246f8bb5a2def) - Second degree programme (\"Zweitstudium\") In addition to your selected degree programme, you may opt for a second degree programme at a different Austrian university or university of applied sciences. You decide for yourself how intensively you pursue your second degree programme. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Secondary-school leaving certificate The secondary-school leaving certificate is a proof of general university entrance qualification. It states that you are authorised to study at a university. Therefore, it is a relevant requirement for admission to bachelor or diploma programmes at the University of Vienna. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [\"Matura\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31180&cHash=a531ddeb94a52896631b79aad7396b89) - Selection procedures (master programmes) The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6711,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-015",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6674,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme with selection procedure",
+            "Deadlines"
+          ],
+          "word_count": 58,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "1c3b37b0f0b8-003",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6625,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies",
+            "Deadlines"
+          ],
+          "word_count": 66,
+          "text": "Winter semester 2026/27:\n\n- Application period: from 22 June to 31 October 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 31 March 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\nOur tip: Submit your application as early as possible!"
+        },
+        {
+          "id": "785f0a10a7d6-008",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6609,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.66,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-098",
+          "page_id": "7916c3fc6510",
+          "score": 0.6577,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "period usually equals the length of the standard period of the curriculum. The transfer to the new curriculum comes into effect automatically at the end of this period. Information about the transfer is available in the record of examinations in u:space as well as in your student record sheet (u:space > Personal matters > My documents). Application for transfer: You have to apply for transfer to a new curriculum at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS) of your degree programme, provided that the transition period has not ended yet and both curricula are offered simultaneously. Recognition of exams: If your curriuclum does not provide any regulation on the recognition, your exams will be automatically recognised from the old curriculum to the new one after the admission . Otherwise, you must apply for the recognition of exams. For more information and advice, contact the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS) in charge of your curriculum. Please note: Previously, inform yourself about possible legal consequences at your StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). It is not possible to reverse the transfer! Related Links: - [Study law](https://satzung.univie.ac.at/en/study-law/) - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Translation Before you can apply for admission to a degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6572,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "33b149ca0707-008",
+          "page_id": "33b149ca0707",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-011",
+          "page_id": "33b149ca0707",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-008",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.6545,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "a270af95f995-000",
+          "page_id": "a270af95f995",
+          "score": 0.6543,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 99,
+          "text": "This page provides an overview of the most important information regarding the organisation of your studies.\n\n© Universität Wien / Barbara Mair\n\n- [My start into university life - Starting your studies](#c253594)\n- [My rights and obligations - Study law](#c253591)\n- [My finances - Financing your studies](#c253595)\n- [My vote counts - Student participation](#c253596)\n- [My diversity - Diversity](#c253593)\n- [My vision - Student mobility](#c253592)\n- [My efforts - Study-life balance](#c737759)\n\n[### Studying & Exams: on site, remotely & hybrid](/en/studying-exams/)\n\n[### Semester planning](/en/semester-planning/)\n\n[### Using AI in your studies](/en/using-ai-in-your-studies/)\n\n[### Welcome Guide](/en/welcome/welcome-guide/)\n\n[### Academic year](/en/semester-planning/the-academic-year/)\n\n[### ABC of terminology](/en/abc-of-terminology/?no_cache=1)"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6513,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "ea38d2ce2037-000",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6489,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "[### Attention: changes for bachelor and diploma programmes with entrance exam procedure for the academic year 2026/27 (please click here)](https://aufnahmeverfahren.univie.ac.at/en/)\n\nOn this site you will find an overview of the application and admission periods for bachelor/diploma and master programmes at the University of Vienna.\n\n- You have to submit your application for admission to a degree programme within the [application period (= general admission period)](#c955669).\n- You can complete the admission procedure within the [admission period (= registration period for the continuation of studies)](#c955681).\n\nThe winter semester always starts on 1 October, the summer semester on 1 March.\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n- The application for degree programmes with entrance exam or selection procedure is only possible once per academic year!\n  - [Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n  - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n- Separate application and admission periods apply for admission to [non-degree programmes](/en/admission/non-degree-programme/).\n- If you want to attend the [Preparation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) you also have to keep the registration periods of the VWU in mind."
+        },
+        {
+          "id": "7916c3fc6510-081",
+          "page_id": "7916c3fc6510",
+          "score": 0.6483,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "/ - \"Sponsion\" The German term \"Sponsion\" refers to the conferment of an academic degree to graduates of a diploma, bachelor's or master's programme. The conferment may be celebrated in an academic graduation ceremony. Related Links: - [Graduation ceremonies](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [Alumni Association](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30183&cHash=af7264dfafa13d56a5dbfb42a68e23d8) - s.t. (sine tempore) The academic time indication „sine tempore“ (s.t.) specifies that the respective course starts on time. If you do not find any indication referring to the \"academic quarter\" in the course directory, the course begins on the mentioned time (unlike „cum tempore“, c.t.). Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [u:find](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31303&cHash=01a70d2a519ee232e089a410de849d5e) - School meets university Schule trifft Uni (school meets university) offers prospective students and first-year students useful information about the selection of a degree programme and starting their studies. You get in touch with contact points for study-related matters and get an insight into everyday university life. Related Links: - [Schule trifft Uni](/en/degree-programmes/our-offers-and-projects/) Related entries: - [unileben](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31305&cHash=8ffb0d6d1405eea9b00e755da7c51574) - [uniorientiert – open days for those interested in studying](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31307&cHash=2b6fb45816ec31eb0a7621811107fa64) - Second degree programme (\"Doppelstudium\") A \"Doppelstudium\" is a colloquial expression that refers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are"
+        },
+        {
+          "id": "7916c3fc6510-015",
+          "page_id": "7916c3fc6510",
+          "score": 0.6467,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "/ - c.t. (cum tempore) If you find the indication \"cum tempore\" (c.t.) next to a course in the course directory, the course starts 15 minutes later than scheduled. These fifteen minutes are referred to as \"academic quarter of an hour\" or \"academic quarter\" (in German: „akademische Viertelstunde“ or „akademisches Viertel“). Example: Laura would like to attend the lecture „Höhere Analysis“. According to [u:find](https://studieren.univie.ac.at/en/abc-of-terminology/#c273318), it starts at 10:00 c.t. In order to be punctual, Laura must arrive at the lecture hall no later than 10:15. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [u:find](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31303&cHash=01a70d2a519ee232e089a410de849d5e) - Campus In 1988, the University of Vienna took over the grounds of the old Vienna General Hospital (AKH). Besides numerous institutions, a centre of lecture halls, shops and restaurants are located on the Campus. Related Links: - [Campus of the University of Vienna (in German)](https://campus.univie.ac.at/) - CEEPUS CEEPUS is a Central European mobility programme and the abbreviation of Central European Exchange Programme for University Studies. The CEEPUS network enables students from certain European countries to study at the University of Vienna. Related Links: - [CEEPUS Student Mobility](https://international.univie.ac.at/en/information-for-incoming-exchange-students) - [Admission with a CEEPUS \"letter of award\"](/en/admission/ceepus-students/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Center for Doctoral Studies The Center for Doctoral Studies advises and supports people interested in studying a doctoral/PhD programme. It is also in charge of"
+        }
+      ],
+      "latency_ms": 8.4
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "db62f7204cc2-000",
+          "page_id": "db62f7204cc2",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 215,
+          "text": "The academic year is divided into winter semester and summer semester. Each semester consists of a period during which courses are held and a lecuture-free period (\"holidays\").\n\n- The University of Vienna is closed on [public holidays](https://www.wien.gv.at/amtshelfer/feiertage/).\n- [Application and admission periods for degree programmes without an entrance exam procedure](/en/admission/application-and-admission-periods/)\n- [Application and admission period for degree programmes with an entrance exam procedure](/en/entrance-exam/deadlines-for-entrance-exam-procedures/)\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2026 |\n| Rectors's Day (no classes) | 12 March 2026 |\n| Easter break | 30 March to 12 April 2026 |\n| Whitsun break | 23 May to 25 May 2026 |\n| End of classes | 30 June 2026 |\n| Lecture-free period (summer break) | 1 July to 30 September 2026 |\n| End of semester | 30 September 2026 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2026 |\n| All Souls Day | 2 November 2026 |\n| Christmas break | 21 December 2026 to 6 January 2027 |\n| End of classes | 31 January 2027 |\n| Lecture-free period (semester break) | 1 to 28 February 2027 |\n| End of semester | 28 February 2027 |"
+        },
+        {
+          "id": "7916c3fc6510-001",
+          "page_id": "7916c3fc6510",
+          "score": 0.7438,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "/ - Academic degree You receive an academic degree after you have successfully completed your higher education by means of a final examination and/or presentation (e.g. public defence). Subsequently, you will receive your graduation document. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Bachelor programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30829&cHash=c027deec5ec3cafecd595fd8e14cc288) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Academic year The academic year starts on 1 October and ends on 30 September. It is divided into the winter and summer semesters, which are separated in February by the lecture-free period (= semester break). Related Links: - [The academic year](/en/semester-planning/the-academic-year/) - Accessible studying Team Barrierefrei offers support to people with psychological or physical impairments at the beginning of their studies and in their everyday university life. Students can reach the the team personally, by telephone or via e-mail. Related Links: - [Accessible studies](/en/accessible-studies/) - Additional degree programme If you are currently studying at the University of Vienna, you can apply for admission to an additional degree programme via u:space. Please note the respective application deadlines. Related Links: - [Information on additional degree programme](/en/admission/additional-degree-programmes/) Related entries: - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Additional exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can"
+        },
+        {
+          "id": "db62f7204cc2-001",
+          "page_id": "db62f7204cc2",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 152,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6822,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "7916c3fc6510-082",
+          "page_id": "7916c3fc6510",
+          "score": 0.6733,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "refers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are not allowed to be admitted to the same degree programme at two Austrian universities at the same time. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Additional degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31361&cHash=e12f215c7a0b1ef3c7839058fc004954) - [Second degree programme (\"Zweitstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31365&cHash=03b0043a8f69fcd61c5246f8bb5a2def) - Second degree programme (\"Zweitstudium\") In addition to your selected degree programme, you may opt for a second degree programme at a different Austrian university or university of applied sciences. You decide for yourself how intensively you pursue your second degree programme. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Secondary-school leaving certificate The secondary-school leaving certificate is a proof of general university entrance qualification. It states that you are authorised to study at a university. Therefore, it is a relevant requirement for admission to bachelor or diploma programmes at the University of Vienna. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [\"Matura\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31180&cHash=a531ddeb94a52896631b79aad7396b89) - Selection procedures (master programmes) The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6711,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-015",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6674,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme with selection procedure",
+            "Deadlines"
+          ],
+          "word_count": 58,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "1c3b37b0f0b8-003",
+          "page_id": "1c3b37b0f0b8",
+          "score": 0.6625,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/same-degree-programme/",
+          "title": "Resumption of the same degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "General information about the resumption of studies",
+            "Deadlines"
+          ],
+          "word_count": 66,
+          "text": "Winter semester 2026/27:\n\n- Application period: from 22 June to 31 October 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 31 March 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\nOur tip: Submit your application as early as possible!"
+        },
+        {
+          "id": "785f0a10a7d6-008",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6609,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.66,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-098",
+          "page_id": "7916c3fc6510",
+          "score": 0.6577,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "period usually equals the length of the standard period of the curriculum. The transfer to the new curriculum comes into effect automatically at the end of this period. Information about the transfer is available in the record of examinations in u:space as well as in your student record sheet (u:space > Personal matters > My documents). Application for transfer: You have to apply for transfer to a new curriculum at the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS) of your degree programme, provided that the transition period has not ended yet and both curricula are offered simultaneously. Recognition of exams: If your curriuclum does not provide any regulation on the recognition, your exams will be automatically recognised from the old curriculum to the new one after the admission . Otherwise, you must apply for the recognition of exams. For more information and advice, contact the StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS) in charge of your curriculum. Please note: Previously, inform yourself about possible legal consequences at your StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS). It is not possible to reverse the transfer! Related Links: - [Study law](https://satzung.univie.ac.at/en/study-law/) - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Translation Before you can apply for admission to a degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn"
+        },
+        {
+          "id": "7916c3fc6510-076",
+          "page_id": "7916c3fc6510",
+          "score": 0.6572,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place available (Alternativplatz verfügbar): You have not gained a place on the course of your interest, but will be able to attend another group (parallel course). You can accept or reject it within a defined deadline. - In process (In Bearbeitung): The registration period has expired and the allocation of places or your record is being processed. This can take several hours. In the meanwhile, you cannot make any changes. - Closed (geschlossen): At the end of the semester, all registrations are closed, which enables you to register for the same or a similar course or exam without any problems in the following semester. - **No place received** (Keinen Platz erhalten): You have been on the waiting list of a course/exam and did not receive a place. You can no longer move up the list. You can register for an equal course/exam in the following semester. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and"
+        },
+        {
+          "id": "33b149ca0707-008",
+          "page_id": "33b149ca0707",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-011",
+          "page_id": "33b149ca0707",
+          "score": 0.655,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-008",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.6545,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "a270af95f995-000",
+          "page_id": "a270af95f995",
+          "score": 0.6543,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 99,
+          "text": "This page provides an overview of the most important information regarding the organisation of your studies.\n\n© Universität Wien / Barbara Mair\n\n- [My start into university life - Starting your studies](#c253594)\n- [My rights and obligations - Study law](#c253591)\n- [My finances - Financing your studies](#c253595)\n- [My vote counts - Student participation](#c253596)\n- [My diversity - Diversity](#c253593)\n- [My vision - Student mobility](#c253592)\n- [My efforts - Study-life balance](#c737759)\n\n[### Studying & Exams: on site, remotely & hybrid](/en/studying-exams/)\n\n[### Semester planning](/en/semester-planning/)\n\n[### Using AI in your studies](/en/using-ai-in-your-studies/)\n\n[### Welcome Guide](/en/welcome/welcome-guide/)\n\n[### Academic year](/en/semester-planning/the-academic-year/)\n\n[### ABC of terminology](/en/abc-of-terminology/?no_cache=1)"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6513,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "ea38d2ce2037-000",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6489,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "[### Attention: changes for bachelor and diploma programmes with entrance exam procedure for the academic year 2026/27 (please click here)](https://aufnahmeverfahren.univie.ac.at/en/)\n\nOn this site you will find an overview of the application and admission periods for bachelor/diploma and master programmes at the University of Vienna.\n\n- You have to submit your application for admission to a degree programme within the [application period (= general admission period)](#c955669).\n- You can complete the admission procedure within the [admission period (= registration period for the continuation of studies)](#c955681).\n\nThe winter semester always starts on 1 October, the summer semester on 1 March.\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n- The application for degree programmes with entrance exam or selection procedure is only possible once per academic year!\n  - [Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n  - [Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n- Separate application and admission periods apply for admission to [non-degree programmes](/en/admission/non-degree-programme/).\n- If you want to attend the [Preparation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/) you also have to keep the registration periods of the VWU in mind."
+        },
+        {
+          "id": "7916c3fc6510-081",
+          "page_id": "7916c3fc6510",
+          "score": 0.6483,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "/ - \"Sponsion\" The German term \"Sponsion\" refers to the conferment of an academic degree to graduates of a diploma, bachelor's or master's programme. The conferment may be celebrated in an academic graduation ceremony. Related Links: - [Graduation ceremonies](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [Alumni Association](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30183&cHash=af7264dfafa13d56a5dbfb42a68e23d8) - s.t. (sine tempore) The academic time indication „sine tempore“ (s.t.) specifies that the respective course starts on time. If you do not find any indication referring to the \"academic quarter\" in the course directory, the course begins on the mentioned time (unlike „cum tempore“, c.t.). Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [u:find](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31303&cHash=01a70d2a519ee232e089a410de849d5e) - School meets university Schule trifft Uni (school meets university) offers prospective students and first-year students useful information about the selection of a degree programme and starting their studies. You get in touch with contact points for study-related matters and get an insight into everyday university life. Related Links: - [Schule trifft Uni](/en/degree-programmes/our-offers-and-projects/) Related entries: - [unileben](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31305&cHash=8ffb0d6d1405eea9b00e755da7c51574) - [uniorientiert – open days for those interested in studying](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31307&cHash=2b6fb45816ec31eb0a7621811107fa64) - Second degree programme (\"Doppelstudium\") A \"Doppelstudium\" is a colloquial expression that refers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are"
+        },
+        {
+          "id": "7916c3fc6510-015",
+          "page_id": "7916c3fc6510",
+          "score": 0.6467,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "C"
+          ],
+          "word_count": 230,
+          "text": "/ - c.t. (cum tempore) If you find the indication \"cum tempore\" (c.t.) next to a course in the course directory, the course starts 15 minutes later than scheduled. These fifteen minutes are referred to as \"academic quarter of an hour\" or \"academic quarter\" (in German: „akademische Viertelstunde“ or „akademisches Viertel“). Example: Laura would like to attend the lecture „Höhere Analysis“. According to [u:find](https://studieren.univie.ac.at/en/abc-of-terminology/#c273318), it starts at 10:00 c.t. In order to be punctual, Laura must arrive at the lecture hall no later than 10:15. Related Links: - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [u:find](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31303&cHash=01a70d2a519ee232e089a410de849d5e) - Campus In 1988, the University of Vienna took over the grounds of the old Vienna General Hospital (AKH). Besides numerous institutions, a centre of lecture halls, shops and restaurants are located on the Campus. Related Links: - [Campus of the University of Vienna (in German)](https://campus.univie.ac.at/) - CEEPUS CEEPUS is a Central European mobility programme and the abbreviation of Central European Exchange Programme for University Studies. The CEEPUS network enables students from certain European countries to study at the University of Vienna. Related Links: - [CEEPUS Student Mobility](https://international.univie.ac.at/en/information-for-incoming-exchange-students) - [Admission with a CEEPUS \"letter of award\"](/en/admission/ceepus-students/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Center for Doctoral Studies The Center for Doctoral Studies advises and supports people interested in studying a doctoral/PhD programme. It is also in charge of"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "db62f7204cc2-000",
+          "page_id": "db62f7204cc2",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 215,
+          "text": "The academic year is divided into winter semester and summer semester. Each semester consists of a period during which courses are held and a lecuture-free period (\"holidays\").\n\n- The University of Vienna is closed on [public holidays](https://www.wien.gv.at/amtshelfer/feiertage/).\n- [Application and admission periods for degree programmes without an entrance exam procedure](/en/admission/application-and-admission-periods/)\n- [Application and admission period for degree programmes with an entrance exam procedure](/en/entrance-exam/deadlines-for-entrance-exam-procedures/)\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2026 |\n| Rectors's Day (no classes) | 12 March 2026 |\n| Easter break | 30 March to 12 April 2026 |\n| Whitsun break | 23 May to 25 May 2026 |\n| End of classes | 30 June 2026 |\n| Lecture-free period (summer break) | 1 July to 30 September 2026 |\n| End of semester | 30 September 2026 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2026 |\n| All Souls Day | 2 November 2026 |\n| Christmas break | 21 December 2026 to 6 January 2027 |\n| End of classes | 31 January 2027 |\n| Lecture-free period (semester break) | 1 to 28 February 2027 |\n| End of semester | 28 February 2027 |"
+        },
+        {
+          "id": "7916c3fc6510-001",
+          "page_id": "7916c3fc6510",
+          "score": 0.7438,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "/ - Academic degree You receive an academic degree after you have successfully completed your higher education by means of a final examination and/or presentation (e.g. public defence). Subsequently, you will receive your graduation document. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Bachelor programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30829&cHash=c027deec5ec3cafecd595fd8e14cc288) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Academic year The academic year starts on 1 October and ends on 30 September. It is divided into the winter and summer semesters, which are separated in February by the lecture-free period (= semester break). Related Links: - [The academic year](/en/semester-planning/the-academic-year/) - Accessible studying Team Barrierefrei offers support to people with psychological or physical impairments at the beginning of their studies and in their everyday university life. Students can reach the the team personally, by telephone or via e-mail. Related Links: - [Accessible studies](/en/accessible-studies/) - Additional degree programme If you are currently studying at the University of Vienna, you can apply for admission to an additional degree programme via u:space. Please note the respective application deadlines. Related Links: - [Information on additional degree programme](/en/admission/additional-degree-programmes/) Related entries: - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Additional exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can"
+        },
+        {
+          "id": "db62f7204cc2-001",
+          "page_id": "db62f7204cc2",
+          "score": 0.7244,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 152,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6822,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "7916c3fc6510-082",
+          "page_id": "7916c3fc6510",
+          "score": 0.6733,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "refers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are not allowed to be admitted to the same degree programme at two Austrian universities at the same time. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Additional degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31361&cHash=e12f215c7a0b1ef3c7839058fc004954) - [Second degree programme (\"Zweitstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31365&cHash=03b0043a8f69fcd61c5246f8bb5a2def) - Second degree programme (\"Zweitstudium\") In addition to your selected degree programme, you may opt for a second degree programme at a different Austrian university or university of applied sciences. You decide for yourself how intensively you pursue your second degree programme. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Secondary-school leaving certificate The secondary-school leaving certificate is a proof of general university entrance qualification. It states that you are authorised to study at a university. Therefore, it is a relevant requirement for admission to bachelor or diploma programmes at the University of Vienna. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [\"Matura\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31180&cHash=a531ddeb94a52896631b79aad7396b89) - Selection procedures (master programmes) The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6711,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] The academic year\nThe academic year is divided into winter semester and summer semester. Each semester consists of a period during which courses are held and a lecuture-free period (\"holidays\").\n\n- The University of Vienna is closed on [public holidays](https://www.wien.gv.at/amtshelfer/feiertage/).\n- [Application and admission periods for degree programmes without an entrance exam procedure](/en/admission/application-and-admission-periods/)\n- [Application and admission period for degree programmes with an entrance exam procedure](/en/entrance-exam/deadlines-for-entrance-exam-procedures/)\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2026 |\n| Rectors's Day (no classes) | 12 March 2026 |\n| Easter break | 30 March to 12 April 2026 |\n| Whitsun break | 23 May to 25 May 2026 |\n| End of classes | 30 June 2026 |\n| Lecture-free period (summer break) | 1 July to 30 September 2026 |\n| End of semester | 30 September 2026 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2026 |\n| All Souls Day | 2 November 2026 |\n| Christmas break | 21 December 2026 to 6 January 2027 |\n| End of classes | 31 January 2027 |\n| Lecture-free period (semester break) | 1 to 28 February 2027 |\n| End of semester | 28 February 2027 |\n\n[2] ABC of terminology — A\n/ - Academic degree You receive an academic degree after you have successfully completed your higher education by means of a final examination and/or presentation (e.g. public defence). Subsequently, you will receive your graduation document. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Bachelor programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30829&cHash=c027deec5ec3cafecd595fd8e14cc288) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Academic year The academic year starts on 1 October and ends on 30 September. It is divided into the winter and summer semesters, which are separated in February by the lecture-free period (= semester break). Related Links: - [The academic year](/en/semester-planning/the-academic-year/) - Accessible studying Team Barrierefrei offers support to people with psychological or physical impairments at the beginning of their studies and in their everyday university life. Students can reach the the team personally, by telephone or via e-mail. Related Links: - [Accessible studies](/en/accessible-studies/) - Additional degree programme If you are currently studying at the University of Vienna, you can apply for admission to an additional degree programme via u:space. Please note the respective application deadlines. Related Links: - [Information on additional degree programme](/en/admission/additional-degree-programmes/) Related entries: - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Additional exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can\n\n[3] The academic year\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |\n\n[4] The academic year — Summer semester 2028\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)\n\n[5] ABC of terminology — S\nrefers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are not allowed to be admitted to the same degree programme at two Austrian universities at the same time. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Additional degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31361&cHash=e12f215c7a0b1ef3c7839058fc004954) - [Second degree programme (\"Zweitstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31365&cHash=03b0043a8f69fcd61c5246f8bb5a2def) - Second degree programme (\"Zweitstudium\") In addition to your selected degree programme, you may opt for a second degree programme at a different Austrian university or university of applied sciences. You decide for yourself how intensively you pursue your second degree programme. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Secondary-school leaving certificate The secondary-school leaving certificate is a proof of general university entrance qualification. It states that you are authorised to study at a university. Therefore, it is a relevant requirement for admission to bachelor or diploma programmes at the University of Vienna. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [\"Matura\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31180&cHash=a531ddeb94a52896631b79aad7396b89) - Selection procedures (master programmes) The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for\n\n[6] Studying a non-degree programme (again) — Attending individual courses > Deadlines\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "db62f7204cc2-000",
+          "score": 0.7823
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "A"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-001",
+          "score": 0.7438
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "db62f7204cc2-001",
+          "score": 0.7244
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "db62f7204cc2-002",
+          "score": 0.6822
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "S"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-082",
+          "score": 0.6733
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "section": "Resumption of studies",
+          "chunk_id": "2332cdbc78e4-001",
+          "score": 0.6711
+        }
+      },
+      "context_chars": 7870,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] The academic year\nThe academic year is divided into winter semester and summer semester. Each semester consists of a period during which courses are held and a lecuture-free period (\"holidays\").\n\n- The University of Vienna is closed on [public holidays](https://www.wien.gv.at/amtshelfer/feiertage/).\n- [Application and admission periods for degree programmes without an entrance exam procedure](/en/admission/application-and-admission-periods/)\n- [Application and admission period for degree programmes with an entrance exam procedure](/en/entrance-exam/deadlines-for-entrance-exam-procedures/)\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2026 |\n| Rectors's Day (no classes) | 12 March 2026 |\n| Easter break | 30 March to 12 April 2026 |\n| Whitsun break | 23 May to 25 May 2026 |\n| End of classes | 30 June 2026 |\n| Lecture-free period (summer break) | 1 July to 30 September 2026 |\n| End of semester | 30 September 2026 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2026 |\n| All Souls Day | 2 November 2026 |\n| Christmas break | 21 December 2026 to 6 January 2027 |\n| End of classes | 31 January 2027 |\n| Lecture-free period (semester break) | 1 to 28 February 2027 |\n| End of semester | 28 February 2027 |\n\n[2] ABC of terminology — A\n/ - Academic degree You receive an academic degree after you have successfully completed your higher education by means of a final examination and/or presentation (e.g. public defence). Subsequently, you will receive your graduation document. Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Graduation Ceremony](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30178&cHash=9ddb0bcf6c9f35c935ca67da70afc04b) - [Bachelor programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30829&cHash=c027deec5ec3cafecd595fd8e14cc288) - [Public defence](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30846&cHash=792c91a61dadd4e25ab727e239f93133) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Academic year The academic year starts on 1 October and ends on 30 September. It is divided into the winter and summer semesters, which are separated in February by the lecture-free period (= semester break). Related Links: - [The academic year](/en/semester-planning/the-academic-year/) - Accessible studying Team Barrierefrei offers support to people with psychological or physical impairments at the beginning of their studies and in their everyday university life. Students can reach the the team personally, by telephone or via e-mail. Related Links: - [Accessible studies](/en/accessible-studies/) - Additional degree programme If you are currently studying at the University of Vienna, you can apply for admission to an additional degree programme via u:space. Please note the respective application deadlines. Related Links: - [Information on additional degree programme](/en/admission/additional-degree-programmes/) Related entries: - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Additional exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can\n\n[3] The academic year\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |\n\n[4] The academic year — Summer semester 2028\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)\n\n[5] ABC of terminology — S\nrefers to an admission to two degree programmes at the same or different universities. Students have to pay the tuition fee/Students' Union fee only once per semester, even if they are admitted to multiple degree programmes in Austria. You are not allowed to be admitted to the same degree programme at two Austrian universities at the same time. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Additional degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31361&cHash=e12f215c7a0b1ef3c7839058fc004954) - [Second degree programme (\"Zweitstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31365&cHash=03b0043a8f69fcd61c5246f8bb5a2def) - Second degree programme (\"Zweitstudium\") In addition to your selected degree programme, you may opt for a second degree programme at a different Austrian university or university of applied sciences. You decide for yourself how intensively you pursue your second degree programme. Related entries: - [Studying at several universities](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30185&cHash=364e3731ebe62063ff39ad8fcc0a8f18) - [Second degree programme (\"Doppelstudium\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30854&cHash=0d3f1e663fb676ce42fc0d77a37af3c1) - Secondary-school leaving certificate The secondary-school leaving certificate is a proof of general university entrance qualification. It states that you are authorised to study at a university. Therefore, it is a relevant requirement for admission to bachelor or diploma programmes at the University of Vienna. Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [\"Matura\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31180&cHash=a531ddeb94a52896631b79aad7396b89) - Selection procedures (master programmes) The University of Vienna conducts selection procedures for some master programmes. This mainly applies to English-language programmes. For some master programmes, you must provide proof of qualitative admission requirements (\"qualitative Zulassungsbedingungen\") and/or upload a letter of motivation when applying for\n\n[6] Studying a non-degree programme (again) — Attending individual courses > Deadlines\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nQuestion: How is the academic year split, and on what dates do the terms start?"
+        }
+      ],
+      "key_id": 3,
+      "usage": {
+        "prompt_tokens": 2430,
+        "completion_tokens": 50,
+        "total_tokens": 2480
+      },
+      "rate_limit_events": [],
+      "raw_response": "The academic year is divided into winter semester and summer semester [1][2]. The winter semester starts on 1 October [1][2][6] and the summer semester starts on 1 March [1][3][4][6].",
+      "finish_reason": "stop",
+      "latency_ms": 789.6
+    }
+  },
+  "query_id": "g05:paraphrase:2",
+  "status": "ok",
+  "answer": "The academic year is divided into winter semester and summer semester [1][2]. The winter semester starts on 1 October [1][2][6] and the summer semester starts on 1 March [1][3][4][6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+      "title": "The academic year",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "db62f7204cc2-000",
+      "score": 0.7823
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "A"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-001",
+      "score": 0.7438
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+      "title": "The academic year",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "db62f7204cc2-001",
+      "score": 0.7244
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+      "title": "The academic year",
+      "heading_path": [
+        "Summer semester 2028"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "db62f7204cc2-002",
+      "score": 0.6822
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+      "title": "Studying a non-degree programme (again)",
+      "heading_path": [
+        "Attending individual courses",
+        "Deadlines"
+      ],
+      "section": "Resumption of studies",
+      "chunk_id": "2332cdbc78e4-001",
+      "score": 0.6711
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 3,
+  "usage": {
+    "prompt_tokens": 2430,
+    "completion_tokens": 50,
+    "total_tokens": 2480
+  },
+  "total_latency_ms": 798.1
+}

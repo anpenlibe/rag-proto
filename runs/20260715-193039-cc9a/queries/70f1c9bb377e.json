@@ -1,0 +1,750 @@
+{
+  "trace_id": "70f1c9bb377e",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "do i seriously need latin for law?? and if i did latin in school does that just count or do i have to sit some extra exam",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "do i seriously need latin for law?? and if i did latin in school does that just count or do i have to sit some extra exam"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7865,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.7579,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7527,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "518a957ec376-000",
+          "page_id": "518a957ec376",
+          "score": 0.6968,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Apart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the"
+        },
+        {
+          "id": "518a957ec376-005",
+          "page_id": "518a957ec376",
+          "score": 0.6953,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Greek"
+          ],
+          "word_count": 218,
+          "text": "For some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/)."
+        },
+        {
+          "id": "7916c3fc6510-041",
+          "page_id": "7916c3fc6510",
+          "score": 0.6852,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) - [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en) - [Language Center of the University of Vienna ('Sprachenzentrum der Universität Wien')](https://sprachenzentrum.univie.ac.at/en/german-courses/) Related entries: - [Language Center (\"Sprachenzentrum\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31262&cHash=80cc82dcf57df276aa80a1d85db48da7) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39934&cHash=afe5309d2001380a942b0e76da2bdf2b) - Graduation Ceremony The successful completion of your bachelor, diploma, master or doctoral studies can be celebrated worthily during a ceremony in the Main Ceremonial Chamber of the University of Vienna. A registration is possible via u:space. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [ceremonies and celebrations](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Grants and scholarships The University of Vienna offers students with EU/EEA/CH citizenship and students with equal status different grants and scholarships. These range from merit scholarships for excellent study achievements to research scholarships for the implementation of a not yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with"
+        },
+        {
+          "id": "7916c3fc6510-002",
+          "page_id": "7916c3fc6510",
+          "score": 0.6815,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can take the additional exams during your studies. The University of Vienna offers the relevant courses preparing you to take these additional exams. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Supplementary examination (in the admission letter of bachelor/diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31928&cHash=cf8842ba1574a00f9737609278349b82) - [Latin - additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31942&cHash=240a418eec281e7a226867181893f710) - Administration fee for entrance exam procedures An administraion fee of 50 euros is charged for bachelor/diploma programmes with entrance exam procedures as a regulatory measure. This ensures that only people who are actually interested in the degree programme apply for admission. Pay the fee by credit card or eps ttransfer when you apply for admission to the degree programme. A reimbursement is not possible. Related Links: - [FAQ for degree programmes with entrance exam procedure](/en/entrance-exam/haeufig-gestellte-fragen-faq/) - [Information regarding the administration fee](/en/entrance-exam/administration-fee/) Related entries: - [Entrance exam procedures (bachelor and diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30815&cHash=c05fa3d9204217b1d7be20a8871c078b) - Admission letter (official notice of admission, \"Zulassungsbescheid\") After you have applied for admission to a bachelor, diploma or master programme via u:space, your application will be processed by the Admission Office. Your documents will be checked by various units at the University of Vienna. If you fulfil all requirements, you will receive an"
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.6795,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.6788,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6773,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "7916c3fc6510-047",
+          "page_id": "7916c3fc6510",
+          "score": 0.677,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 230,
+          "text": "/ - Language Center (\"Sprachenzentrum\") The Sprachenzentrum (Language Center) is a subsidiary of the University of Vienna. It offers a wide range of language courses on different levels for students and non-students. Related Links: - [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/en/) Related entries: - [German language proficiency/courses](/en/abc-of-terminology/related-entries/?cHash=9d72e6340e75474fb1b6a96b446b194c&tx_irfaq_pi1%5BshowUid%5D=30848) - Latin - additional exam The additional Latin examination must be taken either upon admission or during the course of the degree programme. This depends on the degree programme. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - Leave of absence A leave of absence \"pauses\" your enrollment at the University of Vienna. You can apply for a leave of absence if one of the reasons for a leave of absence applies to you. The leave of absence applies to all the degree programmes on which you are enrolled at the University of Vienna, not for an individual degree programme. Please note the negative consequences that a leave of absence can have. Related Links: - [Information on the leave of absence](/en/admission/leave-of-absence/) Related entries: - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - Lecture Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "518a957ec376-001",
+          "page_id": "518a957ec376",
+          "score": 0.6744,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the degree programme](#c283453) | | [Linguistics](/en/bachelordiploma-programmes/linguistics-bachelor/) | [Latin during the degree programme](#c283453) | | [Musicology](/en/bachelordiploma-programmes/musicology-bachelor/) | [Latin during the degree programme](#c283453) | | [Oriental Studies](/en/degree-programmes/bachelordiploma-programmes/oriental-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Pharmacy](/en/bachelordiploma-programmes/pharmacy-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Philosophy](/en/degree-programmes/bachelordiploma-programmes/philosophy-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Prehistory and Historical Archaeology](/en/bachelordiploma-programmes/prehistory-and-historical-archaeology-bachelor/) | [Latin during the degree programme](#c283453) | | [Protestant Theology](/en/bachelordiploma-programmes/protestant-theology-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Romance Studies](/en/degree-programmes/bachelordiploma-programmes/romance-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Scandinavian Studies](/en/bachelordiploma-programmes/scandinavian-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Slavonic Studies](/en/degree-programmes/bachelordiploma-programmes/slavonic-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Sport Science](/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/) | [Sporting Aptitude Admission Test](#c283454) | - Subjects of the Teacher Education Programme with additional exams | Subject | Supplementary Examination | | --- | --- | | [Bosnian/Croatian/Serbian](/en/degree-programmes/teacher-education-programme/bosniancroatianserbian-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Catholic Religion](/en/teacher-education-programme/catholic-religion-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Czech](/en/degree-programmes/teacher-education-programme/czech-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Descriptive Geometry](/en/degree-programmes/teacher-education-programme/descriptive-geometry-teaching-subject/) | [Descriptive Geometry prior to admission](#c551515) | | [English](/en/degree-programmes/teacher-education-programme/english-teaching-subject/) | [Latin during the degree programme](#c283453) | | [French](/en/degree-programmes/teacher-education-programme/french-teaching-subject/) | [Latin during the degree"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6717,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6703,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        },
+        {
+          "id": "a270af95f995-003",
+          "page_id": "a270af95f995",
+          "score": 0.6694,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My rights and obligations"
+          ],
+          "word_count": 226,
+          "text": "#### Study law\n\nYou have rights and obligations that govern your studies from admission until graduation. If you have any questions regarding study law, you can contact the following offices:\n\n- The [directorate of studies](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) responsible for your degree programme should be your first point of contact if you have any questions regarding legal issues and organisational tasks during your studies.\n- Lecturers and examiners are the primary contact persons for the implementation of deviating examination methods for students with disabilities. The SPL makes any fundamental decisions in this regard. The [Accessible Studying Team ('Team Barrierefrei](/en/accessible-studies/)') offers (also anonymous) advice on this.\n- The [Office of the Studienpräses](http://studienpraeses.univie.ac.at) provides support if you encounter problems during your studies that neither your lecturer nor the directorate of studies can solve.\n- If you have questions about [admission](/en/admission-procedure/) and [tuition fee](/en/tuition-fee/), please get in touch with the [Admission Office](https://slw.univie.ac.at/en/about-us/admission-office/).\n- In individual cases, the [Ombuds office for students ('Ombudsstelle für Studierende](https://hochschulombudsstelle.at/)) of the Federal Ministry can help find a solution together with the bodies and members of the educational institution concerned.\n\nA degree programme is based on regulations and laws. In the following section you find the most important regulations:\n\n- [Curriculum - the legal basis for degree programmes](https://senat.univie.ac.at/curricularkommission/curricula/)\n- [Statutes of the University of Vienna - study law](https://satzung.univie.ac.at/en/study-law/)\n- [University law (2002 Universities Act, Part II: Study Law)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.6692,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.6679,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "7916c3fc6510-071",
+          "page_id": "7916c3fc6510",
+          "score": 0.6674,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [Directorate of studies (SPL)/StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - Recommended path of study The recommended path of study is part of your curriculum and divides it into semesters. It shows you in which semester and in which order you should ideally complete the individual modules of the curriculum, so that you can complete your degree programme as fast and efficiently as possible. Thus, the path of study serves as a guide: It indicates the best path through your degree programme based on content-related aspects and supports you in planning the individual semesters. Since the winter semester of 2020/2021, some fields of study have already been allocating places in courses with continuous assessment along the recommended path of study. Places in courses with continuous assessment in those studies are not allocated by means of a points or preference system, but on the recommended path of study. In the coming semesters, further fields of study will be released for the allocation of places by means of the study path. Related Links: - [Recommended path"
+        }
+      ],
+      "latency_ms": 17.0
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7865,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.7579,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7527,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "518a957ec376-000",
+          "page_id": "518a957ec376",
+          "score": 0.6968,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Apart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the"
+        },
+        {
+          "id": "518a957ec376-005",
+          "page_id": "518a957ec376",
+          "score": 0.6953,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Greek"
+          ],
+          "word_count": 218,
+          "text": "For some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/)."
+        },
+        {
+          "id": "7916c3fc6510-041",
+          "page_id": "7916c3fc6510",
+          "score": 0.6852,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) - [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en) - [Language Center of the University of Vienna ('Sprachenzentrum der Universität Wien')](https://sprachenzentrum.univie.ac.at/en/german-courses/) Related entries: - [Language Center (\"Sprachenzentrum\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31262&cHash=80cc82dcf57df276aa80a1d85db48da7) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39934&cHash=afe5309d2001380a942b0e76da2bdf2b) - Graduation Ceremony The successful completion of your bachelor, diploma, master or doctoral studies can be celebrated worthily during a ceremony in the Main Ceremonial Chamber of the University of Vienna. A registration is possible via u:space. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [ceremonies and celebrations](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Grants and scholarships The University of Vienna offers students with EU/EEA/CH citizenship and students with equal status different grants and scholarships. These range from merit scholarships for excellent study achievements to research scholarships for the implementation of a not yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with"
+        },
+        {
+          "id": "7916c3fc6510-002",
+          "page_id": "7916c3fc6510",
+          "score": 0.6815,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "exam In some bachelor programmes, you have to provide proof of certain exams, such as Latin or Greek, upon admission. Admission is only possible if you have already taken these additional exams. In other bachelor or diploma programmes, you can take the additional exams during your studies. The University of Vienna offers the relevant courses preparing you to take these additional exams. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Supplementary examination (in the admission letter of bachelor/diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31928&cHash=cf8842ba1574a00f9737609278349b82) - [Latin - additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31942&cHash=240a418eec281e7a226867181893f710) - Administration fee for entrance exam procedures An administraion fee of 50 euros is charged for bachelor/diploma programmes with entrance exam procedures as a regulatory measure. This ensures that only people who are actually interested in the degree programme apply for admission. Pay the fee by credit card or eps ttransfer when you apply for admission to the degree programme. A reimbursement is not possible. Related Links: - [FAQ for degree programmes with entrance exam procedure](/en/entrance-exam/haeufig-gestellte-fragen-faq/) - [Information regarding the administration fee](/en/entrance-exam/administration-fee/) Related entries: - [Entrance exam procedures (bachelor and diploma programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30815&cHash=c05fa3d9204217b1d7be20a8871c078b) - Admission letter (official notice of admission, \"Zulassungsbescheid\") After you have applied for admission to a bachelor, diploma or master programme via u:space, your application will be processed by the Admission Office. Your documents will be checked by various units at the University of Vienna. If you fulfil all requirements, you will receive an"
+        },
+        {
+          "id": "7916c3fc6510-048",
+          "page_id": "7916c3fc6510",
+          "score": 0.6795,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 180,
+          "text": "Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the apostille](/en/admission/info-third-country-students/legalisation/) - [Information about full legalisation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Apostille](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31900&cHash=b73f3e20226f1cd8a29d5f74338e38cf) - [Full legalisation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31996&cHash=b2d27c84616f8a39b0d4f3ad8770c2f8) - List of subjects If your secondary-school leaving certificate is from a non-EU/EEA country, you need a list of subjects to apply for admission to a bachelor/diploma programme. In many countries, the list of subjects is part of the school-leaving certificate. It shows how many hours of a subject you have completed in the course of your schooling. Related links: - [List of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) - Livestreaming Teachers who hold courses in u:stream lecture halls can offer their courses as a live stream. There are two types of live streams: a web stream or a room2room stream. Audio and video recordings can be made available to the students on the e-learning platform (=Moodle). Related Links: - [Recording courses – u:stream](https://zid.univie.ac.at/en/ustream/) - [E-learning platform Moodle](https://moodle.univie.ac.at) Related entries: - [Moodle](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31195&cHash=f09a4dd9dabecf19aab1edecd36ac050)"
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.6788,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.6773,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "7916c3fc6510-047",
+          "page_id": "7916c3fc6510",
+          "score": 0.677,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "L"
+          ],
+          "word_count": 230,
+          "text": "/ - Language Center (\"Sprachenzentrum\") The Sprachenzentrum (Language Center) is a subsidiary of the University of Vienna. It offers a wide range of language courses on different levels for students and non-students. Related Links: - [Sprachenzentrum of the University of Vienna](https://sprachenzentrum.univie.ac.at/en/) Related entries: - [German language proficiency/courses](/en/abc-of-terminology/related-entries/?cHash=9d72e6340e75474fb1b6a96b446b194c&tx_irfaq_pi1%5BshowUid%5D=30848) - Latin - additional exam The additional Latin examination must be taken either upon admission or during the course of the degree programme. This depends on the degree programme. Related Links: - [Additional exams](/en/admission/additional-exams/) Related entries: - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - Leave of absence A leave of absence \"pauses\" your enrollment at the University of Vienna. You can apply for a leave of absence if one of the reasons for a leave of absence applies to you. The leave of absence applies to all the degree programmes on which you are enrolled at the University of Vienna, not for an individual degree programme. Please note the negative consequences that a leave of absence can have. Related Links: - [Information on the leave of absence](/en/admission/leave-of-absence/) Related entries: - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - Lecture Related entries: - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - Legalisation Documents required for admission must be legalised if they were issued in a non-EU/EEA country. Depending on the country of issuance, two types of legalisation are possible: an apostille or a full legalisation. Related Links: - [Information regarding the"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.6764,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "518a957ec376-001",
+          "page_id": "518a957ec376",
+          "score": 0.6744,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the degree programme](#c283453) | | [Linguistics](/en/bachelordiploma-programmes/linguistics-bachelor/) | [Latin during the degree programme](#c283453) | | [Musicology](/en/bachelordiploma-programmes/musicology-bachelor/) | [Latin during the degree programme](#c283453) | | [Oriental Studies](/en/degree-programmes/bachelordiploma-programmes/oriental-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Pharmacy](/en/bachelordiploma-programmes/pharmacy-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Philosophy](/en/degree-programmes/bachelordiploma-programmes/philosophy-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Prehistory and Historical Archaeology](/en/bachelordiploma-programmes/prehistory-and-historical-archaeology-bachelor/) | [Latin during the degree programme](#c283453) | | [Protestant Theology](/en/bachelordiploma-programmes/protestant-theology-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Romance Studies](/en/degree-programmes/bachelordiploma-programmes/romance-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Scandinavian Studies](/en/bachelordiploma-programmes/scandinavian-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Slavonic Studies](/en/degree-programmes/bachelordiploma-programmes/slavonic-studies-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Sport Science](/en/degree-programmes/bachelordiploma-programmes/sport-and-human-movement-science-bachelor-with-sporting-aptitude-admission-test/) | [Sporting Aptitude Admission Test](#c283454) | - Subjects of the Teacher Education Programme with additional exams | Subject | Supplementary Examination | | --- | --- | | [Bosnian/Croatian/Serbian](/en/degree-programmes/teacher-education-programme/bosniancroatianserbian-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Catholic Religion](/en/teacher-education-programme/catholic-religion-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Czech](/en/degree-programmes/teacher-education-programme/czech-teaching-subject/) | [Latin during the degree programme](#c283453) | | [Descriptive Geometry](/en/degree-programmes/teacher-education-programme/descriptive-geometry-teaching-subject/) | [Descriptive Geometry prior to admission](#c551515) | | [English](/en/degree-programmes/teacher-education-programme/english-teaching-subject/) | [Latin during the degree programme](#c283453) | | [French](/en/degree-programmes/teacher-education-programme/french-teaching-subject/) | [Latin during the degree"
+        },
+        {
+          "id": "8d4ed91613a3-006",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6717,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "Country-specific info"
+          ],
+          "word_count": 230,
+          "text": "applies to citizens of other countries than Türkiye) with [Apostille](/en/admission/info-third-country-students/legalisation/#c1121828). --- Exception: If you have already completed a bachelor/diploma programme (at least three years duration or at least 180 ECTS) you do not need a proof of your university entrance exam. The further procedure depends which country you completed your previous studies in. - Ukraine Starting from the beginning of the application period for the summer semester 2027: If you have a Ukrainan secondary-school leaving certificate and are applying for admission to a bachelor’s or diploma programme, you will need the NMT (National Multi-Subject Test): - a minimum of 100 points required - validity: 4 years - applies to diplomas awarded starting in the 2021–2022 school year - must be completed in at least 4 subjects In addition, your Ukrainian educational documents require an [apostille](/en/admission/info-third-country-students/legalisation/#c1121828). - United Kingdom of Great Britain and Northern Ireland (\"A-levels\") If you receive the General Certificate of Education (GCE/\"A-Levels\"), you have to fulfil the following requirements: - Four general subjects that are independent from one another have to be completed with grade A\\*, A, B or C (respectively grades 9 - 4). These subjects must include: - a foreign language - Mathematics - one of the subjects Biology, Physics or Chemistry - a subject of the Humanities - At least three of the four subjects have to be completed at the GCE Advanced level, the"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6703,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        },
+        {
+          "id": "a270af95f995-003",
+          "page_id": "a270af95f995",
+          "score": 0.6694,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My rights and obligations"
+          ],
+          "word_count": 226,
+          "text": "#### Study law\n\nYou have rights and obligations that govern your studies from admission until graduation. If you have any questions regarding study law, you can contact the following offices:\n\n- The [directorate of studies](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) responsible for your degree programme should be your first point of contact if you have any questions regarding legal issues and organisational tasks during your studies.\n- Lecturers and examiners are the primary contact persons for the implementation of deviating examination methods for students with disabilities. The SPL makes any fundamental decisions in this regard. The [Accessible Studying Team ('Team Barrierefrei](/en/accessible-studies/)') offers (also anonymous) advice on this.\n- The [Office of the Studienpräses](http://studienpraeses.univie.ac.at) provides support if you encounter problems during your studies that neither your lecturer nor the directorate of studies can solve.\n- If you have questions about [admission](/en/admission-procedure/) and [tuition fee](/en/tuition-fee/), please get in touch with the [Admission Office](https://slw.univie.ac.at/en/about-us/admission-office/).\n- In individual cases, the [Ombuds office for students ('Ombudsstelle für Studierende](https://hochschulombudsstelle.at/)) of the Federal Ministry can help find a solution together with the bodies and members of the educational institution concerned.\n\nA degree programme is based on regulations and laws. In the following section you find the most important regulations:\n\n- [Curriculum - the legal basis for degree programmes](https://senat.univie.ac.at/curricularkommission/curricula/)\n- [Statutes of the University of Vienna - study law](https://satzung.univie.ac.at/en/study-law/)\n- [University law (2002 Universities Act, Part II: Study Law)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)"
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.6692,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "313b8c02de9e-006",
+          "page_id": "313b8c02de9e",
+          "score": 0.6679,
+          "url": "https://studieren.univie.ac.at/en/admission/english-language-proficiency/",
+          "title": "Proof of English language proficiency",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "subject English. Does this count of proof of English language proficiency? No. Only the proofs mentioned above are accepted. Exception: If you have completed your secondary-school leaving certificate at an educational institution in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada, it is accepted as proof of English language proficiency. - My English certificate is not in the list. Can it be accepted? No. Only the proofs and certificates mentioned above are accepted. - English is my first language, but I do not have any of the proofs mentioned above. Do I have to take an exam? If you do not have a proof of your language proficiency at level C1, the University of Vienna may prescribe an assessment by an institution chosen by the university in the course of the admission procedure. You have to pay any potentially occurring costs yourself. - I have a proof of English language proficiency at level C1. However, only a proof of English language proficiency at level B2 is required for my degree programme. Do I have to provide a separate proof? No. Upload your C1-proof in your application at \"Further documents and proofs\" as \"Certificate of proficiency in English at level B2\". - I have not yet received my secondary-school leaving certificate and want to apply for admission to the"
+        },
+        {
+          "id": "7916c3fc6510-071",
+          "page_id": "7916c3fc6510",
+          "score": 0.6674,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [Directorate of studies (SPL)/StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - [u:space](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - Recommended path of study The recommended path of study is part of your curriculum and divides it into semesters. It shows you in which semester and in which order you should ideally complete the individual modules of the curriculum, so that you can complete your degree programme as fast and efficiently as possible. Thus, the path of study serves as a guide: It indicates the best path through your degree programme based on content-related aspects and supports you in planning the individual semesters. Since the winter semester of 2020/2021, some fields of study have already been allocating places in courses with continuous assessment along the recommended path of study. Places in courses with continuous assessment in those studies are not allocated by means of a points or preference system, but on the recommended path of study. In the coming semesters, further fields of study will be released for the allocation of places by means of the study path. Related Links: - [Recommended path"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "518a957ec376-003",
+          "page_id": "518a957ec376",
+          "score": 0.7865,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 230,
+          "text": "For some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the"
+        },
+        {
+          "id": "518a957ec376-004",
+          "page_id": "518a957ec376",
+          "score": 0.7579,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Latin"
+          ],
+          "word_count": 48,
+          "text": "can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German)."
+        },
+        {
+          "id": "518a957ec376-007",
+          "page_id": "518a957ec376",
+          "score": 0.7527,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of"
+        },
+        {
+          "id": "518a957ec376-000",
+          "page_id": "518a957ec376",
+          "score": 0.6968,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Apart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the"
+        },
+        {
+          "id": "518a957ec376-005",
+          "page_id": "518a957ec376",
+          "score": 0.6953,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "section": "Admission",
+          "heading_path": [
+            "Greek"
+          ],
+          "word_count": 218,
+          "text": "For some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/)."
+        },
+        {
+          "id": "7916c3fc6510-041",
+          "page_id": "7916c3fc6510",
+          "score": 0.6852,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 230,
+          "text": "the time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) - [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en) - [Language Center of the University of Vienna ('Sprachenzentrum der Universität Wien')](https://sprachenzentrum.univie.ac.at/en/german-courses/) Related entries: - [Language Center (\"Sprachenzentrum\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31262&cHash=80cc82dcf57df276aa80a1d85db48da7) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39934&cHash=afe5309d2001380a942b0e76da2bdf2b) - Graduation Ceremony The successful completion of your bachelor, diploma, master or doctoral studies can be celebrated worthily during a ceremony in the Main Ceremonial Chamber of the University of Vienna. A registration is possible via u:space. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [ceremonies and celebrations](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Grants and scholarships The University of Vienna offers students with EU/EEA/CH citizenship and students with equal status different grants and scholarships. These range from merit scholarships for excellent study achievements to research scholarships for the implementation of a not yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Additional exams — Latin\nFor some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the\n\n[2] Additional exams — Latin\ncan be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German).\n\n[3] Additional exams — FAQ\n/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of\n\n[4] Additional exams\nApart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the\n\n[5] Additional exams — Greek\nFor some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/).\n\n[6] ABC of terminology — G\nthe time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) - [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en) - [Language Center of the University of Vienna ('Sprachenzentrum der Universität Wien')](https://sprachenzentrum.univie.ac.at/en/german-courses/) Related entries: - [Language Center (\"Sprachenzentrum\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31262&cHash=80cc82dcf57df276aa80a1d85db48da7) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39934&cHash=afe5309d2001380a942b0e76da2bdf2b) - Graduation Ceremony The successful completion of your bachelor, diploma, master or doctoral studies can be celebrated worthily during a ceremony in the Main Ceremonial Chamber of the University of Vienna. A registration is possible via u:space. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [ceremonies and celebrations](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Grants and scholarships The University of Vienna offers students with EU/EEA/CH citizenship and students with equal status different grants and scholarships. These range from merit scholarships for excellent study achievements to research scholarships for the implementation of a not yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "Latin"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-003",
+          "score": 0.7865
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "Latin"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-004",
+          "score": 0.7579
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-007",
+          "score": 0.7527
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-000",
+          "score": 0.6968
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+          "title": "Additional exams",
+          "heading_path": [
+            "Greek"
+          ],
+          "section": "Admission",
+          "chunk_id": "518a957ec376-005",
+          "score": 0.6953
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "G"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-041",
+          "score": 0.6852
+        }
+      },
+      "context_chars": 10848,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Additional exams — Latin\nFor some degree programmes, an additional qualification in Latin has to be attained to gain admission. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission. - Prior to admission: For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Latin at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) (in German) about your options. - During the degree programme: For some degree programmes, it is sufficient to pass the additional exam in Latin during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes). If you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet. The additional exam can be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the\n\n[2] Additional exams — Latin\ncan be passed by using the offered courses of the Department for Classical Philology, Medieval and Modern Latin. You get all information about the additional exam and the regocnition of the ECTS for the minimum number of credits at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/) (in German).\n\n[3] Additional exams — FAQ\n/ - I've already passed the additional exam in Latin/Greek, but it still shows up in my student record sheet. What am I supposed to do? The completion of the additional exam in Latin or Greek should be registered automatically. If your school reports prove that you have sufficient knowledge, this is done directly during the first-time admission procedure. If you did not present the appropriate school reports at the Admission Office, you can send them via [contact form](/en/contact-form/). Please include your u:account e-mail address in your message. In case you take the additional exam at the University of Vienna, the [StudienServiceCenter (SSC)](http://ssc.univie.ac.at) of the corresponding course will register your grade. If this does not happen, please contact them directly. - I'm already studying at the University of Vienna. May I pass the additional exam which is required for a different degree programme at the University of Vienna? You are already studying at the University of Vienna and would like to start a second degree programme, for which Latin/Greek is required? In this case, you can pass the additional exam in Latin/Greek at the University of Vienna if you have already completed the STEOP of your current degree programme. The successful completion is a valid proof of the additional exam for the admission to another degree programme. - Where can I pass the additional exam outside of the University of\n\n[4] Additional exams\nApart from the general admission requirements, for some bachelor/diploma programmes you have to prove additional qualifications. / - Bachelor/diploma degree programmes with additional exams | Degree Programme | Supplementary Examination | | --- | --- | | [Ancient History and Studies in Classical Antiquity](/en/bachelordiploma-programmes/ancient-history-and-studies-in-classical-antiquity-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Byzantine Studies and Modern Greek Studies](/en/bachelordiploma-programmes/byzantine-studies-and-modern-greek-studies-bachelor/) | [Latin during the degree programme](#c283453), [Greek during the degree programme](#c551513) | | [Catholic Theology](/en/bachelordiploma-programmes/catholic-theology-diploma/) | [Latin during the first stage of the degree programme](#c283453), [Greek during the first stage of the degree programme](#c551513) | | [Classical Archaeology](/en/bachelordiploma-programmes/classical-archaeology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Classical Philology](/en/bachelordiploma-programmes/classical-philology-bachelor/) | [Latin prior to admission](#c283453), [Greek during the degree programme](#c551513) | | [Comparative Literature](/en/degree-programmes/bachelordiploma-programmes/comparative-literature-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [Egyptology](/en/bachelordiploma-programmes/egyptology-bachelor/) | [Latin prior to admission](#c283453) | | [English and American Studies](/en/bachelordiploma-programmes/english-and-american-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [German Philology](/en/degree-programmes/bachelordiploma-programmes/german-philology-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History](/en/degree-programmes/bachelordiploma-programmes/history-bachelor-with-osa/) | [Latin during the degree programme](#c283453) | | [History of Art and Architecture](/en/bachelordiploma-programmes/history-of-art-bachelor/) | [Latin during the degree programme](#c283453) | | [Hungarian and Finnish Studies](/en/degree-programmes/bachelordiploma-programmes/hungarian-and-finnish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [Latin during the degree programme](#c283453) | | [Jewish Studies](/en/bachelordiploma-programmes/jewish-studies-bachelor/) | [Latin during the degree programme](#c283453) | | [Law](/en/bachelordiploma-programmes/law-diploma-with-entrance-exam-procedure/) | [Latin during the first stage of the\n\n[5] Additional exams — Greek\nFor some degree programmes, an additional qualification in Greek has to be attained to gain admission. If you attended Greek at a secondary school after the 8th grade for at least ten hours per week, the knowledge is taken as given. You have to prove this by means of your school transcripts during the first-time admission.\n\n- Prior to admission:\n  For some degree programmes, you have to prove your knowledge prior to admission. If you did not attend enough classes of Greek at school, you have to prove your knowledge by other means. Contact the [Bildungsdirektion Wien](https://www.bildung-wien.gv.at/schulen/Externistenangelegenheiten.html) about your options.\n- During the degree programme:\n  For some degree programmes, it is sufficient to pass the additional exam in Greek during the degree programme (in the case of diploma programmes during the first stage of the degree programme). The additional exam may not be the last exam of your degree programme (or first stage in case of diploma programmes).\n\nIf you do not have the required proof, the need to pass the additional exam will be specified during the admission procedure. This will be stated in your student record sheet.\n\nThe additional exam can be passed by using the offered courses of the Department for Classical Philology. You get all information at the [StudiesServiceCenter (SSC) Philological and Cultural Studies](https://ssc-philkultur.univie.ac.at/studium/zusatz-und-ergaenzungspruefungen/).\n\n[6] ABC of terminology — G\nthe time of application. You may also be required to take other supplementary subject-specific examinations. You must pass these before you can be admitted to the degree programme Related Links: - [Studying in the University Preperation Programme of the Vienna Universities (VWU)](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) - [University Preparation Programme of the Vienna Universities (VWU)](https://vorstudienlehrgang.at/en) - [Language Center of the University of Vienna ('Sprachenzentrum der Universität Wien')](https://sprachenzentrum.univie.ac.at/en/german-courses/) Related entries: - [Language Center (\"Sprachenzentrum\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31262&cHash=80cc82dcf57df276aa80a1d85db48da7) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - [Supplementary examinations (in the admission letter of master programmes)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=39934&cHash=afe5309d2001380a942b0e76da2bdf2b) - Graduation Ceremony The successful completion of your bachelor, diploma, master or doctoral studies can be celebrated worthily during a ceremony in the Main Ceremonial Chamber of the University of Vienna. A registration is possible via u:space. Related Links: - [u:space](https://uspace.univie.ac.at/en/web/gast) - [ceremonies and celebrations](https://event.univie.ac.at/en/ceremonies-and-celebrations/ceremonies-celebrations/) Related entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa) - [\"Promotion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31237&cHash=e793360b6437022540232d8d31aeb91e) - [\"Sponsion\"](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31260&cHash=e8c5fd8a99c8b76330762d7d81dabe59) - Grants and scholarships The University of Vienna offers students with EU/EEA/CH citizenship and students with equal status different grants and scholarships. These range from merit scholarships for excellent study achievements to research scholarships for the implementation of a not yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with\n\nQuestion: do i seriously need latin for law?? and if i did latin in school does that just count or do i have to sit some extra exam"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2962,
+        "completion_tokens": 69,
+        "total_tokens": 3031
+      },
+      "rate_limit_events": [],
+      "raw_response": "For the Law diploma programme, you need to pass the additional exam in Latin during the first stage of the degree programme [4]. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given, and you can prove this by means of your school transcripts during the first-time admission [1].",
+      "finish_reason": "stop",
+      "latency_ms": 1346.9
+    }
+  },
+  "query_id": "g23:weird:0",
+  "status": "ok",
+  "answer": "For the Law diploma programme, you need to pass the additional exam in Latin during the first stage of the degree programme [4]. If you attended Latin at a secondary school for at least ten hours per week, the knowledge is taken as given, and you can prove this by means of your school transcripts during the first-time admission [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+      "title": "Additional exams",
+      "heading_path": [
+        "Latin"
+      ],
+      "section": "Admission",
+      "chunk_id": "518a957ec376-003",
+      "score": 0.7865
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-exams/",
+      "title": "Additional exams",
+      "heading_path": [],
+      "section": "Admission",
+      "chunk_id": "518a957ec376-000",
+      "score": 0.6968
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2962,
+    "completion_tokens": 69,
+    "total_tokens": 3031
+  },
+  "total_latency_ms": 1364.1
+}

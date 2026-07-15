@@ -1,0 +1,38 @@
+# env — .env holds the 4 Groq keys; never commit it
+.venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local model / qdrant caches
+.cache/
+qdrant_storage/
+traces/
+
+# --- run traces -------------------------------------------------------------------
+# Keep the EVIDENCE, skip the bulk. Every number in EXPERIMENTS.md is backed by a
+# runs/<id>/eval/scores.json, and those are ~100 KB each; the full per-query traces are
+# tens of MB because each one embeds the text of 20 retrieved chunks.
+#
+# Rule of thumb: commit a trace only if it is expensive to reproduce.
+#   retrieval-only runs -> regenerate free in ~30s (`harness --retrieve-only`)
+#   generated runs      -> cost real tokens against a 100k/day/key/model quota
+runs/*
+!runs/index.jsonl
+!runs/*/
+!runs/*/manifest.json
+!runs/*/queries.jsonl
+!runs/*/eval/
+!runs/*/eval/**
+
+# Full per-query traces: excluded by default (bulk, and usually reproducible)…
+runs/*/queries/
+
+# …except E0's generation fragment. Its 143 answers cost 304,834 tokens — 76% of a
+# day's entire free-tier budget — and they are the only real generated answers in the
+# repo (the frontend's demo data). Losing them means waiting a day to get them back.
+!runs/20260715-193039-cc9a/queries/
+!runs/20260715-193039-cc9a/queries/**

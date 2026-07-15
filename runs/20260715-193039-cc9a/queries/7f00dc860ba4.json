@@ -1,0 +1,726 @@
+{
+  "trace_id": "7f00dc860ba4",
+  "run_id": "20260715-193039-cc9a",
+  "config_hash": "f22363afaf1d",
+  "query": "How do I update my personal details, like my address or name, at the university?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How do I update my personal details, like my address or name, at the university?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.8122,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.8029,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7647,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7135,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.6985,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.6975,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6929,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.6897,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "33b149ca0707-004",
+          "page_id": "33b149ca0707",
+          "score": 0.6884,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 203,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.6853,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "979915677463-001",
+          "page_id": "979915677463",
+          "score": 0.6768,
+          "url": "https://studieren.univie.ac.at/en/admission/ceepus-students/",
+          "title": "CEEPUS students",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "1. Contact the admission office\n   Let us know, which programme you were nominated for. Add your Letter of Award and Scholarship Details merged into one PDF file via\n   - the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/1945) for bachelor's/diploma programmes or\n   - the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1995) for master's programmes.\n2. You will be preliminarily admitted to the degree programme\n   You will receive an e-mail with your student ID number and information on further steps.\n3. Pay the Students' Union fee after the appointment\n   Once the Students' Union fee is received by the University of Vienna, the admission procedure is complete. You can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n- [Central CEEPUS Office](http://www.ceepus.info/content/contact)\n- [International Office](https://international.univie.ac.at/en/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)"
+        },
+        {
+          "id": "c2bb4a72f574-000",
+          "page_id": "c2bb4a72f574",
+          "score": 0.6768,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Current students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6738,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "742c275ff565-000",
+          "page_id": "742c275ff565",
+          "score": 0.6729,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/education-fairs/",
+          "title": "Education Fairs",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 31,
+          "text": "[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.6713,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6692,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "c2bb4a72f574-003",
+          "page_id": "c2bb4a72f574",
+          "score": 0.6689,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 207,
+          "text": "The payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there."
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.665,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-010",
+          "page_id": "33b149ca0707",
+          "score": 0.6634,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 160,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "479712f83ed4-011",
+          "page_id": "479712f83ed4",
+          "score": 0.6628,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you want to study at the University of Vienna. Pay the prescribed tuition fee/Students' Union fee at the university of arts. Then continue with step 3. ##### Step 3: Complete the admission at the University of Vienna 1. Send a message with the subject line “Lehramt Kunstuniversität” via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/927). Send the following documents attached to your message: 1. All pages of your secondary-school leaving certificate merged into one PDF file including translation if the document was not issued in German or English 2. Your current student record sheet of the university of arts 2. We will process your application and inform you via e-mail. ##### Step 4: Order your u:card and plan your semester Wait a few days after receiving the confirmation via e-mail. Log into u:space → Financial matters → Tuition fee/Students' Union fee and check if the fee is marked as received. If yes, you can order your student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission"
+        }
+      ],
+      "latency_ms": 13.7
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.8122,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.8029,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7647,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7135,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.6985,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.6975,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6929,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "3e01e2a03613-000",
+          "page_id": "3e01e2a03613",
+          "score": 0.6897,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 222,
+          "text": "Confirmations for external institutions, parents and other third parties may only be issued if they can provide an authorisation (power of attorney) and copy of the personal ID of the person concerned. Exceptions apply for lawyers who request information about a person represented by them as well as in the course of the obligatory exchange of information between local or government authorities (\"Amtshilfe\").\n\nPlease always directly contact the person concerned in the first place due to data protection regulations. Current students can download their student documents directly in u:space > Personal matters > My documents or request special confirmations via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Former students message us at [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nIf you are unable to receive the confirmation by the person concerned you can contact [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). Describe which information has to be confirmed in your message. In any case include the name, date of birth and (if known) student ID number of the person.\n\nFor information regarding examination results please contact the [StudiesServiceCenter of the respective degree programme](http://ssc.univie.ac.at/en).\n\nThe Admission Office may issue confirmations for third parties if they provide a signed authorisation (power of attorney) of the person concerned. Send the authorisation, a scan of the valid personal ID of the person concerned and a scan of your own personal ID via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need in your message."
+        },
+        {
+          "id": "33b149ca0707-004",
+          "page_id": "33b149ca0707",
+          "score": 0.6884,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 203,
+          "text": "1. Complete the [Online-Self-Assessment](http://self-assessment.univie.ac.at) (OSA) of the desired degree programme. Afterwards you receive your OSA code, which you will need in the further procedure.\n2. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Enter your OSA code.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n3. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n4. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.6853,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "979915677463-001",
+          "page_id": "979915677463",
+          "score": 0.6768,
+          "url": "https://studieren.univie.ac.at/en/admission/ceepus-students/",
+          "title": "CEEPUS students",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "1. Contact the admission office\n   Let us know, which programme you were nominated for. Add your Letter of Award and Scholarship Details merged into one PDF file via\n   - the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/1945) for bachelor's/diploma programmes or\n   - the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1995) for master's programmes.\n2. You will be preliminarily admitted to the degree programme\n   You will receive an e-mail with your student ID number and information on further steps.\n3. Pay the Students' Union fee after the appointment\n   Once the Students' Union fee is received by the University of Vienna, the admission procedure is complete. You can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n- [Central CEEPUS Office](http://www.ceepus.info/content/contact)\n- [International Office](https://international.univie.ac.at/en/)\n- [Tips on how to create your semester schedule](/en/semester-planning/)\n- [Detailed info on the u:card](http://ucard.univie.ac.at/en)\n- [Studying and Living - Who can help me with...?](/en/student-life-who-can-help-me-with/)"
+        },
+        {
+          "id": "c2bb4a72f574-000",
+          "page_id": "c2bb4a72f574",
+          "score": 0.6768,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Current students of the University of Vienna can download most confirmations in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents themselves at any time. The documents carry an official electronic signature and are accepted by official authorities.\n\nOn this page you can find an overview of the most common confirmations and information on where to receive them.\n\nThe student documents (student record sheet, confirmation of enrolment and confirmation of study periods) confirm your admission at the University of Vienna. Always try to hand in these officially electronically signed documents at the authority requesting the confirmation first. You can download your study documents in u:space.\n\nYou need a confirmation that contains information that is not contained in the documents available in u:space? Or confirmations with \"wet\" stamp and signature? Please message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Answer the following questions in your request:\n\n- What should be confirmed?\n- For which authority shall the confirmation be issued?\n- Do you need a \"wet\" stamp and signature or official electronic signature?\n- Shall the confirmation be issued in English or German?"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.6738,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "742c275ff565-000",
+          "page_id": "742c275ff565",
+          "score": 0.6729,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/education-fairs/",
+          "title": "Education Fairs",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 31,
+          "text": "[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "3e01e2a03613-001",
+          "page_id": "3e01e2a03613",
+          "score": 0.6713,
+          "url": "https://studieren.univie.ac.at/en/confirmations-third-parties/",
+          "title": "Confirmations for third parties",
+          "section": "Study organisation",
+          "heading_path": [
+            "Verifications of education or academic degree"
+          ],
+          "word_count": 151,
+          "text": "Due to data protection regulations you have to keep several things in mind for the verification of academic degrees.\n\nThe Büro Studienpräses needs a scan of the personal ID of the person (as JPEG or PDF) as well as a signed declaration of consent. This declaration has to include the following information:\n\n- Specification of the data required (e.g. academic degree, number of achieved ECTS etc.)\n- Name\n- Date of birth\n- Address of the office or name and address of the person concerned\n- Degree programme\n- Student ID number\n- Purpose\n\nSend your request for verification of academic degrees to the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](mailto:verifications@univie.ac.at). An exemption are degrees of dental and medical degree programmes.\n\nFor confirmations of degrees of dental and medical programmes please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/), even if the diploma was issued by the University of Vienna (this was the case until 2004)."
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6692,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "c2bb4a72f574-003",
+          "page_id": "c2bb4a72f574",
+          "score": 0.6689,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 207,
+          "text": "The payment confirmation for the [tuition fee/Students' Union fee](/en/tuition-fee/) is available in u:space > Personal matters > My documents > Semester specific documents > payment request/confirmation.\n\nA confirmation of the payment of the administration fee for [bachelor programmes with entrance exam procedure](/en/entrance-exam/) is included in the registration confirmation for the entrance exam procedure. This document is available when you have applied for admission to one of these programmes.\n\nYour examination results are included in your transcript of records and the confirmation of courses passed in [u:space](http://uspace.univie.ac.at/en).\n\nIf you need confirmations beyond that or if you have no access to u:space anymore please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a duplicate of your degree certificate or diploma supplement please contact the [StudiesServiceCenter (SSC)](http://ssc.univie.ac.at/en) of your degree programme.\n\nIf you need a confirmation of your academic degree for an external agency please contact the [Büro Studienpräses](https://studienpraeses.univie.ac.at/) at [verifications@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,xgtkhkecvkqpuBwpkxkg0ce0cv');). Exempt from this are degrees from dental or medical studies.\n\nIf you have studied dental or human medicine in the past please contact the [Medical University of Vienna](https://www.meduniwien.ac.at/web/en/) directly. Since 1 January 2004 it is no longer part of the University of Vienna. Your data is available at the Medical University and can be verified there."
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.665,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "33b149ca0707-010",
+          "page_id": "33b149ca0707",
+          "score": 0.6634,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 160,
+          "text": "participated in the entrance exam procedure and fulfil all admission requirements. After a processing time of few weeks you will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents. 5. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after the results of the entrance exam were announced and you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. The sporting aptitude admission test takes place twice per year. Therefore, an application for admission to the [bachelor programme in Sport and Human Movement Science](/en/admission/bachelordiploma-programmes/sport-science/) is also possible before the summer semester. Please note the applicable [application and admission deadlines](/en/entrance-exam/deadlines-for-entrance-exam-procedures/#c490977). - [Exemptions from the entrance exam procedure when changing a degree programme](/en/entrance-exam/exemptions-from-entrance-exam-procedure/)"
+        },
+        {
+          "id": "479712f83ed4-011",
+          "page_id": "479712f83ed4",
+          "score": 0.6628,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you want to study at the University of Vienna. Pay the prescribed tuition fee/Students' Union fee at the university of arts. Then continue with step 3. ##### Step 3: Complete the admission at the University of Vienna 1. Send a message with the subject line “Lehramt Kunstuniversität” via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/927). Send the following documents attached to your message: 1. All pages of your secondary-school leaving certificate merged into one PDF file including translation if the document was not issued in German or English 2. Your current student record sheet of the university of arts 2. We will process your application and inform you via e-mail. ##### Step 4: Order your u:card and plan your semester Wait a few days after receiving the confirmation via e-mail. Log into u:space → Financial matters → Tuition fee/Students' Union fee and check if the fee is marked as received. If yes, you can order your student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission"
+        }
+      ],
+      "latency_ms": 0.1
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "41b1f757586e-000",
+          "page_id": "41b1f757586e",
+          "score": 0.8122,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "During your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card."
+        },
+        {
+          "id": "41b1f757586e-001",
+          "page_id": "41b1f757586e",
+          "score": 0.8029,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 204,
+          "text": "If you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card)."
+        },
+        {
+          "id": "c2bb4a72f574-001",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7647,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "word_count": 95,
+          "text": "If you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)"
+        },
+        {
+          "id": "c2bb4a72f574-002",
+          "page_id": "c2bb4a72f574",
+          "score": 0.7135,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "The Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/)."
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.6985,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.6975,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Change of personal data\nDuring your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card.\n\n[2] Change of personal data\nIf you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card).\n\n[3] Confirmations for (former) students — Confirmations of admission > Info for former students\nIf you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)\n\n[4] Confirmations for (former) students\nThe Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/).\n\n[5] Change of bachelor/diploma programmes — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.\n\n[6] Confirmations\nCurrent students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned.",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "41b1f757586e-000",
+          "score": 0.8122
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+          "title": "Change of personal data",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "41b1f757586e-001",
+          "score": 0.8029
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "heading_path": [
+            "Confirmations of admission",
+            "Info for former students"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "c2bb4a72f574-001",
+          "score": 0.7647
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/confirmations-students/",
+          "title": "Confirmations for (former) students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "c2bb4a72f574-002",
+          "score": 0.7135
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-017",
+          "score": 0.6985
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "f34d0e11d342-000",
+          "score": 0.6975
+        }
+      },
+      "context_chars": 7665,
+      "latency_ms": 0.1
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Change of personal data\nDuring your studies, some of your personal data might change (e.g. your address or academic degree). It may also happen that some of your personal data in our system are incorrect (e.g. date of birth, spelling of your name).\n\n- You can change certain data yourself via u:space, while other changes require you to provide documentation.\n- Data changes are only made for active students and persons who are in the process of applying for admission.\n- Doctoral/PhD students who would like to change their personal data should contact [doktorat.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,fqmvqtcv0bwncuuwpiBwpkxkg0ce0cv');).\n- If you are attending a university course and would like to change your personal data, please contact the [Service Center of the Postgraduate Cente](https://postgraduatecenter.at/en/about-us/contact/)r.\n\nYou can change the following data yourself via [u:space](https://uspace.univie.ac.at/en/web/gast).\n\n- Forwarding e-mail address\n- Phone number\n- Home and different delivery address\n- Bank account details\n\nPlease note that some of these fields are required fields. Bear in mind to keep your data up to date.\n\nIf your name has changed (e.g. through marriage), please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable documentation (e.g. marriage certificate) and a scan of your passport or ID card. As soon as your has been changed, you can order a new [u:card](http://ucard.univie.ac.at/en) > Personal Matters > My u:card.\n\n[2] Change of personal data\nIf you want your academic degree(s) that were awarded by a different university/higher education institution to appear on all your documents, please send the applicable documentation (e.g. official notice of degree award) via the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office. We can only enter degrees awarded by academic institutions within the EU/EEA or degrees recognised through a [nostrification](https://studienpraeses.univie.ac.at/en/nostrification/) procedure. Please contact the [StudiesServiceCenter](https://ufind.univie.ac.at/en/search.html?filter=units&query=ssc) of your degree programme, if an academic degree awarded by the University of Vienna does not appear in your personal data in u:space.\n\nIf you changed your citizenship, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (proof of citizenship and passport or ID card).\n\nIf your gender has been entered incorrectly, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing the applicable proof (passport or ID card).\n\n[Information about change of name and person for trans\\*persons](http://gleichbehandlung.univie.ac.at/aufgaben/namens-und-personenstandsaenderungen-fuer-transpersonen/)\n\nIn case your date of birth is incorrect or your name is misspelled in our system, please use the [contact form](/en/contact-form/) (Topic: Change of data) to reach the Admission Office, providing documentation for the correct spelling or date of birth (passport or ID card).\n\n[3] Confirmations for (former) students — Confirmations of admission > Info for former students\nIf you do not study at the University of Vienna anymore send your request to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');). State which confirmation you need. Include a scan of your valid personal ID in the format JPEG or PDF. If your name has changed since your time at the University of Vienna, also add an official proof of the change of name (e.g. marriage certificate) to your message. Include the following information:\n\n- First and last name\n- Date of birth\n- Student ID number (if known)\n- Degree programme studied\n- Beginning and end of studies (if known)\n\n[4] Confirmations for (former) students\nThe Admission Office may also confirm information about the admission to degree programmes in forms provided by other authorities (e.g. in the form for orphan's allowance). Information that cannot be confirmed will be crossed out in the form or explained by added comments. This is, for example, the prospective date of completion of the degree programme.\n\nFill in the form with your personal data and send all pages of the form combined into one PDF file via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/50). Always send all pages of the form – even if other pages contain information that cannot be confirmed by the Admission Office. We will send you the completed, stamped and signed form as PDF file. If you need the confirmation via post please let us know in your message. Make sure that your current address is stored in u:space at Personal matters > Personal data.\n\nFormer students who do not have an active u:account (anymore) can send their request including all attachments via e-mail to [bestaetigungen.zulassung@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,dguvcgvkiwpigp0bwncuuwpiBwpkxkg0ce0cv');).\n\nPlease note: BAföG forms can only be confirmed by the [StudiesServiceCenter of your degree programme](http://ssc.univie.ac.at/en).\n\nMilitary or civil service is not a special case of hardship according to § 26 para 3 military law. You can download your confirmation of enrolment in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time.\n\nDuring your military or civil service you can be on [leave of absence](/en/admission/leave-of-absence/).\n\n[5] Change of bachelor/diploma programmes — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail.\n\n[6] Confirmations\nCurrent students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned.\n\nQuestion: How do I update my personal details, like my address or name, at the university?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 1944,
+        "completion_tokens": 100,
+        "total_tokens": 2044
+      },
+      "rate_limit_events": [],
+      "raw_response": "You can change certain data yourself via u:space, such as your address, phone number, and bank account details [1]. For changes to your name, you need to use the contact form and provide documentation, such as a marriage certificate [1][2]. If you're a doctoral/PhD student, contact doktorat.zulassung@univie.ac.at [1]. If you're attending a university course, contact the Service Center of the Postgraduate Center [1].",
+      "finish_reason": "stop",
+      "latency_ms": 5774.7
+    }
+  },
+  "query_id": "g13:canonical:0",
+  "status": "ok",
+  "answer": "You can change certain data yourself via u:space, such as your address, phone number, and bank account details [1]. For changes to your name, you need to use the contact form and provide documentation, such as a marriage certificate [1][2]. If you're a doctoral/PhD student, contact doktorat.zulassung@univie.ac.at [1]. If you're attending a university course, contact the Service Center of the Postgraduate Center [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+      "title": "Change of personal data",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "41b1f757586e-000",
+      "score": 0.8122
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/change-of-personal-data/",
+      "title": "Change of personal data",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "41b1f757586e-001",
+      "score": 0.8029
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 1944,
+    "completion_tokens": 100,
+    "total_tokens": 2044
+  },
+  "total_latency_ms": 5788.7
+}
