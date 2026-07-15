@@ -75,8 +75,10 @@ than hashing everything:
 | `config_hash` | **`index_hash`** + `query_instruction`, `candidate_k`, `top_k`, `query_mode`, `retriever_mode`, `rerank`, `model`, `prompt_version`, `temperature`, `max_tokens` | which pipeline produced this answer? |
 | `eval_hash` | `gold_set`, `judge_model`, `judge_prompt_version`, `judge_max_tokens` | how was it scored? |
 
-`collection` is in none — it's a physical location, not identity (the live name is
-`physical_collection` = `collection_<index_hash>`). **`config_hash` nests `index_hash`**,
+`collection` and `qdrant_url` are in none — they're physical *locations*, not identity
+(the live name is `physical_collection` = `collection_<index_hash>`; the same vectors are
+the same vectors in a local file or a Docker server — verified: both score `consistency`
+0.426785). **`config_hash` nests `index_hash`**,
 so two runs sharing a `config_hash` provably share an index — which is why the ledger
 carries `config_hash` + `eval_hash` and needs no `index_hash` column. Two runs are
 comparable iff `config_hash` matches; their *scores* are comparable iff `eval_hash`
@@ -145,8 +147,12 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
   | forget to re-chunk, **do** re-index | **sidecar only** (name right, contents stale) |
   | forget both | collection name |
 
-- **[B]** **Run mode: local persistent path** (zero infra, persists to disk).
-  **[I]** Docker-server = parity upgrade, ~1-line client change.
+- **[B]** **Run mode: Docker server** (`docker-compose.yml`; `QDRANT_URL=http://localhost:6333`)
+  — done 2026-07-15. The local persistent path remains the zero-infra fallback (unset
+  `QDRANT_URL`), but it takes an **exclusive file lock**: one process at a time, so a
+  frontend holding it locks out every index/harness run. `get_client(cfg)` picks the
+  backend; `qdrant_url` is `_UNHASHED` (a location, not identity) and both backends were
+  verified bit-identical. Payload indexes only actually work on the server.
 
 ### 4. Query processing
 - **[B]** Single query, embedded with bge query prefix. (Deliberately the flaky
@@ -289,6 +295,7 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 | 27 | Eval phases | generate (costly, spans days) and score (reads traces off disk) are separate; `--score r1,r2` merges runs | The headline needs no LLM, so it is free and instant; judge prompts need iteration without re-generating; the daily quota forces a generated panel across runs. Runs are never reopened (close() would double the ledger row) | — |
 | 28 | Judge failures | truncated/unparseable/refused ⇒ score `None`, **excluded**, never 0; `n_judged` reported | Scoring the pipeline 0 because our evaluator misbehaved manufactures a grounding failure it never committed | — |
 | 29 | Judge budget | `judge_max_tokens` separate from `max_tokens`; `judge_sample` pins which phrasings get judged | gpt-oss is a *reasoning* model — at the generator's 1024 it spent the budget thinking and returned empty content. And 100k tok/day/key/model makes a full judged panel multi-day, so the sample must be pinned to stay comparable | paid tier |
+| 30 | Vector store runtime | **Qdrant in Docker** (`docker-compose.yml`, `QDRANT_URL`); local path still the fallback. `qdrant_url` is `_UNHASHED` | The local path's exclusive file lock made the frontend and any harness/index run mutually exclusive (verified: 2nd process dies with `BlockingIOError`; against the server both succeed). Also closer to the company's stack, and payload indexes are a silent **no-op** in local mode. Not hashed because the backend holds the same vectors — verified bit-identical (`consistency` 0.426785 both ways), so E0 stays comparable across the switch | — |
 
 ## Status
 **E0 is measured** (2026-07-15) — `config_hash f22363afaf1d` · `index_hash 2747344b6db6`.
@@ -308,7 +315,7 @@ mis-anchoring (#12 — 26.6% of vectors) and duplicate tail chunks (#11), monoto
 (#19), fail-loud `retriever_mode` (#4), `finish_reason` truncation reported (#16).
 Remaining open findings → `HANDOFF.md`.
 
-Next: **the frontend** over `runs/` (resolve the Qdrant single-process lock first), and
+Next: **the frontend** over `runs/` (the Qdrant lock is resolved — Docker, decision 30), and
 **iteration levers** — cross-encoder rerank (bounded upside already measured: +0.092
 recall headroom) and multi-query+RRF (attacks the page-set churn `consistency` measures).
 One lever at a time, each an `EXPERIMENTS.md` entry measured against E0.

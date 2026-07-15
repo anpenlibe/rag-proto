@@ -66,9 +66,13 @@ GROQ_API_KEYS=gsk_a,gsk_b,gsk_c,gsk_d      # comma-separated
 ## Usage
 
 ```bash
-# 1. build corpus artifacts (idempotent)
+# 0. start Qdrant (recommended — the local-file fallback allows only ONE process)
+docker compose up -d
+export QDRANT_URL=http://localhost:6333     # unset it to use qdrant_storage/ instead
+
+# 1. build corpus artifacts
 PYTHONPATH=src .venv/bin/python -m rag.chunk      # pages.jsonl -> data/chunks.jsonl
-PYTHONPATH=src .venv/bin/python -m rag.index      # -> local Qdrant (qdrant_storage/)
+PYTHONPATH=src .venv/bin/python -m rag.index      # -> Qdrant (once per index_hash)
 
 # 2. ask a question
 PYTHONPATH=src .venv/bin/python -m rag.pipeline "How much is the tuition fee?"
@@ -103,9 +107,11 @@ qdrant_storage/  local Qdrant data (gitignored)
 
 ## Notes / gotchas
 
-- **Local Qdrant allows one process at a time** (exclusive file lock) — you can't
-  index and query concurrently, and a long-lived frontend will lock out everything
-  else. Running Qdrant in Docker is the documented fix.
+- **Local Qdrant allows one process at a time** (exclusive file lock) — you can't index
+  and query concurrently. **Fix: run Qdrant in Docker** (below); parity is exact (both
+  backends score `consistency` 0.426785) and no hash moves, since the backend is a
+  location, not part of the index's identity. Payload indexes are also a silent no-op in
+  local mode and only work on the server.
 - **`temperature=0` is not deterministic on Groq** — the same question can return a
   good answer or "I don't know" across runs. That's a real consistency problem, not a
   bug. (But E0 shows the *headline* problem is retrieval-side, not generation-side.)

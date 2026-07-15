@@ -23,8 +23,11 @@ Build the baseline first (get parity with the company's setup), *then* iterate.
 Matches the company's stack: **Qdrant + a small embedding model + Groq**. (Company
 uses OpenAI `text-embedding-3-small`; local free substitute is bge-small below.)
 
-- **Vector DB:** Qdrant, **local persistent path** for v1 (Docker server = 1-line
-  parity upgrade later).
+- **Vector DB:** Qdrant. **Docker server** (`docker-compose.yml`, `QDRANT_URL=http://localhost:6333`)
+  — the local persistent path is the zero-infra fallback but takes an **exclusive file
+  lock** (one process at a time), and its payload indexes are a silent no-op. The backend
+  is `_UNHASHED`: same vectors either way (verified bit-identical), so switching moves no
+  hash.
 - **Embeddings:** `BAAI/bge-small-en-v1.5` (384-dim, cosine) via **fastembed**
   (ONNX/CPU, no torch). Instant for 121 pages. bge query-side instruction prefix
   applies for retrieval. Swappable — keep the embedder behind one interface.
@@ -152,7 +155,7 @@ heading path) — provenance is already in the schema, don't bolt it on later.
   the daily token quota ran out. See `docs/EXPERIMENTS.md` → E0.
 - ✅ **106 tests** (`.venv/bin/python -m pytest`) — no network, no Qdrant.
 - ⬜ Finish E0's judged panel when the quota resets (commands in `HANDOFF.md`).
-- ⬜ Frontend over `runs/` — **next**. Resolve the Qdrant single-process lock first.
+- ⬜ Frontend over `runs/` — **next**. Qdrant lock resolved via Docker (`QDRANT_URL`).
 - ⬜ Iteration levers — measurement now exists. E0 says start **retrieval-side**.
 
 ⚠️ **Free-tier budget: 100k tokens/DAY/key/model** (~400k across 4 keys). It is invisible
@@ -176,4 +179,6 @@ perfectly deterministic), while the generator is comparatively robust
 - Tests: `.venv/bin/python -m pytest` (106, fast, no network).
 - Keys: `.env` holds 4 Groq keys (loader accepts `GROQ_API_KEYS=` OR `k1..k4`).
 - `RAG_EMBED_THREADS` (default 6) caps onnxruntime so indexing doesn't peg all cores.
-- Note: local Qdrant path allows only ONE process at a time (file lock).
+- **Qdrant:** `docker compose up -d` + `export QDRANT_URL=http://localhost:6333`. Without
+  it you fall back to the local path, which allows only ONE process at a time (file lock)
+  — that blocks running the frontend and a harness pass together.

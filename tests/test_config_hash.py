@@ -65,6 +65,23 @@ def test_collection_rename_is_not_identity():
     assert other.eval_hash == base.eval_hash
 
 
+def test_qdrant_backend_is_not_identity():
+    """Local file vs Docker server holds the *same vectors* — a location, not an
+    identity. Verified empirically: both backends score consistency 0.426785."""
+    base = replace(Config(), qdrant_url="")
+    server = replace(base, qdrant_url="http://localhost:6333")
+    assert server.config_hash == base.config_hash
+    assert server.index_hash == base.index_hash
+    assert server.eval_hash == base.eval_hash
+
+
+def test_qdrant_url_defaults_from_env(monkeypatch):
+    monkeypatch.setenv("QDRANT_URL", "http://example:6333")
+    assert Config().qdrant_url == "http://example:6333"
+    monkeypatch.delenv("QDRANT_URL")
+    assert Config().qdrant_url == ""
+
+
 # -- what MUST move it ----------------------------------------------------------------
 @pytest.mark.parametrize("field_name,value", [
     ("target_words", 150),

@@ -48,6 +48,7 @@ runs.
 | run_id | date | label | config_hash | eval_hash | n_queries | total_tokens | avg_latency_ms | eval_score |
 |--------|------|-------|-------------|-----------|-----------|--------------|----------------|------------|
 | 20260715-195821-911f | 2026-07-15 | E0 retrieval panel (240/240, 0 tokens) | `f22363afaf1d` | `4a7e973b7ae9` | 240 | 0 | 7.7 | **0.427** (consistency_weird=0.399 recall@k=0.875 recall@cand=0.967 mrr=0.757 n=240 avg_ms=8 p95_ms=10) |
+| 20260715-202245-2583 | 2026-07-15 | E0 retrieval panel (Docker Qdrant parity) | `f22363afaf1d` | `4a7e973b7ae9` | 240 | 0 | 11.0 | **0.427** (consistency_weird=0.399 recall@k=0.875 recall@cand=0.967 mrr=0.757 n=240 avg_ms=11 p95_ms=15) |
 <!-- RUN-LEDGER:END -->
 
 ---

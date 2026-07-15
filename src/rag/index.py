@@ -25,10 +25,22 @@ def point_uuid(chunk_id: str) -> str:
     return str(uuid.uuid5(_NS, chunk_id))
 
 
-def get_client() -> QdrantClient:
-    """Open the local persistent Qdrant. Note: only one process may hold it at a time."""
+def get_client(cfg: Config | None = None) -> QdrantClient:
+    """Open Qdrant — server if `qdrant_url` is set, else the local persistent path.
+
+    The local path takes an EXCLUSIVE file lock: one process at a time, so a frontend
+    holding it locks out every index/harness run. The server has no such limit and is
+    also closer to the company's stack — set QDRANT_URL to switch (see docker-compose.yml).
+    """
+    cfg = cfg or Config()
+    if cfg.qdrant_url:
+        return QdrantClient(url=cfg.qdrant_url)
     QDRANT_PATH.mkdir(parents=True, exist_ok=True)
     return QdrantClient(path=str(QDRANT_PATH))
+
+
+def backend(cfg: Config) -> str:
+    return cfg.qdrant_url or f"local:{QDRANT_PATH.name}"
 
 
 def assert_chunks_current(cfg: Config) -> dict:
@@ -72,7 +84,7 @@ def build_index(cfg: Config | None = None, batch: int = 256) -> int:
         )
 
     embedder = Embedder(cfg)
-    client = get_client()
+    client = get_client(cfg)
     name = cfg.physical_collection
 
     dim = len(embedder.embed([chunks[0]["embed_text"]])[0])
@@ -98,6 +110,7 @@ def build_index(cfg: Config | None = None, batch: int = 256) -> int:
 
     count = client.count(name).count
     print(f"index_hash={cfg.index_hash}  collection={name}  dim={dim}")
+    print(f"backend: {backend(cfg)}")
     print(f"indexed points: {count}  (chunks: {len(chunks)})")
     return count
 

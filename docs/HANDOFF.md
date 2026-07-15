@@ -108,10 +108,14 @@ regenerating — and scoring needs no Qdrant lock.
    - Mitigating evidence for the generator: `answer_agreement` 0.868 ≫ `consistency`
      0.465 on the same fragment, i.e. the generator is *more* paraphrase-robust than the
      retriever.
-2. **Local Qdrant takes an exclusive file lock — one process at a time.** The frontend
-   and a harness run cannot both hold `qdrant_storage/`. Options: run Qdrant in Docker
-   (the documented 1-line parity upgrade), or serialise access behind one process.
-   **Decide this before building the frontend.**
+2. ~~**Local Qdrant takes an exclusive file lock**~~ — **resolved 2026-07-15 (Docker).**
+   Set `QDRANT_URL=http://localhost:6333` (see `docker-compose.yml`) and the lock is
+   gone: verified two concurrent retrievers succeed against the server, while the local
+   path fails the second with `BlockingIOError`. **Parity verified — both backends score
+   `consistency` 0.426785, bit-identical.** The backend is in `_UNHASHED`: same vectors,
+   same identity, so no hash moves and E0 stays comparable. Unset `QDRANT_URL` to fall
+   back to the local path. Bonus: payload indexes are silently a **no-op** in local mode
+   and only become real on the server.
 3. **`gold_v1` contains deliberate hard negatives** — near-neighbour pages that should
    punish sloppy retrieval (minimum-credits vs prüfungsaktiv, both "16 ECTS" but
    different windows/consequences; the three registration pages). Confusing them is a
@@ -150,7 +154,7 @@ number — see `ARCHITECTURE.md` decisions 23–29 and `EXPERIMENTS.md` → E0):
 | # | Issue | Why it matters |
 |---|---|---|
 | **3** | **The multi-query/HyDE seam is fake.** `pipeline.py` does `retrieve(queries[0])` — variants are dropped, no RRF fuse step exists. | Now the **#1 lever**: E0 proves the paraphrase problem is retrieval-side page-set churn (`consistency` 0.427). Add `rag/fuse.py` (RRF) + loop over all variants — identity makes it a no-op today, so it can land without moving E0. Also: rerank scores against the original `query` while retrieval used `queries[0]` — decide explicitly. |
-| **15** | **Local Qdrant takes an exclusive lock** — frontend + harness can't coexist. | Take the Docker parity upgrade **before the frontend**. Note scoring (`--score`) needs no lock — only generation does. |
+| ~~**15**~~ | ~~Local Qdrant exclusive lock~~ | **Closed 2026-07-15** — `docker-compose.yml` + `QDRANT_URL`; `get_client(cfg)` picks the backend. Concurrency and parity both verified. |
 | **13** | `overlap_words` applies to the window-split path only. | **Deliberate.** Packing merges whole heading-blocks; overlapping there duplicates text and re-creates #11. But it's in `index_hash`, so changing it yields a new hash + a near-identical index — you'd re-chunk, re-index, re-run and measure noise. |
 | — | `index.py` deletes the collection before rebuilding (no rollback; moots the "idempotent" stable-UUID comment). Now scoped to one `index_hash`, so a failed rebuild only breaks that index. |
 | — | **Judge noise is uncalibrated.** Two passes over *identical* traces gave `citation_acc` 0.529 → 0.444. Re-judge a fixed subset twice (~80 calls) to get a noise floor before trusting a small judged delta. `consistency` is immune (offline/deterministic). |
@@ -256,12 +260,31 @@ redesign them silently. Design points worth not re-litigating:
   ordered by section, so a plain prefix is a section-biased, non-comparable sample.
   **This is exactly how E0's judged fragment got biased** — see the ⚠️ above.
 
-## Then: the frontend
+## Next: the frontend
 
 Reads `runs/` (see logging model above). Must support: run a **custom ad-hoc query**,
 and **run the eval set**; and replay the full pipeline per query (retrieved → reranked
-→ selected → prompt → answer → citations). Resolve the Qdrant single-process lock
-first (see warning 2).
+→ selected → prompt → answer → citations).
+
+**The Qdrant lock is no longer a blocker** — start Docker Qdrant and export `QDRANT_URL`:
+```bash
+docker compose up -d          # or the plain-docker line in docker-compose.yml
+export QDRANT_URL=http://localhost:6333
+PYTHONPATH=src .venv/bin/python -m rag.index   # once per index_hash, into the server
+```
+
+Notes for whoever builds it:
+- **Replaying traces needs nothing but the filesystem** — no Qdrant, no keys. Build that
+  first; it's the traceability deliverable (requirement #2) and it works on a fresh clone.
+- **A custom ad-hoc query needs Qdrant + keys**, and spends the daily token budget
+  (~2.1k tokens each, ~400k/day total). Consider showing the remaining budget.
+- **`runs/<id>/eval/`** holds `scores.json` + `per_query.jsonl` + `per_group.jsonl` +
+  `judge/` — the substrate for an eval view (per-group `consistency`, which phrasings
+  diverged, judge reasons). This is why those files are committed while the bulk traces
+  are not.
+- Committed demo data: run `20260715-193039-cc9a` ships its **full traces with 143 real
+  answers**; `…-911f` / `…-2583` ship retrieval-only evidence. Don't assume every run
+  has a `generate` stage — check `status` (`ok` | `error` | `retrieval_only`).
 
 ## Then: iteration levers (one at a time, each an EXPERIMENTS.md entry)
 

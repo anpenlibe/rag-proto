@@ -18,8 +18,9 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import pathlib
-from dataclasses import asdict, dataclass, fields
+from dataclasses import asdict, dataclass, field, fields
 
 # --- paths (all relative to the repo root, resolved from this file) ---------------
 ROOT = pathlib.Path(__file__).resolve().parents[2]
@@ -46,7 +47,9 @@ _PIPELINE_FIELDS = (
 )
 _EVAL_FIELDS = ("gold_set", "judge_model", "judge_prompt_version", "judge_max_tokens",
                 "judge_sample")
-_UNHASHED = ("collection",)  # physical location, not identity — see physical_collection
+# Physical location, not identity: the same index_hash means the same vectors whether
+# they live in a local file or a Docker server, so neither may move a hash.
+_UNHASHED = ("collection", "qdrant_url")
 
 
 def _hash(payload: dict) -> str:
@@ -77,6 +80,13 @@ class Config:
 
     # -- vector store --
     collection: str = "univie_studying"   # base name; the live one is physical_collection
+    # Empty => local persistent path (zero infra, but an EXCLUSIVE file lock: one
+    # process at a time, so a long-lived frontend locks out every harness/index run).
+    # Set QDRANT_URL (e.g. http://localhost:6333) to use a server instead — no lock,
+    # concurrent readers, and closer parity with the company's stack. Not hashed: the
+    # vectors are identical either way. Recorded in the manifest so a trace still says
+    # which backend served it.
+    qdrant_url: str = field(default_factory=lambda: os.environ.get("QDRANT_URL", ""))
 
     # -- retrieval --
     candidate_k: int = 20             # vector-search pool size (what we retrieve)

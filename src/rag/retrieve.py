@@ -43,7 +43,7 @@ class Retriever:
                 f"retriever_mode={self.cfg.retriever_mode!r} not implemented yet "
                 f"(only {self.mode!r} exists)"
             )
-        self.client = client or get_client()
+        self.client = client or get_client(self.cfg)
         self.embedder = embedder or Embedder(self.cfg)
 
     def retrieve(self, query: str, k: int | None = None) -> list[Candidate]:

@@ -1,0 +1,38 @@
+# Qdrant as a server instead of a local file.
+#
+# Why: the local persistent path takes an EXCLUSIVE file lock — one process at a time.
+# A long-lived frontend holding it locks out every `rag.index` / `rag.eval.harness` run.
+# The server also matches the company's stack more closely, and makes payload indexes
+# real (they are silently a no-op in the local/in-process build).
+#
+#   docker compose up -d
+#   export QDRANT_URL=http://localhost:6333
+#   PYTHONPATH=src .venv/bin/python -m rag.index      # build the index in the server
+#
+# No compose installed? The equivalent plain-docker form:
+#   docker run -d --name rag-qdrant -p 6333:6333 -p 6334:6334 \
+#     -v rag_qdrant_storage:/qdrant/storage --restart unless-stopped qdrant/qdrant:latest
+#
+# Unset QDRANT_URL to fall back to the local path — nothing else changes, and no hash
+# moves: the backend is a location, not part of the index's identity.
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: rag-qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"   # REST + dashboard at http://localhost:6333/dashboard
+      - "6334:6334"   # gRPC
+    volumes:
+      # Named volume, deliberately NOT ./qdrant_storage — that path holds the
+      # local-mode files and the two formats must not be mixed.
+      - rag_qdrant_storage:/qdrant/storage
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c ':> /dev/tcp/127.0.0.1/6333' || exit 1"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+volumes:
+  rag_qdrant_storage:
