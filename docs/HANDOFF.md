@@ -169,8 +169,8 @@ this size; the *hash* is scoped instead. Don't add `corpus/`/`retrieval/` subpac
 `tests/{test_config_hash,test_chunk,test_metrics,test_ledger,test_judge,test_keypool,test_webui,test_gold_small}.py`.
 No network, no Qdrant, no real sleeps. `test_webui.py` builds a synthetic `runs/` tree in
 `tmp_path` and reads it back through `webui.store` (incl. the URL path-safety cases);
-`test_gold_small.py` guards `gold_v1_small` as a verbatim subset of `gold_v1`. The two that
-matter most:
+`test_gold_small.py` guards `gold_v1_small`'s structure (10 groups, both hard-negative
+clusters, section coverage). The two that matter most:
 - **`test_config_hash.py`** — the bucket-completeness assert + the scoping contract
   (`judge_model` must NOT move `config_hash`; `target_words` MUST move both). This is the
   regression that would silently undo the whole refactor.

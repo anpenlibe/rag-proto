@@ -276,7 +276,7 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 | 7 | Citations | numbered payload + `[n]` + validation | Metadata already in schema | — |
 | 8 | Tracing | per-run folders (`runs/<id>/`), full-pipeline record, run `kind` | Frontend replays entire pipeline; adhoc vs eval separated | want UI → Phoenix/Langfuse |
 | 9 | Baseline scope | single dense query + contextual chunks | Clean before/after; path-prepend also aids index/citation | — |
-| 10 | Eval | `gold_v1`: 40×6 (canonical+4 paraphrases+1 weird)=240; full panel. `gold_v1_small` = 20 groups verbatim (120) for cheap iteration | Measures the headline problem; balanced by section. A subset is a **new versioned set** (`--gold-set`, moves `eval_hash` only), never an in-place edit — keeps E0 comparable | — |
+| 10 | Eval | `gold_v1_small`: 10 groups × 6 (canonical+4 paraphrases+1 weird)=60; full panel. Distilled from a removed 40-group draft (`gold_v1`) to fit a full generate+judge pass in one day | Measures the headline problem; keeps both hard-negative clusters. A different set = a new `--gold-set` (moves `eval_hash` only, never `config_hash`) | grow the set → new versioned `gold_vN` |
 | 11 | Groq keys | pool of 4, round-robin + rotate-on-429; rotations logged | Survive free-tier limits; `key_id`/events logged, secret never | hitting limits on 4 |
 | 12 | Modularity | component interfaces + Config; experiment = config diff | Each layer tampered independently, results attributable | — |
 | 13 | Experiment tracking | `EXPERIMENTS.md` run-ledger (auto, eval runs only) + config_hash | Reproducible; adhoc queries don't spam the ledger | — |

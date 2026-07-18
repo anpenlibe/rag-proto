@@ -146,8 +146,8 @@ qdrant_storage/  local Qdrant data (gitignored)
 ## Evaluate it
 
 ```bash
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --retrieve-only  # headline, 0 tokens, no keys
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --gold-set gold_v1_small --retrieve-only  # 20-group subset (120 q)
+PYTHONPATH=src .venv/bin/python -m rag.eval.harness --retrieve-only  # headline (gold_v1_small, 60 q), 0 tokens, no keys
+PYTHONPATH=src .venv/bin/python -m rag.eval.harness                  # full generate + judge (60 q, fits in one day)
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --limit 3        # smoke, end-to-end
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --score <run_id> # re-score off disk
 .venv/bin/python -m pytest                                           # 124 tests
