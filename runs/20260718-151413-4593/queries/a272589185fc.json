@@ -1,0 +1,743 @@
+{
+  "trace_id": "a272589185fc",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "What's the minimum study output rule for the first four semesters?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What's the minimum study output rule for the first four semesters?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.7059,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-014",
+          "page_id": "506482512197",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 130,
+          "text": "Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6951,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-010",
+          "page_id": "506482512197",
+          "score": 0.6807,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used"
+        },
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.6805,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6799,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.679,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "506482512197-000",
+          "page_id": "506482512197",
+          "score": 0.6682,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You have to obtain at least 16 ECTS credits in every bachelor’s and diploma programme within four semesters.\n\nThis applies\n\n- to all programmes to which you are admitted since the winter semester of 2022/2023\n- and to all programmes that you [resume](/en/admission/resumption-of-studies/) from this time.\n\nOtherwise, the admission to the degree programme expires. If you would like to apply for re-admission to the same degree programme (= resumption of studies) at the University of Vienna, you can only do so after two [academic years](/en/semester-planning/the-academic-year/) (= four semesters)."
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6681,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "7916c3fc6510-008",
+          "page_id": "7916c3fc6510",
+          "score": 0.6669,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Allocation of places in courses and exams After the registration deadline, you can see whether or not you have been allocated to a place on a course/exam in u:space in the section > Studies > Registration Overview. Each directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. The allocation of places will take place either according to the point allocation system, the preference system or the study achievement system. The status of your registration in u:space informs you whether you are “Registered” (Angemeldet), \"On waiting list\" (Auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/en/web/gast/login?p_p_id=ssploginportlet_WAR_ssploginportlet&p_p_lifecycle=0&_ssploginportlet_WAR_ssploginportlet_redirect=%2Fweb%2Fstudium%2Fanmeldeuebersicht) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with continuous"
+        },
+        {
+          "id": "506482512197-011",
+          "page_id": "506482512197",
+          "score": 0.6645,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used for the new subject combination are counted. Example 3: You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You begin a teacher education programme with a completely different combination of teaching subjects. The counting of ECTS credits and semesters for the minimum number of credits starts at 0 again. - I am studying a complementary teacher education programme. Do I have to obtain the minimum number of credits? No, you do not have to obtain the minimum number of credits in complementary degree programmes. If you include a teaching subject from a complementary teacher education programme in your subject combination, only the semesters from previous subject combinations of the newly combined subjects are counted. Example: You are studying a subject combination and a complementary degree programme at the same time. After 3 semesters, you exchange one of your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed"
+        },
+        {
+          "id": "506482512197-006",
+          "page_id": "506482512197",
+          "score": 0.6642,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.663,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-007",
+          "page_id": "7916c3fc6510",
+          "score": 0.6623,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "[First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Master Access Guide](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31176&cHash=a610798eae6fb6582ff75b0860eff1a1) - [Resumption of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31347&cHash=9910413b5ab4f055a5b778c7f9dcbab4) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31355&cHash=d36d029e558b0a11f1437ca8ae35078b) - [Official notice of refusal (\"Zurückweisungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31359&cHash=13d14e1c4ce86edf1aa441afde2c06f9) - [Admission Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31491&cHash=5b5c82a3dec8d510092ddf58cbe7779e) - [Matriculation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31934&cHash=3068741d97523f94ab73acef74cbbccc) - Advancement scholarship You can apply for an advancement scholarship for the writing of a scientific thesis (master's, diploma or doctoral thesis). If certain requirements are met, students can apply for this scholarship once per semester. The decision on the approval is made by the office of the Studienpräses. Related Links: - [Information on the advancement scholarship](https://studienpraeses.univie.ac.at/stipendien/foerderungsstipendien-nach-dem-studfg/) (in German) Related entries: - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Allocation of available places For courses with continuous assessment, only a limited number of places are available to students. Therefore, you have to register for these courses in u:space in due time. After the end of the registration period, the places are allocated. Registrations are organised according to the specifications of the curricula (e.g. points system, preference system or recommended path of study). Places will be allocated accordingly. Related Links: - [Registering for courses and examinations](/en/semester-planning/registration-for-coursesexaminations/) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) -"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6623,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-042",
+          "page_id": "7916c3fc6510",
+          "score": 0.6603,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 95,
+          "text": "yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Performance scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31172&cHash=985aca8980beb4dddc0407db73ca0250) - GRE/GMAT The Graduate Record Examination (GRE®) test and the Graduate Management Admission Test (GMAT®) are standardised tests to measure academic ability. For admission to some master programmes in economic studies, you must have a minimum score on these tests. Related Links: - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049)"
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6581,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "7916c3fc6510-064",
+          "page_id": "7916c3fc6510",
+          "score": 0.6575,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "(often called “groups”) appear. He ranks the courses according to his preferences. Max gets a place on the course of his first preference. If the number of students who ranked this exercise as their first preference had exceeded the number of available places, Max would have got a place on the parallel course he ranked second. For further information on the registration procedure of your directorate of studies, contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [StudiesServiceCenter/StudiesServiceUnit](http://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Prescribed duration of a degree programme The prescribed duration of a degree programme is the time students at least need to complete their degree programme if they pass 30 ECTS per semester on average. The prescribed duration of bachelor programmes is usually six semesters, the one of master programmes is four semesters. During the prescribed duration plus two tolerance semesters, EU/EEA/CH citizens and students with equal status are exempted from the tuition fee and must pay only the Students' Union fee. Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1) - Printing service Students of the University of Vienna can find their study documents in u:space > Personal Matters > My Documents and print them at home. Related Links: -"
+        },
+        {
+          "id": "7916c3fc6510-051",
+          "page_id": "7916c3fc6510",
+          "score": 0.6569,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "M"
+          ],
+          "word_count": 230,
+          "text": "to the degree programme expires. A resumption of the same degree programme is only possible after two academic years (= four semesters). Students with psychological/physical impairments are exempt and don't have to obtain the minimum number of credits. Related Links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [About the admission](/en/admission-procedure/#c510447) Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30855&cHash=fbeb490cf5731d782a7600223421c9d7) - [Prüfungsaktiv - examination activity](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=40196&cHash=c8b5a0cf3da52a9cb8416c0fca47513a) - Mobility programmes The University of Vienna offers a range of mobility programmes. This means that students have the possibility to spend one or more semesters at a different university within Europe or beyond, gather experience living in another country and improve their foreign language skills. Students from abroad can also study at the University of Vienna by means of a mobility programme. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Exchange programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30818&cHash=44ce8bc355947818e4e6cf53f6d144f8) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - Module The curricula of bachelor’s and master’s programmes are divided into modules. Each module specifies the learning outcomes that students have to achieve. You can view the structure of your degree programme and the corresponding modules in your record of examinations in u:space. Related Links: - [Record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Module/subject exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31193&cHash=3e6c779e9e6978b2d98ec222925158b0) - [Record of examinations](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31245&cHash=84f002403c7d9577c0489d8f460cdcaa) - [Stage of the degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31266&cHash=a31be547fd42def4414091d3fe87e1d1) - [Curriculum item](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31282&cHash=0e25d76f4b25fac6b1f9a38f29f70bf0) - Module/subject exam A module exam (or subject exam) is an exam covering the contents of"
+        },
+        {
+          "id": "7916c3fc6510-090",
+          "page_id": "7916c3fc6510",
+          "score": 0.6568,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "soon as your tuition fee contribution appears in u:space as \"received on...\", you can print out your student record sheet and your confirmation of enrolment for the respective semester. Related Links: - [u:space](https://studieren.univie.ac.at/en/abc-of-terminology/#c273319) Related entries: - [Confirmation of courses passed (‘Bestätigung über positiv absolvierte Prüfungen’)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30833&cHash=384abc77d3971dc5719c107fd6ea13f4) - [Transcript of records (\"Sammelzeugnis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31251&cHash=96a657912ac9ab41a08745ded22bb839) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - [Confirmation of study periods (\"Studienzeitbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31294&cHash=be04add5fe3411a86e9b4c39c5b95416) - Study law You have rights and obligations that govern your studies from admission until graduation. If you have any questions, you can contact the following offices: - The Directorate of Studies (SPL) is responsible for your degree programme and should be your first point of contact if you have any questions regarding legal issues and administrative enquiries during your studies. - Lecturers and examiners are the primary contact persons for the implementation of alternative modes of assessment for students with impairments. The SPL takes the fundamental decisions about this. The Accessible Studying team (‘Team Barrierefrei’) offers (also anonymous) advice. - The Office of the Studienpräses provides support if you encounter problems during your studies that neither your lecturer nor the SPL can solve. - If you have questions about admission and the tuition fee, please contact the Admission Office. - In individual cases, the ombuds office for students ('Ombudsstelle für Studierende') of the Federal Ministry can help"
+        }
+      ],
+      "latency_ms": 11.1
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.7059,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-014",
+          "page_id": "506482512197",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 130,
+          "text": "Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6951,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-010",
+          "page_id": "506482512197",
+          "score": 0.6807,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used"
+        },
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.6805,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6799,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        },
+        {
+          "id": "1389af33ffd3-004",
+          "page_id": "1389af33ffd3",
+          "score": 0.679,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 109,
+          "text": "study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will offer three additional examination dates. The fourth examination attempt has to take place before an examination committee. Courses with continuous assessment (e.g. seminars, practical courses) do not end with a final examination, but rather require you to complete two or more oral or written partial achievements. These partial achievements are the basis for determining your final grade. You can find your grade in the [record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass)."
+        },
+        {
+          "id": "506482512197-000",
+          "page_id": "506482512197",
+          "score": 0.6682,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 88,
+          "text": "You have to obtain at least 16 ECTS credits in every bachelor’s and diploma programme within four semesters.\n\nThis applies\n\n- to all programmes to which you are admitted since the winter semester of 2022/2023\n- and to all programmes that you [resume](/en/admission/resumption-of-studies/) from this time.\n\nOtherwise, the admission to the degree programme expires. If you would like to apply for re-admission to the same degree programme (= resumption of studies) at the University of Vienna, you can only do so after two [academic years](/en/semester-planning/the-academic-year/) (= four semesters)."
+        },
+        {
+          "id": "506482512197-005",
+          "page_id": "506482512197",
+          "score": 0.6681,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all bachelor's and diploma programmes who begin or [resume](/en/admission/resumption-of-studies/) their studies in the winter semester of 2022/2023 or later must obtain the minimum number of credits. The minimum number of credits must be obtained once within four semesters. If you interrupt your studies (again) during these four semesters, the ECTS credits and semesters are counted after you resume your studies. However, once the minimum number of credits has been obtained, it does not have to be obtained again for this degree programme. For example: You started your studies in the winter semester of 2022/23, studied for 2 semesters and obtained 12 ECTS credits. You interrupt your studies in the following semester. You resume your studies in the summer semester of 2024. You still have 2 semesters to obtain the missing 4 ECTS credits - i.e. until one month after the end of the fourth semester at the latest. If you interrupt your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not"
+        },
+        {
+          "id": "7916c3fc6510-008",
+          "page_id": "7916c3fc6510",
+          "score": 0.6669,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Allocation of places in courses and exams After the registration deadline, you can see whether or not you have been allocated to a place on a course/exam in u:space in the section > Studies > Registration Overview. Each directorate of studies (in German: Studienprogrammleitung, SPL) determines how places for courses with a limited number of participants and exams are distributed in its degree programmes. The allocation of places will take place either according to the point allocation system, the preference system or the study achievement system. The status of your registration in u:space informs you whether you are “Registered” (Angemeldet), \"On waiting list\" (Auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/en/web/gast/login?p_p_id=ssploginportlet_WAR_ssploginportlet&p_p_lifecycle=0&_ssploginportlet_WAR_ssploginportlet_redirect=%2Fweb%2Fstudium%2Fanmeldeuebersicht) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with continuous"
+        },
+        {
+          "id": "506482512197-011",
+          "page_id": "506482512197",
+          "score": 0.6645,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used for the new subject combination are counted. Example 3: You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You begin a teacher education programme with a completely different combination of teaching subjects. The counting of ECTS credits and semesters for the minimum number of credits starts at 0 again. - I am studying a complementary teacher education programme. Do I have to obtain the minimum number of credits? No, you do not have to obtain the minimum number of credits in complementary degree programmes. If you include a teaching subject from a complementary teacher education programme in your subject combination, only the semesters from previous subject combinations of the newly combined subjects are counted. Example: You are studying a subject combination and a complementary degree programme at the same time. After 3 semesters, you exchange one of your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed"
+        },
+        {
+          "id": "506482512197-006",
+          "page_id": "506482512197",
+          "score": 0.6642,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your studies again after that, you do not have to prove again that you have obtained the minimum number of credits in this study programme again. For studies that you started before the winter semester of 2022/23 and have not yet interrupted, you do not have to obtain the minimum number of credits. Update from 29 September 2022 - How are ECTS credits counted when I resume my studies? If you resume your studies within the same curriculum, the counting of the ECTS credits continues after resumption. If you interrupt your studies and later resume your studies in a succeeding curriculum, or if you change a teaching subject in your combination, your previously obtained ECTS credits must be recognised to ensure that they count towards the minimum number of credits. If you still need ECTS credits for the minimum number of credits, you have to obtain them within the remaining time. - What happens if I do not obtain the minimum number of credits? If you do not obtain the minimum number of credits (16 ECTS credits) for a degree programme within the first four semesters, your admission to the degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.663,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-007",
+          "page_id": "7916c3fc6510",
+          "score": 0.6623,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "A"
+          ],
+          "word_count": 230,
+          "text": "[First-time admission](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30866&cHash=d40aa40f71c9ead7df1d946461e81e3d) - [Master Access Guide](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31176&cHash=a610798eae6fb6582ff75b0860eff1a1) - [Resumption of studies](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31347&cHash=9910413b5ab4f055a5b778c7f9dcbab4) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31355&cHash=d36d029e558b0a11f1437ca8ae35078b) - [Official notice of refusal (\"Zurückweisungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31359&cHash=13d14e1c4ce86edf1aa441afde2c06f9) - [Admission Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31491&cHash=5b5c82a3dec8d510092ddf58cbe7779e) - [Matriculation](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31934&cHash=3068741d97523f94ab73acef74cbbccc) - Advancement scholarship You can apply for an advancement scholarship for the writing of a scientific thesis (master's, diploma or doctoral thesis). If certain requirements are met, students can apply for this scholarship once per semester. The decision on the approval is made by the office of the Studienpräses. Related Links: - [Information on the advancement scholarship](https://studienpraeses.univie.ac.at/stipendien/foerderungsstipendien-nach-dem-studfg/) (in German) Related entries: - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Allocation of available places For courses with continuous assessment, only a limited number of places are available to students. Therefore, you have to register for these courses in u:space in due time. After the end of the registration period, the places are allocated. Registrations are organised according to the specifications of the curricula (e.g. points system, preference system or recommended path of study). Places will be allocated accordingly. Related Links: - [Registering for courses and examinations](/en/semester-planning/registration-for-coursesexaminations/) Related entries: - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Preference system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31232&cHash=71ef139afe33c7e9cb44ca0bdf597ad4) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) -"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6623,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "7916c3fc6510-042",
+          "page_id": "7916c3fc6510",
+          "score": 0.6603,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "G"
+          ],
+          "word_count": 95,
+          "text": "yet completed academic thesis (diploma thesis, magister thesis, doctoral thesis). Related Links: - [Office of the Studienpräses – grants and scholarships (in German)](https://studienpraeses.univie.ac.at/stipendien/) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Office of the Studienpräses](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30836&cHash=c3a56d28cd36231aea5c9162266cf396) - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Performance scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31172&cHash=985aca8980beb4dddc0407db73ca0250) - GRE/GMAT The Graduate Record Examination (GRE®) test and the Graduate Management Admission Test (GMAT®) are standardised tests to measure academic ability. For admission to some master programmes in economic studies, you must have a minimum score on these tests. Related Links: - [Admission to master programmes](/en/admission-procedure/master-programmes/#c876049)"
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6581,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "7916c3fc6510-064",
+          "page_id": "7916c3fc6510",
+          "score": 0.6575,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "(often called “groups”) appear. He ranks the courses according to his preferences. Max gets a place on the course of his first preference. If the number of students who ranked this exercise as their first preference had exceeded the number of available places, Max would have got a place on the parallel course he ranked second. For further information on the registration procedure of your directorate of studies, contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Related Links: - [StudiesServiceCenter/StudiesServiceUnit](http://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - [Point allocation system](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31249&cHash=7ee6d54f9ca9814dd47249f0c7aa9d9d) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - [Recommended path of study](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32965&cHash=f6d48ac305556ae51a0a3869bf9a2e10) - Prescribed duration of a degree programme The prescribed duration of a degree programme is the time students at least need to complete their degree programme if they pass 30 ECTS per semester on average. The prescribed duration of bachelor programmes is usually six semesters, the one of master programmes is four semesters. During the prescribed duration plus two tolerance semesters, EU/EEA/CH citizens and students with equal status are exempted from the tuition fee and must pay only the Students' Union fee. Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1) - Printing service Students of the University of Vienna can find their study documents in u:space > Personal Matters > My Documents and print them at home. Related Links: -"
+        },
+        {
+          "id": "7916c3fc6510-051",
+          "page_id": "7916c3fc6510",
+          "score": 0.6569,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "M"
+          ],
+          "word_count": 230,
+          "text": "to the degree programme expires. A resumption of the same degree programme is only possible after two academic years (= four semesters). Students with psychological/physical impairments are exempt and don't have to obtain the minimum number of credits. Related Links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [About the admission](/en/admission-procedure/#c510447) Related entries: - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30855&cHash=fbeb490cf5731d782a7600223421c9d7) - [Prüfungsaktiv - examination activity](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=40196&cHash=c8b5a0cf3da52a9cb8416c0fca47513a) - Mobility programmes The University of Vienna offers a range of mobility programmes. This means that students have the possibility to spend one or more semesters at a different university within Europe or beyond, gather experience living in another country and improve their foreign language skills. Students from abroad can also study at the University of Vienna by means of a mobility programme. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [CEEPUS](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29987&cHash=72c1e3c31b64c2842340511847949735) - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Exchange programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30818&cHash=44ce8bc355947818e4e6cf53f6d144f8) - [International Office](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30849&cHash=6aab915f8821fb9ddb9f2a36c1d8438f) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - Module The curricula of bachelor’s and master’s programmes are divided into modules. Each module specifies the learning outcomes that students have to achieve. You can view the structure of your degree programme and the corresponding modules in your record of examinations in u:space. Related Links: - [Record of examinations in u:space](https://uspace.univie.ac.at/web/studium/pruefungspass) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Module/subject exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31193&cHash=3e6c779e9e6978b2d98ec222925158b0) - [Record of examinations](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31245&cHash=84f002403c7d9577c0489d8f460cdcaa) - [Stage of the degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31266&cHash=a31be547fd42def4414091d3fe87e1d1) - [Curriculum item](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31282&cHash=0e25d76f4b25fac6b1f9a38f29f70bf0) - Module/subject exam A module exam (or subject exam) is an exam covering the contents of"
+        },
+        {
+          "id": "7916c3fc6510-090",
+          "page_id": "7916c3fc6510",
+          "score": 0.6568,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "soon as your tuition fee contribution appears in u:space as \"received on...\", you can print out your student record sheet and your confirmation of enrolment for the respective semester. Related Links: - [u:space](https://studieren.univie.ac.at/en/abc-of-terminology/#c273319) Related entries: - [Confirmation of courses passed (‘Bestätigung über positiv absolvierte Prüfungen’)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30833&cHash=384abc77d3971dc5719c107fd6ea13f4) - [Transcript of records (\"Sammelzeugnis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31251&cHash=96a657912ac9ab41a08745ded22bb839) - [Confirmation of enrolment (\"Studienbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31270&cHash=2d54c226eb7b6b7ca5875bf23578fd10) - [Student record sheet (\"Studienblatt\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31272&cHash=1648f92d42d01e53f091d5bb41e42299) - [Proof of academic success (\"Studienerfolgsnachweis\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31276&cHash=67d9bdbca177eb0e3f60926ca3882521) - [Confirmation of study periods (\"Studienzeitbestätigung\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31294&cHash=be04add5fe3411a86e9b4c39c5b95416) - Study law You have rights and obligations that govern your studies from admission until graduation. If you have any questions, you can contact the following offices: - The Directorate of Studies (SPL) is responsible for your degree programme and should be your first point of contact if you have any questions regarding legal issues and administrative enquiries during your studies. - Lecturers and examiners are the primary contact persons for the implementation of alternative modes of assessment for students with impairments. The SPL takes the fundamental decisions about this. The Accessible Studying team (‘Team Barrierefrei’) offers (also anonymous) advice. - The Office of the Studienpräses provides support if you encounter problems during your studies that neither your lecturer nor the SPL can solve. - If you have questions about admission and the tuition fee, please contact the Admission Office. - In individual cases, the ombuds office for students ('Ombudsstelle für Studierende') of the Federal Ministry can help"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "506482512197-001",
+          "page_id": "506482512197",
+          "score": 0.7059,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "For your information"
+          ],
+          "word_count": 154,
+          "text": "If you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin."
+        },
+        {
+          "id": "506482512197-014",
+          "page_id": "506482512197",
+          "score": 0.703,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 130,
+          "text": "Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "506482512197-004",
+          "page_id": "506482512197",
+          "score": 0.6951,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "depending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all"
+        },
+        {
+          "id": "506482512197-010",
+          "page_id": "506482512197",
+          "score": 0.6807,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "combination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used"
+        },
+        {
+          "id": "506482512197-012",
+          "page_id": "506482512197",
+          "score": 0.6805,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "your teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements"
+        },
+        {
+          "id": "506482512197-007",
+          "page_id": "506482512197",
+          "score": 0.6799,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "section": "Study organisation",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "word_count": 230,
+          "text": "degree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Minimum number of credits — For your information\nIf you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin.\n\n[2] Minimum number of credits — FAQs about the minimum number of credits\nPlan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[3] Minimum number of credits — FAQs about the minimum number of credits\ndepending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all\n\n[4] Minimum number of credits — FAQs about the minimum number of credits\ncombination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\nyour teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements\n\n[6] Minimum number of credits — FAQs about the minimum number of credits\ndegree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "For your information"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-001",
+          "score": 0.7059
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-014",
+          "score": 0.703
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-004",
+          "score": 0.6951
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-010",
+          "score": 0.6807
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-012",
+          "score": 0.6805
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+          "title": "Minimum number of credits",
+          "heading_path": [
+            "FAQs about the minimum number of credits"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "506482512197-007",
+          "score": 0.6799
+        }
+      },
+      "context_chars": 8904,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Minimum number of credits — For your information\nIf you study full-time, you are expected to obtain 120 ECTS credits within four semesters according to the curriculum. The majority of students achieves 16 ECTS credits within one semester, for example by completing the introductory and orientation period (STEOP).\n\nThere is no mandatory study pace apart from the minimum number of credits. You decide yourself how fast you study and how many ECTS credits you complete per semester. However, please note that financial aids and scholarships may be subject to stricter rules.\n\nThe minimum number of credits does not apply to\n\n- students with proven physical/mental impairments\n- bachelor’s or diploma programmes to which you have been admitted before the winter semester of 2022/23\n- master’s and doctoral programmes\n\nInformation about the [recognition of the additional exam Latin](https://klassischephilologie.univie.ac.at/studium/ergaenzungspruefungen/latein-ergaenzungspruefung/) for the minimum number of credits can be found (in German only) on the website of the Institute for Classical Philology, Medieval and Modern Latin.\n\n[2] Minimum number of credits — FAQs about the minimum number of credits\nPlan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. Last update: 24 May 2023 [## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) [You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[3] Minimum number of credits — FAQs about the minimum number of credits\ndepending on whether the fourth semester is the summer or the winter semester. For example: You start your bachelor's programme in the winter semester of 2022/2023. You neither interrupt your studies nor take a leave of absence. You must obtain the minimum number of credits by the summer semester of 2024 the latest. The deadline is on 31 October 2024. If you take a leave of absence, the semesters during which you are on leave do not count. After the end of your leave of absence, the semesters are counted again until you have studied for four semesters. - Do semesters on leave of absence count towards the minimum number of credits? No, semesters on leave of absence are not included in the semester count. Please Note: Only leaves of absence taken during the first four semesters for which you have enrolled will be taken into account. Example: You have to achieve your minimum number of credits by the summer semester of 2026. The deadline for this is 31 October 2026. If you take a leave of absence in the winter semester of 2026, it will be too late. You will lose your admission to the program if you do not achieve the minimum number of credits by the deadline. - Do I also have to complete the minimum number of credits when I resume my studies? Students of all\n\n[4] Minimum number of credits — FAQs about the minimum number of credits\ncombination. If you already obtained the minimum number of credits for the old combination, you do not have to obtain them for the new one again. If you do not obtain the minimum number of credits in due time, you will be excluded from this programme for 4 semesters. You are excluded from those teaching subjects for which you have already been admitted for 4 semesters. The combination with a teaching subject for which you have been admitted for less than 4 semesters is possible. In this case the semesters that you have already completed and the ECTS credits from the previous subject combination that can be used for the new subject combination are counted. Example 1: You interrupt the teacher education programme after 3 semesters and resume your studies sometime later (with at least one teaching subject remaining the same): You have 1 semester left to obtain the required 16 ECTS credits. Example 2: You changed one teaching subject in the 3rd semester. You were not able to obtain the minimum number of credits within 4 semesters and are excluded from the teacher education programme. You can study the teaching subject that you only studied for one semester for another 3 semesters in combination with another teaching subject to obtain the minimum number of 16 ECTS credits. ECTS credits obtained in the first semester that can also be used\n\n[5] Minimum number of credits — FAQs about the minimum number of credits\nyour teaching subjects with the subject of your complementary degree programme. You have to obtain the minimum number of credits within the remaining fourth semester of the combination programme. Exams completed in the complementary degree programme count, if you completed them within the first four semesters of the combination programme and if you apply for recognition in due time (see FAQ: “Are recognised achievements accepted for the minimum number of credits?”). - Are recognised achievements accepted for the minimum number of credits? Whether a recognised achievement is accepted for the minimum number of credits depends on the date on which the achievement (= initial achievement) was completed. The initial achievement must have been completed within the period relevant for the minimum number of credits from the first start of a degree programme and its recognition must have been approved. Only then does the recognised achievement count towards the minimum number of credits. Therefore, apply for recognition at your responsible StudiesServiceCenter well in advance. Note that it might take up to two months until a decision is taken and that the complaints procedure in case of a negative decision also takes time. If you have completed a course/exam multiple times, only the date of the last examination result counts. - I study at least one of my two teaching subjects at a university of art in Vienna. What are the requirements\n\n[6] Minimum number of credits — FAQs about the minimum number of credits\ndegree programme expires on 31 October or 31 March, depending on whether the fourth semester is the summer or the winter semester. You will be excluded from this programme for four semesters. Once four semesters have passed, you can apply for re-admission to the same degree programme at the University of Vienna. - What options do I have if it becomes apparent that I will not be able to achieve the minimum number of credits? Option 1: Try everything you can and make use of the following offers and information: - [Registration for courses and exams](https://studieren.univie.ac.at/semesterplanung/anmeldung-zu-lehrveranstaltungenpruefungen/) - [Support services provided by the University of Vienna for successful studying](https://ctl.univie.ac.at/en/services-for-students/) - [Psychological Counselling Service for students: counselling for study-related and personal issues](https://www.studentenberatung.at/) - [Information for students with physical/mental impairments](/en/accessible-studies/) - [Student life - Who can help me with...?](/en/student-life-who-can-help-me-with/) Option 2: If you can claim one of the precisely defined reasons, apply for a leave of absence. Please note the application deadlines, as well as the consequences of taking a leave of absence. [All information about taking a leave of absence](/en/admission/leave-of-absence/) Option 3: You do not want to continue your studies? Close your degree programme. Before closing, inform yourself about the possible implications for re-enrolment. [All information about closing a degree programme/withdrawing from the University of Vienna](/en/admission/closing-a-degree-programme/) - Where can I check the ECTS credits obtained for my studies? For each ongoing degree\n\nQuestion: What's the minimum study output rule for the first four semesters?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2075,
+        "completion_tokens": 18,
+        "total_tokens": 2093
+      },
+      "rate_limit_events": [],
+      "raw_response": "You are expected to obtain 120 ECTS credits within four semesters [1].",
+      "finish_reason": "stop",
+      "latency_ms": 360.8
+    }
+  },
+  "query_id": "g03:paraphrase:3",
+  "status": "ok",
+  "answer": "You are expected to obtain 120 ECTS credits within four semesters [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/minimum-number-of-credits/",
+      "title": "Minimum number of credits",
+      "heading_path": [
+        "For your information"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "506482512197-001",
+      "score": 0.7059
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2075,
+    "completion_tokens": 18,
+    "total_tokens": 2093
+  },
+  "total_latency_ms": 372.1
+}

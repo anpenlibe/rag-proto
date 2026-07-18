@@ -235,6 +235,8 @@ def main(argv=None):
                     help="generate exactly these groups (resume a budget-capped panel)")
     ap.add_argument("--judge-sample", choices=sorted(gold_mod.JUDGE_SAMPLES),
                     help="which phrasings get per-answer judging (default: config)")
+    ap.add_argument("--gold-set", default=None,
+                    help="which gold set to score, e.g. gold_v1_small (default: config's gold_v1)")
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--label", default="E0")
     args = ap.parse_args(argv)
@@ -242,6 +244,8 @@ def main(argv=None):
     cfg = Config()
     if args.judge_sample:
         cfg = replace(cfg, judge_sample=args.judge_sample)   # a config diff, not an edit
+    if args.gold_set:
+        cfg = replace(cfg, gold_set=args.gold_set)           # moves eval_hash, not config_hash
 
     if args.score:
         ids = [r.strip() for r in args.score.split(",") if r.strip()]

@@ -1,0 +1,711 @@
+{
+  "trace_id": "600395fc757e",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "What's the registration window for English and American Studies seminars in the summer 2026 semester?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What's the registration window for English and American Studies seminars in the summer 2026 semester?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "14a11212230d-000",
+          "page_id": "14a11212230d",
+          "score": 0.7103,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Below you will find a table with the registration phases for courses with continuous assessment for the summer semester 2026 *(as of 13 January 2026)*. This table is not complete and is only intended as a guide. Always check the registration deadlines for individual courses in u:find. If you are using this page on a mobile device, scroll to the right to see all columns. | SPL | Beginn Datum | Beginn Uhrzeit | Ende Datum | Ende Uhrzeit | | --- | --- | --- | --- | --- | | African Studies | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Egyptology | 02.02.2026 | 09:00 | 23.02.2026 | 23:59 | | Ancient History and Studies in Classical Antiquity | 02.02.2026 | 06:00 | 25.02.2026 | 23:59 | | English and American Studies | 06.02.2026 | 12:00 | 20.02.2026 | 12:00 | | Astronomy, Earth Sciences, Meteorology | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Education | 02.02.2026 | 06:30 | 23.02.2026 | 09:00 | | Biology | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Data Science | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 |"
+        },
+        {
+          "id": "14a11212230d-003",
+          "page_id": "14a11212230d",
+          "score": 0.6585,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6566,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6516,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "14a11212230d-001",
+          "page_id": "14a11212230d",
+          "score": 0.6503,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Doctoral Programme in Education | 02.02.2026 | 06:30 | 27.02.2026 | 09:00 | | Doctoral Programme in Geosciences, Geography and Astronomy | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | East Asian Economy and Society | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Nutritional Sciences | 09.02.2026 | 09:00 | 24.02.2026 | 18:00 | | European Ethnology | 02.02.2026 | 07:00 | 23.02.2026 | 23:59 | | Gender Studies | 01.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Geography | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | History | 16.02.2026 | 09:00 | 27.02.2026 | 14:00 | | Computer Science | 10.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Development Studies | 23.02.2026 | 09:00 | 03.03.2026 | 09:00 | | Jewish Studies | 02.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Kultur- und Sozialanthropologie | 01.02.2026 | 00:01 | 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6398,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "94c21ca04583-000",
+          "page_id": "94c21ca04583",
+          "score": 0.6332,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Seminars, exercises e.g. are courses with continous assessment (German: prüfungsimmanente Lehrveranstaltung, pi LV). Courses with continuous assessment require a registration. In courses with continuous assessment attendance and other requirements are compulsory. The registration deadlines run in the weeks before the semester starts, i.e. in September for the winter semester and in February for the summer semester. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered.\n\nWith the registration to a course, you are automatically registered for the respective Moodle course.\n\n- Some courses have a limited number of participants.\n- Places are allocated in different ways, which are determined by each [directorate of studies](https://studieren.univie.ac.at/en/abc-of-terminology/#c273314) (in German: Studienprogrammleitung, SPL)\n- Either through the [point allocation system](#c600152), the [preference system](#c600156) or the [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/).\n- Students on the [waiting list](https://studieren.univie.ac.at/en/abc-of-terminology/#c273323) will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places."
+        },
+        {
+          "id": "b2c6ce04a80e-004",
+          "page_id": "b2c6ce04a80e",
+          "score": 0.6297,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/",
+          "title": "Registration for courses with non-continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps",
+            "Begriffs-ABC"
+          ],
+          "word_count": 21,
+          "text": "- [Course (LV)](/en/abc-of-terminology/?no_cache=1#c741378)\n- [Registration deadline](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Registration status in u:space](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Registration for courses and exams](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Record of examinations](/en/abc-of-terminology/?no_cache=1#c741418)"
+        },
+        {
+          "id": "7916c3fc6510-077",
+          "page_id": "7916c3fc6510",
+          "score": 0.6282,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Registration system for courses and exams For courses and exams, you have to register via u:find. The registration for courses with non-continuous assessment is not mandatory but recommended. You can find the registration deadlines in the respective courses in u:find. During the registration period, you will be forwarded to the registration in u:space, by clicking on \"Register/Deregister for this course\". You need an active u:account and your admission must be valid to access the registration system. The registration date within the registration period is not relevant to the allocation of places. Please note that your registration status should be “Registered” (Angemeldet) or “Allocation by registration deadline” (Zuteilung nach Anmeldefrist) for courses with continuous assessment. If your status is \"Prerequisite currently not met\" (Voraussetzung noch nicht erfüllt) you have to meet the requirements by the end of the registration deadline to get registered for the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.625,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6236,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "271a53027cf1-004",
+          "page_id": "271a53027cf1",
+          "score": 0.6235,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 225,
+          "text": "Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised according to the specifications of the curricula (e.g. [points system](/en/abc-of-terminology/?no_cache=1#c741408), [preference system](/en/abc-of-terminology/?no_cache=1#c741407) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/). Places will be allocated accordingly. Next, the status of your registration will be updated in u:space and you will receive an information e-mail on your u:account e-mail address. Possible registration status before the allocation of study places: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt) - Allocation by registration deadline (Zuteilung nach Anmeldefrist) Possible registration status after the allocation of study places: - Registered (angemeldet) - On waiting list (auf Warteliste) - Alternative place available (Alternativplatz verfügbar) - In process (in Bearbeitung) - Closed (geschlossen) - No place received (keinen Platz erhalten) The ABC of terminology provides further information on the [registration status](/en/abc-of-terminology/?no_cache=1#c741418). You can find an overview of your registered courses under registration overview in u:space. The deregistration from a course is done via the registration overview. #### ABC of terminology ##### Registering for courses - [Course](/en/abc-of-terminology/?no_cache=1#c741378) - [Record of examinations](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration deadline](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration status](/en/abc-of-terminology/?no_cache=1#c741418) [### Registration phases for courses with continuous assessment](https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "db62f7204cc2-001",
+          "page_id": "db62f7204cc2",
+          "score": 0.6222,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 152,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6184,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "f9a5c42acf1e-001",
+          "page_id": "f9a5c42acf1e",
+          "score": 0.618,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/isu-peer-counselling/",
+          "title": "ISU Peer Counselling: Support for your everyday student life",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What issues can be discussed?"
+          ],
+          "word_count": 148,
+          "text": "Consultation appointments will be held during the summer semester, from May 11 through the end of June. You can book an appointment starting now.\nThere will be additional dates in September; exact times to be announced.\n\nA peer counseling session lasts 50 minutes and takes place on-site in the main building on Universitätsring 1 (also available online upon request). No sessions are held on holidays or days when classes are not in session.\n\n|  |  |  |\n| --- | --- | --- |\n| Monday | 15:00 | 16:30 |\n| Tuesday | 14:00 | 15:30 |\n| Thursday | 08:30 | 10:00 |\n| Friday | 10:00 | 11:30 |\n\nRegistration via: [peerpoint.ctl@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,rggtrqkpv0evnBwpkxkg0ce0cv');)\n\nSubject line: ISU-Peer-Beratung\n\nPlease include the following in your email:\n\n- 2-3 suggested dates\n- Student ID number\n- Topics you would like to discuss (a few keywords are sufficient)\n\nContact via: [peerpoint.ctl@univie.ac.at](http://peerpoint.ctl@univie.ac.at)"
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.617,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "7916c3fc6510-102",
+          "page_id": "7916c3fc6510",
+          "score": 0.6159,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find - further informationen](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c242234) - [u:find - Course and Staff/Unit Directory](https://ufind.univie.ac.at/en/index.html) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [Course directory](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32012&cHash=ea100bf6913819d04a4a664d0e97b652) - u:print u:print is a service provided by the Vienna University Computer Center (ZID). u:print devices for economical printing and copying are available at several computer rooms, departments and libraries at the University of Vienna. Related Links: - [u:print](https://zid.univie.ac.at/en/uprint/) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29993&cHash=df5349d31712ffbcb01fd2085c65a5d2) - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - u:space u:space is the online portal and central access point to all services regarding organisation of studies and teaching. With their u:account, students and university staff can log in to u:space, where they can find all online services they need during their studies/teaching activities. Related Links: - [u:space - further information](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c216326) - [u:space - the portal](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [Educational institution ID](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31924&cHash=4208114d5c92cc815c5e41002c8b5e6b) - Unauthorised absence from a course with continuous assessment/exam If you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not"
+        },
+        {
+          "id": "683e91ed0d69-007",
+          "page_id": "683e91ed0d69",
+          "score": 0.6152,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "Further information"
+          ],
+          "word_count": 16,
+          "text": "- [How do I organise my studies?](/en/study-organisation/)\n- [Planning your Semester](/en/semester-planning/)\n- [Tuition fee/Student's Union fee](/en/tuition-fee/)"
+        },
+        {
+          "id": "7916c3fc6510-078",
+          "page_id": "7916c3fc6510",
+          "score": 0.6151,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed"
+        },
+        {
+          "id": "7916c3fc6510-030",
+          "page_id": "7916c3fc6510",
+          "score": 0.6139,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses. It usually is a course with continuous assessment, which means that attendance is compulsory and the number of available places is limited. The charasteristic of a discussion course is that an intense exchange between students and course instructors shall be stimulated, for example by means of discussions. Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Distribution of remaining places (courses) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - Service Unit: Teaching Affairs and Study Services (DLE SLW) The Teaching Affairs and Student Services unit consists of three divisions (Coordination of Student Services, Center for Teaching and Learning [CTL] and Admission Office). The Teaching Affairs and Student Services unit (SLW) supports teachers and employees of the University of Vienna in the administration of studies and teaching and provides prospective students with information about the range of degree programmes, the admission procedure, the tuition fee/Student's Union fee, etc. The SLW service unit is also responsible for the admission to degree programmes. Related Links: -"
+        }
+      ],
+      "latency_ms": 17.8
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "14a11212230d-000",
+          "page_id": "14a11212230d",
+          "score": 0.7103,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Below you will find a table with the registration phases for courses with continuous assessment for the summer semester 2026 *(as of 13 January 2026)*. This table is not complete and is only intended as a guide. Always check the registration deadlines for individual courses in u:find. If you are using this page on a mobile device, scroll to the right to see all columns. | SPL | Beginn Datum | Beginn Uhrzeit | Ende Datum | Ende Uhrzeit | | --- | --- | --- | --- | --- | | African Studies | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Egyptology | 02.02.2026 | 09:00 | 23.02.2026 | 23:59 | | Ancient History and Studies in Classical Antiquity | 02.02.2026 | 06:00 | 25.02.2026 | 23:59 | | English and American Studies | 06.02.2026 | 12:00 | 20.02.2026 | 12:00 | | Astronomy, Earth Sciences, Meteorology | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Education | 02.02.2026 | 06:30 | 23.02.2026 | 09:00 | | Biology | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Data Science | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 |"
+        },
+        {
+          "id": "14a11212230d-003",
+          "page_id": "14a11212230d",
+          "score": 0.6585,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6566,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6516,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "14a11212230d-001",
+          "page_id": "14a11212230d",
+          "score": 0.6503,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Doctoral Programme in Education | 02.02.2026 | 06:30 | 27.02.2026 | 09:00 | | Doctoral Programme in Geosciences, Geography and Astronomy | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | East Asian Economy and Society | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Nutritional Sciences | 09.02.2026 | 09:00 | 24.02.2026 | 18:00 | | European Ethnology | 02.02.2026 | 07:00 | 23.02.2026 | 23:59 | | Gender Studies | 01.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Geography | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | History | 16.02.2026 | 09:00 | 27.02.2026 | 14:00 | | Computer Science | 10.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Development Studies | 23.02.2026 | 09:00 | 03.03.2026 | 09:00 | | Jewish Studies | 02.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Kultur- und Sozialanthropologie | 01.02.2026 | 00:01 | 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6398,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "94c21ca04583-000",
+          "page_id": "94c21ca04583",
+          "score": 0.6332,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 177,
+          "text": "Seminars, exercises e.g. are courses with continous assessment (German: prüfungsimmanente Lehrveranstaltung, pi LV). Courses with continuous assessment require a registration. In courses with continuous assessment attendance and other requirements are compulsory. The registration deadlines run in the weeks before the semester starts, i.e. in September for the winter semester and in February for the summer semester. If you are registered for a course with continuous assessment and are absent from the first unit without having a good reason, you will be deregistered.\n\nWith the registration to a course, you are automatically registered for the respective Moodle course.\n\n- Some courses have a limited number of participants.\n- Places are allocated in different ways, which are determined by each [directorate of studies](https://studieren.univie.ac.at/en/abc-of-terminology/#c273314) (in German: Studienprogrammleitung, SPL)\n- Either through the [point allocation system](#c600152), the [preference system](#c600156) or the [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/).\n- Students on the [waiting list](https://studieren.univie.ac.at/en/abc-of-terminology/#c273323) will be accepted if course places become available. In case you are on the waiting list, please attend the first unit of the course, as there may be free places."
+        },
+        {
+          "id": "b2c6ce04a80e-004",
+          "page_id": "b2c6ce04a80e",
+          "score": 0.6297,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/",
+          "title": "Registration for courses with non-continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps",
+            "Begriffs-ABC"
+          ],
+          "word_count": 21,
+          "text": "- [Course (LV)](/en/abc-of-terminology/?no_cache=1#c741378)\n- [Registration deadline](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Registration status in u:space](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Registration for courses and exams](/en/abc-of-terminology/?no_cache=1#c741418)\n- [Record of examinations](/en/abc-of-terminology/?no_cache=1#c741418)"
+        },
+        {
+          "id": "7916c3fc6510-077",
+          "page_id": "7916c3fc6510",
+          "score": 0.6282,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Registration system for courses and exams For courses and exams, you have to register via u:find. The registration for courses with non-continuous assessment is not mandatory but recommended. You can find the registration deadlines in the respective courses in u:find. During the registration period, you will be forwarded to the registration in u:space, by clicking on \"Register/Deregister for this course\". You need an active u:account and your admission must be valid to access the registration system. The registration date within the registration period is not relevant to the allocation of places. Please note that your registration status should be “Registered” (Angemeldet) or “Allocation by registration deadline” (Zuteilung nach Anmeldefrist) for courses with continuous assessment. If your status is \"Prerequisite currently not met\" (Voraussetzung noch nicht erfüllt) you have to meet the requirements by the end of the registration deadline to get registered for the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be"
+        },
+        {
+          "id": "271a53027cf1-003",
+          "page_id": "271a53027cf1",
+          "score": 0.625,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "have a limited number of study places. As long as you register within the relevant registration period, the exact moment of your registration has no influence on the allocation of study places (no “first come, first served” principle). If you have any questions about registration periods or the available number of study places, please contact the [studies service center/studies service unit](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) of your degree programme. - Registration for courses with non-continuous assessment (e.g. lectures): After Step 3: “Select course in u:find” you will be forwarded to u:space. Please select the respective degree programme and the respective curriculum point (module) for the course to be recognised and click on “Register”. Thereby the registration for the selected course is completed. - Registration for courses with continuous assessment (e.g. seminars, exercises): After Step 3: “Select course in u:find” you will be forwarded to u:space. Next, you have to select your degree programme, the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will"
+        },
+        {
+          "id": "7916c3fc6510-045",
+          "page_id": "7916c3fc6510",
+          "score": 0.6236,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "I"
+          ],
+          "word_count": 85,
+          "text": "programs for students, academics and general university staff. Related Links: - [International Office](https://international.univie.ac.at/en/) Related entries: - [Semester abroad](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30817&cHash=d6ad15336e091fb32b403f20ecc4ae06) - [Erasmus+](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30864&cHash=ea57c8821cd2999c69dcc17641651743) - [Mobility programmes](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31188&cHash=813707a12daceba2774512659b917d60) - Introductory and Orientation Period (STEOP) The Introductory and Orientation Period (STEOP) is a chance for students to get an insight into their degree programme in their first semester and find out whether or not it fulfils their personal expectations. Related Links: - [Detailed information on the STEOP](/en/semester-planning/introductory-and-orientation-period-steop/) - Introductory seminar (course type) Related entries: - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56)"
+        },
+        {
+          "id": "271a53027cf1-004",
+          "page_id": "271a53027cf1",
+          "score": 0.6235,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 225,
+          "text": "Then select any preferred groups (parallel courses). For courses with a limited number of study places, you will have to allocate points/preferences. Click on “Register” to complete the registration. As soon as the registration period has ended, the system will allocate the places on the courses. Registrations are organised according to the specifications of the curricula (e.g. [points system](/en/abc-of-terminology/?no_cache=1#c741408), [preference system](/en/abc-of-terminology/?no_cache=1#c741407) or [recommended path of study](/en/registration-for-coursesexaminations/recommended-path-of-study/). Places will be allocated accordingly. Next, the status of your registration will be updated in u:space and you will receive an information e-mail on your u:account e-mail address. Possible registration status before the allocation of study places: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt) - Allocation by registration deadline (Zuteilung nach Anmeldefrist) Possible registration status after the allocation of study places: - Registered (angemeldet) - On waiting list (auf Warteliste) - Alternative place available (Alternativplatz verfügbar) - In process (in Bearbeitung) - Closed (geschlossen) - No place received (keinen Platz erhalten) The ABC of terminology provides further information on the [registration status](/en/abc-of-terminology/?no_cache=1#c741418). You can find an overview of your registered courses under registration overview in u:space. The deregistration from a course is done via the registration overview. #### ABC of terminology ##### Registering for courses - [Course](/en/abc-of-terminology/?no_cache=1#c741378) - [Record of examinations](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration deadline](/en/abc-of-terminology/?no_cache=1#c741418) - [Registration status](/en/abc-of-terminology/?no_cache=1#c741418) [### Registration phases for courses with continuous assessment](https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/)"
+        },
+        {
+          "id": "db62f7204cc2-001",
+          "page_id": "db62f7204cc2",
+          "score": 0.6222,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 152,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2027 |\n| Rectors's Day (no classes) | 12 March 2027 |\n| Easter break | 22 March to 4 April 2027 |\n| Whitsun break | 15 May to 17 May 2027 |\n| End of classes | 30 June 2027 |\n| Lecture-free period (summer break) | 1 July to 30 September 2027 |\n| End of semester | 30 September 2027 |\n\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 October 2027 |\n| All Souls Day | 2 November 2027 |\n| Christmas break | 20 December 2027 to 6 January 2028 |\n| End of classes | 31 January 2028 |\n| Lecture-free period (semester break) | 1 to 29 February 2028 |\n| End of semester | 29 February 2028 |"
+        },
+        {
+          "id": "0a9941520df7-001",
+          "page_id": "0a9941520df7",
+          "score": 0.6184,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/deadlines-for-entrance-exam-procedures/",
+          "title": "Deadlines and dates",
+          "section": "Entrance exam",
+          "heading_path": [],
+          "word_count": 211,
+          "text": "- #### Application period\n\n  Irrespective of the applicant's citizenship, once per year:\n\n  - **Academc year 2026/27:**\n    2 March to 4 May 2026\n- #### Admission Period\n\n  Irrespective of the applicant's citizenship\n\n  - **Winter semester 2026/27**\n    13 July to 31 October 2026\n  - **Summer semester 2027**\n    11 January to 31 March 2027\n\n**When will the written test for my desired degree programme take place?**\n\nHere you will find an overview of all test dates for bachelor's and diploma programmes with entrance exam/aptitude test procedures in the academic year 2026/27.\n\n**My desired degree programme says 'Test doesn't take place.' What does that mean?**\n\nThere is no written test because there are fewer applications for admission than there are study places available this year.\n\nThe application period for the 2026/27 academic year has already passed. You can only be admitted to the course if you\n\n- submitted your application on time and\n- meet all the admission requirements\n\n[Download Test dates (accessible PDF)](/fileadmin/user_upload/aufnahmeverfahren/Dateien/Testtermine_AV202627_EN.pdf)\n\nPrevious\n\n©\n\nNext\n\nWhat do you need to study, how does the test day work, and what do you need to keep in mind? We’ve put together all the information you need – so you can successfully get through the entrance exam/aptitude test procedure.\n\n[Through the entrance exam](/en/through-the-entrance-exam)\n\nPrevious\n\n©\n\nNext"
+        },
+        {
+          "id": "f9a5c42acf1e-001",
+          "page_id": "f9a5c42acf1e",
+          "score": 0.618,
+          "url": "https://studieren.univie.ac.at/en/accessible-studies/individual-study-support-isu/isu-peer-counselling/",
+          "title": "ISU Peer Counselling: Support for your everyday student life",
+          "section": "Accessible studies",
+          "heading_path": [
+            "What issues can be discussed?"
+          ],
+          "word_count": 148,
+          "text": "Consultation appointments will be held during the summer semester, from May 11 through the end of June. You can book an appointment starting now.\nThere will be additional dates in September; exact times to be announced.\n\nA peer counseling session lasts 50 minutes and takes place on-site in the main building on Universitätsring 1 (also available online upon request). No sessions are held on holidays or days when classes are not in session.\n\n|  |  |  |\n| --- | --- | --- |\n| Monday | 15:00 | 16:30 |\n| Tuesday | 14:00 | 15:30 |\n| Thursday | 08:30 | 10:00 |\n| Friday | 10:00 | 11:30 |\n\nRegistration via: [peerpoint.ctl@univie.ac.at](javascript:linkTo_UnCryptMailto('ocknvq,rggtrqkpv0evnBwpkxkg0ce0cv');)\n\nSubject line: ISU-Peer-Beratung\n\nPlease include the following in your email:\n\n- 2-3 suggested dates\n- Student ID number\n- Topics you would like to discuss (a few keywords are sufficient)\n\nContact via: [peerpoint.ctl@univie.ac.at](http://peerpoint.ctl@univie.ac.at)"
+        },
+        {
+          "id": "7916c3fc6510-074",
+          "page_id": "7916c3fc6510",
+          "score": 0.617,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "and exams via u:find resp. the record of examinations in u:space. In order to be able to attend courses with continuous assessment or exams, you have to register in due time. You can find the registration periods within the respective courses in u:find. In order to register successfully, you have to fulfil the requirements according to the curriculum of your degree programme. This is being evaluated in the registration process. It is not possible to attend a course with continuous assesment if you have not registered in due time. The registration for courses with non-continuous assessment is not mandatory but recommended. You cannot be registered after the registration/late registration period has ended. If you have registered correctly, you are entitled to attend the course/exam. Related Links: - [Registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) - [u:find](https://ufind.univie.ac.at/en/index.html) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration system for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30195&cHash=ec6c0ec1dfc7c02a395a68ae4b1740d9) - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - Registration status in u:space In u:space, in the section > Studies > Registration Overview you can view the status of your registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars,"
+        },
+        {
+          "id": "7916c3fc6510-102",
+          "page_id": "7916c3fc6510",
+          "score": 0.6159,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find - further informationen](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c242234) - [u:find - Course and Staff/Unit Directory](https://ufind.univie.ac.at/en/index.html) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [Course directory](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32012&cHash=ea100bf6913819d04a4a664d0e97b652) - u:print u:print is a service provided by the Vienna University Computer Center (ZID). u:print devices for economical printing and copying are available at several computer rooms, departments and libraries at the University of Vienna. Related Links: - [u:print](https://zid.univie.ac.at/en/uprint/) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29993&cHash=df5349d31712ffbcb01fd2085c65a5d2) - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - u:space u:space is the online portal and central access point to all services regarding organisation of studies and teaching. With their u:account, students and university staff can log in to u:space, where they can find all online services they need during their studies/teaching activities. Related Links: - [u:space - further information](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c216326) - [u:space - the portal](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [Educational institution ID](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31924&cHash=4208114d5c92cc815c5e41002c8b5e6b) - Unauthorised absence from a course with continuous assessment/exam If you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not"
+        },
+        {
+          "id": "683e91ed0d69-007",
+          "page_id": "683e91ed0d69",
+          "score": 0.6152,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "Further information"
+          ],
+          "word_count": 16,
+          "text": "- [How do I organise my studies?](/en/study-organisation/)\n- [Planning your Semester](/en/semester-planning/)\n- [Tuition fee/Student's Union fee](/en/tuition-fee/)"
+        },
+        {
+          "id": "7916c3fc6510-078",
+          "page_id": "7916c3fc6510",
+          "score": 0.6151,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the course. For courses with continuous assessment the allocation process begins after the registration period has ended. Registrations are ranked according to the stipulations in the curricula (e.g. point system/preference system/study achievement system) and places allocated. Afterwards, you will be informed about whether you are “Registered” (Angemeldet), \"On waiting list\" (auf Warteliste) or if there is an \"Alternative place available\" (Alternativplatz verfügbar). If students deregister from a course, you possibly move up the waiting list. If you are on the waiting list, please attend the first unit of the course as there may be free places. If an Alternative place is available, you can accept or reject it within a defined deadline. You can find detailed information about the registration procedure at the website of the course and exam registration system. For further information about the registration for courses/exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Links: [u:account](https://zid.univie.ac.at/en/uaccount/) [u:find](https://ufind.univie.ac.at/en/index.html) [registration overview in u:space](https://uspace.univie.ac.at/web/studium/anmeldeuebersicht) Related entries: - [Registration deadline for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30189&cHash=de0ff6f2f9646d32b8000b74fd539a40) - [Registration status in u:space](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30191&cHash=71de51db4a7852d1f6b8c1de1a4de491) - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93) - [Allocation of places in courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31363&cHash=0620ca3cce0949ea363afb2149c1b262) - [Allocation of available places](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31956&cHash=cd316add293db7beb7397f54a0ba5b64) - Reimbursement of the tuition fee Already paid tuition fee can be reimbursed for certain, precisley defined reasons. This is the case, for example, if your application for remission or leave of absence has been granted. Further examples: You have completed"
+        },
+        {
+          "id": "7916c3fc6510-030",
+          "page_id": "7916c3fc6510",
+          "score": 0.6139,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses. It usually is a course with continuous assessment, which means that attendance is compulsory and the number of available places is limited. The charasteristic of a discussion course is that an intense exchange between students and course instructors shall be stimulated, for example by means of discussions. Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Distribution of remaining places (courses) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - Service Unit: Teaching Affairs and Study Services (DLE SLW) The Teaching Affairs and Student Services unit consists of three divisions (Coordination of Student Services, Center for Teaching and Learning [CTL] and Admission Office). The Teaching Affairs and Student Services unit (SLW) supports teachers and employees of the University of Vienna in the administration of studies and teaching and provides prospective students with information about the range of degree programmes, the admission procedure, the tuition fee/Student's Union fee, etc. The SLW service unit is also responsible for the admission to degree programmes. Related Links: -"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "14a11212230d-000",
+          "page_id": "14a11212230d",
+          "score": 0.7103,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "Below you will find a table with the registration phases for courses with continuous assessment for the summer semester 2026 *(as of 13 January 2026)*. This table is not complete and is only intended as a guide. Always check the registration deadlines for individual courses in u:find. If you are using this page on a mobile device, scroll to the right to see all columns. | SPL | Beginn Datum | Beginn Uhrzeit | Ende Datum | Ende Uhrzeit | | --- | --- | --- | --- | --- | | African Studies | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Egyptology | 02.02.2026 | 09:00 | 23.02.2026 | 23:59 | | Ancient History and Studies in Classical Antiquity | 02.02.2026 | 06:00 | 25.02.2026 | 23:59 | | English and American Studies | 06.02.2026 | 12:00 | 20.02.2026 | 12:00 | | Astronomy, Earth Sciences, Meteorology | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Education | 02.02.2026 | 06:30 | 23.02.2026 | 09:00 | | Biology | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Data Science | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 |"
+        },
+        {
+          "id": "14a11212230d-003",
+          "page_id": "14a11212230d",
+          "score": 0.6585,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |"
+        },
+        {
+          "id": "db62f7204cc2-002",
+          "page_id": "db62f7204cc2",
+          "score": 0.6566,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "section": "Study organisation",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "word_count": 96,
+          "text": "|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)"
+        },
+        {
+          "id": "14a11212230d-002",
+          "page_id": "14a11212230d",
+          "score": 0.6516,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |"
+        },
+        {
+          "id": "14a11212230d-001",
+          "page_id": "14a11212230d",
+          "score": 0.6503,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 230,
+          "text": "| 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Doctoral Programme in Education | 02.02.2026 | 06:30 | 27.02.2026 | 09:00 | | Doctoral Programme in Geosciences, Geography and Astronomy | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | East Asian Economy and Society | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Nutritional Sciences | 09.02.2026 | 09:00 | 24.02.2026 | 18:00 | | European Ethnology | 02.02.2026 | 07:00 | 23.02.2026 | 23:59 | | Gender Studies | 01.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Geography | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | History | 16.02.2026 | 09:00 | 27.02.2026 | 14:00 | | Computer Science | 10.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Development Studies | 23.02.2026 | 09:00 | 03.03.2026 | 09:00 | | Jewish Studies | 02.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Kultur- und Sozialanthropologie | 01.02.2026 | 00:01 | 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.6398,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Registration phases for courses with continuous assessment (2026S)\nBelow you will find a table with the registration phases for courses with continuous assessment for the summer semester 2026 *(as of 13 January 2026)*. This table is not complete and is only intended as a guide. Always check the registration deadlines for individual courses in u:find. If you are using this page on a mobile device, scroll to the right to see all columns. | SPL | Beginn Datum | Beginn Uhrzeit | Ende Datum | Ende Uhrzeit | | --- | --- | --- | --- | --- | | African Studies | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Egyptology | 02.02.2026 | 09:00 | 23.02.2026 | 23:59 | | Ancient History and Studies in Classical Antiquity | 02.02.2026 | 06:00 | 25.02.2026 | 23:59 | | English and American Studies | 06.02.2026 | 12:00 | 20.02.2026 | 12:00 | | Astronomy, Earth Sciences, Meteorology | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Education | 02.02.2026 | 06:30 | 23.02.2026 | 09:00 | | Biology | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Data Science | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 |\n\n[2] Registration phases for courses with continuous assessment (2026S)\n| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |\n\n[3] The academic year — Summer semester 2028\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)\n\n[4] Registration phases for courses with continuous assessment (2026S)\n| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |\n\n[5] Registration phases for courses with continuous assessment (2026S)\n| 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Doctoral Programme in Education | 02.02.2026 | 06:30 | 27.02.2026 | 09:00 | | Doctoral Programme in Geosciences, Geography and Astronomy | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | East Asian Economy and Society | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Nutritional Sciences | 09.02.2026 | 09:00 | 24.02.2026 | 18:00 | | European Ethnology | 02.02.2026 | 07:00 | 23.02.2026 | 23:59 | | Gender Studies | 01.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Geography | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | History | 16.02.2026 | 09:00 | 27.02.2026 | 14:00 | | Computer Science | 10.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Development Studies | 23.02.2026 | 09:00 | 03.03.2026 | 09:00 | | Jewish Studies | 02.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Kultur- und Sozialanthropologie | 01.02.2026 | 00:01 | 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026\n\n[6] Studying a non-degree programme (again) — Attending individual courses > Deadlines\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "14a11212230d-000",
+          "score": 0.7103
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "14a11212230d-003",
+          "score": 0.6585
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/the-academic-year/",
+          "title": "The academic year",
+          "heading_path": [
+            "Summer semester 2028"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "db62f7204cc2-002",
+          "score": 0.6566
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "14a11212230d-002",
+          "score": 0.6516
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "14a11212230d-001",
+          "score": 0.6503
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "section": "Resumption of studies",
+          "chunk_id": "2332cdbc78e4-001",
+          "score": 0.6398
+        }
+      },
+      "context_chars": 6058,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Registration phases for courses with continuous assessment (2026S)\nBelow you will find a table with the registration phases for courses with continuous assessment for the summer semester 2026 *(as of 13 January 2026)*. This table is not complete and is only intended as a guide. Always check the registration deadlines for individual courses in u:find. If you are using this page on a mobile device, scroll to the right to see all columns. | SPL | Beginn Datum | Beginn Uhrzeit | Ende Datum | Ende Uhrzeit | | --- | --- | --- | --- | --- | | African Studies | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Egyptology | 02.02.2026 | 09:00 | 23.02.2026 | 23:59 | | Ancient History and Studies in Classical Antiquity | 02.02.2026 | 06:00 | 25.02.2026 | 23:59 | | English and American Studies | 06.02.2026 | 12:00 | 20.02.2026 | 12:00 | | Astronomy, Earth Sciences, Meteorology | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Education | 02.02.2026 | 06:30 | 23.02.2026 | 09:00 | | Biology | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Data Science | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 |\n\n[2] Registration phases for courses with continuous assessment (2026S)\n| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |\n\n[3] The academic year — Summer semester 2028\n|  |  |\n| --- | --- |\n| Beginning of semester and classes | 1 March 2028 |\n| Rectors's Day (no classes) | 13 March 2028 |\n| Easter break | 10 April to 23 April 2028 |\n| Whitsun break | 3 June to 5 June 2028 |\n| End of classes | 30 June 2028 |\n| Lecture-free period (summer break) | 1 July to 30 September 2028 |\n| End of semester | 30 September 2028 |\n\n- [Mitteilungsblätter - Richtlinien, Verordnungen](http://www.univie.ac.at/mtbl02/?t=0;f=Richtlinien,_Verordnungen)\n- [Opening hours of the buildings of the university](https://www.univie.ac.at/en/about-us/opening-hours-and-locations)\n\n[4] Registration phases for courses with continuous assessment (2026S)\n| 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Mathematics | 01.02.2026 | 00:01 | 22.02.2026 | 23:59 | | MEi:CogSci | 09.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Musicology | 10.02.2026 | 09:00 | 19.02.2026 | 14:00 | | Numismatics | 01.02.2026 | 09:00 | 01.03.2026 | 23:59 | | Orientalistik | 01.02.2026 | 00:00 | 03.03.2026 | 08:00 | | Pflegewissenschaft | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Philosophy | 16.02.2026 | 00:01 | 22.02.2026 | 23:59 | | Physics | 02.02.2026 | 08:00 | 19.02.2026 | 07:00 | | Political Science | 02.02.2026 | 08:00 | 17.02.2026 | 08:00 | | Psychology | 02.02.2026 | 09:00 | 24.02.2026 | 09:00 | | Mass Media Communication Science | 23.02.2026 | 09:00 | 25.02.2026 | 18:00 | | Law | 10.02.2026 | 00:01 | 24.02.2026 | 23:59 | | Romance Studies | 09.02.2026 | 09:00 | 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | |\n\n[5] Registration phases for courses with continuous assessment (2026S)\n| 23:59 | | German Philology | 16.02.2026 | 09:00 | 22.02.2026 | 19:00 | | Digital Humanities | 04.02.2026 | 08:00 | 24.02.2026 | 23:59 | | Doctoral Programme in Social Sciences | 02.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Doctoral Programme in Education | 02.02.2026 | 06:30 | 27.02.2026 | 09:00 | | Doctoral Programme in Geosciences, Geography and Astronomy | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | East Asian Economy and Society | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Nutritional Sciences | 09.02.2026 | 09:00 | 24.02.2026 | 18:00 | | European Ethnology | 02.02.2026 | 07:00 | 23.02.2026 | 23:59 | | Gender Studies | 01.02.2026 | 00:01 | 25.02.2026 | 23:59 | | Geography | 09.02.2026 | 08:00 | 23.02.2026 | 08:00 | | History | 16.02.2026 | 09:00 | 27.02.2026 | 14:00 | | Computer Science | 10.02.2026 | 09:00 | 20.02.2026 | 09:00 | | Development Studies | 23.02.2026 | 09:00 | 03.03.2026 | 09:00 | | Jewish Studies | 02.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Kultur- und Sozialanthropologie | 01.02.2026 | 00:01 | 23.02.2026 | 23:59 | | History of Art | 04.02.2026 | 10:00 | 18.02.2026 | 10:00 | | Lehrer\\*innenbildung (ABG + SP IP) | 09.02.2026 | 09:00 | 23.02.2026 | 09:00 | | MA Philosophy & Economics | 16.02.2026\n\n[6] Studying a non-degree programme (again) — Attending individual courses > Deadlines\nWinter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nQuestion: What's the registration window for English and American Studies seminars in the summer 2026 semester?"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 2692,
+        "completion_tokens": 39,
+        "total_tokens": 2731
+      },
+      "rate_limit_events": [],
+      "raw_response": "The registration window for English and American Studies is from 06.02.2026, 12:00 to 20.02.2026, 12:00 [1].",
+      "finish_reason": "stop",
+      "latency_ms": 8581.1
+    }
+  },
+  "query_id": "g06:paraphrase:2",
+  "status": "ok",
+  "answer": "The registration window for English and American Studies is from 06.02.2026, 12:00 to 20.02.2026, 12:00 [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+      "title": "Registration phases for courses with continuous assessment (2026S)",
+      "heading_path": [],
+      "section": "Study organisation",
+      "chunk_id": "14a11212230d-000",
+      "score": 0.7103
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 2692,
+    "completion_tokens": 39,
+    "total_tokens": 2731
+  },
+  "total_latency_ms": 8599.0
+}

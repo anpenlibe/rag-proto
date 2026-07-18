@@ -1,0 +1,752 @@
+{
+  "trace_id": "f96c4da51bf5",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "What are the English-taught bachelor options at Uni Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What are the English-taught bachelor options at Uni Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "09e120ef2c23-000",
+          "page_id": "09e120ef2c23",
+          "score": 0.7472,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "The University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "7916c3fc6510-014",
+          "page_id": "7916c3fc6510",
+          "score": 0.7442,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "B"
+          ],
+          "word_count": 191,
+          "text": "/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)"
+        },
+        {
+          "id": "57f869325fac-000",
+          "page_id": "57f869325fac",
+          "score": 0.7366,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/",
+          "title": "Bachelor/diploma programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 151,
+          "text": "Here you find a list of all bachelor and diploma programmes offered at the University of Vienna. [You may also browse the programmes by topic.](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\nGerman knowledge on C1 level is an admission requirement for all bachelor/diploma programmes. The language(s) of instruction of each course depend(s) on the focus of the degree programme.\n\nPlease note that the language of instruction of most of these programmes is German only. To start the degree programme, you need to hold a [certificate of German proficiency on C1 level](/en/admission/german-language-proficiency/).\n\n[Information about the teacher education programme (bachelor and master) can be found here.](/en/degree-programmes/teacher-education-programme/)\n\nInformation about the admission procedure can be found here.\n\nFor some degree programmes you need to pass an entrance exam procedure.\n\n© Universität Wien / Barbara Mair\n\n[### alphabetical order](#c285425)\n\n[### by topic](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "5941983659f6-000",
+          "page_id": "5941983659f6",
+          "score": 0.7118,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choice-of-degree/",
+          "title": "Looking for a degree programme?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "You are interested in the University of Vienna and are still looking for the right degree programme? The following pages help you to get to know the large variety of offered degree programmes and to make the choice easier for you.\n\n© Universität Wien/ Barbara Mair\n\n# Looking for a degree programme?\n\n[### Offered degree programmes](/en/degree-programmes/)\n\n- [From A like Advanced Theological Studies to Z like Zoology -  all degree programmes offered at the University of Vienna](/en/degree-programmes/)\n\n- [Why study at the University of Vienna?](/en/degree-programmes/why-study-at-the-university-of-vienna/)\n- [Choosing the right programme](/en/degree-programmes/choosing-the-right-programme/#c274265)\n- [Education Fairs](/en/degree-programmes/education-fairs/#c200911)\n- [Our offers and projects](/en/degree-programmes/our-offers-and-projects/#c319719)\n- [Accessible Studies](/en/accessible-studies/#c537236)\n- [We cooperate with...](/en/degree-programmes/we-cooperate-with/#c274334)\n- [univie Blog](https://blog.univie.ac.at/en/)\n\n[## Studying - Yes or No?\n\n- [How to become a student - Admission procedure](/en/admission-procedure/#c510435)\n- [Degree programmes with entrance exam procedure](/en/entrance-exam/#c500908)\n- [Study organisation](/en/study-organisation/#c253584)\n- [Student Life - Who can help me with...?](/en/student-life-who-can-help-me-with/#c168586)\n- [Welcome Guide](/en/welcome/welcome-guide/)\n\n© Universität Wien/ Christoph Wannerer\n\nThe University of Vienna organises study fairs dierctly at the university and is represented at external career fairs. You want to get to know the university and talk to representatives personally?\n\n[Visit us at a career fair!](/en/degree-programmes/education-fairs/)\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.7107,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-001",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7074,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "word_count": 230,
+          "text": "How do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance"
+        },
+        {
+          "id": "b37d157fc3c4-000",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7023,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "In general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |"
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.7008,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "479712f83ed4-010",
+          "page_id": "479712f83ed4",
+          "score": 0.7001,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you study at least one teaching subject at one of the following universities of arts - [University of Music and Performing Arts Vienna](https://www.mdw.ac.at/studiencenter/zulassung-zum-universitaetsuebergreifenden-lehramts-studium/) (only available in German) - [Universität of Applied Arts Vienna](https://www.dieangewandte.at/lehramt_kombination) (only available in German) - [Akademie der bildenden Künste Wien](https://www.akbild.ac.at/de/studium/zulassungspruefungen/bachelorstudium-kuenstlerisches-lehramt) (only available in German) You first participate in the aptitude test procedure of the university of arts. After you were successful you can be admitted to one or more teaching subjects at the University of Vienna. If you want to study all teaching subjects at the university of arts you will attend the general educational basics at the University of Vienna as part of a [co-registration](https://studieren.univie.ac.at/en/admission/co-registration/). #### Follow these steps: Collapse all Open all ##### Step 1: Register in u:space You already have a u:account, but it expired? Reactivate your u:account via the [website of the Vienna University Computer Center](https://account.forms.univie.ac.at/uaccount-reaktivieren/index.html?lang=en). You don't have a u:account? 1. Create a u:account in [u:space](http://uspace.univie.ac.at/) within the admission period. 2. Make sure you remember your login data. You will need the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you"
+        },
+        {
+          "id": "68d75954a82a-000",
+          "page_id": "68d75954a82a",
+          "score": 0.6996,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/",
+          "title": "Master Programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 106,
+          "text": "Here you find a list of all master programmes offered at the University of Vienna.\n\nThe instruction language of most master degree programmes is [German](/en/admission/german-language-proficiency/). Information about [programmes in another language can be found here](/en/degree-programmes/degree-programmes-in-foreign-languages/).\n\nInformation about the application process can be found here.\n\nFor some degree programmes you need to pass an entrance examination\n\n- [Teacher Education Programme (bachelor and master)](/en/degree-programmes/teacher-education-programme/)\n\n© Universität Wien / derknopfdruecker.com\n\n[### alphabetical order](#c177175)\n\n[### by topic](/en/degree-programmes/master-programmes/master-programmes-by-topic/)\n\n[#### Degree Programmes in Foreign Languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[#### Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n[#### Joint Curricula](/en/degree-programmes/master-programmes/joint-curricula/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "785f0a10a7d6-004",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6974,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 93,
+          "text": "Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia and Tibet - Linguistics - Mathematics - Meteorology and Climate Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies"
+        },
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6973,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "785f0a10a7d6-007",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6969,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure"
+          ],
+          "word_count": 66,
+          "text": "- Economics - Education - English and American Studies - International Business Administration - International Legal Studies - Journalism and Communication Science - Korean Studies - Law - Mathematical Foundations of Data Science - Nutritional Sciences - Pharmacy - Political Science - Psychology - Social and Cultural Anthropology - Sociology - Teacher Education - Transcultural Communication - Sport and Human Movement Science (sporting aptitude admission test)"
+        },
+        {
+          "id": "785f0a10a7d6-010",
+          "page_id": "785f0a10a7d6",
+          "score": 0.695,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) - Conservation Biology and Biodiversity Management - Contemporary History and Media (with QZB) - Cultural Differences and Transnational Processes (CREOLE) (English) - Culture and Society of Modern South Asia (multilingual) - Development Studies - Digital Humanities (multilingual, with QZB) - Earth Sciences - Ecology and Ecosystems (English) - Education - Egyptology - English Language and Linguistics (English) - Environmental Science (English, with AV) - Epistemologies of Science and Technology (EST) (multilingual) - European Ethnology - European Master in Health and Physical Activity (English) - Evolutionary Anthropology - Food Chemistry - Gender Studies (with QZB) - General Linguistics - Geographies of Global Change and Sustainability Transformations (multilingual, with QZB) - German as a Foreign and Second Language (with QZB) - German Philology (with QZB) - Global History and Global Studies (multilingual) - Green Chemistry (English, admission at partner university) - History - History of Art (with QZB) - Hungarian and Finno-Ugrian Studies (multilingual) - Indo-European Studies (multilingual) - Interdisciplinary Ethics (with QZB) - Interdisciplinary East European Studies (multilingual) - International Business Administration (multilingual, with QZB) - International Legal Studies (multilingual, with QZB) - Islamic Religious Education - Japanology (multilingual) - Jewish Studies (multilingual) - Journalism and Communication Studies - Koreanology (multilingual) - Languages and Cultures of South Asia"
+        },
+        {
+          "id": "785f0a10a7d6-011",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6944,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 210,
+          "text": "- International Business Administration (multilingual, with QZB) - International Legal Studies (multilingual, with QZB) - Islamic Religious Education - Japanology (multilingual) - Jewish Studies (multilingual) - Journalism and Communication Studies - Koreanology (multilingual) - Languages and Cultures of South Asia (multilingual) - Mathematics (English) - Meteorology and Climate Science (English) - Molecular Biology (English, with QZB) - Molecular Precision Medicine (English, admission at partner university) - Multilingual Technologies (English, admission at partner university) - Musicology - Nursing Science - Nutritional Sciences - Pharmacy - Philosophy (multilingual, with QZB) - Physical Geography: Environmental Dynamics and Sustainability (multilingual, with QZB) - Physics (English) - Physics of the Earth (Geophysics) (English, admission at partner university) - Political Science - Prehistory and Historical Archaeology - Protestant Theology - Regional Research and Regional Planning - Religious Education - Religious Studies (multilingual) - Romance Studies (multilingual) - Scandinavian Studies (multilingual) - Sinology (English, with QZB) - Slavonic Studies (multilingual) - Social and Cultural Anthropology (multilingual) - Sociology - Spatial Data Science and GeoCommunication (multilingual, with QZB) - Sport Science - Statistics and Data Analytics - Teacher Education - Theatre, Film and Media Studies - Tibetology and Buddhist Studies (multilingual) - Translation (multilingual) - Turkish Studies (multilingual) - Urban Studies (English, admission at partner university) - Zoology"
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.6931,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        },
+        {
+          "id": "1944531c4838-001",
+          "page_id": "1944531c4838",
+          "score": 0.6914,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 152,
+          "text": "Find out in advance which requirements you must meet with documents from your country in order to fulfil the admission requirements at the University of Vienna. The competence check only makes sense if you meet all the requirements.\n\nProspective students who do not fulfil all requirements cannot be admitted to a degree programme at the University of Vienna.\n\nAlso check the specific requirements for your desired degree programme, such as proof of German and/or English language proficiency and further required documents. You can find information on this on the [page for the respective degree programme](/en/admission-procedure/).\n\nPlease also ensure that your documents are correctly legalised and translated.\n\n- [Documents from Bangladesh](#c1270047)\n- [Documents from India](#c1270039)\n- [Documents from Pakistan](#c1270031)\n\nYour documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "2b99bbd8b3f0-000",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6909,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 114,
+          "text": "Asylum seekers, convention refugees, and people granted subsidiary protection who possess a secondary-school leaving certificate and/or a university degree from a non-EU/EEA country may apply for admission to a degree programme at the University of Vienna. The requirements are as follows: you must fulfil the admission requirements and adhere to the [application and admission period](/en/admission/application-and-admission-periods/).\n\nThe University of Vienna offers over 150 bachelor, master and doctoral programmes. You can get more detailed information about the programmes offered on the following pages:\n\n- [All degree programmes](/en/degree-programmes/)\n- [StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) of the degree programmes](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n- [Students’ Union (ÖH) of the University of Vienna](https://oeh.univie.ac.at/en/)\n- [Center for Doctoral Studies of the University of Vienna](https://doktorat.univie.ac.at/en/)"
+        },
+        {
+          "id": "16e2ef0b071f-003",
+          "page_id": "16e2ef0b071f",
+          "score": 0.6907,
+          "url": "https://studieren.univie.ac.at/en/graduates/",
+          "title": "Services for graduates",
+          "section": "Graduates",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "#### Becoming a mentor\n\nNo matter if you would like to share your experiences on finding a job, staying abroad or establishing companies and enterprises — on the alma Mentoring Platform of the University of Vienna you can [**become a mentor**](https://mentoring.univie.ac.at/en/page/MentorInnen) and share your knowledge with other graduates.\n\n© Universität Wien / Barbara Mair\n\n**Continuing to seek knowledge.**Graduating from the University of Vienna does not mean that you can no longer access the University’s information resources. Graduates can continue to use their library accounts or extend them (€ 15 per year) and continue to use electronic resources free of charge (at the locations of the Vienna University Library and via the internal university Wi-Fi).\n\n***Benefits for alumni:****Members of the Alumni Association receive a 50 % discount on library cards (€ 7.50).*\n\n- [Vienna University Library](https://bibliothek.univie.ac.at/en/)\n\n© USI Wien / Barbara Mair\n\n**Staying fit.**From Aikido to Zumba — the University Sport Institute (USI) offers courses for around 160 different types of sports as well as continuing education and training programmes.\n\n***Benefits for alumni:****All USI courses are available to university graduates at special alumni rates.*\n\n- [University Sport Institute of the University of Vienna](https://musi.usi.at/?lang=en)\n\n© Universität Wien / Elia Zilberberg"
+        },
+        {
+          "id": "4f3bea52bf4a-001",
+          "page_id": "4f3bea52bf4a",
+          "score": 0.6906,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/",
+          "title": "Choosing the right programme",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 181,
+          "text": "Studienplattform (Study Platform) is an important tool for your independent research and offers up-to-date information and useful links to all fields of degree Programmes in Austria.\n\nOn this website, which is provided by OeAD (Östereichischer Austauschdienst), you can find a lot of valuable information about studying in Austria.\n\nWatch the film [\"Study in Austria\"](https://youtu.be/IcBJh8AyHC8)  to find out why Austria is the ideal place to study.\n\n© Universität Wien/ Barbara Mair\n\nBerufsInfoZentrum (BIZ - Job Information Centre) is your first contact point for questions on professions, trainings and job opportunities.\n\n© Universität Wien/ Barbara Mair\n\n\"Get your own idea of your profession\": With this slogan the Berufsinformationszentrum der Wiener Wirtschaft (BiWi - Vocational Information Centre of the Vienna Economic Chamber) provides orientation for your career and educational choice.\n\n© Universität Wien/ Barbara Mair\n\nBildungsberatung in Wien (Educational Counselling in Vienna) offers free and neutral educational and career counselling to Viennese residents.\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        }
+      ],
+      "latency_ms": 18.2
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "09e120ef2c23-000",
+          "page_id": "09e120ef2c23",
+          "score": 0.7472,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "The University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "7916c3fc6510-014",
+          "page_id": "7916c3fc6510",
+          "score": 0.7442,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "B"
+          ],
+          "word_count": 191,
+          "text": "/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)"
+        },
+        {
+          "id": "57f869325fac-000",
+          "page_id": "57f869325fac",
+          "score": 0.7366,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/",
+          "title": "Bachelor/diploma programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 151,
+          "text": "Here you find a list of all bachelor and diploma programmes offered at the University of Vienna. [You may also browse the programmes by topic.](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\nGerman knowledge on C1 level is an admission requirement for all bachelor/diploma programmes. The language(s) of instruction of each course depend(s) on the focus of the degree programme.\n\nPlease note that the language of instruction of most of these programmes is German only. To start the degree programme, you need to hold a [certificate of German proficiency on C1 level](/en/admission/german-language-proficiency/).\n\n[Information about the teacher education programme (bachelor and master) can be found here.](/en/degree-programmes/teacher-education-programme/)\n\nInformation about the admission procedure can be found here.\n\nFor some degree programmes you need to pass an entrance exam procedure.\n\n© Universität Wien / Barbara Mair\n\n[### alphabetical order](#c285425)\n\n[### by topic](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "5941983659f6-000",
+          "page_id": "5941983659f6",
+          "score": 0.7118,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choice-of-degree/",
+          "title": "Looking for a degree programme?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "You are interested in the University of Vienna and are still looking for the right degree programme? The following pages help you to get to know the large variety of offered degree programmes and to make the choice easier for you.\n\n© Universität Wien/ Barbara Mair\n\n# Looking for a degree programme?\n\n[### Offered degree programmes](/en/degree-programmes/)\n\n- [From A like Advanced Theological Studies to Z like Zoology -  all degree programmes offered at the University of Vienna](/en/degree-programmes/)\n\n- [Why study at the University of Vienna?](/en/degree-programmes/why-study-at-the-university-of-vienna/)\n- [Choosing the right programme](/en/degree-programmes/choosing-the-right-programme/#c274265)\n- [Education Fairs](/en/degree-programmes/education-fairs/#c200911)\n- [Our offers and projects](/en/degree-programmes/our-offers-and-projects/#c319719)\n- [Accessible Studies](/en/accessible-studies/#c537236)\n- [We cooperate with...](/en/degree-programmes/we-cooperate-with/#c274334)\n- [univie Blog](https://blog.univie.ac.at/en/)\n\n[## Studying - Yes or No?\n\n- [How to become a student - Admission procedure](/en/admission-procedure/#c510435)\n- [Degree programmes with entrance exam procedure](/en/entrance-exam/#c500908)\n- [Study organisation](/en/study-organisation/#c253584)\n- [Student Life - Who can help me with...?](/en/student-life-who-can-help-me-with/#c168586)\n- [Welcome Guide](/en/welcome/welcome-guide/)\n\n© Universität Wien/ Christoph Wannerer\n\nThe University of Vienna organises study fairs dierctly at the university and is represented at external career fairs. You want to get to know the university and talk to representatives personally?\n\n[Visit us at a career fair!](/en/degree-programmes/education-fairs/)\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.7107,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-001",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7074,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "word_count": 230,
+          "text": "How do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance"
+        },
+        {
+          "id": "b37d157fc3c4-000",
+          "page_id": "b37d157fc3c4",
+          "score": 0.7023,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/degree-programmes-in-foreign-languages/",
+          "title": "Knowledge of Foreign Languages",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "In general, the language of instruction of degree programmes at the University of Vienna is [German](/en/admission/german-language-proficiency/).\n\nSome [programmes](/en/degree-programmes/) are taught in another language or in a combination of German and another language. Legal basis for this is the [curriculum of the respective programme](http://senat.univie.ac.at/curricularkommission/curricula/).\n\nFor some degree programme, you need to prove your language proficiency before admission and upload the certificate in the application. This can be done via your previous studies or a [certificate of the respective language](#c147163).\n\nFor other degree programmes, the indicated level is a recommendation. Without knowledge of the language the progress of your studies will be delayed. However, the level of knowledge is not checked during admission process.\n\nThe following master programmes are taught completely in English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Mathematical Foundations of Data Science](/en/degree-programmes/bachelordiploma-programmes/mathematical-foundations-of-data-science-bachelor-with-aptitute-test/) | [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n\nThe language of instruction of these programmes is German and English.\n\n| Degree Programme | Required Qualification |\n| --- | --- |\n| [Economics](/en/bachelordiploma-programmes/economics-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |\n| [International Legal Studies](/en/degree-programmes/bachelordiploma-programmes/international-legal-studies-bachelor-with-entrance-exam-procedure/) | [German](/en/admission/german-language-proficiency/) & [English B2](/en/admission/english-language-proficiency/#c805007) (admission requirement) |\n| [Physics](/en/degree-programmes/bachelordiploma-programmes/physics-bachelor-with-osa/) | [German](/en/admission/german-language-proficiency/) (& English B2 recommended) |"
+        },
+        {
+          "id": "e9cb4e799824-000",
+          "page_id": "e9cb4e799824",
+          "score": 0.7008,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/our-offers-and-projects/",
+          "title": "Our offers and projects",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 166,
+          "text": "On this page you will find current offers and projects from \"School meets Uni\" as well as from other institutions of the University of Vienna, which are aimed specifically at pupils, teachers and school classes as well as at those students, who have recently started their studies at the University of Vienna:\n\n- [Dr. Hans Riegel prizes](#c539634)\n- [School meets Uni - Offers for school classes](#c319792)\n- [Youth Science Competition of the University of Vienna](/en/degree-programmes/we-cooperate-with/#c274336)\n- [Further offers for pupils and school classes at the University of Vienna](#c409284)\n\n© Universität Wien/ Martin Sowa\n\nAs part of the project \"School meets Uni\", we offer school classes the opportunity to visit the University of Vienna and \"get a taste of university life\". In one-hour, free of cost information lectures, we provide a general overview of the differences between school and university, our studies and the admission procedure at the University of Vienna.\n\nAre you interested in a school lecture for your class? Just send us an email: schule-trifft-uni@univie.ac.at."
+        },
+        {
+          "id": "479712f83ed4-010",
+          "page_id": "479712f83ed4",
+          "score": 0.7001,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 230,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you study at least one teaching subject at one of the following universities of arts - [University of Music and Performing Arts Vienna](https://www.mdw.ac.at/studiencenter/zulassung-zum-universitaetsuebergreifenden-lehramts-studium/) (only available in German) - [Universität of Applied Arts Vienna](https://www.dieangewandte.at/lehramt_kombination) (only available in German) - [Akademie der bildenden Künste Wien](https://www.akbild.ac.at/de/studium/zulassungspruefungen/bachelorstudium-kuenstlerisches-lehramt) (only available in German) You first participate in the aptitude test procedure of the university of arts. After you were successful you can be admitted to one or more teaching subjects at the University of Vienna. If you want to study all teaching subjects at the university of arts you will attend the general educational basics at the University of Vienna as part of a [co-registration](https://studieren.univie.ac.at/en/admission/co-registration/). #### Follow these steps: Collapse all Open all ##### Step 1: Register in u:space You already have a u:account, but it expired? Reactivate your u:account via the [website of the Vienna University Computer Center](https://account.forms.univie.ac.at/uaccount-reaktivieren/index.html?lang=en). You don't have a u:account? 1. Create a u:account in [u:space](http://uspace.univie.ac.at/) within the admission period. 2. Make sure you remember your login data. You will need the u:account during your studies. 3. Log into u:space and complete the registration. ##### Step 2: Complete the admission at the university of arts Complete the admission procedure at the university of arts. There you also indicate which subject you"
+        },
+        {
+          "id": "68d75954a82a-000",
+          "page_id": "68d75954a82a",
+          "score": 0.6996,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/master-programmes/",
+          "title": "Master Programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 106,
+          "text": "Here you find a list of all master programmes offered at the University of Vienna.\n\nThe instruction language of most master degree programmes is [German](/en/admission/german-language-proficiency/). Information about [programmes in another language can be found here](/en/degree-programmes/degree-programmes-in-foreign-languages/).\n\nInformation about the application process can be found here.\n\nFor some degree programmes you need to pass an entrance examination\n\n- [Teacher Education Programme (bachelor and master)](/en/degree-programmes/teacher-education-programme/)\n\n© Universität Wien / derknopfdruecker.com\n\n[### alphabetical order](#c177175)\n\n[### by topic](/en/degree-programmes/master-programmes/master-programmes-by-topic/)\n\n[#### Degree Programmes in Foreign Languages](/en/degree-programmes/degree-programmes-in-foreign-languages/)\n\n[#### Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n[#### Joint Curricula](/en/degree-programmes/master-programmes/joint-curricula/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "785f0a10a7d6-004",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6974,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 93,
+          "text": "Literature - Earth Sciences - Egyptology - European Ethnology - Geography - German Philology - History - History of Art - Hungarian and Finnish Studies - Islamic Theology - Japanology - Jewish Studies - Languages and Cultures of South Asia and Tibet - Linguistics - Mathematics - Meteorology and Climate Science - Musicology - Oriental Studies - Philosophy - Physics - Prehistory and Historical Archaeology - Protestant Theology - Religious Education - Romance Studies - Scandinavian Studies - Sinology - Slavonic Studies - Statistics and Data Analytics - Theatre, Film and Media Studies"
+        },
+        {
+          "id": "8d4ed91613a3-001",
+          "page_id": "8d4ed91613a3",
+          "score": 0.6973,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/",
+          "title": "I am from ... and want to study at the University of Vienna. What do I have to keep in mind?",
+          "section": "Admission",
+          "heading_path": [
+            "I want to study a bachelor/diploma programme",
+            "General requirements for the application for admission to bachelor/diploma programmes"
+          ],
+          "word_count": 186,
+          "text": "- scan of your valid your passport or personal ID card (front and back!) as JPEG or PNG file\n- all pages (!) of your original secondary-school leaving certificate\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- [list of subjects](/en/admission/bachelordiploma-programmes/list-of-subjects/) in its original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - together with a sworn translation (if not issued in German or English)\n- if you have already studied: transcripts/diplomas in their original version\n  - including the required [legalisation](/en/admission/info-third-country-students/legalisation/) according to the issuing country\n  - plus sworn translation (if not issued in German or English)\n- for German and multilingual programmes: [proof of German language proficiency](/en/admission/german-language-proficiency/) at level A2 or higher\n- for the bachelor programmes in International Legal Studies and Mathematical Foundations of Data Science: [proof of English language proficiency](/en/admission/english-language-proficiency/) at level B2 or higher\n\nYou have to submit the application for admission within the [application period](/en/admission/application-and-admission-periods/). The application period depends on your citizenship. Please note: [degree programmes with entrance exam procedure](/en/entrance-exam/) have a special application period."
+        },
+        {
+          "id": "785f0a10a7d6-007",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6969,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure"
+          ],
+          "word_count": 66,
+          "text": "- Economics - Education - English and American Studies - International Business Administration - International Legal Studies - Journalism and Communication Science - Korean Studies - Law - Mathematical Foundations of Data Science - Nutritional Sciences - Pharmacy - Political Science - Psychology - Social and Cultural Anthropology - Sociology - Teacher Education - Transcultural Communication - Sport and Human Movement Science (sporting aptitude admission test)"
+        },
+        {
+          "id": "785f0a10a7d6-010",
+          "page_id": "785f0a10a7d6",
+          "score": 0.695,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 230,
+          "text": "Classical Archaeology - Classical Philology (multilingual) - Cognition, Behavior and Neurobiology (CoBeNe Master) (English, with QZB) - Comparative Literature - Computational Science (English) - Conservation Biology and Biodiversity Management - Contemporary History and Media (with QZB) - Cultural Differences and Transnational Processes (CREOLE) (English) - Culture and Society of Modern South Asia (multilingual) - Development Studies - Digital Humanities (multilingual, with QZB) - Earth Sciences - Ecology and Ecosystems (English) - Education - Egyptology - English Language and Linguistics (English) - Environmental Science (English, with AV) - Epistemologies of Science and Technology (EST) (multilingual) - European Ethnology - European Master in Health and Physical Activity (English) - Evolutionary Anthropology - Food Chemistry - Gender Studies (with QZB) - General Linguistics - Geographies of Global Change and Sustainability Transformations (multilingual, with QZB) - German as a Foreign and Second Language (with QZB) - German Philology (with QZB) - Global History and Global Studies (multilingual) - Green Chemistry (English, admission at partner university) - History - History of Art (with QZB) - Hungarian and Finno-Ugrian Studies (multilingual) - Indo-European Studies (multilingual) - Interdisciplinary Ethics (with QZB) - Interdisciplinary East European Studies (multilingual) - International Business Administration (multilingual, with QZB) - International Legal Studies (multilingual, with QZB) - Islamic Religious Education - Japanology (multilingual) - Jewish Studies (multilingual) - Journalism and Communication Studies - Koreanology (multilingual) - Languages and Cultures of South Asia"
+        },
+        {
+          "id": "785f0a10a7d6-011",
+          "page_id": "785f0a10a7d6",
+          "score": 0.6944,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 210,
+          "text": "- International Business Administration (multilingual, with QZB) - International Legal Studies (multilingual, with QZB) - Islamic Religious Education - Japanology (multilingual) - Jewish Studies (multilingual) - Journalism and Communication Studies - Koreanology (multilingual) - Languages and Cultures of South Asia (multilingual) - Mathematics (English) - Meteorology and Climate Science (English) - Molecular Biology (English, with QZB) - Molecular Precision Medicine (English, admission at partner university) - Multilingual Technologies (English, admission at partner university) - Musicology - Nursing Science - Nutritional Sciences - Pharmacy - Philosophy (multilingual, with QZB) - Physical Geography: Environmental Dynamics and Sustainability (multilingual, with QZB) - Physics (English) - Physics of the Earth (Geophysics) (English, admission at partner university) - Political Science - Prehistory and Historical Archaeology - Protestant Theology - Regional Research and Regional Planning - Religious Education - Religious Studies (multilingual) - Romance Studies (multilingual) - Scandinavian Studies (multilingual) - Sinology (English, with QZB) - Slavonic Studies (multilingual) - Social and Cultural Anthropology (multilingual) - Sociology - Spatial Data Science and GeoCommunication (multilingual, with QZB) - Sport Science - Statistics and Data Analytics - Teacher Education - Theatre, Film and Media Studies - Tibetology and Buddhist Studies (multilingual) - Translation (multilingual) - Turkish Studies (multilingual) - Urban Studies (English, admission at partner university) - Zoology"
+        },
+        {
+          "id": "673374adc501-001",
+          "page_id": "673374adc501",
+          "score": 0.6931,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 196,
+          "text": "Studying at the University of Vienna means being part of a large and diverse community. Students from around 140 different countries are currently pursuing a degree at the University of Vienna. Our participation in networks such as Erasmus+ and partnerships with the best universities in the world open up numerous exciting exchange opportunities. Diversity is encouraged by applying the principle of equal opportunities in all areas of university activity.\n\n- [#univie communities](/en/student-life-who-can-help-me-with/univie-communities/#c487599)\n- [Summer & Winter Schools](https://international.univie.ac.at/en/univie-summer/winter-schools)\n- [Student Mobility](https://international.univie.ac.at/en/)\n- [Diversity portal of the University of Vienna](https://gleichstellung.univie.ac.at/en/diversity)\n- [Accessible studying at the University of Vienna](https://barrierefrei.univie.ac.at/) (in German)\n\n© University of Vienna / Barbara Mair\n\n© University of Vienna / derknopfdruecker.com\n\nThe University of Vienna is also the largest research and educational institution in Austria with a total of 7,400 academics. Our teaching staff adheres to the principle of research-led teaching in their courses. They impart knowledge about latest research findings and their students are able to participate in original research. The University of Vienna sets future-oriented accents in interdisciplinary innovative research fields.\n\n- [Financial support by the University of Vienna](https://studienpraeses.univie.ac.at/stipendien/) (in German)\n- [Research Services and Career Development](https://forschung.univie.ac.at/en/)\n- [The University of Vienna´s strategic priorities](https://www.univie.ac.at/en/research)"
+        },
+        {
+          "id": "1944531c4838-001",
+          "page_id": "1944531c4838",
+          "score": 0.6914,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/vfs-global/",
+          "title": "Competence check at VFS Global",
+          "section": "Admission",
+          "heading_path": [
+            "Step 1: Inform yourself about the admission requirements"
+          ],
+          "word_count": 152,
+          "text": "Find out in advance which requirements you must meet with documents from your country in order to fulfil the admission requirements at the University of Vienna. The competence check only makes sense if you meet all the requirements.\n\nProspective students who do not fulfil all requirements cannot be admitted to a degree programme at the University of Vienna.\n\nAlso check the specific requirements for your desired degree programme, such as proof of German and/or English language proficiency and further required documents. You can find information on this on the [page for the respective degree programme](/en/admission-procedure/).\n\nPlease also ensure that your documents are correctly legalised and translated.\n\n- [Documents from Bangladesh](#c1270047)\n- [Documents from India](#c1270039)\n- [Documents from Pakistan](#c1270031)\n\nYour documents have to be legalised by [full diplomatic certification](/en/admission/info-third-country-students/legalisation/#c1121827) and must be translated into either German or English afterwards.\n\nYour steps in the admission procedure depend on the degree programme of your choice."
+        },
+        {
+          "id": "2b99bbd8b3f0-000",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.6909,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 114,
+          "text": "Asylum seekers, convention refugees, and people granted subsidiary protection who possess a secondary-school leaving certificate and/or a university degree from a non-EU/EEA country may apply for admission to a degree programme at the University of Vienna. The requirements are as follows: you must fulfil the admission requirements and adhere to the [application and admission period](/en/admission/application-and-admission-periods/).\n\nThe University of Vienna offers over 150 bachelor, master and doctoral programmes. You can get more detailed information about the programmes offered on the following pages:\n\n- [All degree programmes](/en/degree-programmes/)\n- [StudiesServiceCenters (SSC) and StudiesServiceUnits (SSS) of the degree programmes](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n- [Students’ Union (ÖH) of the University of Vienna](https://oeh.univie.ac.at/en/)\n- [Center for Doctoral Studies of the University of Vienna](https://doktorat.univie.ac.at/en/)"
+        },
+        {
+          "id": "16e2ef0b071f-003",
+          "page_id": "16e2ef0b071f",
+          "score": 0.6907,
+          "url": "https://studieren.univie.ac.at/en/graduates/",
+          "title": "Services for graduates",
+          "section": "Graduates",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "#### Becoming a mentor\n\nNo matter if you would like to share your experiences on finding a job, staying abroad or establishing companies and enterprises — on the alma Mentoring Platform of the University of Vienna you can [**become a mentor**](https://mentoring.univie.ac.at/en/page/MentorInnen) and share your knowledge with other graduates.\n\n© Universität Wien / Barbara Mair\n\n**Continuing to seek knowledge.**Graduating from the University of Vienna does not mean that you can no longer access the University’s information resources. Graduates can continue to use their library accounts or extend them (€ 15 per year) and continue to use electronic resources free of charge (at the locations of the Vienna University Library and via the internal university Wi-Fi).\n\n***Benefits for alumni:****Members of the Alumni Association receive a 50 % discount on library cards (€ 7.50).*\n\n- [Vienna University Library](https://bibliothek.univie.ac.at/en/)\n\n© USI Wien / Barbara Mair\n\n**Staying fit.**From Aikido to Zumba — the University Sport Institute (USI) offers courses for around 160 different types of sports as well as continuing education and training programmes.\n\n***Benefits for alumni:****All USI courses are available to university graduates at special alumni rates.*\n\n- [University Sport Institute of the University of Vienna](https://musi.usi.at/?lang=en)\n\n© Universität Wien / Elia Zilberberg"
+        },
+        {
+          "id": "4f3bea52bf4a-001",
+          "page_id": "4f3bea52bf4a",
+          "score": 0.6906,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choosing-the-right-programme/",
+          "title": "Choosing the right programme",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 181,
+          "text": "Studienplattform (Study Platform) is an important tool for your independent research and offers up-to-date information and useful links to all fields of degree Programmes in Austria.\n\nOn this website, which is provided by OeAD (Östereichischer Austauschdienst), you can find a lot of valuable information about studying in Austria.\n\nWatch the film [\"Study in Austria\"](https://youtu.be/IcBJh8AyHC8)  to find out why Austria is the ideal place to study.\n\n© Universität Wien/ Barbara Mair\n\nBerufsInfoZentrum (BIZ - Job Information Centre) is your first contact point for questions on professions, trainings and job opportunities.\n\n© Universität Wien/ Barbara Mair\n\n\"Get your own idea of your profession\": With this slogan the Berufsinformationszentrum der Wiener Wirtschaft (BiWi - Vocational Information Centre of the Vienna Economic Chamber) provides orientation for your career and educational choice.\n\n© Universität Wien/ Barbara Mair\n\nBildungsberatung in Wien (Educational Counselling in Vienna) offers free and neutral educational and career counselling to Viennese residents.\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "09e120ef2c23-000",
+          "page_id": "09e120ef2c23",
+          "score": 0.7472,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 137,
+          "text": "The University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "7916c3fc6510-014",
+          "page_id": "7916c3fc6510",
+          "score": 0.7442,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "B"
+          ],
+          "word_count": 191,
+          "text": "/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)"
+        },
+        {
+          "id": "57f869325fac-000",
+          "page_id": "57f869325fac",
+          "score": 0.7366,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/",
+          "title": "Bachelor/diploma programmes",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 151,
+          "text": "Here you find a list of all bachelor and diploma programmes offered at the University of Vienna. [You may also browse the programmes by topic.](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\nGerman knowledge on C1 level is an admission requirement for all bachelor/diploma programmes. The language(s) of instruction of each course depend(s) on the focus of the degree programme.\n\nPlease note that the language of instruction of most of these programmes is German only. To start the degree programme, you need to hold a [certificate of German proficiency on C1 level](/en/admission/german-language-proficiency/).\n\n[Information about the teacher education programme (bachelor and master) can be found here.](/en/degree-programmes/teacher-education-programme/)\n\nInformation about the admission procedure can be found here.\n\nFor some degree programmes you need to pass an entrance exam procedure.\n\n© Universität Wien / Barbara Mair\n\n[### alphabetical order](#c285425)\n\n[### by topic](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)"
+        },
+        {
+          "id": "5941983659f6-000",
+          "page_id": "5941983659f6",
+          "score": 0.7118,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choice-of-degree/",
+          "title": "Looking for a degree programme?",
+          "section": "Degree programmes",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "You are interested in the University of Vienna and are still looking for the right degree programme? The following pages help you to get to know the large variety of offered degree programmes and to make the choice easier for you.\n\n© Universität Wien/ Barbara Mair\n\n# Looking for a degree programme?\n\n[### Offered degree programmes](/en/degree-programmes/)\n\n- [From A like Advanced Theological Studies to Z like Zoology -  all degree programmes offered at the University of Vienna](/en/degree-programmes/)\n\n- [Why study at the University of Vienna?](/en/degree-programmes/why-study-at-the-university-of-vienna/)\n- [Choosing the right programme](/en/degree-programmes/choosing-the-right-programme/#c274265)\n- [Education Fairs](/en/degree-programmes/education-fairs/#c200911)\n- [Our offers and projects](/en/degree-programmes/our-offers-and-projects/#c319719)\n- [Accessible Studies](/en/accessible-studies/#c537236)\n- [We cooperate with...](/en/degree-programmes/we-cooperate-with/#c274334)\n- [univie Blog](https://blog.univie.ac.at/en/)\n\n[## Studying - Yes or No?\n\n- [How to become a student - Admission procedure](/en/admission-procedure/#c510435)\n- [Degree programmes with entrance exam procedure](/en/entrance-exam/#c500908)\n- [Study organisation](/en/study-organisation/#c253584)\n- [Student Life - Who can help me with...?](/en/student-life-who-can-help-me-with/#c168586)\n- [Welcome Guide](/en/welcome/welcome-guide/)\n\n© Universität Wien/ Christoph Wannerer\n\nThe University of Vienna organises study fairs dierctly at the university and is represented at external career fairs. You want to get to know the university and talk to representatives personally?\n\n[Visit us at a career fair!](/en/degree-programmes/education-fairs/)\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.7107,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        },
+        {
+          "id": "2b99bbd8b3f0-001",
+          "page_id": "2b99bbd8b3f0",
+          "score": 0.7074,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "section": "Admission",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "word_count": 230,
+          "text": "How do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Degree Programmes offered at the University of Vienna\nThe University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[2] ABC of terminology — B\n/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)\n\n[3] Bachelor/diploma programmes\nHere you find a list of all bachelor and diploma programmes offered at the University of Vienna. [You may also browse the programmes by topic.](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\nGerman knowledge on C1 level is an admission requirement for all bachelor/diploma programmes. The language(s) of instruction of each course depend(s) on the focus of the degree programme.\n\nPlease note that the language of instruction of most of these programmes is German only. To start the degree programme, you need to hold a [certificate of German proficiency on C1 level](/en/admission/german-language-proficiency/).\n\n[Information about the teacher education programme (bachelor and master) can be found here.](/en/degree-programmes/teacher-education-programme/)\n\nInformation about the admission procedure can be found here.\n\nFor some degree programmes you need to pass an entrance exam procedure.\n\n© Universität Wien / Barbara Mair\n\n[### alphabetical order](#c285425)\n\n[### by topic](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[4] Looking for a degree programme?\nYou are interested in the University of Vienna and are still looking for the right degree programme? The following pages help you to get to know the large variety of offered degree programmes and to make the choice easier for you.\n\n© Universität Wien/ Barbara Mair\n\n# Looking for a degree programme?\n\n[### Offered degree programmes](/en/degree-programmes/)\n\n- [From A like Advanced Theological Studies to Z like Zoology -  all degree programmes offered at the University of Vienna](/en/degree-programmes/)\n\n- [Why study at the University of Vienna?](/en/degree-programmes/why-study-at-the-university-of-vienna/)\n- [Choosing the right programme](/en/degree-programmes/choosing-the-right-programme/#c274265)\n- [Education Fairs](/en/degree-programmes/education-fairs/#c200911)\n- [Our offers and projects](/en/degree-programmes/our-offers-and-projects/#c319719)\n- [Accessible Studies](/en/accessible-studies/#c537236)\n- [We cooperate with...](/en/degree-programmes/we-cooperate-with/#c274334)\n- [univie Blog](https://blog.univie.ac.at/en/)\n\n[## Studying - Yes or No?\n\n- [How to become a student - Admission procedure](/en/admission-procedure/#c510435)\n- [Degree programmes with entrance exam procedure](/en/entrance-exam/#c500908)\n- [Study organisation](/en/study-organisation/#c253584)\n- [Student Life - Who can help me with...?](/en/student-life-who-can-help-me-with/#c168586)\n- [Welcome Guide](/en/welcome/welcome-guide/)\n\n© Universität Wien/ Christoph Wannerer\n\nThe University of Vienna organises study fairs dierctly at the university and is represented at external career fairs. You want to get to know the university and talk to representatives personally?\n\n[Visit us at a career fair!](/en/degree-programmes/education-fairs/)\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[5] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[6] Information for asylum seekers — How do I get admitted to a degree programme?\nHow do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+          "title": "Degree Programmes offered at the University of Vienna",
+          "heading_path": [],
+          "section": "Degree programmes",
+          "chunk_id": "09e120ef2c23-000",
+          "score": 0.7472
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "B"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-014",
+          "score": 0.7442
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/",
+          "title": "Bachelor/diploma programmes",
+          "heading_path": [],
+          "section": "Degree programmes",
+          "chunk_id": "57f869325fac-000",
+          "score": 0.7366
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/choice-of-degree/",
+          "title": "Looking for a degree programme?",
+          "heading_path": [],
+          "section": "Degree programmes",
+          "chunk_id": "5941983659f6-000",
+          "score": 0.7118
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "section": "Degree programmes",
+          "chunk_id": "673374adc501-005",
+          "score": 0.7107
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+          "title": "Information for asylum seekers",
+          "heading_path": [
+            "How do I get admitted to a degree programme?"
+          ],
+          "section": "Admission",
+          "chunk_id": "2b99bbd8b3f0-001",
+          "score": 0.7074
+        }
+      },
+      "context_chars": 10987,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Degree Programmes offered at the University of Vienna\nThe University of Vienna is one of the most prestiguous and largest universities in Europe and offers a wide range of degree programmes. From education, social sciences, philosophy and religion, history, society, politics and arts over culture, media, mathematics, informatics and technology, natural and life sciences, psychology, health and sports tp languages, economic sciences and law.\n\nThis diversity gives students the opportunity to choose an individualised way through their studies that best suits their interests and abilities.\n\nRecommendations for your choice of degree\n\n[### Bachelor's/Diploma Programmes](/en/degree-programmes/bachelordiploma-programmes/)\n\n[### Master's Programmes](/en/degree-programmes/master-programmes/)\n\n[### Doctoral/PhD Programmes](https://doktorat.univie.ac.at/en/)\n\n[### Teacher Education Programme](/en/degree-programmes/teacher-education-programme/)\n\n[### Extension Curricula](/en/extension-curricula-and-alternative-extensions/)\n\n[### Postgraduate Programmes](https://postgraduatecenter.univie.ac.at/en/)\n\n[### Student Mobility - Exchange & Mobility Programmes](https://international.univie.ac.at/en/)\n\n[### University Sport Institute](https://www.usi.at/en/)\n\n[### Language Centre](https://sprachenzentrum.univie.ac.at/en/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[2] ABC of terminology — B\n/\n\n- Bachelor programme\n\n  The bachelor programmes offered at the University of Vienna comprise 180 ECTS and are designed for a standard duration of three years (exception: Teacher Education Programme of 240 ECTS with a standard duration of four years). The language of instruction of all bachelor programmes is German, which is why German knowledge is required for the admission. Additionally, English knowledge on level B2 is required for the application for admision for the bachelor programme International Law.\n  Graduates of an eligible bachelor programme can apply for admission to a master programme.\n\n  Related Links:\n\n  - [Range of studies: bachelor/diploma programmes](/en/degree-programmes/bachelordiploma-programmes/)\n  - [Master Access Guide](/en/degree-programmes/master-programmes/master-access-guide/)\n\n  Related entries:\n  - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27)\n  - [Academic degree](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30179&cHash=d228567a3a5b3afa103c538bf628a7aa)\n  - [Diploma programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30851&cHash=67b823c84d2ebd9ac71438deaba4ff7a)\n  - [ECTS credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)\n- Board examination\n\n  If you have not passed an exam three times, this exam must be taken orally before an examination committee for the fourth and last time. The registration is done at the StudiesServiceCenter (SSC) or the StudiesServiceUnit (SSS).\n\n  Related Links:\n\n  - [StudienServiceCenters (SSC)/StudienServiceUnits (SSS)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n  - [Büro Studienpräses: Types of exams](https://studienpraeses.univie.ac.at/infos-zum-studienrecht/pruefungen/pruefungsarten/) (in German)\n\n  Related entries:\n  - [Registration for courses and exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30193&cHash=7fbe81eeddcfae3bd66265dbbd660f93)\n  - [Negative assessment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31199&cHash=1a3305e2d484fc44e321818c7dbd5e5c)\n  - [Types of exams](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31247&cHash=14da2163035d24929e65688b4d4ec343)\n  - [Re-sitting an exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31346&cHash=cacde75698218ded9fcaf869bbc17318)\n\n[3] Bachelor/diploma programmes\nHere you find a list of all bachelor and diploma programmes offered at the University of Vienna. [You may also browse the programmes by topic.](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\nGerman knowledge on C1 level is an admission requirement for all bachelor/diploma programmes. The language(s) of instruction of each course depend(s) on the focus of the degree programme.\n\nPlease note that the language of instruction of most of these programmes is German only. To start the degree programme, you need to hold a [certificate of German proficiency on C1 level](/en/admission/german-language-proficiency/).\n\n[Information about the teacher education programme (bachelor and master) can be found here.](/en/degree-programmes/teacher-education-programme/)\n\nInformation about the admission procedure can be found here.\n\nFor some degree programmes you need to pass an entrance exam procedure.\n\n© Universität Wien / Barbara Mair\n\n[### alphabetical order](#c285425)\n\n[### by topic](/en/bachelordiploma-programmes/bachelor-programmes-by-topic/)\n\n[## You've got further questions?](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[You get further information at the StudiesServiceCenter (SSC) or StudiesServiceUnit (SSS) of your degree programme.](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/)\n\n[4] Looking for a degree programme?\nYou are interested in the University of Vienna and are still looking for the right degree programme? The following pages help you to get to know the large variety of offered degree programmes and to make the choice easier for you.\n\n© Universität Wien/ Barbara Mair\n\n# Looking for a degree programme?\n\n[### Offered degree programmes](/en/degree-programmes/)\n\n- [From A like Advanced Theological Studies to Z like Zoology -  all degree programmes offered at the University of Vienna](/en/degree-programmes/)\n\n- [Why study at the University of Vienna?](/en/degree-programmes/why-study-at-the-university-of-vienna/)\n- [Choosing the right programme](/en/degree-programmes/choosing-the-right-programme/#c274265)\n- [Education Fairs](/en/degree-programmes/education-fairs/#c200911)\n- [Our offers and projects](/en/degree-programmes/our-offers-and-projects/#c319719)\n- [Accessible Studies](/en/accessible-studies/#c537236)\n- [We cooperate with...](/en/degree-programmes/we-cooperate-with/#c274334)\n- [univie Blog](https://blog.univie.ac.at/en/)\n\n[## Studying - Yes or No?\n\n- [How to become a student - Admission procedure](/en/admission-procedure/#c510435)\n- [Degree programmes with entrance exam procedure](/en/entrance-exam/#c500908)\n- [Study organisation](/en/study-organisation/#c253584)\n- [Student Life - Who can help me with...?](/en/student-life-who-can-help-me-with/#c168586)\n- [Welcome Guide](/en/welcome/welcome-guide/)\n\n© Universität Wien/ Christoph Wannerer\n\nThe University of Vienna organises study fairs dierctly at the university and is represented at external career fairs. You want to get to know the university and talk to representatives personally?\n\n[Visit us at a career fair!](/en/degree-programmes/education-fairs/)\n\n[## You've got further questions?](/en/contact-form/)\n\n[Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[5] Why study at the University of Vienna? — Uni Insights\nassociated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)\n\n[6] Information for asylum seekers — How do I get admitted to a degree programme?\nHow do I get admitted to a degree programme? In order to be admitted to a bachelor/diploma programme at the University of Vienna you are required to possess a secondary-school leaving certificate or to have completed a degree programme of at least three years. Admission to master programmes require the completion of a subject-related bachelor programme. - You need to provide the required documents in their original or legalised form. If you no longer possess your secondary-school leaving certificate or your higher education degree certificate, you may request a substitute confirmation at the [Federal Ministry Women, Science and Research Republic of Austria](https://www.bmfwf.gv.at/public.html). Admission is not possible without a secondary-school leaving certificate or higher education degree certificate. - Documents issued in a language other than German or English additionally require a legally attested translation. Your documents do not require [full diplomatic certification](/en/admission/info-third-country-students/legalisation/), irrespective of the issuing country. However, you need to prove your status as a recognised refugee/asylum seeker (e.g. by means of a convention travel document). You can submit your application for admission online on [u:space](https://uspace.univie.ac.at/en/). This is only possible during the [application period](/en/admission/application-and-admission-periods/). The University of Vienna conducts an [entrance exam procedure](/en/entrance-exam/) for select bachelor/diploma programmes. An entrance exam procedure is also conducted for admission to the bachelor programme in Teacher Education. You can apply for admission to these programmes only once per academic year, in spring. The entrance\n\nQuestion: What are the English-taught bachelor options at Uni Vienna?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2895,
+        "completion_tokens": 18,
+        "total_tokens": 2913
+      },
+      "rate_limit_events": [],
+      "raw_response": "I don't know [1][2][3][4][5][6].",
+      "finish_reason": "stop",
+      "latency_ms": 370.5
+    }
+  },
+  "query_id": "g25:paraphrase:3",
+  "status": "ok",
+  "answer": "I don't know [1][2][3][4][5][6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/degree-programmes/",
+      "title": "Degree Programmes offered at the University of Vienna",
+      "heading_path": [],
+      "section": "Degree programmes",
+      "chunk_id": "09e120ef2c23-000",
+      "score": 0.7472
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "B"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-014",
+      "score": 0.7442
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/",
+      "title": "Bachelor/diploma programmes",
+      "heading_path": [],
+      "section": "Degree programmes",
+      "chunk_id": "57f869325fac-000",
+      "score": 0.7366
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/degree-programmes/choice-of-degree/",
+      "title": "Looking for a degree programme?",
+      "heading_path": [],
+      "section": "Degree programmes",
+      "chunk_id": "5941983659f6-000",
+      "score": 0.7118
+    },
+    {
+      "n": 5,
+      "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+      "title": "Why study at the University of Vienna?",
+      "heading_path": [
+        "Uni Insights"
+      ],
+      "section": "Degree programmes",
+      "chunk_id": "673374adc501-005",
+      "score": 0.7107
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/admission/info-third-country-students/information-for-asylum-seekers/",
+      "title": "Information for asylum seekers",
+      "heading_path": [
+        "How do I get admitted to a degree programme?"
+      ],
+      "section": "Admission",
+      "chunk_id": "2b99bbd8b3f0-001",
+      "score": 0.7074
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2895,
+    "completion_tokens": 18,
+    "total_tokens": 2913
+  },
+  "total_latency_ms": 388.9
+}

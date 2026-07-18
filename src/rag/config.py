@@ -102,7 +102,9 @@ class Config:
     max_tokens: int = 1024
 
     # -- evaluation (eval_hash only — must never move config_hash) --
-    gold_set: str = "gold_v1"
+    # gold_v1_small (20 groups × 6 = 120): the project's gold set. The original 40-group
+    # gold_v1 was removed; a different gold_set moves eval_hash only, never config_hash.
+    gold_set: str = "gold_v1_small"
     # LLM-judge for the scoring harness: a separate, larger-context model so it doesn't
     # grade itself; driven through the same `rag.llm.KeyPool` cycling. Groq rate-limits
     # per model, so a distinct judge also draws from its own token budget.

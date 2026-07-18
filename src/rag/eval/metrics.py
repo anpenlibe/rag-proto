@@ -36,7 +36,7 @@ def mean_pairwise_jaccard(sets: list[set]) -> float | None:
 
 
 def recall_any(found: Sequence[str], expected: Sequence[str]) -> int:
-    """1 if ANY expected page was found. gold_v1 has exactly 1 expected page per group,
+    """1 if ANY expected page was found. The gold set has 1 expected page per group,
     so any-hit and all-hit are provably identical on it; any-hit matches the locked
     panel's wording ("*an* expected page present")."""
     return int(bool(set(found) & set(expected)))

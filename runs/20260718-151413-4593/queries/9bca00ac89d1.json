@@ -1,0 +1,793 @@
+{
+  "trace_id": "9bca00ac89d1",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "What does it mean to be 'prüfungsaktiv' (examination-active)?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What does it mean to be 'prüfungsaktiv' (examination-active)?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.8034,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "1facb80561ec-002",
+          "page_id": "1facb80561ec",
+          "score": 0.7957,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.7575,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.7458,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-066",
+          "page_id": "7916c3fc6510",
+          "score": 0.727,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "- [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Prüfungsaktiv - examination activity Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. ECTS credits from recognitions are not taken into account for the calculation. All degree programmes in which students take a certain number of exams are taken into account. The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. Related links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [Prüfungsaktiv - examination activity](/en/pruefungsaktiv-examination-activity/) Related entries: - [Minimum number of credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=35543&cHash=505350cd46716299d4f258eb59392d28) - Public defence The public defence is the final exam in a master's or doctoral programme. It includes the defence of your academic thesis (master's or doctoral thesis) and an oral exam in front of an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required"
+        },
+        {
+          "id": "1facb80561ec-005",
+          "page_id": "1facb80561ec",
+          "score": 0.7017,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 188,
+          "text": "of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - Writing theses: [research question camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/research-question-camp/), [methods camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/methods-camp/), [writing days](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-days/) - In selected fields of study: [Peer Student-Counseling](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/peer-advice-on-study-progress/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. - Why are SWS sometimes displayed in u:space? To be considered examination-active, you must achieve at least 16 ECTS credits or at least 8 SWS (semester hours per week). Some students see SWS instead of ECTS credits in u:space. This occurs when SWS are more beneficial for reaching examination activity status more quickly."
+        },
+        {
+          "id": "6a5e795a43db-001",
+          "page_id": "6a5e795a43db",
+          "score": 0.6534,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 230,
+          "text": "At the University of Vienna, an examination is a formal opportunity for students to demonstrate the level of knowledge and skills they have acquired and the achievement of the learning outcomes defined in the curriculum. It is not merely a matter of assessing performance for the award of a grade or academic degree, but also of receiving valuable feedback on learning progress and ensuring fairness and academic integrity. In addition to oral and written examinations, written assignments and presentations also count as examinations. In the current age of AI, the nature of examinations is evolving. The focus is shifting from mere knowledge reproduction to assessing higher levels of competence, such as reflection, transfer and design. Consequently, emphasis is now on both the final outcome and the individual learner's progress and development. Whether and how you may use AI in examinations is determined by the respective examiners. - Where can you find the rules and regulations? The binding provisions specifying which AI tools are permitted for a particular course or examination can be found directly in the course description in u:find. As a general rule, anything not explicitly listed there as permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments,"
+        },
+        {
+          "id": "7916c3fc6510-075",
+          "page_id": "7916c3fc6510",
+          "score": 0.6443,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars, exercises) the following status values may appear: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt): You have started but not completed your registration or you do not meet the course prerequisites yet. If you meet the requirements by the end of the registration deadline, you will automatically be considered for the allocation. - **Allocation by registration deadline (Zuteilung nach Anmeldefrist)**:If you have registered for a course with a limited number of participants, you are in consideration for the course first. Once the places have been allocated (after the end of the registration deadline), it will be decided whether you gain a place on the course. - Registered (Angemeldet): You have gained a place on the course. In case you do not want to attend, you have to deregister in due time. - On waiting list (Auf Warteliste): You have not been assigned a place on the course. If other students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.6417,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.638,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "479712f83ed4-007",
+          "page_id": "479712f83ed4",
+          "score": 0.6364,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Active/completed programme in Teacher Education at another educational institution"
+          ],
+          "word_count": 212,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you have studied or are currently studying one of the following programmes at a university or college of teacher education in an EU/EEA country or Switzerland.\n\nSie sind vom Eignungsverfahren für das Bachelorstudium Lehramt an der Universität Wien ausgenommen, wenn Sie eines der folgenden Studien an einer Universität oder Pädagogischen Hochschule eines EU/EWR-Landes oder der Schweiz studieren oder abgeschlossen haben.\n\n- Bachelor's programme in Teacher Education for secondary schools (general education)\n- Programme in Business Education\n- Programme in Religious Education\n\n**Follow these steps:**\n\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en). Make sure you remember your login data. You will need the u:account during your studies. Log into u:space and complete the registration.\n2. Send the following proofs via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/935)\n   1. all pages of your secondary-school leaving certificate merged into one PDF file\n      including translation if the document was not issued in German or English\n   2. your current confirmation of studies or your degree certificate\n3. State which subjects you want to study in your message. Note: If you want to study the teaching subject in Sports and Physical Education please also send your confirmation of studies to [StudiesServiceCenter Sport Science](#)."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.634,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "7916c3fc6510-054",
+          "page_id": "7916c3fc6510",
+          "score": 0.6316,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in mode of assessment that was not announced). You cannot appeal against the content-related assessment as this is at the examiner's discretion. In the event of serious irregularities at the time of the exam, you can apply for a deletion of your grade/attempt in the Office of the Studienpräses within four weeks after grading. The plausibility of the serious irregularities has to be demonstrated. A proof is not necessary. You will receive an official notice, notifying you whether or not your application was successful. Related Links: - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - Non-degree programme A non-degree programme means that you are admitted to “attending individual courses”. In this case, you do not study any particular degree programme. Especially persons who have to complete supplementary exams as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU) are admitted to a non-degree programme. As part of the university entrance qualification examination(Studienberechtigungsprüfung – studying without a secondary-school leaving certificate), non-degree programme students can also complete courses. Related Links: - [Non-degree programme](/en/admission/non-degree-programme/) - [University Preparation Programme of the Vienna"
+        },
+        {
+          "id": "1c320dc7aeb6-005",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6306,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "German course in the University Preparation Programme of the Vienna Universities (VWU)"
+          ],
+          "word_count": 171,
+          "text": "- [### What is the VWU?\n\n  The VWU is a preparation programme for university studies. When you apply for a degree programme and we have reviewed your documents, you may be required to take supplementary examinations (e.g. in German, if you do not yet have level C1). You can take these supplementary examinations in the VWU.\n\n  You cannot apply directly for the VWU. Submit your application for admission to a degree programme.\n\n  Info about the VWU](https://vorstudienlehrgang.oead.at/en/vienna)\n- [### Important information about the VWU:\n\n  Once you have been admitted to the “University Programme Preparation Programme”, only the supplementary German examination (EPD) of the VWU will be accepted as proof of German language proficiency without exception. In this case, it is not possible to discontinue the VWU and take a German examination at another institution. Failure to comply can have serious consequences for your residence permit.\n\n  Individuals who have discontinued the VWU and have taken another language examination in the meantime can retake the supplementary examination in German.\n\n  Detailed information about this rule](https://studieren.univie.ac.at/en/admission/german-language-proficiency/detailed-information/)"
+        },
+        {
+          "id": "7916c3fc6510-030",
+          "page_id": "7916c3fc6510",
+          "score": 0.6305,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses. It usually is a course with continuous assessment, which means that attendance is compulsory and the number of available places is limited. The charasteristic of a discussion course is that an intense exchange between students and course instructors shall be stimulated, for example by means of discussions. Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Distribution of remaining places (courses) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - Service Unit: Teaching Affairs and Study Services (DLE SLW) The Teaching Affairs and Student Services unit consists of three divisions (Coordination of Student Services, Center for Teaching and Learning [CTL] and Admission Office). The Teaching Affairs and Student Services unit (SLW) supports teachers and employees of the University of Vienna in the administration of studies and teaching and provides prospective students with information about the range of degree programmes, the admission procedure, the tuition fee/Student's Union fee, etc. The SLW service unit is also responsible for the admission to degree programmes. Related Links: -"
+        },
+        {
+          "id": "14a11212230d-003",
+          "page_id": "14a11212230d",
+          "score": 0.6297,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |"
+        },
+        {
+          "id": "ffc0e0a1bcbb-001",
+          "page_id": "ffc0e0a1bcbb",
+          "score": 0.6292,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/",
+          "title": "Studying in the University Preparation Programme of the Vienna Universities (VWU)",
+          "section": "Admission",
+          "heading_path": [
+            "Important note for students in the VWU"
+          ],
+          "word_count": 137,
+          "text": "Once you have been admitted to the University Preparation Programme of the Vienna Universities as a non-degree student, only the supplementary examination in German (Ergänzungsprüfung Deutsch, EPD)  is accepted as a proof of German language proficiency! It is not possible to leave the preparation programme and take a German language exam elsewhere. Disregard may lead to severe consequences such as the loss of your residence permit.\n\nPersons who have quit the VWU and have passed a different German language exam in the meanwhile can still take the supplementary examination in German (EPD).\n\n[Detailed information on the regulation](/en/admission/german-language-proficiency/detailed-information/)\n\nWhile you are admitted to the non-degree programme \"attending the VWU\" (\"Besuch des Vorstudienlehrgangs\"), you are only allowed to attend courses in the VWU and complete the prescribed supplementary examinations there. Taking exams from the degree programme is not allowed."
+        },
+        {
+          "id": "7916c3fc6510-056",
+          "page_id": "7916c3fc6510",
+          "score": 0.6288,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "O"
+          ],
+          "word_count": 230,
+          "text": "/ - Office of the Studienpräses The officer of the Studienpräses is in charge of decisions related to study law and and their correct implementation as well as for the awarding of scholarships and the nostrification of non-Austrian university degrees. Often, he/she is supported by the directorates of study (Studienprogrammleitung). Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) (in German) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Performance scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31172&cHash=985aca8980beb4dddc0407db73ca0250) - [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Official notice of refusal (\"Zurückweisungsbescheid\") After you have submitted an application for admission to a degree programme, an official notice is issued if certain prerequisites are met (e.g. issuing country of the documents, type of degree programme, etc.). An official notice of refusal (‘Zurückweisungsbescheid’) is issued if an application is assessed negatively due to formal deficiencies (e.g. a document is missing, diplomatic legalisation is missing on a document, etc.). Persons with citizenship and secondary-school leaving certificate from EU/EEA/CH, who submit an application for a bachelor, diploma or a consecutive master programme, do not receive any official notice. Related entries: - [Official notice of rejection (\"Abweisungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30175&cHash=bd73fa15486562aa72b70b91100f6b68) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - Official notice of rejection (\"Abweisungsbescheid\") An official notice of rejection (Abweisungsbescheid\") is issued if an application is assessed negatively due to deficiencies in the content (e.g. the previous education is insufficient, etc.). Related entries: - [Admission letter (official notice of admission,"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6277,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        }
+      ],
+      "latency_ms": 12.0
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.8034,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "1facb80561ec-002",
+          "page_id": "1facb80561ec",
+          "score": 0.7957,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.7575,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.7458,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-066",
+          "page_id": "7916c3fc6510",
+          "score": 0.727,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "- [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Prüfungsaktiv - examination activity Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. ECTS credits from recognitions are not taken into account for the calculation. All degree programmes in which students take a certain number of exams are taken into account. The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. Related links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [Prüfungsaktiv - examination activity](/en/pruefungsaktiv-examination-activity/) Related entries: - [Minimum number of credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=35543&cHash=505350cd46716299d4f258eb59392d28) - Public defence The public defence is the final exam in a master's or doctoral programme. It includes the defence of your academic thesis (master's or doctoral thesis) and an oral exam in front of an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required"
+        },
+        {
+          "id": "1facb80561ec-005",
+          "page_id": "1facb80561ec",
+          "score": 0.7017,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 188,
+          "text": "of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/) Make use of the [services for students](https://ctl.univie.ac.at/en/services-for-students/) to achieve your goal. The University supports you by offering: - In your first semester: [STEOP mentoring](https://ctl.univie.ac.at/en/services-for-students/your-first-semester/steop-mentoring/) - Reflect on, and adapt, your own learning approach: [Learning camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/learning-camp/) - Improve your academic writing for paper or thesis: [Writing mentoring](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-mentoring/), [writing consultation](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-consultation/) - Writing theses: [research question camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/research-question-camp/), [methods camp](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/methods-camp/), [writing days](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/writing-days/) - In selected fields of study: [Peer Student-Counseling](https://ctl.univie.ac.at/en/services-for-students/during-the-degree-programme/peer-advice-on-study-progress/) - [Helpful handouts and blog posts (german)](https://ctl.univie.ac.at/angebote-fuer-studierende/ressourcen/handouts-leitfaeden-und-infomaterial/) As usual, we keep you informed by e-mail, on the websites and via the social media channels of the University of Vienna. - Why are SWS sometimes displayed in u:space? To be considered examination-active, you must achieve at least 16 ECTS credits or at least 8 SWS (semester hours per week). Some students see SWS instead of ECTS credits in u:space. This occurs when SWS are more beneficial for reaching examination activity status more quickly."
+        },
+        {
+          "id": "6a5e795a43db-001",
+          "page_id": "6a5e795a43db",
+          "score": 0.6534,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/ai-and-exams/",
+          "title": "AI and Exams",
+          "section": "Study organisation",
+          "heading_path": [
+            "Examinations with AI: What does apply here?"
+          ],
+          "word_count": 230,
+          "text": "At the University of Vienna, an examination is a formal opportunity for students to demonstrate the level of knowledge and skills they have acquired and the achievement of the learning outcomes defined in the curriculum. It is not merely a matter of assessing performance for the award of a grade or academic degree, but also of receiving valuable feedback on learning progress and ensuring fairness and academic integrity. In addition to oral and written examinations, written assignments and presentations also count as examinations. In the current age of AI, the nature of examinations is evolving. The focus is shifting from mere knowledge reproduction to assessing higher levels of competence, such as reflection, transfer and design. Consequently, emphasis is now on both the final outcome and the individual learner's progress and development. Whether and how you may use AI in examinations is determined by the respective examiners. - Where can you find the rules and regulations? The binding provisions specifying which AI tools are permitted for a particular course or examination can be found directly in the course description in u:find. As a general rule, anything not explicitly listed there as permitted is prohibited. If you are unsure, you should always consult your lecturers in order to clarify expectations and framework conditions at an early stage. - Transparency and documentation: If you are permitted to use AI tools for written assignments,"
+        },
+        {
+          "id": "7916c3fc6510-075",
+          "page_id": "7916c3fc6510",
+          "score": 0.6443,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "registrations. For courses with non-continuous assessment (e.g. lectures) the following status values may appear: - Registered (Angemeldet): You have registered for the course. - Deregistered (Abgemeldet): You have successfully deregistered from the course. For courses with continuous assessment (e.g. seminars, exercises) the following status values may appear: - Prerequisite currently not met (Voraussetzung noch nicht erfüllt): You have started but not completed your registration or you do not meet the course prerequisites yet. If you meet the requirements by the end of the registration deadline, you will automatically be considered for the allocation. - **Allocation by registration deadline (Zuteilung nach Anmeldefrist)**:If you have registered for a course with a limited number of participants, you are in consideration for the course first. Once the places have been allocated (after the end of the registration deadline), it will be decided whether you gain a place on the course. - Registered (Angemeldet): You have gained a place on the course. In case you do not want to attend, you have to deregister in due time. - On waiting list (Auf Warteliste): You have not been assigned a place on the course. If other students deregister, you might be able to move up the list and get a free place. If you are on the waiting list, please attend the first unit of the course as there may be free places. - Alternative place"
+        },
+        {
+          "id": "7916c3fc6510-070",
+          "page_id": "7916c3fc6510",
+          "score": 0.6417,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "R"
+          ],
+          "word_count": 230,
+          "text": "the associated degree programme expires. At the University of Vienna, re-admission to the same degree programme and other degree programmes that require you to complete the exam that you failes four times is not possible. Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - [Attempts](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31239&cHash=e87c5fe84f21a0875fa06b7e65176b98) - Recognition of exams You can apply for the recognition of exams that you have taken at the University of Vienna or at a different university, in your degree programme at the University of Vienna. This also applies to internships and academic activities outside the University. The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme decides on the recognition of exams. A study achievement can be recognised only once in your degree programme. It cannot be recognised more than once in the same degree programme. Please note: Before applying for recognition of exams, please contact the StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC) of your degree programme. Internal study achievements: The application for recognition of exams taken at the University of Vienna is done via u:space. Exception: If you are enrolled on two (bachelor's) teacher education programmes at the same time or one after the other, you do not have to apply for recognition of exams. For this purpose please check your record of examinations in u:space on a regular basis. External study achievements: You have to apply for the recognition of external study achievements separately. For further information,"
+        },
+        {
+          "id": "7916c3fc6510-093",
+          "page_id": "7916c3fc6510",
+          "score": 0.638,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "S"
+          ],
+          "word_count": 230,
+          "text": "Austrian Matura. If you do not have a proof of your German language proficiency, it also prescribes the supplementary examination in German. You can take the required supplementary examinations before the admission to a degree programme as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU). Related Links: - [Proof of German language proficiency](/en/admission/german-language-proficiency/) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU)](https://vorstudienlehrgang.at/en/vienna/) - [Studying in the Preparation Programme of the Vienna Universities](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/#c743850) Related entries: - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Additional exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31940&cHash=25979189fd3c1e4c1f290fbc010321f6) - [University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU):](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31998&cHash=429329d08c91423e12eb6e7e976ae0d0) - Supplementary examinations (in the admission letter of master programmes) After you have submitted an application for admission to the degree programme, it will be checked whether - you have completed at least three years of post-secondary study and - this degree programme is eligible to the master programme you intend to study (= same discipline). If you do not have a maximum of 30 ECTS credits for the subject equivalence, supplementary examinations will be prescribed in the admission letter. These \"subject-specific\" supplementary examinations can comprise several courses and must be taken additionally. They are best taken at the beginning of the master degree programme. Example: Laura has completed her bachelor degree in Astronomy and would now like to study for"
+        },
+        {
+          "id": "479712f83ed4-007",
+          "page_id": "479712f83ed4",
+          "score": 0.6364,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Active/completed programme in Teacher Education at another educational institution"
+          ],
+          "word_count": 212,
+          "text": "You are exempt from the aptitude test procedure for the bachelor's programme in Teacher Education at the University of Vienna if you have studied or are currently studying one of the following programmes at a university or college of teacher education in an EU/EEA country or Switzerland.\n\nSie sind vom Eignungsverfahren für das Bachelorstudium Lehramt an der Universität Wien ausgenommen, wenn Sie eines der folgenden Studien an einer Universität oder Pädagogischen Hochschule eines EU/EWR-Landes oder der Schweiz studieren oder abgeschlossen haben.\n\n- Bachelor's programme in Teacher Education for secondary schools (general education)\n- Programme in Business Education\n- Programme in Religious Education\n\n**Follow these steps:**\n\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en). Make sure you remember your login data. You will need the u:account during your studies. Log into u:space and complete the registration.\n2. Send the following proofs via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/935)\n   1. all pages of your secondary-school leaving certificate merged into one PDF file\n      including translation if the document was not issued in German or English\n   2. your current confirmation of studies or your degree certificate\n3. State which subjects you want to study in your message. Note: If you want to study the teaching subject in Sports and Physical Education please also send your confirmation of studies to [StudiesServiceCenter Sport Science](#)."
+        },
+        {
+          "id": "7916c3fc6510-029",
+          "page_id": "7916c3fc6510",
+          "score": 0.634,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "entries: - [Completion of a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30172&cHash=3f411d6175185cfa1b401855807771dd) - [Certificate](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31351&cHash=c3e3d659836541090973c22a7a942111) - Directorate of studies (Studienprogrammleitung, SPL) The directorate of studies (in German: Studienprogrammleitung, SPL) of your degree programme fulfils administrative and legal tasks. It is responsible for providing students with legal information and consultation and for organising the teaching programme. Related Links: - [Directorate of studies (SPL)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) - Discontinuing an exam/course with continuous assessment If you must prematurely discontinue an exam or a course with continuous assessment for a valid reason (e.g. sickness), please contact your examiner/course instructor immediately. If you have a valid reason, you will not be graded. If your examiner/course instructor cannot accept your reason because your reason is not clear, you can apply for recognition of your reason at the Office of the Studienpräses within 14 days after discontinuing the exam/course with continuous assessment. You will receive an official notice, notifying you whether or not your application was successful. Please note: If you prematurely discontinue an exam or course with continuous assessment (pi LV) without a valid reason, your study achievements up to the discontinuation will be graded. Related Links: - [Accessible Studies (in German)](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/) - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses."
+        },
+        {
+          "id": "7916c3fc6510-054",
+          "page_id": "7916c3fc6510",
+          "score": 0.6316,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "N"
+          ],
+          "word_count": 230,
+          "text": "required). A resumption of the study programme is not possible. Appeal against a negative assessment You can appeal against a negative grade if there were serious irregularities in the conduct of the exam (e.g. reduced time, noise, disturbance, change in mode of assessment that was not announced). You cannot appeal against the content-related assessment as this is at the examiner's discretion. In the event of serious irregularities at the time of the exam, you can apply for a deletion of your grade/attempt in the Office of the Studienpräses within four weeks after grading. The plausibility of the serious irregularities has to be demonstrated. A proof is not necessary. You will receive an official notice, notifying you whether or not your application was successful. Related Links: - [Office of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Board examination](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31160&cHash=97b4b803d01ac1fde81b560e8d2ab5fa) - Non-degree programme A non-degree programme means that you are admitted to “attending individual courses”. In this case, you do not study any particular degree programme. Especially persons who have to complete supplementary exams as part of the University Preparation Programme of the Vienna Universities (Vorstudienlehrgang der Wiener Universitäten, VWU) are admitted to a non-degree programme. As part of the university entrance qualification examination(Studienberechtigungsprüfung – studying without a secondary-school leaving certificate), non-degree programme students can also complete courses. Related Links: - [Non-degree programme](/en/admission/non-degree-programme/) - [University Preparation Programme of the Vienna"
+        },
+        {
+          "id": "1c320dc7aeb6-005",
+          "page_id": "1c320dc7aeb6",
+          "score": 0.6306,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/german-language-proficiency-for-entrance-exam-procedures/",
+          "title": "German language proficiency for bachelor's and diploma programmes with entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "German course in the University Preparation Programme of the Vienna Universities (VWU)"
+          ],
+          "word_count": 171,
+          "text": "- [### What is the VWU?\n\n  The VWU is a preparation programme for university studies. When you apply for a degree programme and we have reviewed your documents, you may be required to take supplementary examinations (e.g. in German, if you do not yet have level C1). You can take these supplementary examinations in the VWU.\n\n  You cannot apply directly for the VWU. Submit your application for admission to a degree programme.\n\n  Info about the VWU](https://vorstudienlehrgang.oead.at/en/vienna)\n- [### Important information about the VWU:\n\n  Once you have been admitted to the “University Programme Preparation Programme”, only the supplementary German examination (EPD) of the VWU will be accepted as proof of German language proficiency without exception. In this case, it is not possible to discontinue the VWU and take a German examination at another institution. Failure to comply can have serious consequences for your residence permit.\n\n  Individuals who have discontinued the VWU and have taken another language examination in the meantime can retake the supplementary examination in German.\n\n  Detailed information about this rule](https://studieren.univie.ac.at/en/admission/german-language-proficiency/detailed-information/)"
+        },
+        {
+          "id": "7916c3fc6510-030",
+          "page_id": "7916c3fc6510",
+          "score": 0.6305,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "D"
+          ],
+          "word_count": 230,
+          "text": "of the Studienpräses (in German)](https://studienpraeses.univie.ac.at/) - [Study law](https://satzung.univie.ac.at/en/study-law/) Related entries: - [Unauthorised absence from a course with continuous assessment/exam](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31313&cHash=c248aea8f5dc38f00ab9fb6e422e59cd) - [Use of unauthorised aids (\"cheating\"/plagiarism)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31333&cHash=570c7de0d629f82638db9de24984fb9c) - Discussion Course (KO) The discussion course (\"Konversatorium\", KO) belongs to the types of courses. It usually is a course with continuous assessment, which means that attendance is compulsory and the number of available places is limited. The charasteristic of a discussion course is that an intense exchange between students and course instructors shall be stimulated, for example by means of discussions. Related Links: - [u:find](http://ufind.univie.ac.at/en) Related entries: - [Curriculum](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29989&cHash=0b86e44c93fdbfb30111b3c5fddfbb27) - [Course (LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31168&cHash=d64c2055ed409809bec50d8788f88a1d) - [Course with non-continuous assessment (npi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31201&cHash=60e218c8de231c88ec12793220a06022) - [Course with continuous assessment (pi LV)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31243&cHash=04d9e48aefae1365779d07a302248e56) - Distribution of remaining places (courses) Related entries: - [Distribution of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31221&cHash=e3836119665b8be9d92bc830b88e4804) - [Waiting list and allocation of remaining places (courses)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31341&cHash=5d15ccad6a59f9bd9dad3b073a06673e) - Service Unit: Teaching Affairs and Study Services (DLE SLW) The Teaching Affairs and Student Services unit consists of three divisions (Coordination of Student Services, Center for Teaching and Learning [CTL] and Admission Office). The Teaching Affairs and Student Services unit (SLW) supports teachers and employees of the University of Vienna in the administration of studies and teaching and provides prospective students with information about the range of degree programmes, the admission procedure, the tuition fee/Student's Union fee, etc. The SLW service unit is also responsible for the admission to degree programmes. Related Links: -"
+        },
+        {
+          "id": "14a11212230d-003",
+          "page_id": "14a11212230d",
+          "score": 0.6297,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/registration-phases-for-courses-with-continuous-assessment/",
+          "title": "Registration phases for courses with continuous assessment (2026S)",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 195,
+          "text": "| 20.02.2026 | 10:00 | | Sinology | 09.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Scandinavian Studies | 09.02.2026 | 08:00 | 26.02.2026 | 22:00 | | Slawistik | 04.02.2026 | 12:00 | 25.02.2026 | 12:00 | | Soziologie | 02.02.2026 | 00:01 | 18.02.2026 | 23:59 | | Sport and Human Movement Science | 02.02.2026 | 09:00 | 18.02.2026 | 12:00 | | Linguistics | 04.02.2026 | 08:00 | 25.02.2026 | 23:59 | | Molekulare Biologie | 12.02.2026 | 14:00 | 26.02.2026 | 18:00 | | Südasien-, Tibet- und Buddhismuskunde | 01.02.2026 | 00:00 | 27.02.2026 | 08:00 | | Theatre, Film and Media Studies | 09.02.2026 | 09:00 | 16.02.2026 | 23:59 | | Theologien (kath., orth., isl.) und Religionswissenschaft | 02.02.2026 | 10:00 | 25.02.2026 | 10:00 | | Translation Studies | 09.02.2026 | 09:00 | 20.02.2026 | 17:00 | | Urgeschichte und hist. Archäologie | 02.02.2026 | 09:00 | 26.02.2026 | 23:59 | | Comparative Literature | 01.02.2026 | 00:01 | 21.02.2026 | 23:59 | | Economics | 09.02.2026 | 09:00 | 17.02.2026 | 12:00 | | Wissenschafts- und Technikforschung | 01.02.2026 | 09:00 | 22.02.2026 | 23:59 |"
+        },
+        {
+          "id": "ffc0e0a1bcbb-001",
+          "page_id": "ffc0e0a1bcbb",
+          "score": 0.6292,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/",
+          "title": "Studying in the University Preparation Programme of the Vienna Universities (VWU)",
+          "section": "Admission",
+          "heading_path": [
+            "Important note for students in the VWU"
+          ],
+          "word_count": 137,
+          "text": "Once you have been admitted to the University Preparation Programme of the Vienna Universities as a non-degree student, only the supplementary examination in German (Ergänzungsprüfung Deutsch, EPD)  is accepted as a proof of German language proficiency! It is not possible to leave the preparation programme and take a German language exam elsewhere. Disregard may lead to severe consequences such as the loss of your residence permit.\n\nPersons who have quit the VWU and have passed a different German language exam in the meanwhile can still take the supplementary examination in German (EPD).\n\n[Detailed information on the regulation](/en/admission/german-language-proficiency/detailed-information/)\n\nWhile you are admitted to the non-degree programme \"attending the VWU\" (\"Besuch des Vorstudienlehrgangs\"), you are only allowed to attend courses in the VWU and complete the prescribed supplementary examinations there. Taking exams from the degree programme is not allowed."
+        },
+        {
+          "id": "7916c3fc6510-056",
+          "page_id": "7916c3fc6510",
+          "score": 0.6288,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "O"
+          ],
+          "word_count": 230,
+          "text": "/ - Office of the Studienpräses The officer of the Studienpräses is in charge of decisions related to study law and and their correct implementation as well as for the awarding of scholarships and the nostrification of non-Austrian university degrees. Often, he/she is supported by the directorates of study (Studienprogrammleitung). Related Links: - [Office of the Studienpräses](https://studienpraeses.univie.ac.at/) (in German) Related entries: - [Advancement scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29994&cHash=0172fceaae25a607e1ee5c8b6998817a) - [Performance scholarship](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31172&cHash=985aca8980beb4dddc0407db73ca0250) - [Grants and scholarships](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31972&cHash=dc6c9dc2432550f2466303879cfc5f49) - Official notice of refusal (\"Zurückweisungsbescheid\") After you have submitted an application for admission to a degree programme, an official notice is issued if certain prerequisites are met (e.g. issuing country of the documents, type of degree programme, etc.). An official notice of refusal (‘Zurückweisungsbescheid’) is issued if an application is assessed negatively due to formal deficiencies (e.g. a document is missing, diplomatic legalisation is missing on a document, etc.). Persons with citizenship and secondary-school leaving certificate from EU/EEA/CH, who submit an application for a bachelor, diploma or a consecutive master programme, do not receive any official notice. Related entries: - [Official notice of rejection (\"Abweisungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30175&cHash=bd73fa15486562aa72b70b91100f6b68) - [Admission letter (official notice of admission, \"Zulassungsbescheid\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31353&cHash=df3d01a947ecdf5301df27c00a744fab) - [Admission procedure](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31357&cHash=f7051989ecf8baf3d3516b4aed496b9f) - Official notice of rejection (\"Abweisungsbescheid\") An official notice of rejection (Abweisungsbescheid\") is issued if an application is assessed negatively due to deficiencies in the content (e.g. the previous education is insufficient, etc.). Related entries: - [Admission letter (official notice of admission,"
+        },
+        {
+          "id": "7916c3fc6510-109",
+          "page_id": "7916c3fc6510",
+          "score": 0.6277,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "V"
+          ],
+          "word_count": 230,
+          "text": "/ - Directorates of Education (\"Bildungsdirektionen\") The Directorate of Education is responsible for the schools in the respective austrian federal province. For some bachelor and diploma programmes, you have to provide proof of additional qualifications in addition to meeting the general admission requirements prior to admission (Latin, Greek, Descriptive Geometry). If you are unable to provide evidence of this knowledge via your school reports (school leaving certificate, annual reports of the individual school levels), you will have to make up for this externally. Please enquire about this at the Direcotrate of Education of the federal province in which you live. Related Links: - [Directorates of Education (only in German)](https://www.bmbwf.gv.at/Themen/schule/schulsystem/bdir/bildungsdirektionen.html) - Validating your u:card You have to validate your u:card at one of the u:card terminals at the beginning of every semester to guarantee its validity. You can validate it as soon as your tuition fee/Students’ Union (ÖH) fee has the status “received on...” in u:space. Related Links: - [u:card – further information](https://ucard.univie.ac.at/en/) - [Location of the u:card terminals](https://www.google.com/maps/d/viewer?mid=1TpC0t4Ukzm1dUPjyhW4SymBhCpI&ouid=0&ll=48.2113223635795%2C16.35953165&z=14) Related entries: - [u:card (student ID)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31990&cHash=9f523509641ed0e36c663dab79364d34) - Vienna University Computer Center (Zentraler Informatikdienst, ZID) The task of the Vienna University Computer Center (ZID) is to support the University of Vienna with a stable and modern IT infrastructure and a wide range of IT services. The Vienna University Computer Center (ZID) develops, implements and maintains over 400 IT services at the University of"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "1facb80561ec-001",
+          "page_id": "1facb80561ec",
+          "score": 0.8034,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered"
+        },
+        {
+          "id": "1facb80561ec-002",
+          "page_id": "1facb80561ec",
+          "score": 0.7957,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme"
+        },
+        {
+          "id": "1facb80561ec-000",
+          "page_id": "1facb80561ec",
+          "score": 0.7823,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "Have you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of"
+        },
+        {
+          "id": "1facb80561ec-004",
+          "page_id": "1facb80561ec",
+          "score": 0.7575,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)"
+        },
+        {
+          "id": "1facb80561ec-003",
+          "page_id": "1facb80561ec",
+          "score": 0.7458,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "section": "Study organisation",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "word_count": 230,
+          "text": "allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain"
+        },
+        {
+          "id": "7916c3fc6510-066",
+          "page_id": "7916c3fc6510",
+          "score": 0.727,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "P"
+          ],
+          "word_count": 230,
+          "text": "- [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Prüfungsaktiv - examination activity Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. ECTS credits from recognitions are not taken into account for the calculation. All degree programmes in which students take a certain number of exams are taken into account. The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. Related links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [Prüfungsaktiv - examination activity](/en/pruefungsaktiv-examination-activity/) Related entries: - [Minimum number of credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=35543&cHash=505350cd46716299d4f258eb59392d28) - Public defence The public defence is the final exam in a master's or doctoral programme. It includes the defence of your academic thesis (master's or doctoral thesis) and an oral exam in front of an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered\n\n[2] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme\n\n[3] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nHave you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of\n\n[4] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)\n\n[5] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nallowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain\n\n[6] ABC of terminology — P\n- [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Prüfungsaktiv - examination activity Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. ECTS credits from recognitions are not taken into account for the calculation. All degree programmes in which students take a certain number of exams are taken into account. The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. Related links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [Prüfungsaktiv - examination activity](/en/pruefungsaktiv-examination-activity/) Related entries: - [Minimum number of credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=35543&cHash=505350cd46716299d4f258eb59392d28) - Public defence The public defence is the final exam in a master's or doctoral programme. It includes the defence of your academic thesis (master's or doctoral thesis) and an oral exam in front of an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-001",
+          "score": 0.8034
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-002",
+          "score": 0.7957
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-000",
+          "score": 0.7823
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-004",
+          "score": 0.7575
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+          "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+          "heading_path": [
+            "Prüfungsaktiv – examination activity – what does this mean?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1facb80561ec-003",
+          "score": 0.7458
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "P"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-066",
+          "score": 0.727
+        }
+      },
+      "context_chars": 9835,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of studies, examiners and teachers regularly take measures that help you succeed in exams. How can you contribute? - Make use of course offers during the summer to start into the next winter semester well prepared. - Write (or complete) your seminar papers, bachelor's papers or your master’s thesis during the summer and agree on a schedule with your teachers/supervisors. - Contact your SSC if you have problems progressing in your studies. For example, - because not enough courses are offered; - because of a lack of information about the examination requirements or exam dates or - because of missing assessments (4 weeks after the exam). - Contact your teachers if - you lack feedback on your achievements to help you improve or - you are stuck in writing your seminar paper or master's thesis. - Read our [tips about learning strategies](https://blog.univie.ac.at/tag/lernstrategien/). Make use of these offers and plan your next exams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered\n\n[2] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams. # FAQs about being 'prüfungsaktiv' (examination activity) / - When are students ‘prüfungsaktiv’? Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. All degree programmes in which students take a certain number of exams are taken into account. - Do all earned ECTS credits count towards examination activity? ECTS credits from recognitions are not taken into account for the calculation. For cooperative degree programmes, only the share of ECTS credits that counts towards examination activity at the University of Vienna is considered. - Why is the number of students who are ‘prüfungsaktiv’ (taking a certain number of exams) important? The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme\n\n[3] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nHave you ever come across the phrase ‘prüfungsaktiv’ or ‘number of exams taken’ and wondered what it means? In a nutshell: Several years ago, a new university financing scheme was introduced in Austria. The Republic of Austria provides funding to the public universities and, thus, also funds a large part of your studies. The allocation of financial resources to universities in Austria is based on the number of students being 'prüfungsaktiv' i.e. students taking a certain number of exams at the relevant university. Bachelor’s, master’s and diploma programmes in which a student completes at least 16 ECTS credits or at least 8 SWS within the academic year are considered 'prüfungsaktiv'. In the academic year of 2020/2021, 53,000 students in total took a certain number of exams at the University of Vienna. The target to be achieved is set every three years between the ministry and the university. Every ECTS credit counts: for you personally and for the University of Vienna Taking exams and writing papers is part of studying. They contribute to your personal success and allow you to progress in your studies. If you take a certain number of exams in your degree programme(s), you also contribute to more funding being allocated to the University of Vienna for innovative research and high-quality teaching. Therefore, the University of Vienna strives to ensure that you pass many exams. Your directors of\n\n[4] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nexams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain number of exams? If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. Students can have various reasons why they temporarily take fewer exams: gainful employment, family duties and care obligations. - If you are not able to take exams for a certain time due to personal reasons, you can apply for a [leave of absence](https://studieren.univie.ac.at/en/admission/leave-of-absence/). - Also students enrolled in more than one degree programme often take fewer exams. If you no longer actively study one or several of your degree programmes, you can [close the relevant degree programme](https://studieren.univie.ac.at/en/admission/closing-a-degree-programmes/). - Please also notify the University if you [discontinue exams or courses for an important reason](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abbruch-von-pruefungen-oder-lehrveranstaltungen-aus-wichtigem-grund/). This gives other students the opportunity to take a spot on the course or in the exam. - Which support measures help me to be ‘prüfungsaktiv’ (take a certain number of exams)? This is how you can progress in your studies: - Plan your semester. - Study continuously. - Use the study materials on Moodle. - Form study groups. - Make us of tutorials. - Take exams. [Information about Semesterplanning](/en/semester-planning/)\n\n[5] FAQs about being 'prüfungsaktiv' (examination activity) — Prüfungsaktiv – examination activity – what does this mean?\nallowance. - What is the difference between the minimum number of credits and the number of students taking a certain number of exams? Minimum number of credits: 16 ECTS credits obtained within 4 semesters For any bachelor’s and diploma programme to which you are admitted for the first time in the winter semester of 2022/2023 or later and for any bachelor’s and diploma programme that you resume at this time, you have to obtain a minimum number of credits. This means that students have to obtain 16 ECTS credits within the first four semesters. Please note: If you do not obtain the minimum number of credits, the admission to the relevant degree programme expires. [Further information about the minimum number of credits](https://studieren.univie.ac.at/en/minimum-number-of-credits/). Students being 'prüfungsaktiv', thus taking a certain number of exams: 16 ECTS credits within one academic year The number of students being ‘prüfungsaktiv’ (taking a certain number of exams) has an effect on the university budget. If you do not take a certain number of exams, it does not have any consequences for you personally in terms of study law. - Are the performance requirements lower and the exams easier to ensure that students take a certain number of exams?esenkt und die Prüfungen leichter? No. The performance requirements are not changed at all. Your performance continues to count. - What happens if I do not take a certain\n\n[6] ABC of terminology — P\n- [Study documents](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31288&cHash=96775fee4d128222ffe4a11102a051f9) - Prüfungsaktiv - examination activity Students who obtain at least 16 ECTS credits in their degree programme per academic year have taken a certain number of exams and are thus considered 'prüfungaktiv’. This is relevant in bachelor’s, diploma and master's programmes. It does not apply to doctoral programmes. Only ECTS credits of courses passed are considered in the calculation. ECTS credits from recognitions are not taken into account for the calculation. All degree programmes in which students take a certain number of exams are taken into account. The more students are ‘prüfungsaktiv’ in all their degree programmes, the more financial resources the University can use for research and teaching. In addition, evidence of having taking a certain number of exams can be a prerequisite for receiving financial aids, such as Austrian family allowance. Related links: - [Minimum number of credits](/en/minimum-number-of-credits/) - [Prüfungsaktiv - examination activity](/en/pruefungsaktiv-examination-activity/) Related entries: - [Minimum number of credits](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=35543&cHash=505350cd46716299d4f258eb59392d28) - Public defence The public defence is the final exam in a master's or doctoral programme. It includes the defence of your academic thesis (master's or doctoral thesis) and an oral exam in front of an examination committee of at least three persons. The regulations are specified in the curriculum of your degree programme. Immediately after you have successfully completed your public defence, you will get a confirmation of completion of the last exam required\n\nQuestion: What does it mean to be 'prüfungsaktiv' (examination-active)?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2300,
+        "completion_tokens": 45,
+        "total_tokens": 2345
+      },
+      "rate_limit_events": [],
+      "raw_response": "To be 'prüfungsaktiv' (examination-active) means that a student has obtained at least 16 ECTS credits in their degree programme per academic year [1][2][3][5][6].",
+      "finish_reason": "stop",
+      "latency_ms": 358.4
+    }
+  },
+  "query_id": "g04:canonical:0",
+  "status": "ok",
+  "answer": "To be 'prüfungsaktiv' (examination-active) means that a student has obtained at least 16 ECTS credits in their degree programme per academic year [1][2][3][5][6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-001",
+      "score": 0.8034
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-002",
+      "score": 0.7957
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-000",
+      "score": 0.7823
+    },
+    {
+      "n": 5,
+      "url": "https://studieren.univie.ac.at/en/pruefungsaktiv-examination-activity/",
+      "title": "FAQs about being 'prüfungsaktiv' (examination activity)",
+      "heading_path": [
+        "Prüfungsaktiv – examination activity – what does this mean?"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1facb80561ec-003",
+      "score": 0.7458
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+      "title": "ABC of terminology",
+      "heading_path": [
+        "P"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "7916c3fc6510-066",
+      "score": 0.727
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2300,
+    "completion_tokens": 45,
+    "total_tokens": 2345
+  },
+  "total_latency_ms": 370.5
+}

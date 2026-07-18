@@ -218,10 +218,11 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 - **[I]** UI via Arize Phoenix / Langfuse — deferred; the frontend (next task) consumes
   `runs/` directly.
 
-### 9. Evaluation  (gold set + harness built; E0 measured 2026-07-15)
-- **Gold set `gold_v1`: 40 groups × 6 phrasings = 240 queries** — each group has a
+### 9. Evaluation  (gold set + harness built; E0 measured 2026-07-18)
+- **Gold set `gold_v1_small`: 10 groups × 6 phrasings = 60 queries** — each group has a
   canonical question, **4 paraphrases**, and **1 weird framing**, tagged with expected
-  source page(s). Balanced across sections. In `eval/gold_v1.jsonl`.
+  source page(s). Keeps both near-neighbour hard-negative clusters; covers 6 of 8 sections.
+  In `eval/gold_v1_small.jsonl`. (The original 40-group `gold_v1` was removed.)
 - **Fixed scoring panel (full; identical every run for comparability):**
   | Metric | Definition |
   |--------|------------|
@@ -249,7 +250,7 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 | ⭐`consistency` | mean over groups of **mean pairwise Jaccard** of selected **page**-sets over `canonical + 4 paraphrases` (m=5, 10 pairs). Canonical is included: the problem is the same question *reworded*, so paraphrase-vs-base is the key comparison |
 | `consistency_weird` | same over all 6 phrasings (15 pairs) — the **stress** sub-score |
 | `consistency_chunks` | same as `consistency` on chunk-id sets — diagnostic (high page + low chunk = chunker churn) |
-| `recall@k` | fraction of queries with **any** expected page in the selected set (`gold_v1` has exactly 1 expected page per group, so any-hit ≡ all-hit) |
+| `recall@k` | fraction of queries with **any** expected page in the selected set (the gold set has exactly 1 expected page per group, so any-hit ≡ all-hit) |
 | `recall@cand` | same over the retrieved pool. **`recall@cand − recall@k` is the rerank ceiling** — it says whether that lever can pay *before* building it |
 | `mrr` | 1/rank of the first expected page in the **page-deduped post-rerank** list, untruncated (truncating at `top_k` would just restate `recall@k`) |
 | `answer_agreement` | judge returns a per-answer consistency vector over a group's answers; score = mean ∈ [0,1] (40 binary verdicts would be too coarse) |
@@ -275,7 +276,7 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 | 7 | Citations | numbered payload + `[n]` + validation | Metadata already in schema | — |
 | 8 | Tracing | per-run folders (`runs/<id>/`), full-pipeline record, run `kind` | Frontend replays entire pipeline; adhoc vs eval separated | want UI → Phoenix/Langfuse |
 | 9 | Baseline scope | single dense query + contextual chunks | Clean before/after; path-prepend also aids index/citation | — |
-| 10 | Eval | `gold_v1`: 40×6 (canonical+4 paraphrases+1 weird)=240; full panel | Measures the headline problem; balanced by section | — |
+| 10 | Eval | `gold_v1`: 40×6 (canonical+4 paraphrases+1 weird)=240; full panel. `gold_v1_small` = 20 groups verbatim (120) for cheap iteration | Measures the headline problem; balanced by section. A subset is a **new versioned set** (`--gold-set`, moves `eval_hash` only), never an in-place edit — keeps E0 comparable | — |
 | 11 | Groq keys | pool of 4, round-robin + rotate-on-429; rotations logged | Survive free-tier limits; `key_id`/events logged, secret never | hitting limits on 4 |
 | 12 | Modularity | component interfaces + Config; experiment = config diff | Each layer tampered independently, results attributable | — |
 | 13 | Experiment tracking | `EXPERIMENTS.md` run-ledger (auto, eval runs only) + config_hash | Reproducible; adhoc queries don't spam the ledger | — |
@@ -296,18 +297,19 @@ Legend: **[B]** baseline (build now) · **[I]** iteration lever (later, measured
 | 28 | Judge failures | truncated/unparseable/refused ⇒ score `None`, **excluded**, never 0; `n_judged` reported | Scoring the pipeline 0 because our evaluator misbehaved manufactures a grounding failure it never committed | — |
 | 29 | Judge budget | `judge_max_tokens` separate from `max_tokens`; `judge_sample` pins which phrasings get judged | gpt-oss is a *reasoning* model — at the generator's 1024 it spent the budget thinking and returned empty content. And 100k tok/day/key/model makes a full judged panel multi-day, so the sample must be pinned to stay comparable | paid tier |
 | 30 | Vector store runtime | **Qdrant in Docker** (`docker-compose.yml`, `QDRANT_URL`); local path still the fallback. `qdrant_url` is `_UNHASHED` | The local path's exclusive file lock made the frontend and any harness/index run mutually exclusive (verified: 2nd process dies with `BlockingIOError`; against the server both succeed). Also closer to the company's stack, and payload indexes are a silent **no-op** in local mode. Not hashed because the backend holds the same vectors — verified bit-identical (`consistency` 0.426785 both ways), so E0 stays comparable across the switch | — |
+| 31 | Frontend | **zero-dependency `src/webui/`**: stdlib `http.server` + one self-contained SPA (no framework, no build, no new deps) | requirements.txt stays at 4 packages, and it runs on a fresh clone. Split into a pure `store.py` read-model (testable, no network) and a thin `server.py`; the pipeline (Qdrant/fastembed/Groq) is imported **lazily**, only on a live query, so replaying traces needs nothing but the filesystem. Enumerates `runs/*/manifest.json` (not `index.jsonl`, which omits the richest demo run). Signature views: a **pipeline rail** (the 20→6→answer funnel, per-stage) and a **paraphrase-divergence strip** (which pages each phrasing selected — `consistency` drawn directly) | want hosted UI → Phoenix/Langfuse |
 
 ## Status
-**E0 is measured** (2026-07-15) — `config_hash f22363afaf1d` · `index_hash 2747344b6db6`.
-720 chunks → Qdrant local (`univie_studying_2747344b6db6`) → retrieve 20 → passthrough
+**E0 is measured** (2026-07-18) — `config_hash f22363afaf1d` · `index_hash 2747344b6db6`.
+720 chunks → Qdrant (`univie_studying_2747344b6db6`) → retrieve 20 → passthrough
 rerank → select 6 → Groq `llama-3.3-70b-versatile`. Per-run full-pipeline logging and the
-`gold_v1` eval set (40×6=240) are in place. Code in `src/rag/` (14 modules + `eval/`);
-**106 tests** in `tests/`.
+`gold_v1_small` eval set (10×6=60) are in place. Code in `src/rag/` (14 modules + `eval/`);
+a zero-dep console in `src/webui/` (decision 31); **124 tests** in `tests/`.
 
-**⭐ consistency = 0.427** · recall@k 0.875 · recall@cand 0.967 · mrr 0.757 —
-complete (240/240), deterministic, zero-token. Judged panel (faithfulness 0.986,
-citation_acc 0.819, answer_agreement 0.868) is from a **section-biased fragment** pending
-the daily token quota; see `EXPERIMENTS.md` → E0.
+**⭐ consistency = 0.428** · recall@k 0.783 · recall@cand 0.917 · mrr 0.674 — complete
+(60/60), deterministic, zero-token for the retrieval panel. **Complete judged panel**
+(faithfulness 0.933, citation_acc 0.750, answer_agreement 0.700; 60/60, 0 failures) — the
+60-query set fits a full generate + judge run in one day. See `EXPERIMENTS.md` → E0.
 
 **The integrity gates closed before E0 was measured** (all were pre-conditions for
 trusting any number): hash scoping (#8), index↔config binding (#2), chunker `heading_path`
@@ -315,7 +317,10 @@ mis-anchoring (#12 — 26.6% of vectors) and duplicate tail chunks (#11), monoto
 (#19), fail-loud `retriever_mode` (#4), `finish_reason` truncation reported (#16).
 Remaining open findings → `HANDOFF.md`.
 
-Next: **the frontend** over `runs/` (the Qdrant lock is resolved — Docker, decision 30), and
-**iteration levers** — cross-encoder rerank (bounded upside already measured: +0.092
-recall headroom) and multi-query+RRF (attacks the page-set churn `consistency` measures).
-One lever at a time, each an `EXPERIMENTS.md` entry measured against E0.
+**The frontend is built** — `src/webui/` (decision 31): replay every hop of any logged
+query, view a scored run's eval panel + divergence strip, ask a live question, or run the
+retrieve-only eval panel. `PYTHONPATH=src .venv/bin/python -m webui.server`.
+
+Next: **iteration levers** — multi-query+RRF (attacks the page-set churn `consistency`
+measures) first, then cross-encoder rerank (bounded upside already measured: +0.134 recall
+headroom). One lever at a time, each an `EXPERIMENTS.md` entry measured against E0.

@@ -1,0 +1,755 @@
+{
+  "trace_id": "f82363592c86",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "asking for a friend — that uni vienna money thing per semester, ballpark? and do eu people even pay the big fee or just the small one",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "asking for a friend — that uni vienna money thing per semester, ballpark? and do eu people even pay the big fee or just the small one"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "0f5bfccf9812-009",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8101,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the University of Vienna. You therefore are also able to take examinations from courses at the University of Vienna that took place during your semester abroad (e.g. at a later examination date). If you have to pay the tuition fee, you can apply for [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/) during your semester abroad. This is only possible during the semester in which your stay abroad takes place, not in retrospect. - I have dual citizenship. Which tuition fee do I have to pay? You can only enter one citizenship in u:space. You have one citizenship from an EU/EAA country or Switzerland and another from a non-EU/EEA country? Enter the citizenship that is more beneficial for you. If your citizenship has changed, please message us for a [change of personal data](/en/change-of-personal-data/). - I study at two public universities in Austria. Where do I have to pay the tuition fee/Students' Union fee? You can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree"
+        },
+        {
+          "id": "98c081b92ab3-007",
+          "page_id": "98c081b92ab3",
+          "score": 0.8099,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - How do I know, how much I have to pay? You can see how much you have to pay in the current semester in u:space at Financial matters > Tuition fee/Students' Union fee. The amount of the tuition fee depends on your citizenship. There are also differences between degree programmes and non-degree programmes. - [Detailed info about the amount of the tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) - Where can I check, if I have successfully paid or re-enroled in my degree programme? This is how you can check if your payment was successful and you have re-enroled in your studies at the University of Vienna: 1. You can find your student documents (student record sheet and confirmation of enrolment) in u:space at Personal matters > My documents. Choose the current semester at \"semester-specific documents\". 2. The status of the fee in u:space > Financial matters is \"received\"- 3. Choose your degree programme in u:space > Studies > Study overview. There you can see the following text with a green check mark: \"Re-enrolled. You are re-enrolled for your degree programme for summer/winter semester 20xx (valid until xx.xx.xxxx)\". - I am completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme"
+        },
+        {
+          "id": "0f5bfccf9812-008",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8027,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the"
+        },
+        {
+          "id": "98c081b92ab3-001",
+          "page_id": "98c081b92ab3",
+          "score": 0.7997,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "If you study at the University of Vienna (and not any other Austrian educational institution) you pay the tuition fee/Students' Union fee here each semester. You do not have to complete any other steps. As soon as the prescribed fee has been received, you are re-enrolled in your studies. Then you can download your student documents in [u:space](http://uspace.univie.ac.at/en) and validate your [u:card](http://ucard.univie.ac.at/en) (or order and then validate it if it is your first semester). / - Which payment options are available at the University of Vienna? You have four options how you can pay your tuition fee/Students' Union fee at the University of Vienna: 1. Eps-payment via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via eps-payment. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. The eps-payment is only possible with Austrian bank account. 2. Credit card (only Visa and Mastercard) via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via credit card. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need"
+        },
+        {
+          "id": "98c081b92ab3-012",
+          "page_id": "98c081b92ab3",
+          "score": 0.7977,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the fee is marked as \"received\" it is registered as paid. Only then you can download your student documents. Make sure to choose the current semester at \"semester-specific documents. If you have paid the tuition fee/Students' Union fee at another Austrian educational institution, you have to [re-enrol in your degree programme](#c1123247) at the University of Vienna yourself within the payment period. Only then you can download your student documents. - What happens if I pay too late or too little? If you do not pay the full fee until the end of the payment period your degree programme will be automatically closed. You have realised that you have paid too little in due time (= within the payment period)? Transfer the remaining difference as soon as possible with the correct payment data. The required data (IBAN and BIC of the University of Vienna and your unique payment reference) is available in u:space > Financial matters > Tuition fee/Students' Union fee. You are not able to or do not want to pay the remaining difference? Please contact us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/39/create/706). We can remit the part of the fee you have already"
+        },
+        {
+          "id": "0f5bfccf9812-000",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7951,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "There is a tuition fee and a Students’ Union fee at the University of Vienna. The amount of the tuition fee depends on your citizenship, duration of studies and on whether you are enrolled in a degree programme or non-degree programme. The amount of the Students' Union fee is directly determined by the Austrian Students' Union. All students in Austria pay the Students' Union fee each semester to re-enrol in their degree programme and continue their studies.\n\nTo continue your studies, you pay the tuition fee and Students' Union fee each semester within the payment period. Citizens of an EU/EEA country or Switzerland are exempt from paying the tuition fee for a specified time period. This means: You only have to pay the Students' Union fee during the stipulated degree programme duration plus two tolerance semesters\n\nYour fee is calculated automatically. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee. You can check how many semesters of the tuition-free period you have left in u:space > Studies > Study overview.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester"
+        },
+        {
+          "id": "0f5bfccf9812-010",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7936,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree programme at the University of Vienna. Please note: If a higher fee is prescribed at one university, it is best to pay there directly. If you pay at the university where only the Students' Union fee is prescribed, you have to separately pay the remaining difference at the other university. For example: You only pay the Students' Union fee at another university. At the University of Vienna you have already exceeded the stipulated degree programme duration + tolerance semesters. A few days after paying at the other university you can verify in [u:space](http://uspace.univie.ac.at/en) > Financial Matters > Tuition fee/Students' Union fee if the Students' Union fee has already arrived. Then you pay the prescribed tuition fee at the University of Vienna. You only have to pay the tuition fee, the Students' Union fee is forwarded by the other university. - I am studying a degree programme and a continuing education or training programme at the Postgraduate Center. How much do I have to pay? If you only have to pay the Students' Union fee, you pay it with the programme fee for the Postgraduate Center. You do not have to"
+        },
+        {
+          "id": "98c081b92ab3-002",
+          "page_id": "98c081b92ab3",
+          "score": 0.7902,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need to do so. This is the IBAN and BIC of the University of Vienna and your unique payment reference. It may take up to seven days until the fee has been received at the University of Vienna. Please note: Your unique payment reference changes each semester. Only ever use the latest data. 4. Payment form Pay the fee with a payment form. You will receive a form in your bank. In u:space > Personal matters > My documents > Payment request/confirmation you can find all data you need for the payment. Follow the instructions in the template to fill out the payment form. It may take up to seven days until the fee has been received at the University of Vienna. Please note: Your unique payment reference changes each semester. Only ever use the latest data. - What do I have to keep in mind when paying at the University of Vienna? - Pay the prescribed tuition fee/Students' Union fee within the payment period. Do not make any partial payments. Make sure too neither pay too little nor too much. If you pay too little, your degree programme will be"
+        },
+        {
+          "id": "98c081b92ab3-014",
+          "page_id": "98c081b92ab3",
+          "score": 0.7889,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "(without Students' Union fee) for your degree programme. - I am also studying at a university of applied sciences (Fachhochschule). How much do I have to pay? Universities of applied sciences (\"Fachhochschulen\" FH) forward the information that the Students' Union fee has been paid to the University of Vienna. If you pay at an FH: - Pay the prescribed fee. - Wait for a week. - Check if the Students' Union fee has been marked as \"received\" in u:space > Financial matters > Tuition fee/Students' Union fee within the payment period. - If this is the case you can [re-enrol in your degree programme](#c1123247) at Studies > Study overview. Do not forget: If the tuition fee is also prescribed for you at the University of Vienna you also have to pay the remaining difference. - Should I pay with some kind of express payment, so the money is transferred faster? No, this is not necessary. The transfer is not much faster that way. An express payment does not really affect the process. The fastest way is paying directly via eps-payment (only possible with Austrian bank account) or credit card in u:space. In this case the fee is marked as \"received\" on the same day. - Can I pay my tuition fee/Students' Union fee in advance for the next semester? This is not possible. You can only pay the tuition fee/Students'"
+        },
+        {
+          "id": "b3a175873b74-000",
+          "page_id": "b3a175873b74",
+          "score": 0.7827,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/",
+          "title": "Tuition fee/Students' Union fee",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "As long as you study, you must pay the prescribed tuition fee/Students' Union fee each semester within the payment period. In the first semester, you complete the admission procedure by paying the fee. In later semesters you thereby re-register for your degree programme.\n\nChoose the applicable question below. You will be forwarded to a new page where you can find the detailed information you need.\n\n[## How much do I have to pay?](/en/tuition-fee/amount-tuition-fee/)\n\n[## How can I pay?](/en/tuition-fee/paymentre-enrolment/)\n\n[## How do I apply for remission or reimbursement?](/en/tuition-fee/remission-and-reimbursement/)\n\n[## Am I eligible for equal status with EU/EEA citizens?](/en/tuition-fee/equal-status/)\n\nIf you are currently attending the University Preparation Programme of the Vienna Universities (VWU), you\n\n- first pay the course fee at the VWU and afterwards\n- the Students' Union fee at the University of Vienna.\n\n[Detailed info about the payment](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/students-attending-the-vwu/)\n\n- [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- [Decree regarding the tuition fee 2004](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010724)\n- [§ 23 Study Law of the Statutes of the University of Vienna](https://satzung.univie.ac.at/studienrecht/)\n- [Students' Union Act 2014](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n- [Decree on Groups of Persons 2018](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010594)\n\n- [Information on the admission procedure](/en/admission-procedure/)\n- [Application and admission periods](/en/admission/application-and-admission-periods/)\n- [Administrative fee for bachelor and diploma programmes with entrance exam procedure](/en/entrance-exam/administration-fee/)"
+        },
+        {
+          "id": "98c081b92ab3-003",
+          "page_id": "98c081b92ab3",
+          "score": 0.7758,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 218,
+          "text": "of Vienna? - Pay the prescribed tuition fee/Students' Union fee within the payment period. Do not make any partial payments. Make sure too neither pay too little nor too much. If you pay too little, your degree programme will be automatically closed after the end of the payment period. - Only ever use your latest unique payment reference when paying. Otherwise, we are not able to correctly allocate your payment. Your unique payment reference has 12 digits and consists of numbers and letters. You can find all data you need for the payment in u:space > Financial matters > Tuition fee/Students' Union fee. Your name, student ID number and semester are not relevant. If you pay via eps-payment or credit card via u:space all required data is already filled in. Do not change it. - Do not save your unique payment reference. The data changes each semester. - You can only pay within the payment period of the respective semester. Thereby you re-enrol in your studies. We recommend: Pay the tuition fee/Students' Union fee at the beginning of the payment period. Thereby you have the opportunity to act in good time, in case of an incorrect payment. - If the prescribed fee is not received at the University of Vienna in due time, your studies will be closed."
+        },
+        {
+          "id": "98c081b92ab3-000",
+          "page_id": "98c081b92ab3",
+          "score": 0.773,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "Pay the prescribed tuition fee/Students' Union fee each semester. Thereby you automatically re-enrol in your studies. If you have already paid at another Austrian university, you have to re-enrol in your degree programme yourself.\n\n- You can only pay the tuition fee/Students' Union fee within the payment period.\n- [How much you have to pay](/en/tuition-fee/paymentre-enrolment/) depends on your citizenship, duration of studies and type of studies.\n- Pay the exact fee (neither too much nor too little). You can find the prescribed fee in [u:space](http://uspace.univie.ac.at/en) > Financial Matters > Tuition fee/Students' Union fee.\n- Wait until the fee has been received at the University of Vienna. Then you can download your student documents in u:space and validate your student ID, the [u:card](http://ucard.univie.ac.at/en).\n- If you pay at another Austrian university of university of applied sciences, you have to re-enrol in your studies at the University of Vienna yourself via u:space each semester.\n\n- winter semester 2026/27:\n  from 13 July to 31 October 2026\n- summer semester 2027:\n  from 11 January to 31 March 2027"
+        },
+        {
+          "id": "98c081b92ab3-011",
+          "page_id": "98c081b92ab3",
+          "score": 0.7698,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the fee was deducted twice by the bank. Please contact your bank. It has to directly get in touch with the Raiffeisenbank (bank connection of the University of Vienna). A return remittance is only possible via the Raiffeisenbank. → Solution: Directly contact your bank. - An error occurred during the payment of my tuition fee/Students' Union fee. What can I do? In case of an incorrect payment the fee will be returned to your account in most cases. You have to pay again correctly and within the payment period. Then you can re-enrol in your degree programme. You can find possible reasons for an incorrect payment and solutions for the problem when you look at the question \"My fee does not register as received...\" - I have already paid my tuition fee/Students' Union fee. Why can't I download my student documents? If you have paid the tuition fee/Students' Union fee via payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the"
+        },
+        {
+          "id": "98c081b92ab3-008",
+          "page_id": "98c081b92ab3",
+          "score": 0.7662,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme you do not need to pay for the winter semester. This also applies, if you have already completed the last examination but the result is only entered after 31 October. The important thing is that the date of the last examination is on 31 October at the latest. The same applies if you complete your degree programme until 31 March in summer semester. If you have already paid the tuition fee, you can submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). - My fee does not register as \"received\" seven days after paying. What can I do? If your fee is not registered as received seven days after you have paid, it is likely that an error in the payment process has occurred. Check your payment data (payment reference according to u:space, amount of the paid fee, ...). In case of an incorrect payment the bank cannot allocate the paid fee to your student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this"
+        },
+        {
+          "id": "98c081b92ab3-006",
+          "page_id": "98c081b92ab3",
+          "score": 0.7656,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am attending the University Preparation Programme of the Vienna Universities"
+          ],
+          "word_count": 45,
+          "text": "As long as you attend the University Preparation Programme of the Vienna Universities (VWU) you have to pay the course fee at the VWU first. Only then you can pay the Students' Union fee at the University of Vienna.\n\n- [Detailed info about the payment](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/students-attending-the-vwu/)"
+        },
+        {
+          "id": "1389af33ffd3-001",
+          "page_id": "1389af33ffd3",
+          "score": 0.7635,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,"
+        },
+        {
+          "id": "0f5bfccf9812-005",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7627,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "Non-degree programme"
+          ],
+          "word_count": 111,
+          "text": "To continue your studies, you pay the tuition fee each semester within the payment period. The amount of the tuition fee does not depend on your citizenship. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee.\n\nPlease note: a non-degree programme does not lead to a graduation with an academic degree.\n\nYou are in Austria with a residence permit? Please contact the MA 35 if examinations from a non-degree programme can be recognised for your residence permit. Supplementary examinations from the VWU are recognised.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester"
+        },
+        {
+          "id": "98c081b92ab3-005",
+          "page_id": "98c081b92ab3",
+          "score": 0.7626,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 134,
+          "text": "If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree programme. Afterwards you can download your student documents in Personal matters > My documents. Private universities do not forward the payment information to the University of Vienna. In this case you have to also pay the Students' Union fee at the University of Vienna. Afterwards you can contact the [Austrian Students' Union](https://www.oeh.ac.at/en/forms/oh-fee-refund/). There you can apply for a refund of the fee you have paid twice. Austrian universities of applied sciences only forward the information about the payment of the Students' Union fee. The tuition fee is not forwarded to the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-099",
+          "page_id": "7916c3fc6510",
+          "score": 0.7618,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn translators. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Tuition fee As long as you are studying at the University of Vienna, you have to pay the Student's Union (ÖH) fee and, if applicable, the tuition fee eversy semester in due time. The amount of the tuition fee depends on your nationality. For EU/EEA/CH citizens, the duration of their studies plays also plays a role. Related Links: - [Information about the tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - [Tolerance semesters](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31297&cHash=f0dee5ae0ea77af89fdfedaca07ca13b) - [Residence permit (\"visa\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31902&cHash=7ce64213ce44f86321e3da3c2d4faf36) - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - [Payment period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32002&cHash=50174e9655aa9a11d1bb85ebc71fc50f) - Tutorial Tutors are students of a higher semester and at the same time student assistants who support teachers. For some lectures a tutorial course is offered, which consists of additional sessions to explain relevant subject matters to students. In this case, however, no course instructor is present. - Types of exams In your curriculum, you may find"
+        },
+        {
+          "id": "98c081b92ab3-009",
+          "page_id": "98c081b92ab3",
+          "score": 0.7607,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges"
+        }
+      ],
+      "latency_ms": 18.2
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "0f5bfccf9812-009",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8101,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the University of Vienna. You therefore are also able to take examinations from courses at the University of Vienna that took place during your semester abroad (e.g. at a later examination date). If you have to pay the tuition fee, you can apply for [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/) during your semester abroad. This is only possible during the semester in which your stay abroad takes place, not in retrospect. - I have dual citizenship. Which tuition fee do I have to pay? You can only enter one citizenship in u:space. You have one citizenship from an EU/EAA country or Switzerland and another from a non-EU/EEA country? Enter the citizenship that is more beneficial for you. If your citizenship has changed, please message us for a [change of personal data](/en/change-of-personal-data/). - I study at two public universities in Austria. Where do I have to pay the tuition fee/Students' Union fee? You can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree"
+        },
+        {
+          "id": "98c081b92ab3-007",
+          "page_id": "98c081b92ab3",
+          "score": 0.8099,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - How do I know, how much I have to pay? You can see how much you have to pay in the current semester in u:space at Financial matters > Tuition fee/Students' Union fee. The amount of the tuition fee depends on your citizenship. There are also differences between degree programmes and non-degree programmes. - [Detailed info about the amount of the tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) - Where can I check, if I have successfully paid or re-enroled in my degree programme? This is how you can check if your payment was successful and you have re-enroled in your studies at the University of Vienna: 1. You can find your student documents (student record sheet and confirmation of enrolment) in u:space at Personal matters > My documents. Choose the current semester at \"semester-specific documents\". 2. The status of the fee in u:space > Financial matters is \"received\"- 3. Choose your degree programme in u:space > Studies > Study overview. There you can see the following text with a green check mark: \"Re-enrolled. You are re-enrolled for your degree programme for summer/winter semester 20xx (valid until xx.xx.xxxx)\". - I am completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme"
+        },
+        {
+          "id": "0f5bfccf9812-008",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8027,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the"
+        },
+        {
+          "id": "98c081b92ab3-001",
+          "page_id": "98c081b92ab3",
+          "score": 0.7997,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "If you study at the University of Vienna (and not any other Austrian educational institution) you pay the tuition fee/Students' Union fee here each semester. You do not have to complete any other steps. As soon as the prescribed fee has been received, you are re-enrolled in your studies. Then you can download your student documents in [u:space](http://uspace.univie.ac.at/en) and validate your [u:card](http://ucard.univie.ac.at/en) (or order and then validate it if it is your first semester). / - Which payment options are available at the University of Vienna? You have four options how you can pay your tuition fee/Students' Union fee at the University of Vienna: 1. Eps-payment via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via eps-payment. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. The eps-payment is only possible with Austrian bank account. 2. Credit card (only Visa and Mastercard) via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via credit card. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need"
+        },
+        {
+          "id": "98c081b92ab3-012",
+          "page_id": "98c081b92ab3",
+          "score": 0.7977,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the fee is marked as \"received\" it is registered as paid. Only then you can download your student documents. Make sure to choose the current semester at \"semester-specific documents. If you have paid the tuition fee/Students' Union fee at another Austrian educational institution, you have to [re-enrol in your degree programme](#c1123247) at the University of Vienna yourself within the payment period. Only then you can download your student documents. - What happens if I pay too late or too little? If you do not pay the full fee until the end of the payment period your degree programme will be automatically closed. You have realised that you have paid too little in due time (= within the payment period)? Transfer the remaining difference as soon as possible with the correct payment data. The required data (IBAN and BIC of the University of Vienna and your unique payment reference) is available in u:space > Financial matters > Tuition fee/Students' Union fee. You are not able to or do not want to pay the remaining difference? Please contact us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/39/create/706). We can remit the part of the fee you have already"
+        },
+        {
+          "id": "0f5bfccf9812-000",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7951,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "There is a tuition fee and a Students’ Union fee at the University of Vienna. The amount of the tuition fee depends on your citizenship, duration of studies and on whether you are enrolled in a degree programme or non-degree programme. The amount of the Students' Union fee is directly determined by the Austrian Students' Union. All students in Austria pay the Students' Union fee each semester to re-enrol in their degree programme and continue their studies.\n\nTo continue your studies, you pay the tuition fee and Students' Union fee each semester within the payment period. Citizens of an EU/EEA country or Switzerland are exempt from paying the tuition fee for a specified time period. This means: You only have to pay the Students' Union fee during the stipulated degree programme duration plus two tolerance semesters\n\nYour fee is calculated automatically. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee. You can check how many semesters of the tuition-free period you have left in u:space > Studies > Study overview.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester"
+        },
+        {
+          "id": "0f5bfccf9812-010",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7936,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree programme at the University of Vienna. Please note: If a higher fee is prescribed at one university, it is best to pay there directly. If you pay at the university where only the Students' Union fee is prescribed, you have to separately pay the remaining difference at the other university. For example: You only pay the Students' Union fee at another university. At the University of Vienna you have already exceeded the stipulated degree programme duration + tolerance semesters. A few days after paying at the other university you can verify in [u:space](http://uspace.univie.ac.at/en) > Financial Matters > Tuition fee/Students' Union fee if the Students' Union fee has already arrived. Then you pay the prescribed tuition fee at the University of Vienna. You only have to pay the tuition fee, the Students' Union fee is forwarded by the other university. - I am studying a degree programme and a continuing education or training programme at the Postgraduate Center. How much do I have to pay? If you only have to pay the Students' Union fee, you pay it with the programme fee for the Postgraduate Center. You do not have to"
+        },
+        {
+          "id": "98c081b92ab3-002",
+          "page_id": "98c081b92ab3",
+          "score": 0.7902,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need to do so. This is the IBAN and BIC of the University of Vienna and your unique payment reference. It may take up to seven days until the fee has been received at the University of Vienna. Please note: Your unique payment reference changes each semester. Only ever use the latest data. 4. Payment form Pay the fee with a payment form. You will receive a form in your bank. In u:space > Personal matters > My documents > Payment request/confirmation you can find all data you need for the payment. Follow the instructions in the template to fill out the payment form. It may take up to seven days until the fee has been received at the University of Vienna. Please note: Your unique payment reference changes each semester. Only ever use the latest data. - What do I have to keep in mind when paying at the University of Vienna? - Pay the prescribed tuition fee/Students' Union fee within the payment period. Do not make any partial payments. Make sure too neither pay too little nor too much. If you pay too little, your degree programme will be"
+        },
+        {
+          "id": "98c081b92ab3-014",
+          "page_id": "98c081b92ab3",
+          "score": 0.7889,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "(without Students' Union fee) for your degree programme. - I am also studying at a university of applied sciences (Fachhochschule). How much do I have to pay? Universities of applied sciences (\"Fachhochschulen\" FH) forward the information that the Students' Union fee has been paid to the University of Vienna. If you pay at an FH: - Pay the prescribed fee. - Wait for a week. - Check if the Students' Union fee has been marked as \"received\" in u:space > Financial matters > Tuition fee/Students' Union fee within the payment period. - If this is the case you can [re-enrol in your degree programme](#c1123247) at Studies > Study overview. Do not forget: If the tuition fee is also prescribed for you at the University of Vienna you also have to pay the remaining difference. - Should I pay with some kind of express payment, so the money is transferred faster? No, this is not necessary. The transfer is not much faster that way. An express payment does not really affect the process. The fastest way is paying directly via eps-payment (only possible with Austrian bank account) or credit card in u:space. In this case the fee is marked as \"received\" on the same day. - Can I pay my tuition fee/Students' Union fee in advance for the next semester? This is not possible. You can only pay the tuition fee/Students'"
+        },
+        {
+          "id": "b3a175873b74-000",
+          "page_id": "b3a175873b74",
+          "score": 0.7827,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/",
+          "title": "Tuition fee/Students' Union fee",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 198,
+          "text": "As long as you study, you must pay the prescribed tuition fee/Students' Union fee each semester within the payment period. In the first semester, you complete the admission procedure by paying the fee. In later semesters you thereby re-register for your degree programme.\n\nChoose the applicable question below. You will be forwarded to a new page where you can find the detailed information you need.\n\n[## How much do I have to pay?](/en/tuition-fee/amount-tuition-fee/)\n\n[## How can I pay?](/en/tuition-fee/paymentre-enrolment/)\n\n[## How do I apply for remission or reimbursement?](/en/tuition-fee/remission-and-reimbursement/)\n\n[## Am I eligible for equal status with EU/EEA citizens?](/en/tuition-fee/equal-status/)\n\nIf you are currently attending the University Preparation Programme of the Vienna Universities (VWU), you\n\n- first pay the course fee at the VWU and afterwards\n- the Students' Union fee at the University of Vienna.\n\n[Detailed info about the payment](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/students-attending-the-vwu/)\n\n- [Universities Act 2002 (UG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128)\n- [Decree regarding the tuition fee 2004](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010724)\n- [§ 23 Study Law of the Statutes of the University of Vienna](https://satzung.univie.ac.at/studienrecht/)\n- [Students' Union Act 2014](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n- [Decree on Groups of Persons 2018](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010594)\n\n- [Information on the admission procedure](/en/admission-procedure/)\n- [Application and admission periods](/en/admission/application-and-admission-periods/)\n- [Administrative fee for bachelor and diploma programmes with entrance exam procedure](/en/entrance-exam/administration-fee/)"
+        },
+        {
+          "id": "98c081b92ab3-003",
+          "page_id": "98c081b92ab3",
+          "score": 0.7758,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 218,
+          "text": "of Vienna? - Pay the prescribed tuition fee/Students' Union fee within the payment period. Do not make any partial payments. Make sure too neither pay too little nor too much. If you pay too little, your degree programme will be automatically closed after the end of the payment period. - Only ever use your latest unique payment reference when paying. Otherwise, we are not able to correctly allocate your payment. Your unique payment reference has 12 digits and consists of numbers and letters. You can find all data you need for the payment in u:space > Financial matters > Tuition fee/Students' Union fee. Your name, student ID number and semester are not relevant. If you pay via eps-payment or credit card via u:space all required data is already filled in. Do not change it. - Do not save your unique payment reference. The data changes each semester. - You can only pay within the payment period of the respective semester. Thereby you re-enrol in your studies. We recommend: Pay the tuition fee/Students' Union fee at the beginning of the payment period. Thereby you have the opportunity to act in good time, in case of an incorrect payment. - If the prescribed fee is not received at the University of Vienna in due time, your studies will be closed."
+        },
+        {
+          "id": "98c081b92ab3-000",
+          "page_id": "98c081b92ab3",
+          "score": 0.773,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 174,
+          "text": "Pay the prescribed tuition fee/Students' Union fee each semester. Thereby you automatically re-enrol in your studies. If you have already paid at another Austrian university, you have to re-enrol in your degree programme yourself.\n\n- You can only pay the tuition fee/Students' Union fee within the payment period.\n- [How much you have to pay](/en/tuition-fee/paymentre-enrolment/) depends on your citizenship, duration of studies and type of studies.\n- Pay the exact fee (neither too much nor too little). You can find the prescribed fee in [u:space](http://uspace.univie.ac.at/en) > Financial Matters > Tuition fee/Students' Union fee.\n- Wait until the fee has been received at the University of Vienna. Then you can download your student documents in u:space and validate your student ID, the [u:card](http://ucard.univie.ac.at/en).\n- If you pay at another Austrian university of university of applied sciences, you have to re-enrol in your studies at the University of Vienna yourself via u:space each semester.\n\n- winter semester 2026/27:\n  from 13 July to 31 October 2026\n- summer semester 2027:\n  from 11 January to 31 March 2027"
+        },
+        {
+          "id": "98c081b92ab3-011",
+          "page_id": "98c081b92ab3",
+          "score": 0.7698,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "the case, the bank cannot allocate the fee. It will return the fee to the bank location the payment was made from. → Solution: Directly contact the bank location you paid at. 6. You have paid via eps-payment and the fee was deducted twice by the bank. Please contact your bank. It has to directly get in touch with the Raiffeisenbank (bank connection of the University of Vienna). A return remittance is only possible via the Raiffeisenbank. → Solution: Directly contact your bank. - An error occurred during the payment of my tuition fee/Students' Union fee. What can I do? In case of an incorrect payment the fee will be returned to your account in most cases. You have to pay again correctly and within the payment period. Then you can re-enrol in your degree programme. You can find possible reasons for an incorrect payment and solutions for the problem when you look at the question \"My fee does not register as received...\" - I have already paid my tuition fee/Students' Union fee. Why can't I download my student documents? If you have paid the tuition fee/Students' Union fee via payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the"
+        },
+        {
+          "id": "98c081b92ab3-008",
+          "page_id": "98c081b92ab3",
+          "score": 0.7662,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme you do not need to pay for the winter semester. This also applies, if you have already completed the last examination but the result is only entered after 31 October. The important thing is that the date of the last examination is on 31 October at the latest. The same applies if you complete your degree programme until 31 March in summer semester. If you have already paid the tuition fee, you can submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). - My fee does not register as \"received\" seven days after paying. What can I do? If your fee is not registered as received seven days after you have paid, it is likely that an error in the payment process has occurred. Check your payment data (payment reference according to u:space, amount of the paid fee, ...). In case of an incorrect payment the bank cannot allocate the paid fee to your student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this"
+        },
+        {
+          "id": "98c081b92ab3-006",
+          "page_id": "98c081b92ab3",
+          "score": 0.7656,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am attending the University Preparation Programme of the Vienna Universities"
+          ],
+          "word_count": 45,
+          "text": "As long as you attend the University Preparation Programme of the Vienna Universities (VWU) you have to pay the course fee at the VWU first. Only then you can pay the Students' Union fee at the University of Vienna.\n\n- [Detailed info about the payment](/en/admission/non-degree-programme/university-preparation-programme-of-the-vienna-universities-vwu/students-attending-the-vwu/)"
+        },
+        {
+          "id": "1389af33ffd3-001",
+          "page_id": "1389af33ffd3",
+          "score": 0.7635,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,"
+        },
+        {
+          "id": "0f5bfccf9812-005",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7627,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "Non-degree programme"
+          ],
+          "word_count": 111,
+          "text": "To continue your studies, you pay the tuition fee each semester within the payment period. The amount of the tuition fee does not depend on your citizenship. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee.\n\nPlease note: a non-degree programme does not lead to a graduation with an academic degree.\n\nYou are in Austria with a residence permit? Please contact the MA 35 if examinations from a non-degree programme can be recognised for your residence permit. Supplementary examinations from the VWU are recognised.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester"
+        },
+        {
+          "id": "98c081b92ab3-005",
+          "page_id": "98c081b92ab3",
+          "score": 0.7626,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at another university"
+          ],
+          "word_count": 134,
+          "text": "If you want to continue studying multiple degree programmes you have to repeat this step for each programme respectively. 5. Refresh the page in u:space. In the study overview you can now see that you are re-enroled in your degree programme. Afterwards you can download your student documents in Personal matters > My documents. Private universities do not forward the payment information to the University of Vienna. In this case you have to also pay the Students' Union fee at the University of Vienna. Afterwards you can contact the [Austrian Students' Union](https://www.oeh.ac.at/en/forms/oh-fee-refund/). There you can apply for a refund of the fee you have paid twice. Austrian universities of applied sciences only forward the information about the payment of the Students' Union fee. The tuition fee is not forwarded to the University of Vienna."
+        },
+        {
+          "id": "7916c3fc6510-099",
+          "page_id": "7916c3fc6510",
+          "score": 0.7618,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "T"
+          ],
+          "word_count": 230,
+          "text": "degree programme, you must have the required documents translated - unless they are issued in German or English. This also includes any legalisations. You should therefore first have the documents legalised (if required) and then translated into German by sworn translators. Related Links: - [Legalisation and translation](/en/admission/info-third-country-students/legalisation/) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - Tuition fee As long as you are studying at the University of Vienna, you have to pay the Student's Union (ÖH) fee and, if applicable, the tuition fee eversy semester in due time. The amount of the tuition fee depends on your nationality. For EU/EEA/CH citizens, the duration of their studies plays also plays a role. Related Links: - [Information about the tuition fee/Students' Union fee](/en/tuition-fee/) Related entries: - [Equal status with EU/EEA citizens with regard to the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31127&cHash=a9fb293a7c3370b27dd98f693d1ca082) - [Students’ Union fee (ÖH fee)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31205&cHash=ed830f954f65ec47794ec4809327b5d1) - [Austrian National Union of Students (ÖH)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31211&cHash=cc183cd54b32092671cf06b22d1ad46f) - [Tolerance semesters](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31297&cHash=f0dee5ae0ea77af89fdfedaca07ca13b) - [Residence permit (\"visa\")](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31902&cHash=7ce64213ce44f86321e3da3c2d4faf36) - [Non-degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31904&cHash=afc9b783c1eacf56ab1f871f6e92ad54) - [Re-enrolment](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31949&cHash=3e7137171e154715f00818454de75f06) - [Reimbursement of the tuition fee](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31959&cHash=7d2042e16b5c6049dc06cc8398971bfa) - [Payment period](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32002&cHash=50174e9655aa9a11d1bb85ebc71fc50f) - Tutorial Tutors are students of a higher semester and at the same time student assistants who support teachers. For some lectures a tutorial course is offered, which consists of additional sessions to explain relevant subject matters to students. In this case, however, no course instructor is present. - Types of exams In your curriculum, you may find"
+        },
+        {
+          "id": "98c081b92ab3-009",
+          "page_id": "98c081b92ab3",
+          "score": 0.7607,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "student account at the University of Vienna. Thus you cannot be re-enroled in your studies. 1. Your unique 12-digit payment reference is not correct, is missing or was entered wrongly (e.g. in the field \"Verwendungszweck\" instead of \"Zahlungsreferenz\"). If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges that will be deducted from your account! → Solution: Pay the fee again. Make sure to enter the correct data in the correct field. 2. You have paid a too high/too little fee. If you have paid too much (double payment, wrong prescribed fee) we can reimburse the difference to the required fee. → Solution: Submit an [application for reimbursement](/en/tuition-fee/remission-and-reimbursement/). If you have paid to little you can pay the remaining difference until the end of the payment period. Make sure to enter the correct payment data. If the fee is not paid fully or in due time your degree programme will be closed. → Solution: Pay the remaining difference before the end of the payment period. 3. You have entered the unique payment reference (called \"Semesterkundendaten\" before) of a wrong semester If this is the case, the bank cannot allocate the fee. It will return the fee to the account the payment was made from. This return remittance may cause charges"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "0f5bfccf9812-009",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8101,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the University of Vienna. You therefore are also able to take examinations from courses at the University of Vienna that took place during your semester abroad (e.g. at a later examination date). If you have to pay the tuition fee, you can apply for [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/) during your semester abroad. This is only possible during the semester in which your stay abroad takes place, not in retrospect. - I have dual citizenship. Which tuition fee do I have to pay? You can only enter one citizenship in u:space. You have one citizenship from an EU/EAA country or Switzerland and another from a non-EU/EEA country? Enter the citizenship that is more beneficial for you. If your citizenship has changed, please message us for a [change of personal data](/en/change-of-personal-data/). - I study at two public universities in Austria. Where do I have to pay the tuition fee/Students' Union fee? You can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree"
+        },
+        {
+          "id": "98c081b92ab3-007",
+          "page_id": "98c081b92ab3",
+          "score": 0.8099,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - How do I know, how much I have to pay? You can see how much you have to pay in the current semester in u:space at Financial matters > Tuition fee/Students' Union fee. The amount of the tuition fee depends on your citizenship. There are also differences between degree programmes and non-degree programmes. - [Detailed info about the amount of the tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) - Where can I check, if I have successfully paid or re-enroled in my degree programme? This is how you can check if your payment was successful and you have re-enroled in your studies at the University of Vienna: 1. You can find your student documents (student record sheet and confirmation of enrolment) in u:space at Personal matters > My documents. Choose the current semester at \"semester-specific documents\". 2. The status of the fee in u:space > Financial matters is \"received\"- 3. Choose your degree programme in u:space > Studies > Study overview. There you can see the following text with a green check mark: \"Re-enrolled. You are re-enrolled for your degree programme for summer/winter semester 20xx (valid until xx.xx.xxxx)\". - I am completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme"
+        },
+        {
+          "id": "0f5bfccf9812-008",
+          "page_id": "0f5bfccf9812",
+          "score": 0.8027,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the"
+        },
+        {
+          "id": "98c081b92ab3-001",
+          "page_id": "98c081b92ab3",
+          "score": 0.7997,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "If you study at the University of Vienna (and not any other Austrian educational institution) you pay the tuition fee/Students' Union fee here each semester. You do not have to complete any other steps. As soon as the prescribed fee has been received, you are re-enrolled in your studies. Then you can download your student documents in [u:space](http://uspace.univie.ac.at/en) and validate your [u:card](http://ucard.univie.ac.at/en) (or order and then validate it if it is your first semester). / - Which payment options are available at the University of Vienna? You have four options how you can pay your tuition fee/Students' Union fee at the University of Vienna: 1. Eps-payment via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via eps-payment. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. The eps-payment is only possible with Austrian bank account. 2. Credit card (only Visa and Mastercard) via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via credit card. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need"
+        },
+        {
+          "id": "98c081b92ab3-012",
+          "page_id": "98c081b92ab3",
+          "score": 0.7977,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "section": "Tuition fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "word_count": 230,
+          "text": "payment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the fee is marked as \"received\" it is registered as paid. Only then you can download your student documents. Make sure to choose the current semester at \"semester-specific documents. If you have paid the tuition fee/Students' Union fee at another Austrian educational institution, you have to [re-enrol in your degree programme](#c1123247) at the University of Vienna yourself within the payment period. Only then you can download your student documents. - What happens if I pay too late or too little? If you do not pay the full fee until the end of the payment period your degree programme will be automatically closed. You have realised that you have paid too little in due time (= within the payment period)? Transfer the remaining difference as soon as possible with the correct payment data. The required data (IBAN and BIC of the University of Vienna and your unique payment reference) is available in u:space > Financial matters > Tuition fee/Students' Union fee. You are not able to or do not want to pay the remaining difference? Please contact us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/39/create/706). We can remit the part of the fee you have already"
+        },
+        {
+          "id": "0f5bfccf9812-000",
+          "page_id": "0f5bfccf9812",
+          "score": 0.7951,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "section": "Tuition fee",
+          "heading_path": [],
+          "word_count": 197,
+          "text": "There is a tuition fee and a Students’ Union fee at the University of Vienna. The amount of the tuition fee depends on your citizenship, duration of studies and on whether you are enrolled in a degree programme or non-degree programme. The amount of the Students' Union fee is directly determined by the Austrian Students' Union. All students in Austria pay the Students' Union fee each semester to re-enrol in their degree programme and continue their studies.\n\nTo continue your studies, you pay the tuition fee and Students' Union fee each semester within the payment period. Citizens of an EU/EEA country or Switzerland are exempt from paying the tuition fee for a specified time period. This means: You only have to pay the Students' Union fee during the stipulated degree programme duration plus two tolerance semesters\n\nYour fee is calculated automatically. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee. You can check how many semesters of the tuition-free period you have left in u:space > Studies > Study overview.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Amount of the tuition fee/Students’ Union fee — FAQ\nprogramme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the University of Vienna. You therefore are also able to take examinations from courses at the University of Vienna that took place during your semester abroad (e.g. at a later examination date). If you have to pay the tuition fee, you can apply for [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/) during your semester abroad. This is only possible during the semester in which your stay abroad takes place, not in retrospect. - I have dual citizenship. Which tuition fee do I have to pay? You can only enter one citizenship in u:space. You have one citizenship from an EU/EAA country or Switzerland and another from a non-EU/EEA country? Enter the citizenship that is more beneficial for you. If your citizenship has changed, please message us for a [change of personal data](/en/change-of-personal-data/). - I study at two public universities in Austria. Where do I have to pay the tuition fee/Students' Union fee? You can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree\n\n[2] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\n/ - How do I know, how much I have to pay? You can see how much you have to pay in the current semester in u:space at Financial matters > Tuition fee/Students' Union fee. The amount of the tuition fee depends on your citizenship. There are also differences between degree programmes and non-degree programmes. - [Detailed info about the amount of the tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) - Where can I check, if I have successfully paid or re-enroled in my degree programme? This is how you can check if your payment was successful and you have re-enroled in your studies at the University of Vienna: 1. You can find your student documents (student record sheet and confirmation of enrolment) in u:space at Personal matters > My documents. Choose the current semester at \"semester-specific documents\". 2. The status of the fee in u:space > Financial matters is \"received\"- 3. Choose your degree programme in u:space > Studies > Study overview. There you can see the following text with a green check mark: \"Re-enrolled. You are re-enrolled for your degree programme for summer/winter semester 20xx (valid until xx.xx.xxxx)\". - I am completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme\n\n[3] Amount of the tuition fee/Students’ Union fee — FAQ\n/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the\n\n[4] Paying the tuition fee/Students' Union fee (= re-enrolment) — I am paying the tuition fee/Students' Union fee at the University of Vienna\nIf you study at the University of Vienna (and not any other Austrian educational institution) you pay the tuition fee/Students' Union fee here each semester. You do not have to complete any other steps. As soon as the prescribed fee has been received, you are re-enrolled in your studies. Then you can download your student documents in [u:space](http://uspace.univie.ac.at/en) and validate your [u:card](http://ucard.univie.ac.at/en) (or order and then validate it if it is your first semester). / - Which payment options are available at the University of Vienna? You have four options how you can pay your tuition fee/Students' Union fee at the University of Vienna: 1. Eps-payment via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via eps-payment. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. The eps-payment is only possible with Austrian bank account. 2. Credit card (only Visa and Mastercard) via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via credit card. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need\n\n[5] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\npayment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the fee is marked as \"received\" it is registered as paid. Only then you can download your student documents. Make sure to choose the current semester at \"semester-specific documents. If you have paid the tuition fee/Students' Union fee at another Austrian educational institution, you have to [re-enrol in your degree programme](#c1123247) at the University of Vienna yourself within the payment period. Only then you can download your student documents. - What happens if I pay too late or too little? If you do not pay the full fee until the end of the payment period your degree programme will be automatically closed. You have realised that you have paid too little in due time (= within the payment period)? Transfer the remaining difference as soon as possible with the correct payment data. The required data (IBAN and BIC of the University of Vienna and your unique payment reference) is available in u:space > Financial matters > Tuition fee/Students' Union fee. You are not able to or do not want to pay the remaining difference? Please contact us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/39/create/706). We can remit the part of the fee you have already\n\n[6] Amount of the tuition fee/Students’ Union fee\nThere is a tuition fee and a Students’ Union fee at the University of Vienna. The amount of the tuition fee depends on your citizenship, duration of studies and on whether you are enrolled in a degree programme or non-degree programme. The amount of the Students' Union fee is directly determined by the Austrian Students' Union. All students in Austria pay the Students' Union fee each semester to re-enrol in their degree programme and continue their studies.\n\nTo continue your studies, you pay the tuition fee and Students' Union fee each semester within the payment period. Citizens of an EU/EEA country or Switzerland are exempt from paying the tuition fee for a specified time period. This means: You only have to pay the Students' Union fee during the stipulated degree programme duration plus two tolerance semesters\n\nYour fee is calculated automatically. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee. You can check how many semesters of the tuition-free period you have left in u:space > Studies > Study overview.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "0f5bfccf9812-009",
+          "score": 0.8101
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-007",
+          "score": 0.8099
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "0f5bfccf9812-008",
+          "score": 0.8027
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "I am paying the tuition fee/Students' Union fee at the University of Vienna"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-001",
+          "score": 0.7997
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/paymentre-enrolment/",
+          "title": "Paying the tuition fee/Students' Union fee (= re-enrolment)",
+          "heading_path": [
+            "FAQ"
+          ],
+          "section": "Tuition fee",
+          "chunk_id": "98c081b92ab3-012",
+          "score": 0.7977
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+          "title": "Amount of the tuition fee/Students’ Union fee",
+          "heading_path": [],
+          "section": "Tuition fee",
+          "chunk_id": "0f5bfccf9812-000",
+          "score": 0.7951
+        }
+      },
+      "context_chars": 8779,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Amount of the tuition fee/Students’ Union fee — FAQ\nprogramme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the University of Vienna. You therefore are also able to take examinations from courses at the University of Vienna that took place during your semester abroad (e.g. at a later examination date). If you have to pay the tuition fee, you can apply for [remission of the tuition fee](/en/tuition-fee/remission-and-reimbursement/) during your semester abroad. This is only possible during the semester in which your stay abroad takes place, not in retrospect. - I have dual citizenship. Which tuition fee do I have to pay? You can only enter one citizenship in u:space. You have one citizenship from an EU/EAA country or Switzerland and another from a non-EU/EEA country? Enter the citizenship that is more beneficial for you. If your citizenship has changed, please message us for a [change of personal data](/en/change-of-personal-data/). - I study at two public universities in Austria. Where do I have to pay the tuition fee/Students' Union fee? You can choose where you pay. The fee will be forwarded to all universities you are admitted to via the Austrian Federal Computer Center (\"Bundesrechenzentrum\"). If you choose to pay at another university: Do not forget to re-enrol on your degree\n\n[2] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\n/ - How do I know, how much I have to pay? You can see how much you have to pay in the current semester in u:space at Financial matters > Tuition fee/Students' Union fee. The amount of the tuition fee depends on your citizenship. There are also differences between degree programmes and non-degree programmes. - [Detailed info about the amount of the tuition fee/Students' Union fee](/en/tuition-fee/amount-tuition-fee/) - Where can I check, if I have successfully paid or re-enroled in my degree programme? This is how you can check if your payment was successful and you have re-enroled in your studies at the University of Vienna: 1. You can find your student documents (student record sheet and confirmation of enrolment) in u:space at Personal matters > My documents. Choose the current semester at \"semester-specific documents\". 2. The status of the fee in u:space > Financial matters is \"received\"- 3. Choose your degree programme in u:space > Studies > Study overview. There you can see the following text with a green check mark: \"Re-enrolled. You are re-enrolled for your degree programme for summer/winter semester 20xx (valid until xx.xx.xxxx)\". - I am completing my degree programme before 31 October/31 March (date of the last examination). Do I have to pay? If you complete your degree programme in winter semester until 31 October, and you are not admitted to any other degree programme\n\n[3] Amount of the tuition fee/Students’ Union fee — FAQ\n/ - I am EU/EEA citizen. Why is the tuition fee prescribed for me? Check [u:space](http://uspace.univie.ac.at/en) > Studies > Study overview to see which degree programmes you are admitted to. As soon as you pay the tuition fee/Students' Union fee at the University of Vienna all degree programmes are continued. It does not matter if you actively study them or not. The tuition fee is prescribed if you exceed the stipulated degree programme duration plus tolerance semesters. If a degree programme that you (currently) do not want to continue is in your study overview, [you can close it](/en/admission/closing-a-degree-programme/). The amount of the tuition fee will then be calculated anew. - I have equal status. Why is the tuition fee prescribed for me? If you have equal status with EU/EEA citizens you are exempt from the tuition fee as long as - your residence permit is valid and - you are within the stipulated degree programme duration + tolerance semesters. [Detailed information about equal status with EU/EEA citizens](/en/tuition-fee/equal-status/) - Will my Erasmus+ semester be counted for the tuition-free period for EU/EEA citizens? Semesters during which you are abroad with a mobility programme are counted in the same way as semesters you spend at the University of Vienna. You do not receive any additional tolerance semesters. As you pay the Students' Union fee during the Erasmus+ semester, you stay admitted at the\n\n[4] Paying the tuition fee/Students' Union fee (= re-enrolment) — I am paying the tuition fee/Students' Union fee at the University of Vienna\nIf you study at the University of Vienna (and not any other Austrian educational institution) you pay the tuition fee/Students' Union fee here each semester. You do not have to complete any other steps. As soon as the prescribed fee has been received, you are re-enrolled in your studies. Then you can download your student documents in [u:space](http://uspace.univie.ac.at/en) and validate your [u:card](http://ucard.univie.ac.at/en) (or order and then validate it if it is your first semester). / - Which payment options are available at the University of Vienna? You have four options how you can pay your tuition fee/Students' Union fee at the University of Vienna: 1. Eps-payment via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via eps-payment. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. The eps-payment is only possible with Austrian bank account. 2. Credit card (only Visa and Mastercard) via u:space Pay the fee directly in u:space > Financial matters > Tuition fee/Students' Union fee via credit card. Your advantage: You do not have to manually enter the payment information. The payment is booked on the same day. 3. Online banking Use the online banking of your bank. In the info box in u:space > Financial matters > Tuition fee/Students' Union fee you can find all data you need\n\n[5] Paying the tuition fee/Students' Union fee (= re-enrolment) — FAQ\npayment form or online banking the processing may take up to seven days. You can check when your payment is registered at the University of Vienna at u:space > Financial matters > Tuition fee/Students' Union fee. As soon as the fee is marked as \"received\" it is registered as paid. Only then you can download your student documents. Make sure to choose the current semester at \"semester-specific documents. If you have paid the tuition fee/Students' Union fee at another Austrian educational institution, you have to [re-enrol in your degree programme](#c1123247) at the University of Vienna yourself within the payment period. Only then you can download your student documents. - What happens if I pay too late or too little? If you do not pay the full fee until the end of the payment period your degree programme will be automatically closed. You have realised that you have paid too little in due time (= within the payment period)? Transfer the remaining difference as soon as possible with the correct payment data. The required data (IBAN and BIC of the University of Vienna and your unique payment reference) is available in u:space > Financial matters > Tuition fee/Students' Union fee. You are not able to or do not want to pay the remaining difference? Please contact us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/39/create/706). We can remit the part of the fee you have already\n\n[6] Amount of the tuition fee/Students’ Union fee\nThere is a tuition fee and a Students’ Union fee at the University of Vienna. The amount of the tuition fee depends on your citizenship, duration of studies and on whether you are enrolled in a degree programme or non-degree programme. The amount of the Students' Union fee is directly determined by the Austrian Students' Union. All students in Austria pay the Students' Union fee each semester to re-enrol in their degree programme and continue their studies.\n\nTo continue your studies, you pay the tuition fee and Students' Union fee each semester within the payment period. Citizens of an EU/EEA country or Switzerland are exempt from paying the tuition fee for a specified time period. This means: You only have to pay the Students' Union fee during the stipulated degree programme duration plus two tolerance semesters\n\nYour fee is calculated automatically. You can see the amount of the prescribed fee in [u:space](http://uspace.univie.ac.at/en) at Financial Matters > Tuition fee/Students' Union fee. You can check how many semesters of the tuition-free period you have left in u:space > Studies > Study overview.\n\n- Students' Union fee: 26.20 Euro\n- Tuition fee: 363.36 Euro\n- Total: 389.56 Euro per semester\n\nQuestion: asking for a friend — that uni vienna money thing per semester, ballpark? and do eu people even pay the big fee or just the small one"
+        }
+      ],
+      "key_id": 1,
+      "usage": {
+        "prompt_tokens": 2159,
+        "completion_tokens": 70,
+        "total_tokens": 2229
+      },
+      "rate_limit_events": [],
+      "raw_response": "The total fee per semester is around 389.56 Euro [6]. EU/EEA citizens are exempt from the tuition fee for a specified time period and only pay the Students' Union fee, which is 26.20 Euro [6], during the stipulated degree programme duration plus two tolerance semesters [1][3][6].",
+      "finish_reason": "stop",
+      "latency_ms": 9655.2
+    }
+  },
+  "query_id": "g37:weird:0",
+  "status": "ok",
+  "answer": "The total fee per semester is around 389.56 Euro [6]. EU/EEA citizens are exempt from the tuition fee for a specified time period and only pay the Students' Union fee, which is 26.20 Euro [6], during the stipulated degree programme duration plus two tolerance semesters [1][3][6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+      "title": "Amount of the tuition fee/Students’ Union fee",
+      "heading_path": [
+        "FAQ"
+      ],
+      "section": "Tuition fee",
+      "chunk_id": "0f5bfccf9812-009",
+      "score": 0.8101
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+      "title": "Amount of the tuition fee/Students’ Union fee",
+      "heading_path": [
+        "FAQ"
+      ],
+      "section": "Tuition fee",
+      "chunk_id": "0f5bfccf9812-008",
+      "score": 0.8027
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/tuition-fee/amount-tuition-fee/",
+      "title": "Amount of the tuition fee/Students’ Union fee",
+      "heading_path": [],
+      "section": "Tuition fee",
+      "chunk_id": "0f5bfccf9812-000",
+      "score": 0.7951
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 1,
+  "usage": {
+    "prompt_tokens": 2159,
+    "completion_tokens": 70,
+    "total_tokens": 2229
+  },
+  "total_latency_ms": 9673.6
+}

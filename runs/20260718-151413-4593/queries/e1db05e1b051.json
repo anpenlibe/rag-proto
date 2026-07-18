@@ -1,0 +1,732 @@
+{
+  "trace_id": "e1db05e1b051",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "How does u:space fit into organising my studies at the University of Vienna?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "How does u:space fit into organising my studies at the University of Vienna?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.8282,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7828,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.7687,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "1389af33ffd3-001",
+          "page_id": "1389af33ffd3",
+          "score": 0.7671,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,"
+        },
+        {
+          "id": "1389af33ffd3-000",
+          "page_id": "1389af33ffd3",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 51,
+          "text": "At the University of Vienna, you do not get a ready-made schedule, telling you what courses to complete each semester. Rather, you have to plan your semester yourself.\nThe most important tools for doing so are the student platform u:space and the course directory u:find.\n\n[Information about u:space and u:find](/en/web-services-uspace-ufind-moodle-webmail/)\n\n#"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.7628,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.758,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "a270af95f995-001",
+          "page_id": "a270af95f995",
+          "score": 0.7568,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My start into university life"
+          ],
+          "word_count": 172,
+          "text": "#### Starting your studies\n\nIt is important to gather information about the relevant degree programme already before applying for admission. Here you will find the answers to your questions:\n\n- [The welcome guide \"Herzlich willkommen an der Universität Wien!\" offers a first insight into the most important topics and services for getting started with your studies. (German only)](/en/welcome/welcome-guide/)\n- [How do I plan a semester?](/en/semester-planning/)\n- [Studies service center (SSC)/studies service unit (SSS) - Who can help if I have questions about my studies?](http://ssc.univie.ac.at)\n- [What is u:space, u:find, Moodle and Webmail?](/en/web-services-uspace-ufind-moodle-webmail/)\n- [Which IT services does the university offer to students?](/en/web-services-uspace-ufind-moodle-webmail/)\n- [What is the introductory and orientation period (STEOP)?](/en/semester-planning/introductory-and-orientation-period-steop/)\n- [What kind of support services are available for students?](https://ctl.univie.ac.at/angebote-fuer-studierende/)\n- [Courses and examinations - How can I register?](/en/semester-planning/registration-for-coursesexaminations/)\n- [How do I organise different examination methods if I need to do so because of an impairment?](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abweichende-pruefungsmethoden/)\n- [Extension curriculum - What is that?](/en/extension-curricula-and-alternative-extensions/)\n- [How can I change my personal data?](/en/change-of-personal-data/)\n- [Where do I find confirmations about my study?](/en/confirmations/)"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7551,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.7519,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.7506,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "673374adc501-002",
+          "page_id": "673374adc501",
+          "score": 0.7503,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "word_count": 66,
+          "text": "With its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair"
+        },
+        {
+          "id": "d285ba202518-001",
+          "page_id": "d285ba202518",
+          "score": 0.7475,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [
+            "Services of the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "There are many services at the University of Vienna that provide help during your studies. Some of them are listed here: - [Admission Office](/en/): All administrative matters regarding the admission and continuation of degree programmes at the University of Vienna are solved here. - [Directorate of studies - Studienprogrammleitung (SPL)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/): The director of studies plans the teaching offered in a particular degree programme, makes decisions in matters concerning study law and study organisation. - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/): The SSC/SSS of each degree programme organises and coordinates the teaching and the exams offered in each degree programme. At the SSC/SSS office you get information about the contents of a degree programme, help in planning the semester and information for completing a degree programme. - [Center for Doctoral Studies](http://doktorat.univie.ac.at/en/): all info about Doctoral/PhD Programmes at the University of Vienna - [Postgraduate Center](https://www.postgraduatecenter.at/en/): The Postgraduate Center of the University of Vienna covers all affairs concerning postgraduate programmes. - [Vienna University Computer Center](https://zid.univie.ac.at/en): The Computer Center is responsible for all technical matters of the University of Vienna such as free WiFi, computer rooms, your u:account, the [u:book](https://ubook.at/) sales etc. - [University Library](http://bibliothek.univie.ac.at/english/) - [Center for Teaching and Learning (CTL)](/en/): The CTL offers mentoring programmes for writing scientific papers and many other interesting lectures/info talks. An overview about the university communities is available here: - [#univie Communities](/en/student-life-who-can-help-me-with/univie-communities/) - [Social Media Hub](https://socialmedia.univie.ac.at/) - up-to-date social media"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.7474,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.7409,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "a270af95f995-004",
+          "page_id": "a270af95f995",
+          "score": 0.7404,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "Please follow the Guidelines for Good Scientific Practice from the beginning of your studies until the graduation. You find useful information here:\n\n<https://studienpraeses.univie.ac.at/infos-zum-studienrecht/sicherung-der-guten-wissenschaftlichen-praxis/plagiat/> (in German)\n\n[oeawi.at/en/guidelines/](https://oeawi.at/en/guidelines/)\n\n- [Regulation for pregnant students and nursing mothers](/en/pregnant-students-and-nursing-mothers/)\n\n#### Student participation\n\nThe Austrian National Union of Students represents all students studying at Austrian universities on both the federal level, and the level of university and studies.\n\n- [Österreichische HochschülerInnenschaft (ÖH)](https://www.oeh.ac.at/) - Austrian National Union of Students\n- [ÖH Uni Wien](http://www.oeh.univie.ac.at/) (Austrian National Union of Students at the University of Vienna)\n- [Students' representatives at the University of Vienna](http://www.oeh.univie.ac.at/fakultaets-und-studienvertretungen)\n- Union of Students Act [(HochschülerInnenschaftsgesetz)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n\nThe Unit for Quality Assurance carries out course evaluations and graduate surveys to improve teaching at the University of Vienna. Students are welcome to voice their opinions.\n\n- [Course evaluation](https://www.qs.univie.ac.at/evaluationen/lehrveranstaltungen/)\n- [Graduate survey](https://www.qs.univie.ac.at/analysen/studienabschlussbefragung/)\n- [Unit for Quality Assurance](https://www.qs.univie.ac.at/)\n\n#### Student mobility\n\nThe International Office helps you plan and realise stays abroad during your studies in the framework of mobility programmes.\n\n- [International Office](https://international.univie.ac.at/en/study-abroad-with-erasmus-and-co)\n\n#### Diversity\n\nDiversity enriches our community life by opening up different ways of understanding, thinking and acting. The perception, recognition and utilisation of diversity are therefore key fundamental values of the University of Vienna.\n\n- [Dimensions of diversity](https://gleichstellung.univie.ac.at/en/diversity)\n- [Culture & Equality](http://personalwesen.univie.ac.at/gleichstellung-diversitaet/)\n- [Contact persons](https://gleichstellung.univie.ac.at/en/prevention-counselling/counselling-office)\n- [Accessible studies](/en/accessible-studies/)\n- [Accessibility at the University of Vienna](https://barrierefrei.univie.ac.at/)"
+        },
+        {
+          "id": "7916c3fc6510-102",
+          "page_id": "7916c3fc6510",
+          "score": 0.7403,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find - further informationen](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c242234) - [u:find - Course and Staff/Unit Directory](https://ufind.univie.ac.at/en/index.html) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [Course directory](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32012&cHash=ea100bf6913819d04a4a664d0e97b652) - u:print u:print is a service provided by the Vienna University Computer Center (ZID). u:print devices for economical printing and copying are available at several computer rooms, departments and libraries at the University of Vienna. Related Links: - [u:print](https://zid.univie.ac.at/en/uprint/) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29993&cHash=df5349d31712ffbcb01fd2085c65a5d2) - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - u:space u:space is the online portal and central access point to all services regarding organisation of studies and teaching. With their u:account, students and university staff can log in to u:space, where they can find all online services they need during their studies/teaching activities. Related Links: - [u:space - further information](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c216326) - [u:space - the portal](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [Educational institution ID](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31924&cHash=4208114d5c92cc815c5e41002c8b5e6b) - Unauthorised absence from a course with continuous assessment/exam If you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not"
+        },
+        {
+          "id": "683e91ed0d69-002",
+          "page_id": "683e91ed0d69",
+          "score": 0.74,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 214,
+          "text": "1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester."
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.7388,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        }
+      ],
+      "latency_ms": 17.3
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.8282,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7828,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.7687,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "1389af33ffd3-001",
+          "page_id": "1389af33ffd3",
+          "score": 0.7671,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,"
+        },
+        {
+          "id": "1389af33ffd3-000",
+          "page_id": "1389af33ffd3",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 51,
+          "text": "At the University of Vienna, you do not get a ready-made schedule, telling you what courses to complete each semester. Rather, you have to plan your semester yourself.\nThe most important tools for doing so are the student platform u:space and the course directory u:find.\n\n[Information about u:space and u:find](/en/web-services-uspace-ufind-moodle-webmail/)\n\n#"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.7628,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.758,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "a270af95f995-001",
+          "page_id": "a270af95f995",
+          "score": 0.7568,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [
+            "My start into university life"
+          ],
+          "word_count": 172,
+          "text": "#### Starting your studies\n\nIt is important to gather information about the relevant degree programme already before applying for admission. Here you will find the answers to your questions:\n\n- [The welcome guide \"Herzlich willkommen an der Universität Wien!\" offers a first insight into the most important topics and services for getting started with your studies. (German only)](/en/welcome/welcome-guide/)\n- [How do I plan a semester?](/en/semester-planning/)\n- [Studies service center (SSC)/studies service unit (SSS) - Who can help if I have questions about my studies?](http://ssc.univie.ac.at)\n- [What is u:space, u:find, Moodle and Webmail?](/en/web-services-uspace-ufind-moodle-webmail/)\n- [Which IT services does the university offer to students?](/en/web-services-uspace-ufind-moodle-webmail/)\n- [What is the introductory and orientation period (STEOP)?](/en/semester-planning/introductory-and-orientation-period-steop/)\n- [What kind of support services are available for students?](https://ctl.univie.ac.at/angebote-fuer-studierende/)\n- [Courses and examinations - How can I register?](/en/semester-planning/registration-for-coursesexaminations/)\n- [How do I organise different examination methods if I need to do so because of an impairment?](https://studieren.univie.ac.at/barrierefrei-studieren/anpassungen-bei-pruefungenlven/abweichende-pruefungsmethoden/)\n- [Extension curriculum - What is that?](/en/extension-curricula-and-alternative-extensions/)\n- [How can I change my personal data?](/en/change-of-personal-data/)\n- [Where do I find confirmations about my study?](/en/confirmations/)"
+        },
+        {
+          "id": "da1beee15900-002",
+          "page_id": "da1beee15900",
+          "score": 0.7564,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-qualitative-admission-requirements/",
+          "title": "Non-degree programme to make up for qualitative admission requirements",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "55c68f63e02e-002",
+          "page_id": "55c68f63e02e",
+          "score": 0.7551,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/making-up-for-subject-specific-supplementary-examinations-from-the-bachelor-programme/",
+          "title": "Making up for supplementary examinations from the bachelor programme for admission to a master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Admission to a non-degree programme"
+          ],
+          "word_count": 226,
+          "text": "1. Register in u:space\n   If this is your first time studying at the University of Vienna: Activate your u:account in [u:space](https://uspace.univie.ac.at/en/web/gast/) within the application period. Make sure you remember the login data, because you will further need the u:account during your studies. Log in to u:space, complete the registration.\n2. Apply for admission to a non-degree programme\n   Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/61/create/1644) with your u:account and let us know that you want to be admitted to a non-degree programme.\n3. Wait for an answer\n   Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n4. Pay the tuition fee/Students' Union fee.\n   The admission is completed as soon as the [prescribed fee](/en/tuition-fee/) is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in u:space > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can validate your student ID card, the [u:card](http://ucard.univie.ac.at/en) or order it if you do not yet have one.\n\nRegister for the required courses. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "57c2558ddf86-002",
+          "page_id": "57c2558ddf86",
+          "score": 0.7519,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/",
+          "title": "Studying and exams – Things worth knowing about studying",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        },
+        {
+          "id": "673374adc501-003",
+          "page_id": "673374adc501",
+          "score": 0.7506,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "Image 1 of 1 The main building of the University of Vienna houses several institutes, such as the Institute of History, as well as central service facilities, such as the University Library. © University of Vienna / Alex Schuppich The arcade courtyard can be found inside the main building: Here you can learn in good weather or just enjoy the sun. © University of Vienna / Barbara Mair The largest lecture hall in the main building of the University of Vienna is the Audimax, which offers more than 750 seats in the hall and on the balcony. © University of Vienna / Franz Pfluegl You can also learn and work well in other locations of the University Library - the Departmental Libraries - for example in the Education, Linguistics and Comparative Literature Library in Sensengasse 3a. © University of Vienna / Barbara Mair A location of the University of Vienna near the main building is the NIG - the New Institute Building. Many University Departments are located here like the Department of Cultural and Social Anthropology or of Philosophy. © University of Vienna / Peter Wienerroither Another location of the University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city."
+        },
+        {
+          "id": "673374adc501-002",
+          "page_id": "673374adc501",
+          "score": 0.7503,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "We are right at the heart of the city of Vienna"
+          ],
+          "word_count": 66,
+          "text": "With its more than 70 locations, the University of Vienna shapes Vienna's cityscape. For many years Austria's capital has been the world's most liveable city and has been ranked among the most popular student cities in the world.\n\n- [All locations of the University of Vienna](https://www.univie.ac.at/en/about-us/locations-maps/university-of-vienna-locations/)\n- [Student Space: room for students](/en/student-life-who-can-help-me-with/student-space/)\n- [Blog of the University of Vienna](https://blog.univie.ac.at/en/)\n\n© University of Vienna / Barbara Mair"
+        },
+        {
+          "id": "d285ba202518-001",
+          "page_id": "d285ba202518",
+          "score": 0.7475,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/",
+          "title": "Studying and Living - Who can help me with ...?",
+          "section": "Study organisation",
+          "heading_path": [
+            "Services of the University of Vienna"
+          ],
+          "word_count": 230,
+          "text": "There are many services at the University of Vienna that provide help during your studies. Some of them are listed here: - [Admission Office](/en/): All administrative matters regarding the admission and continuation of degree programmes at the University of Vienna are solved here. - [Directorate of studies - Studienprogrammleitung (SPL)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/): The director of studies plans the teaching offered in a particular degree programme, makes decisions in matters concerning study law and study organisation. - [StudiesServiceCenter (SSC)/StudiesServiceUnit (SSS)](http://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/): The SSC/SSS of each degree programme organises and coordinates the teaching and the exams offered in each degree programme. At the SSC/SSS office you get information about the contents of a degree programme, help in planning the semester and information for completing a degree programme. - [Center for Doctoral Studies](http://doktorat.univie.ac.at/en/): all info about Doctoral/PhD Programmes at the University of Vienna - [Postgraduate Center](https://www.postgraduatecenter.at/en/): The Postgraduate Center of the University of Vienna covers all affairs concerning postgraduate programmes. - [Vienna University Computer Center](https://zid.univie.ac.at/en): The Computer Center is responsible for all technical matters of the University of Vienna such as free WiFi, computer rooms, your u:account, the [u:book](https://ubook.at/) sales etc. - [University Library](http://bibliothek.univie.ac.at/english/) - [Center for Teaching and Learning (CTL)](/en/): The CTL offers mentoring programmes for writing scientific papers and many other interesting lectures/info talks. An overview about the university communities is available here: - [#univie Communities](/en/student-life-who-can-help-me-with/univie-communities/) - [Social Media Hub](https://socialmedia.univie.ac.at/) - up-to-date social media"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.7474,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "673374adc501-004",
+          "page_id": "673374adc501",
+          "score": 0.7409,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 230,
+          "text": "University of Vienna is the Campus. Here you will find, for example, the Department of Art History or of Romance Studies. With its many green courtyards, the Campus offers space for rest and relaxation in the middle of the city. © University of Vienna / Barbara Mair In the Campus, more precisely in Court 2, one finds the \"Hörsaalzentrum\" with the lecture halls C1 and C2. © University of Vienna / Barbara Mair The lecture hall C1 in the lecture hall center (Campus) has modern furnishings and holds up to 450 people. © University of Vienna / derknopfdruecker.com The Department of Communication and the Department of Computer Science are located in Währinger Straße 29. This building offers generous learning and communication spaces for students. © University of Vienna / Gebhard Sengmueller The courtyard of Währinger Straße 29 can be used by students in nice weather as a learning and communication space. © University of Vienna / Barbara Mair The University of Vienna has been granted the status of GreenBuilding Partner for its location at Oskar-Morgenstern-Platz 1. Here are the Faculties of Mathematics and of Business, Economics and Statistics and the associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in"
+        },
+        {
+          "id": "a270af95f995-004",
+          "page_id": "a270af95f995",
+          "score": 0.7404,
+          "url": "https://studieren.univie.ac.at/en/study-organisation/",
+          "title": "How do I organise my studies?",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 218,
+          "text": "Please follow the Guidelines for Good Scientific Practice from the beginning of your studies until the graduation. You find useful information here:\n\n<https://studienpraeses.univie.ac.at/infos-zum-studienrecht/sicherung-der-guten-wissenschaftlichen-praxis/plagiat/> (in German)\n\n[oeawi.at/en/guidelines/](https://oeawi.at/en/guidelines/)\n\n- [Regulation for pregnant students and nursing mothers](/en/pregnant-students-and-nursing-mothers/)\n\n#### Student participation\n\nThe Austrian National Union of Students represents all students studying at Austrian universities on both the federal level, and the level of university and studies.\n\n- [Österreichische HochschülerInnenschaft (ÖH)](https://www.oeh.ac.at/) - Austrian National Union of Students\n- [ÖH Uni Wien](http://www.oeh.univie.ac.at/) (Austrian National Union of Students at the University of Vienna)\n- [Students' representatives at the University of Vienna](http://www.oeh.univie.ac.at/fakultaets-und-studienvertretungen)\n- Union of Students Act [(HochschülerInnenschaftsgesetz)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008892)\n\nThe Unit for Quality Assurance carries out course evaluations and graduate surveys to improve teaching at the University of Vienna. Students are welcome to voice their opinions.\n\n- [Course evaluation](https://www.qs.univie.ac.at/evaluationen/lehrveranstaltungen/)\n- [Graduate survey](https://www.qs.univie.ac.at/analysen/studienabschlussbefragung/)\n- [Unit for Quality Assurance](https://www.qs.univie.ac.at/)\n\n#### Student mobility\n\nThe International Office helps you plan and realise stays abroad during your studies in the framework of mobility programmes.\n\n- [International Office](https://international.univie.ac.at/en/study-abroad-with-erasmus-and-co)\n\n#### Diversity\n\nDiversity enriches our community life by opening up different ways of understanding, thinking and acting. The perception, recognition and utilisation of diversity are therefore key fundamental values of the University of Vienna.\n\n- [Dimensions of diversity](https://gleichstellung.univie.ac.at/en/diversity)\n- [Culture & Equality](http://personalwesen.univie.ac.at/gleichstellung-diversitaet/)\n- [Contact persons](https://gleichstellung.univie.ac.at/en/prevention-counselling/counselling-office)\n- [Accessible studies](/en/accessible-studies/)\n- [Accessibility at the University of Vienna](https://barrierefrei.univie.ac.at/)"
+        },
+        {
+          "id": "7916c3fc6510-102",
+          "page_id": "7916c3fc6510",
+          "score": 0.7403,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find - further informationen](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c242234) - [u:find - Course and Staff/Unit Directory](https://ufind.univie.ac.at/en/index.html) Related entries: - [c.t. (cum tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29988&cHash=d3f291088c28f3236a034bf0f74c89e8) - [s.t. (sine tempore)](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31264&cHash=e39e894b27ec93846814c05fe533dbdf) - [Course directory](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=32012&cHash=ea100bf6913819d04a4a664d0e97b652) - u:print u:print is a service provided by the Vienna University Computer Center (ZID). u:print devices for economical printing and copying are available at several computer rooms, departments and libraries at the University of Vienna. Related Links: - [u:print](https://zid.univie.ac.at/en/uprint/) Related entries: - [Special libraries](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=29993&cHash=df5349d31712ffbcb01fd2085c65a5d2) - [Printing service](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30816&cHash=22367dd134bbef04eb88dbbc67702909) - u:space u:space is the online portal and central access point to all services regarding organisation of studies and teaching. With their u:account, students and university staff can log in to u:space, where they can find all online services they need during their studies/teaching activities. Related Links: - [u:space - further information](https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/#c216326) - [u:space - the portal](https://uspace.univie.ac.at/en/web/gast/home) Related entries: - [Application for admission to a degree programme](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30197&cHash=d1463d320886c313223dcda9a42bda02) - [Educational institution ID](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31924&cHash=4208114d5c92cc815c5e41002c8b5e6b) - Unauthorised absence from a course with continuous assessment/exam If you are registered for a course with continuous assessment or an exam, you can deregister from it within the deregistration period. If you are registered for a course with continuous assessment, but do not participate in it or do not"
+        },
+        {
+          "id": "683e91ed0d69-002",
+          "page_id": "683e91ed0d69",
+          "score": 0.74,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 214,
+          "text": "1. It can take up to two weeks to process your application. As soon as your application has been approved, you will receive an e-mail notification. Please also check your spam folder if necessary.\n2. Afterwards you can register for courses and exams in [u:find](https://ufind.univie.ac.at/en/index.html).\n   - Registration periods may vary depending on the course and degree programme.\n   - The admission does not guarantee a place in an ongoing course with continuous assessment.\n   - Further information regarding  semester planning, registration for courses and exams, etc. is available on our website for [study organisation](https://studieren.univie.ac.at/en/study-organisation/).\n\nAs soon as the co-registration has been approved, you can order the [u:card](https://ucard.univie.ac.at/en/) in [u:space](https://uspace.univie.ac.at/en/) (Personal matters > My u:card). However, your u:card is not valid as a student ID card, but only as a library card.\n\nYou can also print your student documents (student record sheet and confirmation of enrolment) in [u:space](https://uspace.univie.ac.at/en/web/gast) > Personal matters > My documents.\n\nIn order to continue your co-registration, submit the following documents\n\n- [the pre-approval form](/fileadmin/user_upload/p_studieren/Studienzulassung/Formulare/Pre-approval_of_the_co-registration.pdf)\n- the student record sheet of the current semester (the semester, in which you want to co-register)\n- your student ID card, valid passport or personal ID\n\nas PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/745) within the above mentioned application period of the respective semester."
+        },
+        {
+          "id": "673374adc501-005",
+          "page_id": "673374adc501",
+          "score": 0.7388,
+          "url": "https://studieren.univie.ac.at/en/degree-programmes/why-study-at-the-university-of-vienna/",
+          "title": "Why study at the University of Vienna?",
+          "section": "Degree programmes",
+          "heading_path": [
+            "Uni Insights"
+          ],
+          "word_count": 212,
+          "text": "associated libraries housed. © University of Vienna / Gebhard Sengmueller Similar to the Währinger Straße 29, the Oskar-Morgenstern-Platz 1 has enough learning and communication space for students. © University of Vienna / Barbara Mair Farther away, in Franz-Klein-Gasse 1 in the 19th district, for example the Department of Egyptology and of Classical Archeology are located as well as the Center for Translation Studies. © University of Vienna / Franz Pfluegl At the Center for Translation Studies one can e.g. study the bachelor's program \"Transcultural Communication\". You can practice the profession of simultaneous interpreter in the language lab. © University of Vienna / Franz Pfluegl In the 15th district one can find the Center for Sports Science and University Sports. The University Sports Institute (USI) offers affordable sports courses for students; the offer is varied and ranges from A like aqua gymnastics to Z like Zumba. © University of Vienna / Peter Kubelka In most buildings of the university there are areas where students can relax, socialise or study with colleagues. © University of Vienna / Barbara Mair [Previous Slide](#carousel-example-generic-413441) [Next Slide](#carousel-example-generic-413441) [## You've got further questions?](/en/contact-form/) [Choosing the topic \"degree programme and admission in general\" or \"Schule trifft Uni\" in the contact form is the best way to reach the responsible office.](/en/contact-form/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.8282,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "66b1e5ed443c-004",
+          "page_id": "66b1e5ed443c",
+          "score": 0.7828,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "section": "Admission",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "word_count": 220,
+          "text": "1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination."
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.7687,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "1389af33ffd3-001",
+          "page_id": "1389af33ffd3",
+          "score": 0.7671,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,"
+        },
+        {
+          "id": "1389af33ffd3-000",
+          "page_id": "1389af33ffd3",
+          "score": 0.7638,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 51,
+          "text": "At the University of Vienna, you do not get a ready-made schedule, telling you what courses to complete each semester. Rather, you have to plan your semester yourself.\nThe most important tools for doing so are the student platform u:space and the course directory u:find.\n\n[Information about u:space and u:find](/en/web-services-uspace-ufind-moodle-webmail/)\n\n#"
+        },
+        {
+          "id": "018c0099c0b4-002",
+          "page_id": "018c0099c0b4",
+          "score": 0.7628,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "section": "Study organisation",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "word_count": 230,
+          "text": "/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Web services\nThe University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps\n\n[2] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[3] Co-registration at the University of Vienna — How to apply for co-registration\n1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\").\n\n[4] Planning your semester — This is how it works:\n/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,\n\n[5] Planning your semester\nAt the University of Vienna, you do not get a ready-made schedule, telling you what courses to complete each semester. Rather, you have to plan your semester yourself.\nThe most important tools for doing so are the student platform u:space and the course directory u:find.\n\n[Information about u:space and u:find](/en/web-services-uspace-ufind-moodle-webmail/)\n\n#\n\n[6] Studying remotely — Who to ask about...?\n/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "heading_path": [],
+          "section": "Web services",
+          "chunk_id": "950e793cc3c5-000",
+          "score": 0.8282
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/non-degree-programme/attending-courses-out-of-interest/",
+          "title": "Attending courses out of interest",
+          "heading_path": [
+            "Your steps in the admission procedure"
+          ],
+          "section": "Admission",
+          "chunk_id": "66b1e5ed443c-004",
+          "score": 0.7828
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "section": "Admission",
+          "chunk_id": "683e91ed0d69-001",
+          "score": 0.7687
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "1389af33ffd3-001",
+          "score": 0.7671
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "1389af33ffd3-000",
+          "score": 0.7638
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/studying-exams/studying-remotely/",
+          "title": "Studying remotely",
+          "heading_path": [
+            "Who to ask about...?"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "018c0099c0b4-002",
+          "score": 0.7628
+        }
+      },
+      "context_chars": 8610,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Web services\nThe University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps\n\n[2] Attending courses out of interest — Your steps in the admission procedure\n1. Create your u:account in [u:space](http://uspace.univie.ac.at/en) withing the application period. Make sure to remember your login data. You will need your u:account during your studies.\n2. Log into u:space to complete the registration.\n3. At \"non-degree programme\" you will find a link for the [Statistical Data Confirmation (UHStat1)](https://uspace.univie.ac.at/web/studium/statistische-daten). Fill in the questionnaire and choose \"Check and submit\".\n\n#### Registration in u:space\n\n1. Log into the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/2148) with your u:account and let us know that you want to be admitted to a non-degree programme.\n2. Once you have been (preliminarily) admitted, you will receive an e-mail containing important information. Please read this e-mail carefully. Please note: The University of Vienna reserves the right to invite you to an [online appointment](/en/admission/online-first-time-admission/).\n3. Pay the [tuition fee/Students' Union fee](/en/tuition-fee/). The admission is completed as soon as the prescribed fee is received in u:space > Financial Matters > Tuition fee/Students' Union fee. Afterwards, you can download your study documents (student record sheet and confirmation of enrolment) in [u:space](http://uspace.univie.ac.at/en) > Personal matters > My documents.\n\nAs soon as your tuition fee has been received by the University of Vienna, you can order your student ID card, the [u:card](http://ucard.univie.ac.at/en).\n\nRegister for the courses you want to attend. The responsible [StudiesServiceCenter (SSC)/ StudiesServiceUnit (SSS)](https://www.univie.ac.at/ueber-uns/leitung-organisation/studien-lehrorganisation/) will gladly help you with any questions regarding registration for courses and examination.\n\n[3] Co-registration at the University of Vienna — How to apply for co-registration\n1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\").\n\n[4] Planning your semester — This is how it works:\n/ - Step 1: Pay your tuition fee/Students’ Union fee At the beginning of the semester, you have to pay your tuition fee/Students’ Union fee. You can check whether your payment was successful in the study overview on u:space. Once you have paid your tuition fee/Students’ Union fee, you are admitted for the current semester and can register for courses. [Information about tuition fee/Students' Union fee](/en/tuition-fee/) - Step 2: Validate your u:card As soon as you have paid your tuition fee/Students’ Union fee, you can validate your u:card – the University of Vienna’s student ID card – at one of the u:card terminals. Your u:card is then valid for the duration of the current semester. [u:card website](http://ucard.univie.ac.at/en/) - Step 3: Plan your schedule The website on the [University of Vienna's range of degree programmes](/en/degree-programmes/) is a good starting point for planning your schedule. In addition to information about your degree programme, you can also find a link to the curriculum there. The curriculum outlines what achievements you have to complete during your degree programme. With the help of the [semester planner in u:space](https://uspace.univie.ac.at/web/studium/semesterplaner), you can plan your courses and exams for the current semester and create your personal schedule. In the semester planner, you will find a calendar that shows all planned courses and exams for your degree programmes. This allows you to quickly find and resolve overlapping dates. Alternatively,\n\n[5] Planning your semester\nAt the University of Vienna, you do not get a ready-made schedule, telling you what courses to complete each semester. Rather, you have to plan your semester yourself.\nThe most important tools for doing so are the student platform u:space and the course directory u:find.\n\n[Information about u:space and u:find](/en/web-services-uspace-ufind-moodle-webmail/)\n\n#\n\n[6] Studying remotely — Who to ask about...?\n/ - the beginning of my studies? The Admission Office is the gateway to the University of Vienna. It is responsible for the admission to bachelor’s, diploma and master’s programmes. In addition, it is responsible for all other matters related to the admission to degree programmes, such as entrance exam procedures, the tuition/Students’ Union fees or the university entrance qualification examination. For further information, please visit <https://studieren.univie.ac.at/en/>. If you have any questions, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). All information and contacts for a successful start to your studies can be found in the University of Vienna [Welcome Guide](/en/welcome/welcome-guide/). (Last updated: 21 September 2022) - the organisation of studies? The website of Teaching Affairs and Student Services provides a comprehensive overview of information and services relating to the organisation of studies: [studying.univie.ac.at](http://studying.univie.ac.at). If you would like to contact us, please use the following [contact form](http://studieren.univie.ac.at/en/contact-form/). - study-related matters? The best contact points for particular questions during your studies are the [StudiesServiceUnit (SSS) or the StudiesServiceCenter (SSC)](https://www.univie.ac.at/en/about-us/governance-structure/organisation-of-studies-courses/) as well as the students’ representatives of your degree programme (e.g. for subject-related information about studies and the range of courses, the registration system, registration and de-registration deadlines, exams, recognition of exams and graduation). [Contact details of StudiesServiceUnit (SSS)/StudiesServiceCenter (SSC)](https://ufind.univie.ac.at/en/search.html?filter=units&query=studienservicecenter%20c%3A18%20%20s) - a specific course? If you have any questions about a specific course or exam, please contact the relevant lecturer. - international matters? The\n\nQuestion: How does u:space fit into organising my studies at the University of Vienna?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2128,
+        "completion_tokens": 93,
+        "total_tokens": 2221
+      },
+      "rate_limit_events": [],
+      "raw_response": "u:space is the portal for the organisation of your studies at the University of Vienna, offering central access to all services required during your studies [1]. It allows you to apply for admission, order your u:card, pay tuition fees, register for courses and exams, check grades, and download study documents [1]. Additionally, u:space is a key tool for planning your semester, including validating your u:card and planning your schedule [4].",
+      "finish_reason": "stop",
+      "latency_ms": 517.3
+    }
+  },
+  "query_id": "g40:paraphrase:3",
+  "status": "ok",
+  "answer": "u:space is the portal for the organisation of your studies at the University of Vienna, offering central access to all services required during your studies [1]. It allows you to apply for admission, order your u:card, pay tuition fees, register for courses and exams, check grades, and download study documents [1]. Additionally, u:space is a key tool for planning your semester, including validating your u:card and planning your schedule [4].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+      "title": "Web services",
+      "heading_path": [],
+      "section": "Web services",
+      "chunk_id": "950e793cc3c5-000",
+      "score": 0.8282
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/semester-planning/",
+      "title": "Planning your semester",
+      "heading_path": [
+        "This is how it works:"
+      ],
+      "section": "Study organisation",
+      "chunk_id": "1389af33ffd3-001",
+      "score": 0.7671
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2128,
+    "completion_tokens": 93,
+    "total_tokens": 2221
+  },
+  "total_latency_ms": 534.7
+}

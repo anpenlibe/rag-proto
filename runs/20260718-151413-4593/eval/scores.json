@@ -1,0 +1,56 @@
+{
+  "run_id": "20260718-151413-4593",
+  "gold_set": "gold_v1_small",
+  "eval_hash": "6647ca36c217",
+  "config_hash": "f22363afaf1d",
+  "top_k": 6,
+  "candidate_k": 20,
+  "judge_model": "openai/gpt-oss-120b",
+  "panel": {
+    "consistency": 0.4284523809523809,
+    "consistency_weird": 0.4035899470899471,
+    "consistency_chunks": 0.2725844155844156,
+    "recall@k": 0.7833333333333333,
+    "recall@cand": 0.9166666666666666,
+    "mrr": 0.6737632275132275,
+    "faithfulness": 0.9333333333333333,
+    "citation_acc": 0.75,
+    "answer_agreement": 0.7
+  },
+  "meta": {
+    "n_groups": 10,
+    "n_groups_scored": 10,
+    "n_queries": 60,
+    "n_retrieval_scored": 60,
+    "n_missing": 0,
+    "n_error": 0,
+    "n_truncated": 0,
+    "avg_latency_ms": 2664.5,
+    "p50_latency_ms": 596.4,
+    "p95_latency_ms": 9673.6,
+    "max_latency_ms": 19873.3,
+    "total_latency_ms": 159872.5,
+    "prompt_tokens": 138657,
+    "completion_tokens": 3651,
+    "total_tokens": 142308,
+    "avg_tokens_per_query": 2371.8,
+    "stage_avg_latency_ms": {
+      "assemble": 0.0,
+      "generate": 2647.5,
+      "query_transform": 0.0,
+      "rerank": 0.0,
+      "retrieve": 16.9,
+      "select": 0.0
+    },
+    "judge_sample": "all",
+    "n_judgeable": 60,
+    "n_judged": 60,
+    "n_judge_failed": 0,
+    "judge_quota_exhausted": false,
+    "n_groups_agreement_scored": 10,
+    "judge_tokens": 188945,
+    "judge_status_counts": {
+      "ok": 60
+    }
+  }
+}

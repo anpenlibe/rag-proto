@@ -1,0 +1,816 @@
+{
+  "trace_id": "ea32f73a5be6",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "By when do EU and non-EU applicants have to apply for winter 2026/27?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "By when do EU and non-EU applicants have to apply for winter 2026/27?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "785f0a10a7d6-012",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7532,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-018",
+          "page_id": "33b149ca0707",
+          "score": 0.753,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-013",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7506,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "9aad396882f4-004",
+          "page_id": "9aad396882f4",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "fcaf26658999-004",
+          "page_id": "fcaf26658999",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-005",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7471,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7436,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-005",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.743,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-005",
+          "page_id": "33b149ca0707",
+          "score": 0.7426,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-008",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7387,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-015",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7357,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme with selection procedure",
+            "Deadlines"
+          ],
+          "word_count": 58,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-008",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7237,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-011",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7196,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 182,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Starting from the beginning of the admission period, you will be automatically admitted to the additional degree programme within five working days. Check the status of your admission in u:space > Study overview. If you have not been admitted within this timeframe, please contact the Admission Office via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933)."
+        },
+        {
+          "id": "33b149ca0707-011",
+          "page_id": "33b149ca0707",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-008",
+          "page_id": "33b149ca0707",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "9aad396882f4-005",
+          "page_id": "9aad396882f4",
+          "score": 0.7109,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "fcaf26658999-005",
+          "page_id": "fcaf26658999",
+          "score": 0.7107,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "785f0a10a7d6-013",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7048,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "9aad396882f4-003",
+          "page_id": "9aad396882f4",
+          "score": 0.7029,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 208,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/master-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Note the potentially required additional proofs. You can find these in the [curriculum](/en/degree-programmes/master-programmes/) of your degree programme.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. If you fulfil all requirements you can be admitted to the new degree programme. You will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)) after a processing time of a few weeks. You can also find the admission letter in u:space > Personal matters > My documents.\n\nThe Admission Office will inform you about further steps via e-mail."
+        },
+        {
+          "id": "ea38d2ce2037-002",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6984,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 190,
+          "text": "[#### Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 4 May 2026\n\n[#### Bachelor programme in Sport Science](/en/admission/bachelordiploma-programmes/sport-science/)\n\nApplication period irrespective of applicant's citizenship\n\n- Winter semester 2026/27:\n  from 2 March to 4 May 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[#### Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 7 April 2026\n\n#### Eligible master programmes without selection procedure for graduates of the University of Vienna\n\nApplication period for graduates of an eligible bachelor programme at the University of Vienna according to the curriculum, if no qualitative admission requirements or language skills are stipulated in it (in this case the normal application deadline applies).\n\n- Winter semester 2026/27:\n  from 22 June to 31 October 2026\n- Summer semester 2027:\n  from 16 November 2026 to 31 March 2027\n\nSpecial case: Same day admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German)"
+        }
+      ],
+      "latency_ms": 17.4
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "785f0a10a7d6-012",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7532,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-018",
+          "page_id": "33b149ca0707",
+          "score": 0.753,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-013",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7506,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "9aad396882f4-004",
+          "page_id": "9aad396882f4",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "fcaf26658999-004",
+          "page_id": "fcaf26658999",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-005",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7471,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "2332cdbc78e4-001",
+          "page_id": "2332cdbc78e4",
+          "score": 0.7436,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/non-degree-programme/",
+          "title": "Studying a non-degree programme (again)",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Attending individual courses",
+            "Deadlines"
+          ],
+          "word_count": 45,
+          "text": "Winter semester 2026/27:\n\n- Application and admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application and admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-005",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.743,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-005",
+          "page_id": "33b149ca0707",
+          "score": 0.7426,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor programmes with compulsory OSA"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-008",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7387,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-015",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7357,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme with selection procedure",
+            "Deadlines"
+          ],
+          "word_count": 58,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-008",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7237,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-011",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7196,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 182,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Starting from the beginning of the admission period, you will be automatically admitted to the additional degree programme within five working days. Check the status of your admission in u:space > Study overview. If you have not been admitted within this timeframe, please contact the Admission Office via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933)."
+        },
+        {
+          "id": "33b149ca0707-011",
+          "page_id": "33b149ca0707",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-008",
+          "page_id": "33b149ca0707",
+          "score": 0.7161,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Bachelor/diploma programmes with entrance exam procedure",
+            "Deadlines"
+          ],
+          "word_count": 59,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- 2 March to 4 May 2026\n\nWinter semester 2026/27:\n\n- Admission period: after the announcement of results to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "9aad396882f4-005",
+          "page_id": "9aad396882f4",
+          "score": 0.7109,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "fcaf26658999-005",
+          "page_id": "fcaf26658999",
+          "score": 0.7107,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "785f0a10a7d6-013",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7048,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure",
+            "Note for graduates of the University of Vienna"
+          ],
+          "word_count": 84,
+          "text": "The application and admission period for graduates of the University of Vienna who want to study an eligible master programme according to the curriculum for winter semester 2026/27 is from 22 June to 31 October 2026. The application and admission period for summer semester 2027 is from 16 November 2026 to 31 March 2027.\n\nThe direct admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German) is possible year round for graduates of a bachelor programme at the University of Vienna."
+        },
+        {
+          "id": "9aad396882f4-003",
+          "page_id": "9aad396882f4",
+          "score": 0.7029,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [],
+          "word_count": 208,
+          "text": "Application and admission period for the academic year 2026/27:\n\n- from 2 March to 7 April 2026\n\nWinter semester 2026/27:\n\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/master-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again. Note the potentially required additional proofs. You can find these in the [curriculum](/en/degree-programmes/master-programmes/) of your degree programme.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. If you fulfil all requirements you can be admitted to the new degree programme. You will receive an admission letter to your u:account e-mail address ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)) after a processing time of a few weeks. You can also find the admission letter in u:space > Personal matters > My documents.\n\nThe Admission Office will inform you about further steps via e-mail."
+        },
+        {
+          "id": "ea38d2ce2037-002",
+          "page_id": "ea38d2ce2037",
+          "score": 0.6984,
+          "url": "https://studieren.univie.ac.at/en/admission/application-and-admission-periods/",
+          "title": "Application and admission periods",
+          "section": "Admission",
+          "heading_path": [
+            "Application period"
+          ],
+          "word_count": 190,
+          "text": "[#### Bachelor/diploma programmes with entrance exam procedure](/en/entrance-exam/)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 4 May 2026\n\n[#### Bachelor programme in Sport Science](/en/admission/bachelordiploma-programmes/sport-science/)\n\nApplication period irrespective of applicant's citizenship\n\n- Winter semester 2026/27:\n  from 2 March to 4 May 2026\n- Summer semester 2027:\n  from 16 November 2026 to 7 January 2027\n\n[#### Master programmes with selection procedure](/en/admission-procedure/master-programmes/#c876069)\n\nIrrespective of the applicant's citizenship, there is only one application period per academic year\n\n- Academic year 2026/27:\n  from 2 March to 7 April 2026\n\n#### Eligible master programmes without selection procedure for graduates of the University of Vienna\n\nApplication period for graduates of an eligible bachelor programme at the University of Vienna according to the curriculum, if no qualitative admission requirements or language skills are stipulated in it (in this case the normal application deadline applies).\n\n- Winter semester 2026/27:\n  from 22 June to 31 October 2026\n- Summer semester 2027:\n  from 16 November 2026 to 31 March 2027\n\nSpecial case: Same day admission to [consecutive master programmes in the same discipline](https://studieren.univie.ac.at/zulassung/masterstudien/mit-abschluss-der-universitaet-wien/tagesaktuelle-zulassung/) (only available in German)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "785f0a10a7d6-012",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7532,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "33b149ca0707-018",
+          "page_id": "33b149ca0707",
+          "score": 0.753,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "5a4e79a6c5d5-013",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.7506,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "9aad396882f4-004",
+          "page_id": "9aad396882f4",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "fcaf26658999-004",
+          "page_id": "fcaf26658999",
+          "score": 0.749,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "section": "Admission",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "word_count": 155,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        },
+        {
+          "id": "785f0a10a7d6-005",
+          "page_id": "785f0a10a7d6",
+          "score": 0.7471,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "section": "Resumption of studies",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "word_count": 152,
+          "text": "The following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Studying at the University of Vienna again – different degree programme — Different master programme without selection procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[2] Change of bachelor/diploma programmes — Further bachelor/diploma programmes\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Additional bachelor/diploma programme — Further bachelor/diploma programmes\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[4] Additional master programme — Master programmes without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[5] Change of master programme — Master programmes without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[6] Studying at the University of Vienna again – different degree programme — Different bachelor/diploma programme without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "heading_path": [
+            "Different master programme without selection procedure"
+          ],
+          "section": "Resumption of studies",
+          "chunk_id": "785f0a10a7d6-012",
+          "score": 0.7532
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "section": "Admission",
+          "chunk_id": "33b149ca0707-018",
+          "score": 0.753
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "heading_path": [
+            "Further bachelor/diploma programmes"
+          ],
+          "section": "Admission",
+          "chunk_id": "5a4e79a6c5d5-013",
+          "score": 0.7506
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+          "title": "Additional master programme",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "section": "Admission",
+          "chunk_id": "9aad396882f4-004",
+          "score": 0.749
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+          "title": "Change of master programme",
+          "heading_path": [
+            "Master programmes without entrance exam procedure"
+          ],
+          "section": "Admission",
+          "chunk_id": "fcaf26658999-004",
+          "score": 0.749
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+          "title": "Studying at the University of Vienna again – different degree programme",
+          "heading_path": [
+            "Different bachelor/diploma programme without entrance exam procedure"
+          ],
+          "section": "Resumption of studies",
+          "chunk_id": "785f0a10a7d6-005",
+          "score": 0.7471
+        }
+      },
+      "context_chars": 7331,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Studying at the University of Vienna again – different degree programme — Different master programme without selection procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[2] Change of bachelor/diploma programmes — Further bachelor/diploma programmes\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[3] Additional bachelor/diploma programme — Further bachelor/diploma programmes\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[4] Additional master programme — Master programmes without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[5] Change of master programme — Master programmes without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for persons with citizenship from a non-EU/EEA country.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\n[6] Studying at the University of Vienna again – different degree programme — Different bachelor/diploma programme without entrance exam procedure\nThe following deadlines apply for EU/EEA/CH citizens and groups of persons according to the [Decree on Groups of Persons](https://studieren.univie.ac.at/en/tuition-fee/equal-status-with-eueea-citizens/decree-on-certain-groups-of-persons/).\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 5 September 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 5 February 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nThe following deadlines apply for citizens of non-EU/EEA countries.\n\nWinter semester 2026/27:\n\n- Application period: from 22 June to 3 August 2026\n- Admission period: from 13 July to 31 October 2026\n- Semester start: 1 October\n\nSummer semester 2027:\n\n- Application period: from 16 November 2026 to 7 January 2027\n- Admission period: from 11 January to 31 March 2027\n- Semester start: 1 March\n\n[Schedule of the academic year](/en/semester-planning/the-academic-year/)\n\nQuestion: By when do EU and non-EU applicants have to apply for winter 2026/27?"
+        }
+      ],
+      "key_id": 0,
+      "usage": {
+        "prompt_tokens": 2172,
+        "completion_tokens": 62,
+        "total_tokens": 2234
+      },
+      "rate_limit_events": [],
+      "raw_response": "EU/EEA/CH citizens have to apply by 5 September 2026 [1][2][3][4][5][6], and non-EU/EEA citizens have to apply by 3 August 2026 [1][2][3][4][5][6].",
+      "finish_reason": "stop",
+      "latency_ms": 380.4
+    }
+  },
+  "query_id": "g17:paraphrase:1",
+  "status": "ok",
+  "answer": "EU/EEA/CH citizens have to apply by 5 September 2026 [1][2][3][4][5][6], and non-EU/EEA citizens have to apply by 3 August 2026 [1][2][3][4][5][6].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+      "title": "Studying at the University of Vienna again – different degree programme",
+      "heading_path": [
+        "Different master programme without selection procedure"
+      ],
+      "section": "Resumption of studies",
+      "chunk_id": "785f0a10a7d6-012",
+      "score": 0.7532
+    },
+    {
+      "n": 2,
+      "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+      "title": "Change of bachelor/diploma programmes",
+      "heading_path": [
+        "Further bachelor/diploma programmes"
+      ],
+      "section": "Admission",
+      "chunk_id": "33b149ca0707-018",
+      "score": 0.753
+    },
+    {
+      "n": 3,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+      "title": "Additional bachelor/diploma programme",
+      "heading_path": [
+        "Further bachelor/diploma programmes"
+      ],
+      "section": "Admission",
+      "chunk_id": "5a4e79a6c5d5-013",
+      "score": 0.7506
+    },
+    {
+      "n": 4,
+      "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-master-programme/",
+      "title": "Additional master programme",
+      "heading_path": [
+        "Master programmes without entrance exam procedure"
+      ],
+      "section": "Admission",
+      "chunk_id": "9aad396882f4-004",
+      "score": 0.749
+    },
+    {
+      "n": 5,
+      "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-master-programme/",
+      "title": "Change of master programme",
+      "heading_path": [
+        "Master programmes without entrance exam procedure"
+      ],
+      "section": "Admission",
+      "chunk_id": "fcaf26658999-004",
+      "score": 0.749
+    },
+    {
+      "n": 6,
+      "url": "https://studieren.univie.ac.at/en/admission/resumption-of-studies/other-degree-programme/",
+      "title": "Studying at the University of Vienna again – different degree programme",
+      "heading_path": [
+        "Different bachelor/diploma programme without entrance exam procedure"
+      ],
+      "section": "Resumption of studies",
+      "chunk_id": "785f0a10a7d6-005",
+      "score": 0.7471
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 0,
+  "usage": {
+    "prompt_tokens": 2172,
+    "completion_tokens": 62,
+    "total_tokens": 2234
+  },
+  "total_latency_ms": 398.0
+}

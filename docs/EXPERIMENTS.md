@@ -20,23 +20,24 @@ panel — so any number is reproducible and attributable.
 - Log `model` + `key_id` per call; report the model(s) used in the run.
 
 > ⚠️ **The free tier caps each key at 100k tokens/DAY/model** (invisible in the response
-> headers — it only appears in the body of the 429). 4 keys ≈ 400k/day per model, while
-> a generated 240-query pass costs ~508k and judging it ~800k. **Retrieval metrics are
-> free and complete; judged metrics are budget-bound.** See "Token budget" below.
+> headers — it only appears in the body of the 429). 4 keys ≈ 400k/day per model. The
+> current gold set (`gold_v1_small`, 60 queries) is small enough that a **full generate +
+> judge panel fits in a single day** (measured: ~142k generation + ~189k judge tokens).
+> Retrieval metrics are free and instant regardless. See "Token budget" below.
 
 ## Results summary
 
 | Exp | Date | Lever changed | Model | gold_set | recall@k | mrr | ⭐consistency | faithful | cite_acc | config_hash |
 |-----|------|---------------|-------|----------|----------|-----|--------------|----------|----------|-------------|
-| E0 | 2026-07-15 | baseline | llama-3.3-70b-versatile | gold_v1 | **0.875** | **0.757** | **0.427** | 0.986 † | 0.819 † | `f22363afaf1d` |
+| E0 | 2026-07-18 | baseline | llama-3.3-70b-versatile | gold_v1_small | **0.783** | **0.674** | **0.428** | 0.933 | 0.750 | `f22363afaf1d` |
 
-> **E0 = the "before".** `recall@k`/`mrr`/⭐`consistency` are **complete (240/240)**,
-> deterministic and free — selection happens before generation, so they need no LLM.
-> † `faithfulness`/`citation_acc`/`answer_agreement` are from a **partial, section-biased
-> fragment** (24/40 groups = 2 of 8 sections; `judge_sample=c+2p`, 72 verdicts) because
-> the daily token quota ran out mid-generation. **Do not compare them to a future run's
-> judged panel** until the full panel exists — on this same fragment `consistency` reads
-> 0.465 vs the true 0.427, so the bias is real and material.
+> **E0 = the "before"** on `gold_v1_small` (10 groups × 6 = 60). Every panel metric is
+> **complete (60/60) and fully judged** (0 judge failures, quota not exhausted). The
+> `recall@k`/`mrr`/⭐`consistency` metrics are deterministic and free (selection precedes
+> generation); the judged trio (`faithfulness`/`citation_acc`/`answer_agreement`) comes
+> from the LLM-judge on `gpt-oss-120b`. This set is deliberately hard — half its groups are
+> Study-organisation near-neighbour hard negatives — so `recall@k` runs lower than a
+> section-balanced set would.
 
 ## Run ledger (auto)
 
@@ -47,73 +48,52 @@ runs.
 <!-- RUN-LEDGER:START -->
 | run_id | date | label | config_hash | eval_hash | n_queries | total_tokens | avg_latency_ms | eval_score |
 |--------|------|-------|-------------|-----------|-----------|--------------|----------------|------------|
-| 20260715-195821-911f | 2026-07-15 | E0 retrieval panel (240/240, 0 tokens) | `f22363afaf1d` | `4a7e973b7ae9` | 240 | 0 | 7.7 | **0.427** (consistency_weird=0.399 recall@k=0.875 recall@cand=0.967 mrr=0.757 n=240 avg_ms=8 p95_ms=10) |
-| 20260715-202245-2583 | 2026-07-15 | E0 retrieval panel (Docker Qdrant parity) | `f22363afaf1d` | `4a7e973b7ae9` | 240 | 0 | 11.0 | **0.427** (consistency_weird=0.399 recall@k=0.875 recall@cand=0.967 mrr=0.757 n=240 avg_ms=11 p95_ms=15) |
+| 20260718-151413-4593 | 2026-07-18 | baseline gold_v1_small (10x6, gen+judge) | `f22363afaf1d` | `6647ca36c217` | 60 | 142308 | 2664.5 | **0.428** (consistency_weird=0.404 recall@k=0.783 recall@cand=0.917 mrr=0.674 answer_agreement=0.7 faithfulness=0.933 citation_acc=0.75 n=60 avg_ms=2664 p95_ms=9674) |
 <!-- RUN-LEDGER:END -->
 
 ---
 
 ## E0 — baseline, measured
 
-- **Date:** 2026-07-15
+- **Date:** 2026-07-18
 - **Hypothesis:** the parity baseline is inconsistent across paraphrasings. This is the
   "before"; it is *supposed* to score badly on the headline.
-- **Lever changed:** none — first measured run. (Pre-run integrity fixes changed E0's
-  identity: `config_hash 44f361c80b32 → f22363afaf1d`. See "Why the hash moved".)
+- **Lever changed:** none — the reference run.
 - **Config:** `config_hash=f22363afaf1d` · `index_hash=2747344b6db6` ·
-  `eval_hash=4a7e973b7ae9` (retrieval, `judge_sample=all`) / `cdeb9320556a` (`c+2p`).
-  720 chunks · `candidate_k`=20 → passthrough rerank → `top_k`=6 ·
-  `llama-3.3-70b-versatile` temp 0 · prompt `v1`.
-- **Gold set:** `gold_v1` — 40 groups × 6 phrasings = 240.
-- **Runs:** `20260715-195821-911f` (retrieval, 240/240, 0 tokens) ·
-  `20260715-193039-cc9a` (generation fragment, 145 queries, 305k tokens, TPD-capped).
+  `eval_hash=6647ca36c217`. 720 chunks · `candidate_k`=20 → passthrough rerank →
+  `top_k`=6 · `llama-3.3-70b-versatile` temp 0 · prompt `v1` · `judge_sample=all`.
+- **Gold set:** `gold_v1_small` — 10 groups × 6 phrasings = 60.
+- **Run:** `20260718-151413-4593` (generate + judge, 60/60, 142k pipeline + 189k judge
+  tokens; 0 errors, 0 judge failures).
 
-**Results**
+**Results (complete panel)**
 
-| | recall@k | recall@cand | mrr | ⭐consistency | cons. weird | cons. chunk |
-|---|---|---|---|---|---|---|
-| **240/240, complete** | **0.875** | 0.967 | **0.757** | **0.427** | 0.399 | 0.310 |
+| recall@k | recall@cand | mrr | ⭐consistency | cons. weird | answer_agree | faithful | cite_acc |
+|---|---|---|---|---|---|---|---|
+| 0.783 | 0.917 | 0.674 | **0.428** | 0.404 | 0.700 | 0.933 | 0.750 |
 
-| | answer_agreement | faithfulness | citation_acc |
-|---|---|---|---|
-| **fragment only †** | 0.868 | 0.986 | 0.819 |
-
-† 24/40 groups (Study organisation + Admission only — 2 of 8 sections), `judge_sample=c+2p`,
-72/72 usable verdicts. **Section-biased: not E0's judged panel.** Same fragment reads
-`consistency`=0.465 vs the true 0.427.
-
-**Cost / speed:** 2102 tokens/query · avg 3.9 s/query (p50 1.98 s, p95 8.8 s, max 85 s) ·
-generation is >99% of latency (retrieval is 9 ms). Retrieval panel: 0 tokens, 8 ms/query.
+**Cost / speed:** 2372 tokens/query · avg 2.66 s/query (p50 0.60 s, p95 9.7 s) ·
+generation is >99% of latency (retrieval 17 ms). Fully judged: 60/60, 0 failures.
 
 **Observations**
 
-1. **⭐ consistency 0.427 with recall@k 0.875.** The gold page reaches the prompt ~88% of
+1. **⭐ consistency 0.428 with recall@k 0.783.** The gold page reaches the prompt ~78% of
    the time, yet the *selected page-set* overlaps only ~43% across rephrasings — the
-   instability is the other 5 of 6 slots churning, not the answer being unfindable.
-2. **The paraphrase problem is mostly retrieval-side, and does not fully propagate.**
-   `answer_agreement` 0.868 ≫ `consistency` 0.465 (same fragment): the context churns,
-   but because gold usually survives, the answers still mostly agree. A retrieval lever
-   should move `consistency` a lot and `answer_agreement` less.
-3. **Rerank headroom = recall@cand − recall@k = +0.092.** A perfect reranker could buy
-   at most ~9 pts of recall@k — real, bounded, and measurable *before* building it.
-4. **`citation_acc` 0.819 ≪ `faithfulness` 0.986.** The model states supported facts but
+   instability is the other slots churning, not the answer being unfindable.
+2. **The paraphrase problem is mostly retrieval-side.** `answer_agreement` 0.700 >
+   `consistency` 0.428: the context churns, but because gold often survives, the answers
+   agree more than their contexts do. A retrieval lever should move `consistency` most.
+3. **Rerank headroom = recall@cand − recall@k = +0.134.** A perfect reranker could buy at
+   most ~13 pts of recall@k — real, bounded, measurable *before* building it.
+4. **`citation_acc` 0.750 ≪ `faithfulness` 0.933.** The model states supported facts but
    attaches the wrong `[n]` — a citation-mapping problem, not a grounding one.
-5. **Judge noise is real.** Two judge passes over *identical* traces at temp 0 gave
-   `citation_acc` 0.529 → 0.444 (one verdict flipped). Calibrate before trusting a small
-   judged delta; `consistency` is immune (offline, deterministic — 3 runs gave 0.427).
+5. **This set is deliberately hard.** 5 of 10 groups are Study-organisation near-neighbour
+   hard negatives (minimum-credits vs prüfungsaktiv; the three registration pages), so
+   `recall@k` here (0.783) runs below what a section-balanced set would show — by design.
 
-**Decision:** E0 is the reference. Next lever = **cross-encoder rerank** (bounded upside
-already measured at +0.092 recall) or **multi-query+RRF** (attacks the page-set churn
-that `consistency` is actually measuring). One at a time.
-
-### Why the hash moved (`44f361c80b32` → `f22363afaf1d`)
-
-Not a pipeline change in spirit, but a real one in fact. Before any number was trusted:
-- `config_hash` scoped (eval knobs no longer re-stamp pipeline identity) → new value.
-- **Chunker v2** (`chunker_version` now in `index_hash`): common-prefix `heading_path`
-  fixed 195 mis-anchored vectors (26.6% of the index); tail-window dedup removed 13
-  duplicate chunks. **733 → 720 chunks.** The old E0 was measuring a partly broken index,
-  so `44f361c80b32` has no comparable numbers — nothing is lost.
+**Decision:** E0 is the reference. Next lever = **multi-query + RRF** (attacks the page-set
+churn `consistency` measures) or **cross-encoder rerank** (bounded upside +0.134 recall).
+One at a time.
 
 ### Token budget (free tier) — plan around this
 
@@ -121,22 +101,15 @@ Not a pipeline change in spirit, but a real one in fact. Before any number was t
 in the 429 body. Judge draws on a *separate* model's quota (a reason to keep
 `judge_model != model`).
 
-| Job | Cost | Fits in a day? |
+| Job (`gold_v1_small`, 60 queries) | Cost | Fits in a day? |
 |---|---|---|
-| Retrieval panel, 240 | **0** | yes — seconds |
-| Generate 240 answers | ~508k | **no** (~189/day max) |
-| Judge 240 + 40 groups | ~800k | **no** |
-| Judge `c+2p` (120) + 40 | ~490k | ~1 day |
+| Retrieval panel (`--retrieve-only`) | **0** | yes — seconds |
+| Generate 60 answers | ~142k | yes |
+| Judge 60 answers + 10 groups | ~189k | yes (separate model quota) |
 
-**To finish E0's judged panel** (generation spans days by necessity; each day is its own
-run, merged at scoring time — runs are never reopened):
-
-```bash
-# day 2: generate the groups the quota cut off
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --groups g25,g26,...,g40 --label "E0 gen fragment 2/2"
-# then score both fragments as one population
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --score 20260715-193039-cc9a,<new_run_id> --judge-sample c+2p
-```
+A **full generate + judge panel on this set fits in one day** — measured above. (The
+original 40-group set could not: ~508k generation + ~800k judge spanned days, which is why
+it was distilled to these 10 groups.)
 
 ---
 

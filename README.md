@@ -91,14 +91,33 @@ PYTHONPATH=src .venv/bin/python -m rag.chunk && PYTHONPATH=src .venv/bin/python 
 Chunk + index need no keys; only generation does. Retrieval is ~6 ms; a full answer is
 ~0.6–0.9 s. Both `chunk` and `index` are idempotent (stable ids), so re-running is safe.
 
+## Console (frontend)
+
+A zero-dependency web console over `runs/` — the traceability deliverable. Replay every
+hop of any logged query (retrieved pool → selected → exact prompt → answer → resolved
+citations), inspect a scored run's eval panel and paraphrase-divergence strip, ask a live
+question, or run the retrieve-only eval panel.
+
+```bash
+export QDRANT_URL=http://localhost:6333       # for live queries; replay needs neither this nor keys
+PYTHONPATH=src .venv/bin/python -m webui.server   # http://127.0.0.1:8000  (--port to change)
+```
+
+**Replaying traces needs nothing but the filesystem** — no Qdrant, no keys — so it works on
+a fresh clone (the committed E0 baseline run ships 60 real answers). A live **Ask** or **Run eval**
+needs Qdrant + keys and spends the daily token budget; the console shows both statuses and a
+running token tally. It binds to localhost only. Built on stdlib `http.server` — nothing to
+install beyond the pipeline's own deps.
+
 ## Layout
 
 ```
 data/            corpus: pages.jsonl (canonical) + pages/*.md mirror + manifest
-eval/            gold_v1.jsonl — 40 groups × 6 phrasings = 240 eval queries
+eval/            gold_v1_small.jsonl — 10 groups × 6 phrasings = 60 eval queries
 scripts/         scrape.py (refresh the corpus from studieren.univie.ac.at)
 src/rag/         config, chunk, embed, index, query, retrieve, rerank, context,
                  prompts, llm (provider + key pool), generate, trace, ledger, pipeline
+src/webui/       zero-dep console over runs/: store (read-model) + server + static SPA
 docs/            HANDOFF.md (start here: state, known issues, next steps),
                  ARCHITECTURE.md (design + decisions), EXPERIMENTS.md (run log + ledger)
 runs/            per-run trace folders runs/<run_id>/ (gitignored)
@@ -116,8 +135,9 @@ qdrant_storage/  local Qdrant data (gitignored)
   good answer or "I don't know" across runs. That's a real consistency problem, not a
   bug. (But E0 shows the *headline* problem is retrieval-side, not generation-side.)
 - **Groq free tier: 100k tokens/DAY/key/model** (~400k across the 4 keys). It does **not**
-  appear in the response headers — only in the body of the 429. Generating all 240 gold
-  queries costs ~508k, so it cannot finish in one day; the retrieval metrics cost 0.
+  appear in the response headers — only in the body of the 429. On `gold_v1_small` (60
+  queries) a full generate + judge panel fits in one day (~142k gen + ~189k judge, measured);
+  retrieval metrics cost 0.
 - **`src/rag/chunk.py` is the only chunker** — `scrape.py` intentionally doesn't chunk.
   Always re-run `rag.chunk` + `rag.index` after a scrape (`rag.index` refuses stale chunks).
 - `RAG_EMBED_THREADS` (default 6) caps onnxruntime so indexing doesn't peg all cores.
@@ -127,28 +147,31 @@ qdrant_storage/  local Qdrant data (gitignored)
 
 ```bash
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --retrieve-only  # headline, 0 tokens, no keys
+PYTHONPATH=src .venv/bin/python -m rag.eval.harness --gold-set gold_v1_small --retrieve-only  # 20-group subset (120 q)
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --limit 3        # smoke, end-to-end
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --score <run_id> # re-score off disk
-.venv/bin/python -m pytest                                           # 106 tests
+.venv/bin/python -m pytest                                           # 124 tests
 ```
 
 ## Status
 
-**E0 — the baseline — is measured** (`config_hash f22363afaf1d`, `gold_v1`, 40×6 = 240):
+**E0 — the baseline — is measured** (2026-07-18, `config_hash f22363afaf1d`, `gold_v1_small`, 10×6 = 60):
 
-| ⭐ consistency | recall@k | recall@cand | mrr | | faithfulness † | citation_acc † |
-|---|---|---|---|---|---|---|
-| **0.427** | 0.875 | 0.967 | 0.757 | | 0.986 | 0.819 |
+| ⭐ consistency | recall@k | recall@cand | mrr | | faithfulness | citation_acc | answer_agree |
+|---|---|---|---|---|---|---|---|
+| **0.428** | 0.783 | 0.917 | 0.674 | | 0.933 | 0.750 | 0.700 |
 
-Retrieval metrics are complete (240/240), deterministic and free — selection happens
-before generation, so the headline needs no LLM. † judged metrics come from a
-section-biased fragment (daily token quota); see [`docs/EXPERIMENTS.md`](docs/EXPERIMENTS.md).
+A **complete, fully-judged panel** (60/60, 0 judge failures) — retrieval metrics are
+deterministic and free (selection precedes generation); the judged trio is from the
+`gpt-oss-120b` LLM-judge. See [`docs/EXPERIMENTS.md`](docs/EXPERIMENTS.md).
 
-**What it says:** the gold page reaches the prompt ~88% of the time, yet paraphrases of
-the same question select ~57% *different* page-sets. The paraphrase problem is
-retrieval-side page-set churn — and it only partly reaches the answers
-(`answer_agreement` 0.868). Rerank headroom is bounded at **+0.092**.
+**What it says:** the gold page reaches the prompt ~78% of the time, yet paraphrases of the
+same question select ~57% *different* page-sets. The paraphrase problem is retrieval-side
+page-set churn — and it only partly reaches the answers (`answer_agreement` 0.700 >
+`consistency` 0.428). Rerank headroom is bounded at **+0.134**. The set is deliberately
+hard — half its 10 groups are near-neighbour hard negatives.
 
 **Next steps and open findings live in [`docs/HANDOFF.md`](docs/HANDOFF.md)** — read it
-first. Then: a **frontend** over `runs/`, and iteration levers (multi-query/HyDE + RRF
-first, on E0's evidence) — each measured against E0 in `docs/EXPERIMENTS.md`.
+first. The **console** over `runs/` is built (see above); next are iteration levers
+(multi-query/HyDE + RRF first, on E0's evidence) — each measured against E0 in
+`docs/EXPERIMENTS.md`.

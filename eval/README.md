@@ -1,20 +1,22 @@
-# `gold_v1` — grounded retrieval evaluation set
+# `gold_v1_small` — grounded retrieval evaluation set
 
 A hand-built, corpus-grounded evaluation set for the RAG system over the University of
 Vienna **Studying** knowledge base (`../data/pages.jsonl`, 121 English pages).
 
-**40 question groups × 6 phrasings = 240 queries.** Every group is anchored to a real page
-whose text actually answers the question; nothing is invented.
+**10 question groups × 6 phrasings = 60 queries.** Every group is anchored to a real page
+whose text actually answers the question; nothing is invented. The 10 groups were distilled
+from an original 40-group draft (`gold_v1`, since removed) to keep evaluation cheap while
+staying a hard test — see *Selection* below.
 
 ## Files
 
 | File | What it is |
 | --- | --- |
-| `gold_v1.jsonl` | The evaluation set. One JSON object per line, 40 lines, UTF-8 (non-ASCII kept as-is). |
+| `gold_v1_small.jsonl` | The evaluation set. One JSON object per line, 10 lines, UTF-8 (non-ASCII kept as-is). |
 | `validate_gold.py` | Structural + grounding validator. Run it after any edit. |
 
 ```bash
-.venv/bin/python eval/validate_gold.py     # exits non-zero on any failure
+.venv/bin/python eval/validate_gold.py     # default gold_v1_small; exits non-zero on failure
 ```
 
 ## Schema
@@ -23,7 +25,7 @@ One JSON object per line:
 
 ```jsonc
 {
-  "group_id": "g37",                    // g01..g40, unique, zero-padded
+  "group_id": "g37",                    // from the original g01..g40 numbering (non-contiguous)
   "section": "Tuition fee",             // corpus section the group comes from
   "canonical": "How much is the tuition fee at the University of Vienna?",
   "paraphrases": ["...", "...", "...", "..."],   // EXACTLY 4, same intent, varied surface form
@@ -36,101 +38,81 @@ One JSON object per line:
 
 | Field | Meaning / contract |
 | --- | --- |
-| `group_id` | Stable id `g01`–`g40`. |
-| `section` | One of the corpus's 9 landing sections. Always equals the `section` of every gold page in the group (enforced by the validator). |
+| `group_id` | Stable id from the original `g01`–`g40` numbering; the subset is non-contiguous. |
+| `section` | A corpus landing section. Always equals the `section` of every gold page in the group (enforced by the validator). |
 | `canonical` | The base question as a real student would ask it. |
 | `paraphrases` | Exactly 4 genuine rephrasings — same information need, different wording, length, register and question structure. Not synonym swaps. |
 | `weird_framing` | One oblique phrasing of the *same* need: colloquial, scenario-embedded, or voice/ASR-style (lowercase, filler, mild disfluency). Still answerable from the same page. |
 | `expected_urls` | 1–2 gold pages that actually answer the question. Present **verbatim** in the corpus. |
 | `expected_page_ids` | The matching `id`(s) from `pages.jsonl`, positionally aligned with `expected_urls`. |
-| `key_fact` | A short factual answer, supported by the gold page's text. Intended as a grading reference for answer quality, not a string to match exactly. |
+| `key_fact` | A short factual answer, supported by the gold page's text. A grading reference for answer quality, not a string to match exactly. |
 
 The 6 phrasings per group are `canonical` + 4 `paraphrases` + `weird_framing`. Together they
 form one retrieval-robustness cluster: **all six should retrieve the same gold page(s).**
 
-## Section balance
+## Composition (10 groups)
 
-Allocated proportionally to corpus size, so retrieval scores aren't dominated by one area.
+| Section | Groups | Group ids |
+| --- | ---: | --- |
+| Study organisation | 5 | g01, g03, g04, g06, g07 |
+| Admission | 1 | g17 |
+| Degree programmes | 1 | g25 |
+| Accessible studies | 1 | g32 |
+| Tuition fee | 1 | g37 |
+| Web services | 1 | g40 |
+| **Total** | **10** | |
 
-| Section | Corpus pages | Groups | Share of set |
-| --- | ---: | ---: | ---: |
-| Study organisation | 45 | 15 | 37.5% |
-| Admission | 28 | 9 | 22.5% |
-| Degree programmes | 21 | 7 | 17.5% |
-| Accessible studies | 9 | 3 | 7.5% |
-| Entrance exam | 7 | 2 | 5.0% |
-| Tuition fee | 5 | 2 | 5.0% |
-| Resumption of studies | 4 | 1 | 2.5% |
-| Web services | 1 | 1 | 2.5% |
-| **Total** | **121** | **40** | **100%** |
+Study organisation is over-weighted on purpose: it holds **both deliberate hard-negative
+clusters** (below), which are the point of the set. That leaves 5 slots for one group from
+each of five other sections; **Entrance exam** and **Resumption of studies** drop out at this
+size. 10 distinct gold pages, **zero `expected_url` reuse** across groups.
 
-`Web services` was chosen over `Graduates` for the single slot in that either/or bucket:
-u:space is the tool students actually ask about, and the page carries concrete, checkable facts.
+### Near-neighbour hard negatives (intentional)
 
-## Coverage
+Some gold pages are topically adjacent and make good hard negatives for each other — a
+retriever that confuses them should be penalised, which is the point:
 
-- **40 distinct gold pages** across 40 groups — a **distinct primary page per group**.
-- **Zero `expected_url` reuse** across groups: no two groups share a gold page, so a retriever
-  cannot score well by over-fitting to a handful of popular pages.
-- Gold pages span **33% of the 121-page corpus**.
-
-Within sections, groups spread deliberately across subtopics rather than clustering. Study
-organisation, for example, covers registration (general / continuous-assessment rules /
-concrete 2026S phase dates), STEOP, minimum credits, examination activity, semester dates,
-four distinct AI topics (permitted use, citing, exams, the u:ai tool), confirmations,
-personal data, campus safety and health services.
+- **`g03` minimum credits** (16 ECTS / 4 semesters, binding) ↔ **`g04` prüfungsaktiv**
+  (16 ECTS / academic year, no personal consequence) — same "16 ECTS", different window and
+  consequence.
+- **The three registration pages** — `g01` (register for courses/exams), `g06` (registration
+  open dates), `g07` (missing a continuous-assessment first session).
 
 ## How it was built
 
-1. **Corpus survey.** Enumerated all 121 pages by section, title, URL and word count to map
-   the topic space and pick the per-section allocation.
-2. **Page selection.** Chose one distinct primary page per group, favouring pages with
-   concrete, checkable facts and spreading across subtopics. Thin hub/link-farm pages were
-   deliberately swapped out during drafting (e.g. *Studying remotely* and the *admission
-   procedure* landing page were replaced by *Registration for courses with continuous
-   assessment* and *Closing a degree programme*, which carry real answers).
-3. **Grounding.** Read the **full `text`** of all 40 selected pages before writing anything.
-   Each `canonical` was written against a fact actually present on its page, and each
-   `key_fact` was lifted from that page's wording. Numbers (fees, ECTS, scores, dates,
-   deadlines) were transcribed from the page, not recalled.
-4. **Phrasing.** Wrote 4 paraphrases per group varying length, formality, vocabulary and
-   question structure, plus 1 weird framing (colloquial / scenario / ASR-style).
-5. **Generation.** A script emitted the JSONL, looking each `expected_url` up **from the
-   corpus by page id** rather than transcribing URLs by hand — so URL/id agreement is correct
-   by construction.
-6. **Validation.** `validate_gold.py` re-checks everything from scratch against the corpus.
+1. **Corpus survey** — enumerated all 121 pages by section/title/URL/word-count to map topics.
+2. **Page selection** — one distinct primary page per group, favouring pages with concrete,
+   checkable facts; thin hub/link-farm pages were deliberately avoided.
+3. **Grounding** — read the full `text` of each selected page before writing; each `canonical`
+   targets a fact actually on the page, and each `key_fact` is lifted from that page's wording.
+   Numbers (fees, ECTS, scores, dates) were transcribed, not recalled.
+4. **Phrasing** — 4 paraphrases per group varying length/formality/vocabulary/structure, plus
+   1 weird framing (colloquial / scenario / ASR-style).
+5. **Generation** — a script emitted the JSONL, looking each `expected_url` up from the corpus
+   by page id, so URL/id agreement is correct by construction.
+6. **Validation** — `validate_gold.py` re-checks everything against the corpus.
 
-### Grounding notes / caveats
+### Caveats
 
 - **Time-sensitive content.** Many `key_fact`s quote fees, deadlines and semester dates
-  (scraped 2026-07-14) — e.g. the 2026/27 application periods and the 2026S registration
-  phases. If the corpus is re-scraped, re-verify these groups; the *questions* stay valid,
+  (scraped 2026-07-14). If the corpus is re-scraped, re-verify; the *questions* stay valid,
   but the `key_fact`s may drift.
-- **Pages that resisted good questions.** Several study-organisation pages are hubs of
-  outbound links with little standalone fact content (*Studying remotely*, *Studying and
-  exams*, *Health during your studies*). *Health* was kept, anchored to its one concrete
-  fact (the two vegetarian/vegan cafeteria locations); the other hubs were dropped in favour
-  of richer pages. The huge *ABC of terminology* page (20k words) was skipped as a gold
-  target: it answers a great many questions shallowly, so it makes an ambiguous retrieval
-  target rather than a clean one.
-- **List-heavy pages.** Some pages (*Admission to master programmes*, *Knowledge of Foreign
-  Languages*) are mostly programme tables. Questions for these target the prose rules around
-  the tables (eligibility, Visiting Master, whether a language level is binding or advisory)
-  rather than asking the model to read a row out of a long list.
-- **Near-neighbour pairs are intentional.** A few gold pages are topically adjacent and make
-  good hard negatives for each other — e.g. *minimum number of credits* (16 ECTS / 4
-  semesters, binding) vs *prüfungsaktiv* (16 ECTS / academic year, no personal consequence),
-  and the three registration pages. Retrievers that confuse them should be penalised, which
-  is the point.
+- **Editing in place moves no hash.** `eval_hash` keys on the gold-set *name*, not its
+  contents, so changing `gold_v1_small.jsonl` yields runs that look comparable but aren't. It's
+  fine here (older runs on other contents were wiped); for a lasting change, make a new
+  versioned set (`gold_v2`, …) rather than editing this file.
+
+The measured baseline on this set lives in [`../docs/EXPERIMENTS.md`](../docs/EXPERIMENTS.md).
 
 ## What the validator checks
 
-- exactly 40 lines, each valid JSON, all 8 fields present, unique `group_id`s
+`python eval/validate_gold.py [gold_set]` (default `gold_v1_small`). All checks run for any set:
+
+- each line valid JSON, all 8 fields present, unique `group_id`s
 - exactly 4 paraphrases per group; non-empty `canonical`, `weird_framing`, `key_fact`
-- all 6 phrasings within a group are distinct → **240 total phrasings**
+- all 6 phrasings within a group are distinct → **6 × groups** total phrasings
 - 1–2 `expected_urls` per group, length-matched to `expected_page_ids`
 - every `expected_url` exists **verbatim** among corpus urls
 - every `expected_page_id` exists in the corpus **and** maps to its paired url
 - each gold page's corpus `section` equals the group's declared `section`
-- section counts match the allocation above
 - reports distinct gold pages used and any `expected_url` reused across groups

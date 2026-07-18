@@ -21,12 +21,12 @@ attributable. Everything must stay free/local (16 GB RAM, RTX 3060 6 GB).
 | Index | ✅ Qdrant local (`univie_studying_2747344b6db6`), 720 points, 384-d cosine |
 | Pipeline E0 | ✅ end-to-end, `config_hash f22363afaf1d` · `index_hash 2747344b6db6` |
 | Logging | ✅ per-run folders, full-pipeline traces |
-| Eval set | ✅ `eval/gold_v1.jsonl` — 40 groups × 6 phrasings = 240, validated |
+| Eval set | ✅ `eval/gold_v1_small.jsonl` — 10×6 = 60, validated (orig 40-group `gold_v1` removed) |
 | Scoring harness | ✅ `src/rag/eval/` — offline panel + LLM-judge, two-phase |
-| **E0 measured** | ✅ **⭐ consistency 0.427** (240/240) · judged panel partial ⚠️ |
-| Tests | ✅ 106 in `tests/` (`.venv/bin/python -m pytest`) |
-| Frontend | ⬜ **next task** |
-| Iteration levers | ⬜ measurement now exists — go |
+| **E0 measured** | ✅ **⭐ consistency 0.428** (60/60) · **complete judged panel** ✅ |
+| Tests | ✅ 124 in `tests/` (`.venv/bin/python -m pytest`) |
+| Console (frontend) | ✅ `src/webui/` — zero-dep, replay + eval panel + ad-hoc query |
+| Iteration levers | ⬜ **next task** — measurement + console now exist |
 
 **E0 flow:** `query → transform(identity) → retrieve 20 (dense, bge-small) → rerank
 (passthrough) → select 6 → assemble numbered sources → Groq llama-3.3-70b-versatile
@@ -34,27 +34,28 @@ attributable. Everything must stay free/local (16 GB RAM, RTX 3060 6 GB).
 
 Run it: `PYTHONPATH=src .venv/bin/python -m rag.pipeline "how much is tuition?"`
 
-## E0 — the "before" (2026-07-15)
+## E0 — the "before" (2026-07-18, `gold_v1_small`)
 
-| | recall@k | recall@cand | mrr | ⭐consistency | weird | chunk |
-|---|---|---|---|---|---|---|
-| **complete, 240/240, 0 tokens** | 0.875 | 0.967 | 0.757 | **0.427** | 0.399 | 0.310 |
+| | recall@k | recall@cand | mrr | ⭐consistency | weird | answer_agree | faithful | cite_acc |
+|---|---|---|---|---|---|---|---|---|
+| **complete, 60/60, fully judged** | 0.783 | 0.917 | 0.674 | **0.428** | 0.404 | 0.700 | 0.933 | 0.750 |
 
-Judged (⚠️ **section-biased fragment**, 24/40 groups, `judge_sample=c+2p`, 72 verdicts):
-`answer_agreement` 0.868 · `faithfulness` 0.986 · `citation_acc` 0.819.
-Cost/speed: 2102 tok/query · 3.9 s avg (p95 8.8 s); generation is >99% of latency.
+Run `20260718-151413-4593` · eval_hash `6647ca36c217` · 142k gen + 189k judge tokens · 0
+judge failures. Cost/speed: 2372 tok/query · 2.66 s avg (p95 9.7 s); generation >99% of latency.
 
 **What E0 says — read this before picking a lever:**
-1. **consistency 0.427 vs recall@k 0.875** — the gold page usually *does* reach the
-   prompt; the churn is in the other 5 of 6 slots. The paraphrase problem is
-   **retrieval-side page-set instability**, not "can't find the answer".
-2. **answer_agreement 0.868 ≫ consistency 0.465** (same fragment) — the churn only
-   partly propagates: different context, same answer, because gold usually survives.
-   Expect a retrieval lever to move `consistency` far more than `answer_agreement`.
-3. **Rerank headroom = recall@cand − recall@k = +0.092** — a *perfect* reranker buys at
-   most ~9 pts of recall@k. Bounded, and known before building it.
-4. **citation_acc 0.819 ≪ faithfulness 0.986** — claims are supported but the `[n]` is
+1. **consistency 0.428 vs recall@k 0.783** — the gold page usually *does* reach the
+   prompt; the churn is in the other slots. The paraphrase problem is **retrieval-side
+   page-set instability**, not "can't find the answer".
+2. **answer_agreement 0.700 > consistency 0.428** — the churn only partly propagates:
+   different context, often the same answer, because gold usually survives. Expect a
+   retrieval lever to move `consistency` more than `answer_agreement`.
+3. **Rerank headroom = recall@cand − recall@k = +0.134** — a *perfect* reranker buys at
+   most ~13 pts of recall@k. Bounded, and known before building it.
+4. **citation_acc 0.750 ≪ faithfulness 0.933** — claims are supported but the `[n]` is
    often attached to the wrong source. A citation-mapping problem, not a grounding one.
+5. **The set is deliberately hard** — half its 10 groups are Study-org near-neighbour hard
+   negatives, so `recall@k` runs below a section-balanced set's. See `eval/README.md`.
 
 ## ⚠️ Token budget — the constraint that shapes every eval
 
@@ -63,30 +64,29 @@ Cost/speed: 2102 tok/query · 3.9 s avg (p95 8.8 s); generation is >99% of laten
 appears *only* in the body of the 429. Don't re-derive this from headers and conclude
 there's no daily cap; there is.
 
-| Job | Cost | One day? |
+| Job (`gold_v1_small`, 60 q) | Cost | One day? |
 |---|---|---|
-| Retrieval panel (240) | **0** | yes, ~8 ms/query |
-| Generate 240 answers | ~508k | **no** — ~189/day max |
-| Judge 240 + 40 groups | ~800k | **no** |
+| Retrieval panel (`--retrieve-only`) | **0** | yes, ~17 ms/query |
+| Generate 60 answers | ~142k | yes |
+| Judge 60 + 10 groups | ~189k | yes (separate model quota) |
 
-⇒ A generated panel **necessarily spans runs**. Each day is its own `Run`; merge at
-scoring time (`--score r1,r2`). **Never reopen a Run** — `close()` would append a second
-ledger row (idempotency is in-memory, not on disk).
-
-**To finish E0's judged panel** when the quota resets:
-```bash
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --groups g25,g26,…,g40 --label "E0 gen fragment 2/2"
-PYTHONPATH=src .venv/bin/python -m rag.eval.harness --score 20260715-193039-cc9a,<new_id> --judge-sample c+2p
-```
+⇒ A **full generate + judge panel fits in one day** on this set (measured). If a set ever
+grows past a day's budget again, a generated panel **spans runs** — merge at scoring time
+(`--score r1,r2`), and **never reopen a `Run`** (`close()` would append a second ledger row,
+idempotency being in-memory, not on disk).
 
 ## The harness
 
 ```bash
-python -m rag.eval.harness --retrieve-only     # headline panel, 0 tokens, ~30 s, no keys
-python -m rag.eval.harness --limit 3           # smoke: 3 groups end-to-end (~50k tokens)
-python -m rag.eval.harness --label E0          # full: generate + judge (quota-bound)
-python -m rag.eval.harness --score <run_id>    # re-score off disk, no regeneration
+python -m rag.eval.harness --retrieve-only     # headline panel (gold_v1_small, 60 q), 0 tokens, no keys
+python -m rag.eval.harness                      # full: generate + judge (60 q, fits in one day)
+python -m rag.eval.harness --limit 3            # smoke: 3 groups end-to-end
+python -m rag.eval.harness --gold-set <name>    # score a different eval/<name>.jsonl
+python -m rag.eval.harness --score <run_id>     # re-score off disk, no regeneration
 ```
+`gold_v1_small` (10×6 = 60) is the default set — small enough that a full generate + judge
+panel fits in one day. `--gold-set <name>` scores a different `eval/<name>.jsonl` (moves
+`eval_hash`, not `config_hash`). The console's **Run eval** offers a gold-set picker.
 Two phases on purpose: **generate** costs the day's budget; **score** reads traces off
 disk. So judge prompts can be iterated, noise calibrated, and metrics recomputed without
 regenerating — and scoring needs no Qdrant lock.
@@ -102,12 +102,11 @@ regenerating — and scoring needs no Qdrant lock.
    - *Same* query re-run → identical retrieval, different answers = **generation
      nondeterminism** (the original observation; still true).
    - *Reworded* query → **different retrieval**. This is the headline problem, and E0
-     measures it at `consistency` **0.427**: retrieval itself is perfectly deterministic
-     (3 retrieval-only runs gave 0.427 exactly), but paraphrases select ~57% different
-     page-sets. **The retrieval lever is not a ghost — it's the main event.**
-   - Mitigating evidence for the generator: `answer_agreement` 0.868 ≫ `consistency`
-     0.465 on the same fragment, i.e. the generator is *more* paraphrase-robust than the
-     retriever.
+     measures it at `consistency` **0.428**: retrieval itself is perfectly deterministic,
+     but paraphrases select ~57% different page-sets. **The retrieval lever is not a ghost
+     — it's the main event.**
+   - Mitigating evidence for the generator: `answer_agreement` 0.700 > `consistency`
+     0.428, i.e. the generator is *more* paraphrase-robust than the retriever.
 2. ~~**Local Qdrant takes an exclusive file lock**~~ — **resolved 2026-07-15 (Docker).**
    Set `QDRANT_URL=http://localhost:6333` (see `docker-compose.yml`) and the lock is
    gone: verified two concurrent retrievers succeed against the server, while the local
@@ -116,11 +115,11 @@ regenerating — and scoring needs no Qdrant lock.
    same identity, so no hash moves and E0 stays comparable. Unset `QDRANT_URL` to fall
    back to the local path. Bonus: payload indexes are silently a **no-op** in local mode
    and only become real on the server.
-3. **`gold_v1` contains deliberate hard negatives** — near-neighbour pages that should
+3. **`gold_v1_small` keeps deliberate hard negatives** — near-neighbour pages that should
    punish sloppy retrieval (minimum-credits vs prüfungsaktiv, both "16 ECTS" but
    different windows/consequences; the three registration pages). Confusing them is a
    real failure, not a labelling error.
-4. **`gold_v1` `key_fact`s quote time-sensitive fees/deadlines** (scraped 2026-07-14).
+4. **`gold_v1_small` `key_fact`s quote time-sensitive fees/deadlines** (scraped 2026-07-14).
    Questions stay valid after a re-scrape; the facts may drift.
 5. **Never edit a used prompt version in place.** `prompt_version` feeds `config_hash`;
    add `v2` to `rag/prompts.py` instead, or you silently invalidate logged results.
@@ -153,7 +152,7 @@ number — see `ARCHITECTURE.md` decisions 23–29 and `EXPERIMENTS.md` → E0):
 
 | # | Issue | Why it matters |
 |---|---|---|
-| **3** | **The multi-query/HyDE seam is fake.** `pipeline.py` does `retrieve(queries[0])` — variants are dropped, no RRF fuse step exists. | Now the **#1 lever**: E0 proves the paraphrase problem is retrieval-side page-set churn (`consistency` 0.427). Add `rag/fuse.py` (RRF) + loop over all variants — identity makes it a no-op today, so it can land without moving E0. Also: rerank scores against the original `query` while retrieval used `queries[0]` — decide explicitly. |
+| **3** | **The multi-query/HyDE seam is fake.** `pipeline.py` does `retrieve(queries[0])` — variants are dropped, no RRF fuse step exists. | Now the **#1 lever**: E0 proves the paraphrase problem is retrieval-side page-set churn (`consistency` 0.428). Add `rag/fuse.py` (RRF) + loop over all variants — identity makes it a no-op today, so it can land without moving E0. Also: rerank scores against the original `query` while retrieval used `queries[0]` — decide explicitly. |
 | ~~**15**~~ | ~~Local Qdrant exclusive lock~~ | **Closed 2026-07-15** — `docker-compose.yml` + `QDRANT_URL`; `get_client(cfg)` picks the backend. Concurrency and parity both verified. |
 | **13** | `overlap_words` applies to the window-split path only. | **Deliberate.** Packing merges whole heading-blocks; overlapping there duplicates text and re-creates #11. But it's in `index_hash`, so changing it yields a new hash + a near-identical index — you'd re-chunk, re-index, re-run and measure noise. |
 | — | `index.py` deletes the collection before rebuilding (no rollback; moots the "idempotent" stable-UUID comment). Now scoped to one `index_hash`, so a failed rebuild only breaks that index. |
@@ -165,10 +164,13 @@ now exists. Keep `Config` **one flat dataclass** — splitting it just adds plum
 this size; the *hash* is scoped instead. Don't add `corpus/`/`retrieval/` subpackages at
 ~1k lines — gold-plating.
 
-## Tests — `106 passing` (`.venv/bin/python -m pytest`)
+## Tests — `124 passing` (`.venv/bin/python -m pytest`)
 
-`tests/{test_config_hash,test_chunk,test_metrics,test_ledger,test_judge,test_keypool}.py`.
-No network, no Qdrant, no real sleeps. The two that matter most:
+`tests/{test_config_hash,test_chunk,test_metrics,test_ledger,test_judge,test_keypool,test_webui,test_gold_small}.py`.
+No network, no Qdrant, no real sleeps. `test_webui.py` builds a synthetic `runs/` tree in
+`tmp_path` and reads it back through `webui.store` (incl. the URL path-safety cases);
+`test_gold_small.py` guards `gold_v1_small` as a verbatim subset of `gold_v1`. The two that
+matter most:
 - **`test_config_hash.py`** — the bucket-completeness assert + the scoping contract
   (`judge_model` must NOT move `config_hash`; `target_words` MUST move both). This is the
   regression that would silently undo the whole refactor.
@@ -186,7 +188,7 @@ value at import** — patch `rag.trace`/`rag.ledger`, not `rag.config`. `llm.py`
 ```
 data/            pages.jsonl (canonical corpus) · pages/*.md (eyeball mirror)
                  · chunks.jsonl · chunks.meta.json (index_hash sidecar — see #2)
-eval/            gold_v1.jsonl · validate_gold.py · README.md (schema + method)
+eval/            gold_v1_small.jsonl · validate_gold.py · README.md (schema + method)
 scripts/         scrape.py (refresh corpus)
 docs/            ARCHITECTURE.md · EXPERIMENTS.md · HANDOFF.md (this)
 src/rag/         config · chunk · embed · index · query · retrieve · rerank · context
@@ -241,10 +243,10 @@ redesign them silently. Design points worth not re-litigating:
   **without regenerating**; and scoring needs no Qdrant lock. `--score r1,r2` merges runs
   because the daily quota forces generation across days.
 - **The headline is free.** Selection precedes generation ⇒ `consistency`/`recall`/`mrr`
-  need no LLM. `--retrieve-only` = 240 queries, ~30 s, 0 tokens, **no API key required**.
+  need no LLM. `--retrieve-only` = 60 queries, a few seconds, 0 tokens, **no API key required**.
 - **Error traces still score.** `pipeline.py` wraps *only* the generate span, so a failed
   generation still carries the full retrieved/selected sets. Retrieval coverage survives
-  total generation failure — that's why E0's retrieval panel is 240/240.
+  total generation failure — that's why E0's retrieval panel is 60/60.
 - **`query_id`** (`g07:paraphrase:2`) is written into each trace and joins it back to
   gold. Without it, scoring could only match on exact query text — which breaks silently
   the moment a gold phrasing is edited.
@@ -260,50 +262,56 @@ redesign them silently. Design points worth not re-litigating:
   ordered by section, so a plain prefix is a section-biased, non-comparable sample.
   **This is exactly how E0's judged fragment got biased** — see the ⚠️ above.
 
-## Next: the frontend
+## ✅ Done: the console (frontend) — `src/webui/`
 
-Reads `runs/` (see logging model above). Must support: run a **custom ad-hoc query**,
-and **run the eval set**; and replay the full pipeline per query (retrieved → reranked
-→ selected → prompt → answer → citations).
-
-**The Qdrant lock is no longer a blocker** — start Docker Qdrant and export `QDRANT_URL`:
+Zero-dependency web console over `runs/` (stdlib `http.server` + one self-contained SPA;
+no framework, no build, no new deps). Run it:
 ```bash
-docker compose up -d          # or the plain-docker line in docker-compose.yml
-export QDRANT_URL=http://localhost:6333
-PYTHONPATH=src .venv/bin/python -m rag.index   # once per index_hash, into the server
+export QDRANT_URL=http://localhost:6333            # for live Ask/eval; replay needs neither
+PYTHONPATH=src .venv/bin/python -m webui.server    # http://127.0.0.1:8000  (--port to change)
 ```
+Supports all three console requirements: **replay** the full pipeline per query (pipeline
+rail → retrieved pool → selected → exact prompt → answer → resolved citations), a scored
+run's **eval panel + paraphrase-divergence strip**, a live **ad-hoc query**, and **run the
+eval set** (retrieve-only by default = the headline panel for 0 tokens; a 3-group smoke
+generates and is cost-labelled).
 
-Notes for whoever builds it:
-- **Replaying traces needs nothing but the filesystem** — no Qdrant, no keys. Build that
-  first; it's the traceability deliverable (requirement #2) and it works on a fresh clone.
-- **A custom ad-hoc query needs Qdrant + keys**, and spends the daily token budget
-  (~2.1k tokens each, ~400k/day total). Consider showing the remaining budget.
-- **`runs/<id>/eval/`** holds `scores.json` + `per_query.jsonl` + `per_group.jsonl` +
-  `judge/` — the substrate for an eval view (per-group `consistency`, which phrasings
-  diverged, judge reasons). This is why those files are committed while the bulk traces
-  are not.
-- Committed demo data: run `20260715-193039-cc9a` ships its **full traces with 143 real
-  answers**; `…-911f` / `…-2583` ship retrieval-only evidence. Don't assume every run
-  has a `generate` stage — check `status` (`ok` | `error` | `retrieval_only`).
+How it's built (don't re-litigate):
+- **Two layers.** `webui/store.py` is a pure filesystem read-model (fully tested,
+  `tests/test_webui.py`); `webui/server.py` wires it to HTTP and lazily imports the
+  pipeline **only** on a live query — so the console starts and replays with no Qdrant, no
+  keys, on a fresh clone. Decision 31 in `ARCHITECTURE.md`.
+- **Enumerate `runs/*/manifest.json`, not `index.jsonl`.** `index.jsonl` can lag or be
+  hand-curated, so globbing manifests is the robust source of truth.
+- **Live work is serialised + localhost-only.** One `RagPipeline` under a lock (fastembed/
+  Qdrant clients aren't thread-safe); the LLM path is the pipeline's, so **no second key
+  path** (invariant respected). Eval runs as an isolated `rag.eval.harness` subprocess.
+- **`runs/<id>/eval/`** (`scores.json` + `per_query`/`per_group`/`judge`) is the eval-view
+  substrate — which is why those files are committed while the bulk traces are not.
+- Don't assume every run has a `generate` stage — the trace carries `status`
+  (`ok` | `error` | `retrieval_only`); the UI renders all three.
 
-## Then: iteration levers (one at a time, each an EXPERIMENTS.md entry)
+⚠️ Running an **ad-hoc query** or a **smoke eval** from the UI spends the daily token
+budget (~2k tokens/query) — the console shows a running tally and both Qdrant/keys chips.
+
+## Next: iteration levers (one at a time, each an EXPERIMENTS.md entry)
 
 **Re-ordered by E0's evidence** (the old order was written before any measurement — it
 led with prompt/self-consistency on the theory that the problem was generation-side. The
-data says otherwise: `consistency` 0.427 is retrieval page-set churn, while
-`answer_agreement` 0.868 says the generator is comparatively robust):
+data says otherwise: `consistency` 0.428 is retrieval page-set churn, while
+`answer_agreement` 0.700 says the generator is comparatively robust):
 
 1. **Multi-query / HyDE + RRF fusion** — `get_transform()` seam (+ issue #3: the seam is
    currently fake). Directly attacks paraphrase divergence, which E0 pins as *the*
    problem. Retrieval-only ⇒ **measurable for 0 tokens.**
 2. **Cross-encoder rerank** (`bge-reranker-base`) — `get_reranker()` seam. Upside is
-   **already bounded at +0.092 recall@k** (= recall@cand − recall@k); it may still help
+   **already bounded at +0.134 recall@k** (= recall@cand − recall@k); it may still help
    `consistency` more than recall by stabilising *which* 6 survive. Local, 0 tokens.
 3. **Hybrid dense+BM25** — Qdrant-native sparse; helps jargon (ECTS, STEOP, €). Note
-   `recall@cand` is already 0.967, so the pool is rarely the problem — this is about
+   `recall@cand` is already 0.917, so the pool is rarely the problem — this is about
    ranking, not finding.
 4. **Prompt / self-consistency** — majority-vote over n samples or a stricter contract.
-   Demoted: `faithfulness` is already 0.986. But **`citation_acc` 0.819 is the real
+   Demoted: `faithfulness` is already 0.933. But **`citation_acc` 0.750 is the real
    generation-side gap** — supported claims, wrong `[n]`. A cheap prompt `v2` targeting
    citation mapping is the highest-value generation lever. (Costs tokens; budget it.)
 

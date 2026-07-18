@@ -1,0 +1,729 @@
+{
+  "trace_id": "dcf172dc4caa",
+  "run_id": "20260718-151413-4593",
+  "config_hash": "f22363afaf1d",
+  "query": "What is u:space and what can I do with it?",
+  "stages": {
+    "query_transform": {
+      "queries": [
+        "What is u:space and what can I do with it?"
+      ],
+      "latency_ms": 0.0
+    },
+    "retrieve": {
+      "retrieved": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.6892,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.653,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6487,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6464,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "271a53027cf1-001",
+          "page_id": "271a53027cf1",
+          "score": 0.6443,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "b2c6ce04a80e-001",
+          "page_id": "b2c6ce04a80e",
+          "score": 0.641,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/",
+          "title": "Registration for courses with non-continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.6391,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.6386,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "75eddaa2a2b3-000",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.6378,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 87,
+          "text": "- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)"
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6376,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "1389af33ffd3-003",
+          "page_id": "1389af33ffd3",
+          "score": 0.6367,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "can register for EC in u:space. Tips for semester planning in u:find The course directory u:find offers three help tools for semester planning, which are still known to only a few students: - In the overview of all courses in your degree programme, you can view the details of the course by clicking on the green list icon \"More Details\". - If you log in with your u:account, you can compile your personal \"[watchlist](https://ufind.univie.ac.at/en/help.html#merkliste)\" by clicking on the star next to the course title. - For each course with existing dates, you can export the dates to your own calendar via an iCal link in the detailed view of the course or subscribe to an Internet calendar via the link. - Step 4: Register for courses and examinations As a general rule: You have to register for courses and examinations. Registration is possible via the course directory [u:find](https://ufind.univie.ac.at/en/index.html). You can only register for courses and examinations within certain registration periods (for courses with continuous assessment, these are usually in September and February). Places for courses/examinations are allocated after this period has ended. Certain courses may have a limited number of study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will"
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.6303,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "7141409cb6a0-000",
+          "page_id": "7141409cb6a0",
+          "score": 0.6294,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 131,
+          "text": "u:ai is the University of Vienna's AI platform, providing students with data protection-compliant access to various AI models. The platform was designed specifically for use in a university context and is part of the Austria-wide Academic AI project.\n\nu:ai can support you in your learning, writing, and analysis—you always retain responsibility for the subject matter and control over the content.\n\n#\n\nu:ai is the University of Vienna's official access point to AI models such as ChatGPT in a secure cloud environment. This means:\n\n- All data is processed within the EU (exception: Internet search, Mistral model)\n- The content entered will not be used for training AI models.\n\nHowever, U:ai was not trained with university-specific content. The AI therefore does not have internal knowledge about courses, exams, or internal institute regulations."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.6282,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "7141409cb6a0-004",
+          "page_id": "7141409cb6a0",
+          "score": 0.6271,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 230,
+          "text": "u:ai is operated in a secure cloud where all data is processed within the EU. The content you enter is not used for training AI models. This means that any text, documents, or questions you enter into u:ai remain in a protected environment. Bei vielen kommerziellen KI-Tools ist hingegen unklar, wo Daten gespeichert werden, wie lange sie aufbewahrt bleiben und ob sie für Trainingszwecke weiterverwendet werden. Daraus ergibt sich ein erhöhtes Risiko, insbesondere bei der Arbeit mit personenbezogenen, sensiblen oder studienrelevanten Inhalten What does this mean for me? - u:ai is compliant with data protection requirements insofar as your personal data and the information you enter are processed in accordance with the data protection standards of the General Data Protection Regulation (GDPR). This does not apply if, within the same chat, you use the web search function or the Mistral model. - When processing the personal data of third parties, the principle of data minimisation applies as a general rule. This means that only the most essential personal data may be collected, processed and stored, in order to achive a specific defined objective. - In order to process the personal data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is"
+        },
+        {
+          "id": "fc2384de4794-001",
+          "page_id": "fc2384de4794",
+          "score": 0.6232,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/entrance-exam-procedures-for-applicants-with-disabilities/",
+          "title": "Accessible entrance exam/aptitude test procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "How do I submit my request for special testing accommodations?"
+          ],
+          "word_count": 178,
+          "text": "Submit your application for admission in u:space and pay the administration fee. Select “Submit application.” You will then be registered for the entrance exam procedure/aptitude test.\n\nAfter you have submitted your application, a window will open in u:space. There you will be informed about the possibility of participating in an evaluation. Further down in the text, you will find a link to the request for accommodations form. Select this link to be redirected to the Servicedesk. Log in to the Servicedesk with your u:account and let us know what accomodations you need. Upload your medical specialist assessments. We also accept assessments of psychotherapists and clinical psychologists.\n\nDo you have questions on requesting special testing accommodations? Please reach out to us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/64/create/1800).\n\nYou will receive written notice via e-mail within a few days. Each type of disability is unique. Adaptations to testing will be made on a case-by-case basis. Hence, we will coordinate any special accommodations and their technical implementation with you. We will then inform you about the next steps in the entrance exam/aptitude test procedure."
+        },
+        {
+          "id": "271a53027cf1-005",
+          "page_id": "271a53027cf1",
+          "score": 0.6197,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for exams"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Search examination on u:find You can see the details about the exam (e.g. date, time, venue, examiner(s), alternative exam dates) on the Course Directory [u:find](https://ufind.univie.ac.at/en/index.html). Click on “Register/Deregister for this exam”. You will be forwarded to u:space, where you can complete your registration. Please click on the following link if you need [help in using u:find](https://ufind.univie.ac.at/en/help.html). - Step 2: Register for the examination You can only register for exams within the relevant registration period. You can check the registration period on u:find. In u:space you have to select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Click on “Register” to complete the registration. Now, your registration has the [registration status](/en/abc-of-terminology/?no_cache=1#c741418) “Registered\"(Angemeldet) in u:space. If you do not meet all the necessary requirements (e.g. examinations from the introductory and orientation period) for taking the exam, your registration status will be \"Prerequisite currently not met\". In the details you will find the missing requirements. In this case, you are not yet able to register for the exam. If you meet the requirements by the end of the registration deadline, your registration will be considered in the allocation process. For exams with"
+        },
+        {
+          "id": "7141409cb6a0-003",
+          "page_id": "7141409cb6a0",
+          "score": 0.6192,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 219,
+          "text": "u:ai enables the creation of so-called tailored AIs. These are individually configured chatbots that permanently store your instructions.\n\n- Such chatbots can optionally work with their own knowledge base (e.g., guidelines, templates), which is then always given priority. This significantly reduces [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268300).\n- Once you have built a chatbot, you can also share it with other people.\n\nThis means that recurring tasks can be handled more efficiently without having to explain what the AI should do each time.\n\nIn certain modules, an Internet search can be activated as an option. This accesses external information via the [Perplexity](https://de.wikipedia.org/wiki/Perplexity.ai) service. This gives you access to up-to-date information.\n\nWhen Internet search is activated, the entire chat history to date is used as context. This means that personal or confidential data used in this chat leaves the closed system of u:ai. Data protection compliance is then no longer fully guaranteed.\n\nTherefore, never use personal or confidential content in the same chat as the Internet search, but start a new chat for the Internet search.\n\nWhen using AI in higher education, it is not only functionality that plays a role, but above all the legal and data protection framework in which a tool is operated. U:ai was developed specifically for the university context and differs in key respects from freely accessible, commercial AI offerings."
+        },
+        {
+          "id": "7141409cb6a0-001",
+          "page_id": "7141409cb6a0",
+          "score": 0.6157,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Access and general conditions"
+          ],
+          "word_count": 156,
+          "text": "To access u:ai, you need your u:account. Access is via [univie.academic-ai.at](https://univie.academic-ai.at)\n\nYou have a monthly credit of €20.00 available for queries. The cost of a specific query depends on the length of the question and the length of the answer (file uploads cost more than text queries, shorter texts less than long texts). You can view and monitor your credit balance directly in u:ai. Once the amount has been used up, you will not be able to use u:ai again until the following month.\n\nSince the monthly credit is limited, u:ai should be used specifically for study and university-related questions. The credit is automatically recharged on the first day of each month. Unused credit cannot be carried over to the following month.\n\n**Knowledge Cut-Off:**\n\nU:ai is currently based on information that was available until October 2024. The system does not know anything that happened after that. To incorporate up-to-date information, you must activate the [Internet search](#c1268815)."
+        }
+      ],
+      "latency_ms": 22.9
+    },
+    "rerank": {
+      "enabled": false,
+      "method": "none",
+      "reranked": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.6892,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.653,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6487,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6464,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "271a53027cf1-001",
+          "page_id": "271a53027cf1",
+          "score": 0.6443,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "b2c6ce04a80e-001",
+          "page_id": "b2c6ce04a80e",
+          "score": 0.641,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-non-continuous-assessment/",
+          "title": "Registration for courses with non-continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "33b149ca0707-017",
+          "page_id": "33b149ca0707",
+          "score": 0.6391,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 175,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) after you have received your admission letter. Indicate which degree programme you would like to close. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "f34d0e11d342-000",
+          "page_id": "f34d0e11d342",
+          "score": 0.6386,
+          "url": "https://studieren.univie.ac.at/en/confirmations/",
+          "title": "Confirmations",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 81,
+          "text": "Current students of the University of Vienna can download most confirmations themselves in [u:space](http://uspace.univie.ac.at/en) at Personal matters > My documents at any time. For confirmations issued in English you first switch the language u:space is displayed in to English. These confirmations carry an official electronic signature and are accepted at official authorities.\n\nExternal institutions, parents and third parties only receive confirmations if they can provide an authorisation (power of attorney) and a copy of the personal ID of the person concerned."
+        },
+        {
+          "id": "75eddaa2a2b3-000",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.6378,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 87,
+          "text": "- [Student spaces and study rooms at the NIG](/en/student-life-who-can-help-me-with/student-space/student-spaces-and-study-rooms-at-the-nig/)\n- [Student Space (Ground Floor)](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-nig/)\n\n- [Eating and drinking](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-djerassiplatz-1-ubb/)\n- [Studying and communication zones at UBB](/en/student-life-who-can-help-me-with/student-space/studying-and-communication-zone-ubb/)\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-at-ubb/)\n\n- [Hörsaalzentrum (lecture hall centre)](/en/student-life-who-can-help-me-with/student-space/hoersaalzentrum-lecture-hall-centre-on-the-campus-of-the-university-of-vienna/)\n- [Enzi on Campus – art for relaxing](/en/student-life-who-can-help-me-with/student-space/enzi-on-the-campus/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-drinking-at-kolingasse-14-16/)\n\n- [Eating and drinking](/en/student-life-who-can-help-me-with/student-space/eating-and-drinking-at-oskar-morgenstern-platz-1/)\n- [Student Space](/en/student-life-who-can-help-me-with/student-space/student-space-at-oskar-morgenstern-platz/)\n\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-porzellangasse-4/)\n\n- [Resting room for parents and children](/en/student-life-who-can-help-me-with/student-space/parent-child-room-uza-ii/)\n- [Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/student-space-at-uza-ii-josef-holaubek-platz-2/)\n\n- [Place for studying and communication](/en/student-life-who-can-help-me-with/student-space/studying-zone-at-waehringer-strasse-29/)\n- [Sample Student Space](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/sample-student-space-at-waehringer-strasse-29/)\n\n- [Student centre at the Faculty of Chemistry](/en/student-life-who-can-help-me-with/student-space/student-centre-at-the-faculty-of-chemistry/)"
+        },
+        {
+          "id": "33b149ca0707-016",
+          "page_id": "33b149ca0707",
+          "score": 0.6376,
+          "url": "https://studieren.univie.ac.at/en/admission/change-of-degree-programme/change-of-bachelordiploma-programme/",
+          "title": "Change of bachelor/diploma programmes",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "EU/EEA secondary-school leaving certificate and citizenship"
+          ],
+          "word_count": 159,
+          "text": "1. Apply for admission to the degree programme you would like to change to within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. Check if all study achievements from the degree programme you want to close are entered in your record of examinations in u:space. Afterwards, message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/936) to close this degree programme. The Admission Office will effectuate the change of degree programme, which you will see in u:space > Study overview after a few working days. You will also receive a confirmation via e-mail. Please note: The admission to the new degree programme is only in effect starting from the semester start (1 October/1 March)."
+        },
+        {
+          "id": "1389af33ffd3-003",
+          "page_id": "1389af33ffd3",
+          "score": 0.6367,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/",
+          "title": "Planning your semester",
+          "section": "Study organisation",
+          "heading_path": [
+            "This is how it works:"
+          ],
+          "word_count": 230,
+          "text": "can register for EC in u:space. Tips for semester planning in u:find The course directory u:find offers three help tools for semester planning, which are still known to only a few students: - In the overview of all courses in your degree programme, you can view the details of the course by clicking on the green list icon \"More Details\". - If you log in with your u:account, you can compile your personal \"[watchlist](https://ufind.univie.ac.at/en/help.html#merkliste)\" by clicking on the star next to the course title. - For each course with existing dates, you can export the dates to your own calendar via an iCal link in the detailed view of the course or subscribe to an Internet calendar via the link. - Step 4: Register for courses and examinations As a general rule: You have to register for courses and examinations. Registration is possible via the course directory [u:find](https://ufind.univie.ac.at/en/index.html). You can only register for courses and examinations within certain registration periods (for courses with continuous assessment, these are usually in September and February). Places for courses/examinations are allocated after this period has ended. Certain courses may have a limited number of study places. [Information about the registration system and the registration deadlines](/en/semester-planning/registration-for-coursesexaminations/) - Step 5: Complete courses The first examination date for a course with non-continuous assessment will take place after the last unit of the semester. Subsequently, the university will"
+        },
+        {
+          "id": "683e91ed0d69-001",
+          "page_id": "683e91ed0d69",
+          "score": 0.6303,
+          "url": "https://studieren.univie.ac.at/en/admission/co-registration/",
+          "title": "Co-registration at the University of Vienna",
+          "section": "Admission",
+          "heading_path": [
+            "How to apply for co-registration"
+          ],
+          "word_count": 142,
+          "text": "1. Create your u:account in [u:space](https://uspace.univie.ac.at/en) within the application period. Log into u:space and complete your registration. Make sure to remember your login data. You will need your u:account during your studies.\n2. Pay the tuition fee/Students' Union fee at your home university. You need the current student record sheet of your home university.\n\nSubmit all required documents as PDF files via the [Service Desk of the University of Vienna](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/42/create/744).\n\nYou are exempted from pre-approval if one of the following conditions applies:\n\n- You are admitted to a Teacher Education Programme at the University of Applied Arts Vienna or the Academy of Fine Arts Vienna.\n- You are admitted to a degree programme that was jointly established by the University of Vienna and your home university.\n- You are admitted to a degree programme in cooperation with the University of Vienna (\"Kooperationsstudium\")."
+        },
+        {
+          "id": "7141409cb6a0-000",
+          "page_id": "7141409cb6a0",
+          "score": 0.6294,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 131,
+          "text": "u:ai is the University of Vienna's AI platform, providing students with data protection-compliant access to various AI models. The platform was designed specifically for use in a university context and is part of the Austria-wide Academic AI project.\n\nu:ai can support you in your learning, writing, and analysis—you always retain responsibility for the subject matter and control over the content.\n\n#\n\nu:ai is the University of Vienna's official access point to AI models such as ChatGPT in a secure cloud environment. This means:\n\n- All data is processed within the EU (exception: Internet search, Mistral model)\n- The content entered will not be used for training AI models.\n\nHowever, U:ai was not trained with university-specific content. The AI therefore does not have internal knowledge about courses, exams, or internal institute regulations."
+        },
+        {
+          "id": "479712f83ed4-012",
+          "page_id": "479712f83ed4",
+          "score": 0.6282,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/exemptions-from-entrance-exam-procedure/",
+          "title": "Exemptions from the entrance exam procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "Exemptions for the bachelor's programme in Teacher Education",
+            "Creative teaching subject at a university of arts"
+          ],
+          "word_count": 85,
+          "text": "student ID, the [u:card](https://ucard.univie.ac.at/en/students/). You can do so in u:space → Personal matters → u:card. You can also download your student documents (confirmation of studies and student record sheet) at [u:space](http://uspace.univie.ac.at/en) → Personal matters → My documents. After the admission you can plan your semester and register for courses. You can find the registration periods in the course directory [u:find](https://ufind.univie.ac.at/de/index.html) and u:space. i #### Deadlines You have to contact the University of Vienna within the [admission period](#c4319). The application period is not relevant for you."
+        },
+        {
+          "id": "7141409cb6a0-004",
+          "page_id": "7141409cb6a0",
+          "score": 0.6271,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Why should I use u:ai? Other AI tools can do so much more!",
+            "Datenschutz"
+          ],
+          "word_count": 230,
+          "text": "u:ai is operated in a secure cloud where all data is processed within the EU. The content you enter is not used for training AI models. This means that any text, documents, or questions you enter into u:ai remain in a protected environment. Bei vielen kommerziellen KI-Tools ist hingegen unklar, wo Daten gespeichert werden, wie lange sie aufbewahrt bleiben und ob sie für Trainingszwecke weiterverwendet werden. Daraus ergibt sich ein erhöhtes Risiko, insbesondere bei der Arbeit mit personenbezogenen, sensiblen oder studienrelevanten Inhalten What does this mean for me? - u:ai is compliant with data protection requirements insofar as your personal data and the information you enter are processed in accordance with the data protection standards of the General Data Protection Regulation (GDPR). This does not apply if, within the same chat, you use the web search function or the Mistral model. - When processing the personal data of third parties, the principle of data minimisation applies as a general rule. This means that only the most essential personal data may be collected, processed and stored, in order to achive a specific defined objective. - In order to process the personal data of third parties or research data, you must obtain the consent of the persons concerned. In this context, please refer to the [information on handling research data](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Studierende/Handouts__Leitfaeden_und_Ressourcen/Handouts_und_Leitfaeden/2024_09_16_AI_and_research_data_EN.pdf). - **[Sensitive data](https://miro.com/app/board/uXjVGJDSrGw=/?moveToWidget=3458764658613096304&cot=14)** (this is a category of personal data that is"
+        },
+        {
+          "id": "fc2384de4794-001",
+          "page_id": "fc2384de4794",
+          "score": 0.6232,
+          "url": "https://studieren.univie.ac.at/en/entrance-exam/entrance-exam-procedures-for-applicants-with-disabilities/",
+          "title": "Accessible entrance exam/aptitude test procedure",
+          "section": "Entrance exam",
+          "heading_path": [
+            "How do I submit my request for special testing accommodations?"
+          ],
+          "word_count": 178,
+          "text": "Submit your application for admission in u:space and pay the administration fee. Select “Submit application.” You will then be registered for the entrance exam procedure/aptitude test.\n\nAfter you have submitted your application, a window will open in u:space. There you will be informed about the possibility of participating in an evaluation. Further down in the text, you will find a link to the request for accommodations form. Select this link to be redirected to the Servicedesk. Log in to the Servicedesk with your u:account and let us know what accomodations you need. Upload your medical specialist assessments. We also accept assessments of psychotherapists and clinical psychologists.\n\nDo you have questions on requesting special testing accommodations? Please reach out to us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/64/create/1800).\n\nYou will receive written notice via e-mail within a few days. Each type of disability is unique. Adaptations to testing will be made on a case-by-case basis. Hence, we will coordinate any special accommodations and their technical implementation with you. We will then inform you about the next steps in the entrance exam/aptitude test procedure."
+        },
+        {
+          "id": "271a53027cf1-005",
+          "page_id": "271a53027cf1",
+          "score": 0.6197,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for exams"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Search examination on u:find You can see the details about the exam (e.g. date, time, venue, examiner(s), alternative exam dates) on the Course Directory [u:find](https://ufind.univie.ac.at/en/index.html). Click on “Register/Deregister for this exam”. You will be forwarded to u:space, where you can complete your registration. Please click on the following link if you need [help in using u:find](https://ufind.univie.ac.at/en/help.html). - Step 2: Register for the examination You can only register for exams within the relevant registration period. You can check the registration period on u:find. In u:space you have to select your degree programme and the respective curriculum point (module). (If there are several curriculum points available, select the correct one as it is also listed in the Course Directory u:find. Otherwise your grade will be assigned to the wrong module in the record of examinations). Click on “Register” to complete the registration. Now, your registration has the [registration status](/en/abc-of-terminology/?no_cache=1#c741418) “Registered\"(Angemeldet) in u:space. If you do not meet all the necessary requirements (e.g. examinations from the introductory and orientation period) for taking the exam, your registration status will be \"Prerequisite currently not met\". In the details you will find the missing requirements. In this case, you are not yet able to register for the exam. If you meet the requirements by the end of the registration deadline, your registration will be considered in the allocation process. For exams with"
+        },
+        {
+          "id": "7141409cb6a0-003",
+          "page_id": "7141409cb6a0",
+          "score": 0.6192,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 219,
+          "text": "u:ai enables the creation of so-called tailored AIs. These are individually configured chatbots that permanently store your instructions.\n\n- Such chatbots can optionally work with their own knowledge base (e.g., guidelines, templates), which is then always given priority. This significantly reduces [hallucinations](/en/using-ai-in-your-studies/what-is-artificial-intelligence/#c1268300).\n- Once you have built a chatbot, you can also share it with other people.\n\nThis means that recurring tasks can be handled more efficiently without having to explain what the AI should do each time.\n\nIn certain modules, an Internet search can be activated as an option. This accesses external information via the [Perplexity](https://de.wikipedia.org/wiki/Perplexity.ai) service. This gives you access to up-to-date information.\n\nWhen Internet search is activated, the entire chat history to date is used as context. This means that personal or confidential data used in this chat leaves the closed system of u:ai. Data protection compliance is then no longer fully guaranteed.\n\nTherefore, never use personal or confidential content in the same chat as the Internet search, but start a new chat for the Internet search.\n\nWhen using AI in higher education, it is not only functionality that plays a role, but above all the legal and data protection framework in which a tool is operated. U:ai was developed specifically for the university context and differs in key respects from freely accessible, commercial AI offerings."
+        },
+        {
+          "id": "7141409cb6a0-001",
+          "page_id": "7141409cb6a0",
+          "score": 0.6157,
+          "url": "https://studieren.univie.ac.at/en/using-ai-in-your-studies/uai-the-university-of-viennas-ai-tool/",
+          "title": "u:ai - The AI tool of the University of Vienna",
+          "section": "Study organisation",
+          "heading_path": [
+            "Access and general conditions"
+          ],
+          "word_count": 156,
+          "text": "To access u:ai, you need your u:account. Access is via [univie.academic-ai.at](https://univie.academic-ai.at)\n\nYou have a monthly credit of €20.00 available for queries. The cost of a specific query depends on the length of the question and the length of the answer (file uploads cost more than text queries, shorter texts less than long texts). You can view and monitor your credit balance directly in u:ai. Once the amount has been used up, you will not be able to use u:ai again until the following month.\n\nSince the monthly credit is limited, u:ai should be used specifically for study and university-related questions. The credit is automatically recharged on the first day of each month. Unused credit cannot be carried over to the following month.\n\n**Knowledge Cut-Off:**\n\nU:ai is currently based on information that was available until October 2024. The system does not know anything that happened after that. To incorporate up-to-date information, you must activate the [Internet search](#c1268815)."
+        }
+      ],
+      "latency_ms": 0.1
+    },
+    "select": {
+      "selected": [
+        {
+          "id": "950e793cc3c5-000",
+          "page_id": "950e793cc3c5",
+          "score": 0.6892,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "section": "Web services",
+          "heading_path": [],
+          "word_count": 229,
+          "text": "The University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps"
+        },
+        {
+          "id": "75eddaa2a2b3-001",
+          "page_id": "75eddaa2a2b3",
+          "score": 0.6554,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "section": "Study organisation",
+          "heading_path": [],
+          "word_count": 176,
+          "text": "- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m."
+        },
+        {
+          "id": "5a4e79a6c5d5-012",
+          "page_id": "5a4e79a6c5d5",
+          "score": 0.653,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "section": "Admission",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "word_count": 176,
+          "text": "1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail."
+        },
+        {
+          "id": "7916c3fc6510-101",
+          "page_id": "7916c3fc6510",
+          "score": 0.6487,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "section": "Study organisation",
+          "heading_path": [
+            "U"
+          ],
+          "word_count": 230,
+          "text": "/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -"
+        },
+        {
+          "id": "94c21ca04583-001",
+          "page_id": "94c21ca04583",
+          "score": 0.6464,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "word_count": 230,
+          "text": "## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        },
+        {
+          "id": "271a53027cf1-001",
+          "page_id": "271a53027cf1",
+          "score": 0.6443,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "section": "Study organisation",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "word_count": 230,
+          "text": "/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon"
+        }
+      ],
+      "latency_ms": 0.0
+    },
+    "assemble": {
+      "context": "[1] Web services\nThe University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps\n\n[2] Student Space: room for students\n- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m.\n\n[3] Additional bachelor/diploma programme — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail.\n\n[4] ABC of terminology — U\n/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -\n\n[5] Registration for courses with continuous assessment — Registration steps\n## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon\n\n[6] Registration for courses and examinations — Registration for courses\n/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon",
+      "sources": {
+        "1": {
+          "n": 1,
+          "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+          "title": "Web services",
+          "heading_path": [],
+          "section": "Web services",
+          "chunk_id": "950e793cc3c5-000",
+          "score": 0.6892
+        },
+        "2": {
+          "n": 2,
+          "url": "https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/",
+          "title": "Student Space: room for students",
+          "heading_path": [],
+          "section": "Study organisation",
+          "chunk_id": "75eddaa2a2b3-001",
+          "score": 0.6554
+        },
+        "3": {
+          "n": 3,
+          "url": "https://studieren.univie.ac.at/en/admission/additional-degree-programmes/additional-bachelordiploma-programme/",
+          "title": "Additional bachelor/diploma programme",
+          "heading_path": [
+            "Further bachelor/diploma programmes",
+            "Non-EU/EEA secondary-school leaving certificate"
+          ],
+          "section": "Admission",
+          "chunk_id": "5a4e79a6c5d5-012",
+          "score": 0.653
+        },
+        "4": {
+          "n": 4,
+          "url": "https://studieren.univie.ac.at/en/abc-of-terminology/",
+          "title": "ABC of terminology",
+          "heading_path": [
+            "U"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "7916c3fc6510-101",
+          "score": 0.6487
+        },
+        "5": {
+          "n": 5,
+          "url": "https://studieren.univie.ac.at/en/registration-for-coursesexaminations/registration-for-courses-with-continuous-assessment/",
+          "title": "Registration for courses with continuous assessment",
+          "heading_path": [
+            "Registration steps"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "94c21ca04583-001",
+          "score": 0.6464
+        },
+        "6": {
+          "n": 6,
+          "url": "https://studieren.univie.ac.at/en/semester-planning/registration-for-coursesexaminations/",
+          "title": "Registration for courses and examinations",
+          "heading_path": [
+            "Registration for courses"
+          ],
+          "section": "Study organisation",
+          "chunk_id": "271a53027cf1-001",
+          "score": 0.6443
+        }
+      },
+      "context_chars": 9623,
+      "latency_ms": 0.0
+    },
+    "generate": {
+      "model": "llama-3.3-70b-versatile",
+      "temperature": 0.0,
+      "prompt_messages": [
+        {
+          "role": "system",
+          "content": "You are a concise assistant for prospective and current University of Vienna students. Answer the question using ONLY the numbered sources provided.\nRules:\n- Base every statement on the sources; never add outside knowledge or guess.\n- Cite each claim inline with the bracket number(s) of the source(s) you used, e.g. [1] or [2][3]. Cite only sources you actually relied on.\n- If the sources do not contain the answer, reply that you don't know, and do NOT cite any sources.\n- Keep the answer short and direct (it may be read aloud by a voice assistant)."
+        },
+        {
+          "role": "user",
+          "content": "Sources:\n[1] Web services\nThe University of Vienna offers a variety of tools for organising your studies. With your [u:account](https://zid.univie.ac.at/en/uaccount/) all services are available. On this page your will find information about the most important functions of the web services that will accompany you from the first semester onwards:\n\n- [u:space](#c242229)\n- [u:find](#c242234)\n- [Moodle](#c242239)\n- [IT Services for students](#c242247)\n\nu:space, the portal for the organisation of your studies, offers central access to all services that you will require during your studies.\n\n- Apply for admission to a degree programme\n- Order your u:card\n- Pay your tuition fee/Students’ Union fee\n- Register for/de-register from courses and examinations\n- Check grades and academic progress in the record of examinations\n- Download and print your study documents (transcript of records, confirmation of enrolment, student record sheet, etc.)\n- [Room details](https://uspace.univie.ac.at/web/studium/rauminfo) (room type, equipment, capacity, location of the rooms)\n\nFor information about registration and the application for admission to a degree programme, please watch our [video tutorials](https://uspace.univie.ac.at/en/web/gast/videos) in u:space.\n\nIn u:find you can find all courses offered at the University of Vienna (organised according to semesters), as well as all university departments, units and employees.\n\n- Search for courses, examinations, persons or organisations\n- Check course and examination dates\n- Register for courses and examinations (you will be forwarded to u:space)\n- Calendar export\n- Building plans of the University of Vienna via Google Maps\n\n[2] Student Space: room for students\n- [Gender neutral toilet facilities (All gender toilets)](/en/student-life-who-can-help-me-with/student-space/all-gender-toilets/)\n- [Quiet Boxes](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/quiet-boxes/)\n- [Dispenser for menstrual products](/en/student-life-who-can-help-me-with/student-space/dispenser-for-menstrual-products/)\n- [SWITCH Powerbanks for studying](https://studieren.univie.ac.at/en/student-life-who-can-help-me-with/student-space/switch-powerbanks-for-studying/)\n- [Baby changing tables](/en/student-life-who-can-help-me-with/student-space/baby-changing-tables/)\n\n# Student Space: room for students\n\n© Universität Wien / Barbara Mair\n\n© Alexander / Arnberger\n\n© derknopfdruecker.com\n\nThe key objectives of Student Spaces are to shape the University as a living space together with and for students, improve the places of studying and research and create more space for communication.\n\nThis website provides information about the Student Space projects. Here, you can see where Student Spaces have been established particularly for students. Additionally, you will gain some insight into the most recent (building) history and development of the University.\n\nThe established Student Spaces are available for students as places for studying and recreation. The additional spaces are intended to make the time spent at the University of Vienna more comfortable and to support students in their everyday university lives.\n\nThe [opening hours of the respective locations](https://www.univie.ac.at/en/about-us/opening-hours-and-locations) apply also to the student spaces.\n\nMonday to Friday 6 a.m. – 10 p.m.\n\n[3] Additional bachelor/diploma programme — Further bachelor/diploma programmes > Non-EU/EEA secondary-school leaving certificate\n1. Apply for admission to the degree programme you would like to study additionally within the application period. Choose the desired degree programme in [u:space](http://uspace.univie.ac.at/en) > Studies > Apply for admission and upload the [required documents](/en/admission-procedure/bachelordiploma-programmes/). Documents that were already confirmed by the Admission Office (status \"confirmed\") do not need to be uploaded again.\n   Check the status of your application in u:space under \"My application\". This status has to be \"application submitted\".\n2. You can be admitted to the new degree programme if you fulfil all requirements. You will receive an admission letter to your u:account e-mail address after a processing time of few weeks ([webmail.univie.ac.at](https://www.univie.ac.at/ZID/webmail/index.html?lang=en)). You can also find the admission letter in u:space > Personal matters > My documents.\n3. The admission does not ensue automatically. Message us via the [Servicedesk](https://servicedesk.univie.ac.at/plugins/servlet/desk/portal/62/create/933) after you have received your admission letter. Indicate which degree programme you would like to be admitted to. After a few working days, the new degree programme will be visible in u:space > Study overview. You will also receive a confirmation via e-mail.\n\n[4] ABC of terminology — U\n/ - u:account After you have been admitted to your degree programme, the u:account for students authorises you to access the IT services of the Vienna University Computer Center (ZID). Related Links: - [u:account for students](https://zid.univie.ac.at/en/uaccount/) - u:card (student ID) The u:card is the ID card for students of the University of Vienna. You can order your u:card in u:space under \"Personal Matters\" > \"My u:card\" as soon as your tuition fee/Student’s Union fee appears as \"received on...\" in u:space. You will than have to validate your u:card every semester as long as you are studying. Related Links: - [u:card – student ID](https://ucard.univie.ac.at/en/) Related entries: - [Student ID card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31982&cHash=248afc41f9fe13a6446c039ac6c0d5db) - [Validating your u:card](/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=31994&cHash=eb0eb3df74edf7ac643561e8fffa6fb7) - u:find u:find is the course directory and staff/unit directory of the University of Vienna. In u:find you can find all courses offered (sorted by semesters including detailed information about the content and course instructor, place and time, registration deadlines etc.) as well as organisational units and staff of the University of Vienna. You can - search for courses, exams, persons or organisational units - view course and exam dates - register for courses and exams during the registration period (forwarding to u:space) - export a calendar - view the area map of the University of Vienna via Google Maps The course directory is being continuously updated at the beginning of the semester. Links: - [u:find -\n\n[5] Registration for courses with continuous assessment — Registration steps\n## / - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab “Studies”. It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab “Courses”. It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct curriculum point yourself on the basis of your curriculum when registering for the course or exam - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon\n\n[6] Registration for courses and examinations — Registration for courses\n/ - Step 1: Check your record of examinations and/or semester planner You can find the record of examinations in u:space under the tab \"Studies\". It is organised according to the structure of your curriculum. This way, you can see at a glance which courses you have already completed, which achievements you have to complete next and what requirements you have to fulfil for them. You can find the semester planner in u:space under the tab \"Courses\". It shows you the courses currently offered and provides you with a calendar to help you plan your semester. Attention: Please always check the [curriculum of your degree programme](https://senat.univie.ac.at/curricularkommission/curricula). The record of examinations in u:space supports you in planning, but you have to select the correct study plan point yourself on the basis of your curriculum when registering for the course or exam. - Step 2: Select an achievement from your curriculum Search for modules for which you still have to complete courses (red and orange traffic light symbol) in your record of examinations in u:space. After that with the help of the record of examinations and by looking at your [curriculum](https://senat.univie.ac.at/curricularkommission/curricula), determine for which curriculum point (module) you are still missing a course / exam. To find out which courses you can attend for the curriculum point you have not yet completed, either click on \"Link to u:find\" at the book icon\n\nQuestion: What is u:space and what can I do with it?"
+        }
+      ],
+      "key_id": 2,
+      "usage": {
+        "prompt_tokens": 2347,
+        "completion_tokens": 73,
+        "total_tokens": 2420
+      },
+      "rate_limit_events": [],
+      "raw_response": "u:space is the portal for the organisation of your studies [1]. With u:space, you can: apply for admission to a degree programme, order your u:card, pay your tuition fee/Students’ Union fee, register for/de-register from courses and examinations, check grades and academic progress, and download and print your study documents [1].",
+      "finish_reason": "stop",
+      "latency_ms": 384.4
+    }
+  },
+  "query_id": "g40:canonical:0",
+  "status": "ok",
+  "answer": "u:space is the portal for the organisation of your studies [1]. With u:space, you can: apply for admission to a degree programme, order your u:card, pay your tuition fee/Students’ Union fee, register for/de-register from courses and examinations, check grades and academic progress, and download and print your study documents [1].",
+  "citations": [
+    {
+      "n": 1,
+      "url": "https://studieren.univie.ac.at/en/web-services-uspace-ufind-moodle-webmail/",
+      "title": "Web services",
+      "heading_path": [],
+      "section": "Web services",
+      "chunk_id": "950e793cc3c5-000",
+      "score": 0.6892
+    }
+  ],
+  "invalid_citations": [],
+  "model": "llama-3.3-70b-versatile",
+  "key_id": 2,
+  "usage": {
+    "prompt_tokens": 2347,
+    "completion_tokens": 73,
+    "total_tokens": 2420
+  },
+  "total_latency_ms": 407.5
+}

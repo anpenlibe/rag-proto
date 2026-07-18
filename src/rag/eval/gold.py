@@ -58,7 +58,7 @@ class Group:
         return self.phrasings
 
 
-def gold_path(gold_set: str = "gold_v1"):
+def gold_path(gold_set: str = "gold_v1_small"):
     return EVAL_DIR / f"{gold_set}.jsonl"
 
 
@@ -70,7 +70,7 @@ def _phrasings(rec: dict) -> tuple[Phrasing, ...]:
     return tuple(out)
 
 
-def load_gold(gold_set: str = "gold_v1") -> list[Group]:
+def load_gold(gold_set: str = "gold_v1_small") -> list[Group]:
     path = gold_path(gold_set)
     try:
         lines = [l for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]

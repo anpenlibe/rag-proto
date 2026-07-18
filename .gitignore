@@ -31,8 +31,8 @@ runs/*
 # Full per-query traces: excluded by default (bulk, and usually reproducible)…
 runs/*/queries/
 
-# …except E0's generation fragment. Its 143 answers cost 304,834 tokens — 76% of a
-# day's entire free-tier budget — and they are the only real generated answers in the
-# repo (the frontend's demo data). Losing them means waiting a day to get them back.
-!runs/20260715-193039-cc9a/queries/
-!runs/20260715-193039-cc9a/queries/**
+# …except the E0 baseline run. Its 60 answers cost ~142k tokens and are the only real
+# generated answers in the repo (the frontend's demo data + the judged panel's evidence).
+# Losing them means re-spending the budget to get them back.
+!runs/20260718-151413-4593/queries/
+!runs/20260718-151413-4593/queries/**
