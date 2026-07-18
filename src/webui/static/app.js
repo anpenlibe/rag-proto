@@ -65,12 +65,14 @@ function renderChips() {
   clear(box);
   const s = state.status || {};
   const q = s.qdrant || {};
-  const qok = q.mode === "server" ? q.reachable : true;
+  const spent = s.budget?.spent || 0;
+  const dayBudget = s.budget?.day_budget_estimate || 400000;
+  const budgetCls = spent >= dayBudget * 0.8 ? "warn" : "";
   box.append(
     chip(q.mode === "server" ? (q.reachable ? "ok" : "warn") : "",
          "qdrant", q.mode === "server" ? (q.reachable ? "server" : "down") : "local"),
     chip(s.has_keys ? "ok" : "warn", "keys", s.has_keys ? "ready" : "none"),
-    chip("", "tokens today", `${fmtTok(s.budget?.spent)} / ~400k`),
+    chip(budgetCls, "tokens today", `${fmtTok(spent)} / ~${Math.round(dayBudget / 1000)}k`),
   );
 }
 const chip = (cls, label, val) =>
@@ -103,7 +105,19 @@ function renderRunList() {
   const box = $("#run-list");
   clear(box);
   if (!state.runs.length) { box.append(h("div", { class: "empty" }, "No runs yet.")); return; }
-  for (const r of state.runs) box.append(runCard(r));
+  for (const r of state.runs) box.append(runRow(r));
+}
+
+// An ad-hoc run gets a hover-revealed delete ✕. It's a *sibling* of the card, not a child:
+// .run-card is itself a <button>, and a button nested in a button is invalid HTML.
+function runRow(r) {
+  const card = runCard(r);
+  if (r.kind !== "adhoc") return card;
+  const del = h("button", {
+    class: "rc-del", title: "Delete this ad-hoc run", "aria-label": `Delete run ${r.run_id.slice(-9)}`,
+    onClick: (e) => { e.stopPropagation(); deleteRun(r.run_id); },
+  }, "✕");
+  return h("div", { class: "run-row" }, card, del);
 }
 
 function runCard(r) {
@@ -181,7 +195,9 @@ function renderRunOverview() {
   v.append(
     h("div", { class: "section-title" },
       h("h1", null, "Run ", h("span", { class: "mono" }, m.run_id.slice(-9))),
-      h("span", { class: `badge ${m.kind}` }, m.kind)),
+      h("span", { class: `badge ${m.kind}` }, m.kind),
+      m.kind === "adhoc" ? h("button", { class: "btn danger", style: "margin-left:auto;align-self:center",
+        onClick: () => deleteRun(m.run_id) }, "Delete run") : null),
     h("div", { class: "crumbs" },
       h("span", { class: "hash" }, "config ", h("b", null, m.config_hash)),
       h("span", { class: "sep" }, "·"),
@@ -608,7 +624,7 @@ function showEvalModal() {
   const setSelect = h("select", { class: "gold-select", "aria-label": "gold set",
     onChange: (e) => { goldSet = e.target.value; renderOpts(); } });
 
-  const nGroups = () => (goldSets.find((s) => s.name === goldSet) || {}).n_groups || 40;
+  const nGroups = () => (goldSets.find((s) => s.name === goldSet) || {}).n_groups || 10;
 
   function optRow(val, title, desc) {
     const input = h("input", { type: "radio", name: "evalmode", value: val, checked: val === mode });
@@ -683,6 +699,43 @@ function pollJob(jobId, statusEl, startBtn) {
     startBtn.disabled = false;
   };
   tick();
+}
+
+// ====================================================================================
+// delete an ad-hoc run (confirm modal + DELETE)
+// ====================================================================================
+function deleteRun(runId) {
+  const root = $("#modal-root");
+  const status = h("div", { class: "sub", style: "margin-top:8px;min-height:18px" });
+  const delBtn = h("button", { class: "btn danger", onClick: confirmDelete }, "Delete");
+
+  function close() { clear(root); }
+
+  async function confirmDelete() {
+    delBtn.disabled = true;
+    clear(status); status.append(h("span", { class: "spin" }), " deleting…");
+    try {
+      await api(`/api/runs/${runId}`, { method: "DELETE" });
+      const wasActive = state.activeRun === runId;
+      close();
+      await loadRuns();                                   // refresh the sidebar from disk
+      if (wasActive) { state.run = null; state.evalData = null; renderWelcome(); }
+    } catch (e) {
+      delBtn.disabled = false;
+      clear(status); status.append(h("span", { style: "color:var(--red)" }, e.message || String(e)));
+    }
+  }
+
+  const modal = h("div", { class: "modal-back", onClick: (e) => { if (e.target === modal) close(); } },
+    h("div", { class: "modal" },
+      h("h3", null, "Delete ad-hoc run"),
+      h("div", { class: "sub" }, "Remove ", h("span", { class: "mono" }, runId.slice(-9)),
+        " and its trace folder from disk. This cannot be undone."),
+      status,
+      h("div", { class: "modal-actions" },
+        h("button", { class: "btn ghost", onClick: close }, "Cancel"), delBtn)));
+  clear(root); root.append(modal);
+  delBtn.focus();
 }
 
 // -- misc -----------------------------------------------------------------------------

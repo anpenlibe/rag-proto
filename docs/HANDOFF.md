@@ -24,7 +24,7 @@ attributable. Everything must stay free/local (16 GB RAM, RTX 3060 6 GB).
 | Eval set | ✅ `eval/gold_v1_small.jsonl` — 10×6 = 60, validated (orig 40-group `gold_v1` removed) |
 | Scoring harness | ✅ `src/rag/eval/` — offline panel + LLM-judge, two-phase |
 | **E0 measured** | ✅ **⭐ consistency 0.428** (60/60) · **complete judged panel** ✅ |
-| Tests | ✅ 124 in `tests/` (`.venv/bin/python -m pytest`) |
+| Tests | ✅ 132 in `tests/` (`.venv/bin/python -m pytest`) |
 | Console (frontend) | ✅ `src/webui/` — zero-dep, replay + eval panel + ad-hoc query |
 | Iteration levers | ⬜ **next task** — measurement + console now exist |
 
@@ -164,11 +164,12 @@ now exists. Keep `Config` **one flat dataclass** — splitting it just adds plum
 this size; the *hash* is scoped instead. Don't add `corpus/`/`retrieval/` subpackages at
 ~1k lines — gold-plating.
 
-## Tests — `124 passing` (`.venv/bin/python -m pytest`)
+## Tests — `132 passing` (`.venv/bin/python -m pytest`)
 
 `tests/{test_config_hash,test_chunk,test_metrics,test_ledger,test_judge,test_keypool,test_webui,test_gold_small}.py`.
 No network, no Qdrant, no real sleeps. `test_webui.py` builds a synthetic `runs/` tree in
-`tmp_path` and reads it back through `webui.store` (incl. the URL path-safety cases);
+`tmp_path` and reads it back through `webui.store` (incl. the URL path-safety cases and
+`delete_run`'s adhoc-only / traversal guards);
 `test_gold_small.py` guards `gold_v1_small`'s structure (10 groups, both hard-negative
 clusters, section coverage). The two that matter most:
 - **`test_config_hash.py`** — the bucket-completeness assert + the scoping contract
@@ -194,7 +195,7 @@ docs/            ARCHITECTURE.md · EXPERIMENTS.md · HANDOFF.md (this)
 src/rag/         config · chunk · embed · index · query · retrieve · rerank · context
                  · prompts · llm · generate · trace · ledger · pipeline
 src/rag/eval/    gold · traces · metrics · judge · harness   (the scoring harness)
-tests/           106 tests — no network, no Qdrant
+tests/           132 tests — no network, no Qdrant
 runs/            per-run traces (gitignored) · <id>/eval/ holds scores + judge output
 qdrant_storage/  local Qdrant (gitignored)
 ```
@@ -274,13 +275,21 @@ Supports all three console requirements: **replay** the full pipeline per query 
 rail → retrieved pool → selected → exact prompt → answer → resolved citations), a scored
 run's **eval panel + paraphrase-divergence strip**, a live **ad-hoc query**, and **run the
 eval set** (retrieve-only by default = the headline panel for 0 tokens; a 3-group smoke
-generates and is cost-labelled).
+generates and is cost-labelled). Ad-hoc runs (from live Ask) can also be **deleted** from the
+UI — a `Delete run` button on the run view and a hover-✕ on the sidebar card, both behind a
+confirm.
 
 How it's built (don't re-litigate):
-- **Two layers.** `webui/store.py` is a pure filesystem read-model (fully tested,
-  `tests/test_webui.py`); `webui/server.py` wires it to HTTP and lazily imports the
-  pipeline **only** on a live query — so the console starts and replays with no Qdrant, no
-  keys, on a fresh clone. Decision 31 in `ARCHITECTURE.md`.
+- **Two layers.** `webui/store.py` is a filesystem read-model — reads plus **one** deliberate,
+  path-guarded writer (`delete_run`, adhoc-only) — fully tested (`tests/test_webui.py`);
+  `webui/server.py` wires it to HTTP and lazily imports the pipeline **only** on a live query —
+  so the console starts and replays with no Qdrant, no keys, on a fresh clone. Decision 31 in
+  `ARCHITECTURE.md`.
+- **Deleting a run is adhoc-only and server-enforced.** `DELETE /api/runs/<id>` →
+  `store.delete_run`, which refuses any `kind != "adhoc"` (→ 403) and reuses the readers'
+  validated-path guard. Eval runs anchor measured results (hashes, committed `eval/`, the
+  `EXPERIMENTS.md` ledger) and are protected; ad-hoc runs never touched the ledger, so deletion
+  only removes `runs/<id>/` and prunes that run's `index.jsonl` line.
 - **Enumerate `runs/*/manifest.json`, not `index.jsonl`.** `index.jsonl` can lag or be
   hand-curated, so globbing manifests is the robust source of truth.
 - **Live work is serialised + localhost-only.** One `RagPipeline` under a lock (fastembed/
@@ -330,4 +339,4 @@ headline comparison first, spend tokens only on the judged panel once a lever wi
   hash bucket (`_INDEX_FIELDS` / `_PIPELINE_FIELDS` / `_EVAL_FIELDS` / `_UNHASHED`).
   That's deliberate: choose consciously whether it changes the index, the pipeline, or
   only how a run was scored.
-- Tests: `.venv/bin/python -m pytest` (106, fast, no network).
+- Tests: `.venv/bin/python -m pytest` (132, fast, no network).

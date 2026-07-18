@@ -149,6 +149,22 @@ class Handler(BaseHTTPRequestHandler):
 
     do_HEAD = do_GET
 
+    def do_DELETE(self):
+        path = urlsplit(self.path).path
+        parts = path.strip("/").split("/")          # ["api", "runs", <run_id>]
+        try:
+            if len(parts) == 3 and parts[:2] == ["api", "runs"]:
+                return self._json(store.delete_run(parts[2]))
+            self._err("unknown endpoint", 404)
+        except store.NotFound as e:
+            self._err(str(e), 404)
+        except store.NotDeletable as e:
+            self._err(str(e), 403)
+        except BrokenPipeError:
+            pass
+        except Exception as e:                       # never leak a traceback to the browser
+            self._err(f"{type(e).__name__}: {e}", 500)
+
     def _get_static(self, path: str):
         if path in ("/", "/index.html"):
             rel = "index.html"

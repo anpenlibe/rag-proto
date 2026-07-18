@@ -140,3 +140,48 @@ def test_token_spend_today_sums_only_today(tmp_path):
             "kind": "adhoc", "total_tokens": 9999})
     out = store.token_spend_today(tmp_path)
     assert out["date"] == today and out["spent"] == 1234        # yesterday's 9999 excluded
+
+
+# -- delete_run: the one guarded mutation ---------------------------------------------
+def test_delete_run_removes_adhoc_and_prunes_index(runs):
+    base, rid, _tid, rid2 = runs
+    # seed an index.jsonl with both runs; only the adhoc line should be pruned.
+    (base / "index.jsonl").write_text(
+        json.dumps({"run_id": rid}) + "\n" + json.dumps({"run_id": rid2}) + "\n", encoding="utf-8")
+    assert store.delete_run(rid2, base) == {"run_id": rid2, "deleted": True}
+    assert not (base / rid2).exists()                          # folder gone
+    assert all(r["run_id"] != rid2 for r in store.list_runs(base))
+    kept = [json.loads(l) for l in (base / "index.jsonl").read_text().splitlines() if l.strip()]
+    assert [r["run_id"] for r in kept] == [rid]                # eval line kept, adhoc pruned
+
+
+def test_delete_run_refuses_eval(runs):
+    base, rid, *_ = runs
+    with pytest.raises(store.NotDeletable):
+        store.delete_run(rid, base)                            # eval run: hashes/ledger anchor it
+    assert (base / rid).exists()                               # left untouched
+
+
+def test_delete_run_refuses_open_run(runs):
+    base, *_ = runs
+    rid3 = "20260303-120000-dddd"
+    _write(base / rid3 / "manifest.json",
+           {"run_id": rid3, "kind": "adhoc", "status": "open", "created_at": "2026-03-03T12:00:00"})
+    with pytest.raises(store.NotDeletable):
+        store.delete_run(rid3, base)                           # mid-write run is not deletable
+    assert (base / rid3).exists()
+
+
+def test_delete_run_no_index_file_is_fine(runs):
+    base, _rid, _tid, rid2 = runs                              # fixture writes no index.jsonl
+    assert store.delete_run(rid2, base)["deleted"] is True
+    assert not (base / rid2).exists()
+
+
+@pytest.mark.parametrize("bad", [
+    "../etc", "not-a-run-id", "20260101-120000-aaaa/../..", "20260101-120000-zzzz",
+])
+def test_delete_run_rejects_bad_ids(runs, bad):
+    base, *_ = runs
+    with pytest.raises(store.NotFound):
+        store.delete_run(bad, base)

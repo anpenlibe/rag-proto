@@ -155,11 +155,12 @@ heading path) — provenance is already in the schema, don't bolt it on later.
   0.783 · recall@cand 0.917 · mrr 0.674 · **complete judged panel** faithfulness 0.933,
   citation_acc 0.750, answer_agreement 0.700 (60/60, 0 judge failures). Run
   `20260718-151413-4593`, eval_hash `6647ca36c217`. See `docs/EXPERIMENTS.md` → E0.
-- ✅ **124 tests** (`.venv/bin/python -m pytest`) — no network, no Qdrant.
+- ✅ **132 tests** (`.venv/bin/python -m pytest`) — no network, no Qdrant.
 - ✅ **Console (frontend)** — `src/webui/` (zero-dep stdlib `http.server` + SPA):
   replay every hop of any run, eval panel + paraphrase-divergence strip, live ad-hoc
-  query, retrieve-only eval. `PYTHONPATH=src .venv/bin/python -m webui.server`. Replay
-  needs only the filesystem; live query needs Qdrant + keys. Decision 31 in ARCHITECTURE.
+  query, retrieve-only eval, **delete ad-hoc runs** (adhoc-only, server-enforced).
+  `PYTHONPATH=src .venv/bin/python -m webui.server`. Replay needs only the filesystem;
+  live query needs Qdrant + keys. Decision 31 in ARCHITECTURE.
 - ⬜ Iteration levers — **next**. Measurement + console now exist. E0 says start **retrieval-side**.
 
 ⚠️ **Free-tier budget: 100k tokens/DAY/key/model** (~400k across 4 keys). It is invisible
@@ -181,7 +182,7 @@ perfectly deterministic), while the generator is comparatively robust
 - **Eval:** `... -m rag.eval.harness --retrieve-only` (headline panel, 0 tokens, ~30 s,
   no keys needed) · `--gold-set gold_v1_small` (20-group subset) · `--limit 3` (smoke) ·
   `--label E0` (full, quota-bound) · `--score <run_id>[,<run_id>]` (re-score off disk).
-- Tests: `.venv/bin/python -m pytest` (106, fast, no network).
+- Tests: `.venv/bin/python -m pytest` (132, fast, no network).
 - Keys: `.env` holds 4 Groq keys (loader accepts `GROQ_API_KEYS=` OR `k1..k4`).
 - `RAG_EMBED_THREADS` (default 6) caps onnxruntime so indexing doesn't peg all cores.
 - **Qdrant:** `docker compose up -d` + `export QDRANT_URL=http://localhost:6333`. Without

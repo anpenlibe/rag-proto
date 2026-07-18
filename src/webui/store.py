@@ -3,7 +3,8 @@
 Pure functions over the filesystem: enumerate runs, load a run's compact query list,
 load one full per-query trace, load a run's eval scores. **No network, no Qdrant, no API
 keys** — replaying a trace works on a fresh clone. Every shape here is written by
-``rag/trace.py`` (traces) and ``rag/eval/harness.py`` (eval); this module only reads.
+``rag/trace.py`` (traces) and ``rag/eval/harness.py`` (eval); this module only reads —
+with a **single** deliberate exception, ``delete_run`` (see below).
 
 Two rules that matter:
   * **Enumerate the filesystem, not ``runs/index.jsonl``.** ``index.jsonl`` can lag or be
@@ -12,11 +13,18 @@ Two rules that matter:
   * **Path-safety.** ``run_id`` / ``trace_id`` arrive from URLs. Every id is validated
     against a strict pattern *and* the resolved path is asserted to live under the runs
     dir, so a crafted ``../`` can never read outside ``runs/``.
+
+The one writer, ``delete_run``, lives here (not in the HTTP handler) precisely so it goes
+through the same validated-path guard as the readers and is unit-tested the same way. It
+is restricted to ``kind == "adhoc"`` runs: eval passes are referenced by hashes, ship
+committed ``eval/`` artefacts, and append to ``docs/EXPERIMENTS.md`` — deleting one would
+orphan measured results, so the store refuses.
 """
 from __future__ import annotations
 
 import json
 import re
+import shutil
 from datetime import date
 from pathlib import Path
 
@@ -31,6 +39,11 @@ _TRACE_ID_RE = re.compile(r"^[0-9a-f]{4,64}$")
 
 class NotFound(Exception):
     """A run or trace that does not exist (server maps this to 404)."""
+
+
+class NotDeletable(Exception):
+    """A run that exists but may not be deleted, e.g. a non-adhoc or in-flight run
+    (server maps this to 403)."""
 
 
 def _runs_dir(runs_dir: Path | str | None) -> Path:
@@ -180,3 +193,55 @@ def list_gold_sets() -> list[dict]:
             continue
         out.append({"name": path.stem, "n_groups": n})
     return out
+
+
+# -- the one writer: delete an ad-hoc run ---------------------------------------------
+def delete_run(run_id: str, runs_dir: Path | str | None = None) -> dict:
+    """Delete an ad-hoc run's folder and prune its ``index.jsonl`` line.
+
+    The sole mutation in this module (see the module docstring). Guards, in order:
+      * ``_run_path`` validates the id shape *and* that it resolves under ``runs/`` — a
+        crafted ``../`` can never ``rmtree`` outside the runs dir (raises ``NotFound``).
+      * only ``kind == "adhoc"`` runs may be removed; a non-adhoc or still-``open`` (being
+        written) run raises ``NotDeletable``. Eval passes are protected: they anchor
+        measured results (hashes, committed ``eval/``, the ``EXPERIMENTS.md`` ledger).
+
+    Ad-hoc runs never touched the ledger (``trace.py`` only appends it for ``kind=="eval"``),
+    so no ``EXPERIMENTS.md`` surgery is needed — just the folder and the ``index.jsonl`` row.
+    """
+    run_dir = _run_path(run_id, runs_dir)
+    manifest = _read_json(run_dir / "manifest.json")
+    if manifest.get("kind") != "adhoc":
+        raise NotDeletable(f"only ad-hoc runs may be deleted (run is {manifest.get('kind')!r})")
+    if manifest.get("status") == "open":
+        raise NotDeletable(f"run {run_id} is still being written")
+
+    shutil.rmtree(run_dir)
+    _prune_index(run_id, runs_dir)
+    return {"run_id": run_id, "deleted": True}
+
+
+def _prune_index(run_id: str, runs_dir: Path | str | None) -> None:
+    """Drop ``run_id``'s line from ``runs/index.jsonl`` (a no-op if the file is absent).
+
+    Tolerant of malformed lines (kept as-is, like ``_read_jsonl``) so one bad row can't
+    lose the rest of the index. Rewritten atomically via a temp file + replace.
+    """
+    index_path = _runs_dir(runs_dir) / "index.jsonl"
+    if not index_path.exists():
+        return
+    kept = []
+    with index_path.open(encoding="utf-8") as f:
+        for line in f:
+            stripped = line.strip()
+            if not stripped:
+                continue
+            try:
+                if json.loads(stripped).get("run_id") == run_id:
+                    continue                          # drop this run's row
+            except json.JSONDecodeError:
+                pass                                  # keep an unparseable line untouched
+            kept.append(stripped)
+    tmp = index_path.with_suffix(".jsonl.tmp")
+    tmp.write_text("".join(l + "\n" for l in kept), encoding="utf-8")
+    tmp.replace(index_path)

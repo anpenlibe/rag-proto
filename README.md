@@ -109,6 +109,11 @@ needs Qdrant + keys and spends the daily token budget; the console shows both st
 running token tally. It binds to localhost only. Built on stdlib `http.server` — nothing to
 install beyond the pipeline's own deps.
 
+**Ad-hoc runs** (from live **Ask**) can be deleted from the console — a `Delete run` button on
+the run view and a hover-✕ on the sidebar card, both behind a confirm. Deletion is **adhoc-only
+and server-enforced** (`DELETE /api/runs/<id>` refuses any `kind != "adhoc"`): eval runs anchor
+measured results (hashes, committed `eval/`, the `EXPERIMENTS.md` ledger), so they're protected.
+
 ## Layout
 
 ```
@@ -117,7 +122,7 @@ eval/            gold_v1_small.jsonl — 10 groups × 6 phrasings = 60 eval quer
 scripts/         scrape.py (refresh the corpus from studieren.univie.ac.at)
 src/rag/         config, chunk, embed, index, query, retrieve, rerank, context,
                  prompts, llm (provider + key pool), generate, trace, ledger, pipeline
-src/webui/       zero-dep console over runs/: store (read-model) + server + static SPA
+src/webui/       zero-dep console over runs/: store (read-model + guarded delete) + server + SPA
 docs/            HANDOFF.md (start here: state, known issues, next steps),
                  ARCHITECTURE.md (design + decisions), EXPERIMENTS.md (run log + ledger)
 runs/            per-run trace folders runs/<run_id>/ (gitignored)
@@ -150,7 +155,7 @@ PYTHONPATH=src .venv/bin/python -m rag.eval.harness --retrieve-only  # headline 
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness                  # full generate + judge (60 q, fits in one day)
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --limit 3        # smoke, end-to-end
 PYTHONPATH=src .venv/bin/python -m rag.eval.harness --score <run_id> # re-score off disk
-.venv/bin/python -m pytest                                           # 124 tests
+.venv/bin/python -m pytest                                           # 132 tests
 ```
 
 ## Status
