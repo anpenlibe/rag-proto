@@ -44,6 +44,8 @@ prompt sent to the model → the raw answer → resolved citations — plus a sc
 panel and paraphrase-divergence strip. You can also ask a live question or run the eval set
 from the UI.
 
+![The trace console replaying one query: the pipeline rail (transform → retrieve → rerank → select → assemble → generate) above the grounded answer, whose inline [n] markers resolve to the numbered sources with their heading path and URL.](docs/img/console-trace.png)
+
 ```bash
 PYTHONPATH=src .venv/bin/python -m webui.server   # http://127.0.0.1:8000
 ```

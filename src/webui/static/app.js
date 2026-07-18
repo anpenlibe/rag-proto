@@ -21,6 +21,14 @@ function h(tag, props, ...kids) {
   return e;
 }
 const clear = (el) => { while (el.firstChild) el.removeChild(el.firstChild); };
+// append to a raw element with the same null/false filtering h() applies to its kids —
+// Element.append(null) would otherwise render the literal text "null".
+const mount = (el, ...kids) => {
+  for (const kid of kids.flat()) {
+    if (kid == null || kid === false) continue;
+    el.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
+  }
+};
 
 // -- formatters -----------------------------------------------------------------------
 const fmtMs = (ms) => ms == null ? "—" : ms < 1 ? "0ms" : ms < 1000 ? `${Math.round(ms)}ms`
@@ -192,7 +200,7 @@ async function selectRun(runId) {
 function renderRunOverview() {
   const v = $("#view"); clear(v);
   const m = state.run.manifest, cfg = m.config || {};
-  v.append(
+  mount(v,
     h("div", { class: "section-title" },
       h("h1", null, "Run ", h("span", { class: "mono" }, m.run_id.slice(-9))),
       h("span", { class: `badge ${m.kind}` }, m.kind),
@@ -356,7 +364,7 @@ function renderTrace(t, { runId, live } = {}) {
   const evRow = (state.evalData?.per_query || []).find((r) => r.trace_id === t.trace_id);
   const judge = evRow && (state.evalData?.judge_answers || []).find((r) => r.query_id === evRow.query_id);
 
-  v.append(
+  mount(v,
     h("div", { class: "crumbs" },
       live ? h("span", null, "live result") : h("a", { href: "#", onClick: (e) => { e.preventDefault(); selectRun(runId); } }, `run ${String(runId).slice(-9)}`),
       h("span", { class: "sep" }, "›"),
@@ -594,7 +602,7 @@ function showAsk() {
     }
   }
 
-  v.append(
+  mount(v,
     h("div", { class: "section-title" }, h("h1", null, "Ask a question")),
     noKeys ? h("div", { class: "notice err" }, "No Groq keys configured — live generation is disabled. Replay existing runs instead.") : null,
     h("div", { class: "panel ask-form" },
